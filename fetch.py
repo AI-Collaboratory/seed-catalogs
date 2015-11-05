@@ -6,8 +6,6 @@ import ptree
 
 from internetarchive import search_items, Item
 
-total_bytes = 0
-
 for result in search_items('collection:usda-nurseryandseedcatalog'):
     id = result['identifier']
     item = Item(id)
@@ -20,5 +18,3 @@ for result in search_items('collection:usda-nurseryandseedcatalog'):
 
     total_bytes += sum([f.size for f in item.iter_files()])
     print item_dir
-
-print total_bytes
