@@ -1,0 +1,253 @@
+{
+  "files": [
+    {
+      "sha1": "be0913dae4effed2e828b93d03fc8fcd9318778c", 
+      "name": "wholesalepriceli1904jame_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1391178761", 
+      "crc32": "da9cee50", 
+      "md5": "9eb371e3a9d8ea04bf2780816dc40312", 
+      "size": "1123"
+    }, 
+    {
+      "sha1": "eff3fe6786dbb18ef5949902eed776aa8487d170", 
+      "name": "wholesalepriceli1904jame_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1391178761", 
+      "crc32": "1262a5b4", 
+      "md5": "7166d743d902fd2d89a88c459b93ddef", 
+      "size": "3755"
+    }, 
+    {
+      "sha1": "a318228cca2686a02a9c186ddd319a7a5daf0ed3", 
+      "name": "wholesalepriceli1904jame_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1391178761", 
+      "crc32": "4e318409", 
+      "md5": "58338f9f37273878d068077bc67b1538", 
+      "size": "322"
+    }, 
+    {
+      "sha1": "37842dc62bc55b84c8e2c43cc6aa11d447fdd99c", 
+      "name": "wholesalepriceli1904jame_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1391178761", 
+      "crc32": "77c7294c", 
+      "md5": "966fcf4254914151a9bc1083f2c8a8bd", 
+      "size": "1382"
+    }, 
+    {
+      "sha1": "de2ffe8a819b903fef4b060d4e23c20a1917bbde", 
+      "name": "wholesalepriceli1904jame_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1391447800", 
+      "crc32": "00f988d5", 
+      "md5": "eef482553fc6e72003dc2fe694ffbad2", 
+      "size": "16373760"
+    }, 
+    {
+      "sha1": "242628069c13ad2712cfa5452a61aed26739d055", 
+      "name": "wholesalepriceli1904jame_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1391447799", 
+      "crc32": "d5b9d420", 
+      "md5": "57762d46b17e75e9a4d10ecd8546af5e", 
+      "size": "32129"
+    }, 
+    {
+      "sha1": "6b10e635027ab027b98a7bd51b608f6423d8e2fc", 
+      "name": "wholesalepriceli1904jame_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1391448551", 
+      "crc32": "b63a3b1e", 
+      "md5": "7ea27c4f0a9a12b388a53376f4586550", 
+      "original": "wholesalepriceli1904jame_orig_jp2.tar", 
+      "size": "10677406"
+    }, 
+    {
+      "sha1": "a81819e3c78e5ee37df583d2736763606304eefe", 
+      "name": "wholesalepriceli1904jame_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1391448806", 
+      "crc32": "21327281", 
+      "md5": "9ff0fcf4aee5019ccbdd48e69de8ff59", 
+      "original": "wholesalepriceli1904jame_jp2.zip", 
+      "size": "771237"
+    }, 
+    {
+      "sha1": "86e1c7de078546eac95b96b31a86a634d6b2f05e", 
+      "name": "wholesalepriceli1904jame.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1391448586", 
+      "crc32": "b58f2db0", 
+      "md5": "7c4fd042b8544994cacfc8a560afc82b", 
+      "original": "wholesalepriceli1904jame_jp2.zip", 
+      "size": "177984"
+    }, 
+    {
+      "sha1": "6d0b8c8b8e1364249ab106e2d3027d0b400227cc", 
+      "name": "wholesalepriceli1904jame.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1391448868", 
+      "crc32": "62b2253e", 
+      "md5": "c9821b670d9d36ca9d1b181b9f60cf0d", 
+      "original": "wholesalepriceli1904jame_abbyy.gz", 
+      "size": "486367"
+    }, 
+    {
+      "sha1": "847c27d543d171a838083105dd7ff3db37f14f1f", 
+      "name": "wholesalepriceli1904jame_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1391449128", 
+      "crc32": "3bc05b93", 
+      "md5": "ff28523ae685457db5bdabc0c6a44f39", 
+      "original": "wholesalepriceli1904jame.djvu", 
+      "size": "50985"
+    }, 
+    {
+      "sha1": "86b13dd41be1f94f59ba8fca4cd9411f7afb1afb", 
+      "name": "wholesalepriceli1904jame_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1391448833", 
+      "crc32": "489c3d7e", 
+      "md5": "3f231ba57f979f2d999fef04f2d6b802", 
+      "original": "wholesalepriceli1904jame_abbyy.gz", 
+      "size": "478818"
+    }, 
+    {
+      "sha1": "3551602fee0bb1d9ba892126a654f7c568ebdeb3", 
+      "name": "wholesalepriceli1904jame.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1391448980", 
+      "crc32": "b72762c5", 
+      "md5": "edaef56d7f99cbb76b6b29ff1cba191a", 
+      "original": "wholesalepriceli1904jame_djvu.xml", 
+      "size": "1194898"
+    }, 
+    {
+      "sha1": "858efb779415cd62cff3454cfea8d748cc402603", 
+      "name": "wholesalepriceli1904jame.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1391449120", 
+      "crc32": "c9149e74", 
+      "md5": "e488832357a243748adee536aa1af603", 
+      "original": "wholesalepriceli1904jame_djvu.xml", 
+      "size": "1790287"
+    }, 
+    {
+      "sha1": "9aa3fa95b5be96c4666106a42ff7e88a9bf71ae4", 
+      "name": "wholesalepriceli1904jame_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1418948970", 
+      "crc32": "5dff3ea9", 
+      "md5": "1448f266053d0bfd3f517281e1a9aefd", 
+      "size": "2782"
+    }, 
+    {
+      "sha1": "e3fba37e199efc8417fb178fc6623d9b981f201a", 
+      "name": "wholesalepriceli1904jame_archive.torrent", 
+      "btih": "101de1531640fd0aa13faeb0dafa7de6ba2f5b6c", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1418948971", 
+      "crc32": "66ab71b2", 
+      "md5": "96d6f9645cda21ca4f772720e3c68c5b", 
+      "size": "4400"
+    }, 
+    {
+      "source": "original", 
+      "md5": "058ea803452f2377144a9fc2a8608042", 
+      "name": "wholesalepriceli1904jame_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "updated": 1446751857, 
+  "uniq": 2106744356, 
+  "created": 1446700057, 
+  "workable_servers": [
+    "ia802308.us.archive.org", 
+    "ia902308.us.archive.org"
+  ], 
+  "server": "ia802308.us.archive.org", 
+  "item_size": 32047635, 
+  "dir": "/5/items/wholesalepriceli1904jame", 
+  "metadata": {
+    "partner_shiptracking": "NC0052b", 
+    "shiptracking": "ST000942", 
+    "scanner": "scribe3.beltsville.archive.org", 
+    "creator": [
+      "James Vick's Sons (Rochester, N.Y.)", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection", 
+    "ppi": "350", 
+    "subcollection": "henryggilbertnurseryandseedtradecollection", 
+    "nal_call_number": "62.61", 
+    "operator": "associate-mark-kanaskie@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "copyright_message": "The contributing institution believes that this item is not in copyright", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "subject": [
+      "Seeds Catalogs", 
+      "Flowers Catalogs", 
+      "Bulbs (Plants) Catalogs"
+    ], 
+    "call_number": "CAT31133962", 
+    "title": "Wholesale price list of bulbs, plants, roots, etc.", 
+    "repub_state": "4", 
+    "camera": "Canon EOS 5D Mark II", 
+    "invoice": "3", 
+    "ocr": "ABBYY FineReader 9.0", 
+    "identifier-access": "http://archive.org/details/wholesalepriceli1904jame", 
+    "scanningcenter": "beltsville", 
+    "description": "Cover title", 
+    "identifier-ark": "ark:/13960/t6sx8sk8x", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "fedlink", 
+      "americana", 
+      "biodiversity"
+    ], 
+    "volume": "1904", 
+    "repub_seconds": "309", 
+    "updater": "associate-adrianna-flores@archive.org", 
+    "updatedate": "2014-01-31 14:32:41", 
+    "uploader": "associate-adrianna-flores@archive.org", 
+    "date": "1904", 
+    "republisher": "associate-marc-adona@archive.org", 
+    "addeddate": "2014-01-31 14:32:43.167756", 
+    "publisher": "Rochester, N.Y. : Vick & Hill Co.", 
+    "publicdate": "2014-01-31 13:30:50", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "curation": "[curator]admin-shelia-deroche@archive.org[/curator][date]20140604163957[/date][state]approved[/state][comment]invoice201405[/comment]", 
+    "notes": "No copyright page found. No table-of-contents pages found.", 
+    "imagecount": "20", 
+    "identifier": "wholesalepriceli1904jame", 
+    "sponsordate": "20140531", 
+    "unique_id": "CAT31133962", 
+    "scandate": "20140203170756"
+  }, 
+  "d2": "ia802308.us.archive.org", 
+  "files_count": 17, 
+  "d1": "ia902308.us.archive.org"
+}

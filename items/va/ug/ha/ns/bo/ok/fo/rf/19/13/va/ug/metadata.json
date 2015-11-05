@@ -1,0 +1,263 @@
+{
+  "files": [
+    {
+      "sha1": "df935aba1af982de229ff037ff5968daa6c6fae8", 
+      "name": "vaughansbookforf1913vaug_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1389731810", 
+      "crc32": "77ca69bf", 
+      "md5": "26a8fae8dad897c39c75f7828bbb0d52", 
+      "size": "1033"
+    }, 
+    {
+      "sha1": "314d98fcbf624971d27768b9f3ba0ca0f35bf8ef", 
+      "name": "vaughansbookforf1913vaug_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1389731810", 
+      "crc32": "4d11dec4", 
+      "md5": "102f1a8d813a72ab4db3f7aa32684ca1", 
+      "size": "1344"
+    }, 
+    {
+      "sha1": "8f5890a5637a3b7ede17c884baa0c80a869eec36", 
+      "name": "vaughansbookforf1913vaug_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1389731810", 
+      "crc32": "8c17c2fe", 
+      "md5": "c19c5e787c999085bccbaf9358da4f6f", 
+      "size": "3649"
+    }, 
+    {
+      "sha1": "192f6480da8ab4f1fcd96908a4d560da45ebc772", 
+      "name": "vaughansbookforf1913vaug_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1389731810", 
+      "crc32": "d7072240", 
+      "md5": "0dbb53b2b5bfbf71db224b7cc11a0996", 
+      "size": "322"
+    }, 
+    {
+      "sha1": "aa87c6482279aadffaffef99687c86753fbde813", 
+      "name": "vaughansbookforf1913vaug_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1397237264", 
+      "crc32": "59148ac3", 
+      "md5": "0bac41e7c073b5e65de4e0a6598441c4", 
+      "size": "135847"
+    }, 
+    {
+      "sha1": "1bb2d72cff1e9714ec6c8e61a0cc149de23070e6", 
+      "name": "vaughansbookforf1913vaug_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1397237264", 
+      "crc32": "78097709", 
+      "md5": "0c1a994871e13982c5b2701a71acfd3f", 
+      "size": "116551680"
+    }, 
+    {
+      "sha1": "9d7ac29cc6f3a93effed4bc064476eaf63b06d78", 
+      "name": "vaughansbookforf1913vaug_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1397242610", 
+      "crc32": "2e3bec77", 
+      "md5": "18ddb91d09c2caf61909c02f8d58dc82", 
+      "original": "vaughansbookforf1913vaug_abbyy.gz", 
+      "size": "4668779"
+    }, 
+    {
+      "sha1": "5952a2b93ca15963c98273664b019af3eb1addf0", 
+      "name": "vaughansbookforf1913vaug_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1397242500", 
+      "crc32": "938fe565", 
+      "md5": "3468849787197f885eee09e7813dbbf9", 
+      "original": "vaughansbookforf1913vaug_jp2.zip", 
+      "size": "6312271"
+    }, 
+    {
+      "sha1": "215511be2196020d2c5e1431d6539ba7b20800ac", 
+      "name": "vaughansbookforf1913vaug_toc.xml", 
+      "format": "Contents", 
+      "source": "derivative", 
+      "mtime": "1397242674", 
+      "crc32": "39b15658", 
+      "md5": "b536815bff1590badfd4e1be0875d85a", 
+      "original": "vaughansbookforf1913vaug_djvu.xml", 
+      "size": "198694"
+    }, 
+    {
+      "sha1": "8440dc9175b8f41a2e5ed50a2713ae4aad318c7e", 
+      "name": "vaughansbookforf1913vaug.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1397243660", 
+      "crc32": "a2533051", 
+      "md5": "b4e9085cff1322cb35d85fd78dd8afeb", 
+      "original": "vaughansbookforf1913vaug_djvu.xml", 
+      "size": "11087673"
+    }, 
+    {
+      "sha1": "d2fc8a095ed5ac548667c7a9937ad05885b387fc", 
+      "name": "vaughansbookforf1913vaug.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1397239855", 
+      "crc32": "9bcdfc3c", 
+      "md5": "e5d48f61261b9dc0b4ada2cebe37f52a", 
+      "original": "vaughansbookforf1913vaug_jp2.zip", 
+      "size": "326848"
+    }, 
+    {
+      "sha1": "3eb815821a80db4a75619351a70b456226f6948d", 
+      "name": "vaughansbookforf1913vaug_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1397243675", 
+      "crc32": "54ddc129", 
+      "md5": "bdaf7b2fe7219685e2f0ae26995c5182", 
+      "original": "vaughansbookforf1913vaug.djvu", 
+      "size": "444064"
+    }, 
+    {
+      "sha1": "1a95034091718e20ac9bac8edda7f2290b000cee", 
+      "name": "vaughansbookforf1913vaug_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1397239812", 
+      "crc32": "45a59418", 
+      "md5": "7f7f0a26b9fe388e7fac5b9404b56e3b", 
+      "original": "vaughansbookforf1913vaug_orig_jp2.tar", 
+      "size": "80125697"
+    }, 
+    {
+      "sha1": "cc1ad3ffdcd61dcf358dae3742823e1f277d81a5", 
+      "name": "vaughansbookforf1913vaug.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1397243102", 
+      "crc32": "01807b43", 
+      "md5": "d6592f450fb48fbc1e1500f4ff82c0f5", 
+      "original": "vaughansbookforf1913vaug_djvu.xml", 
+      "size": "8056648"
+    }, 
+    {
+      "sha1": "6f296221af7708c1968da7574492ca646c8b1cf7", 
+      "name": "vaughansbookforf1913vaug.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1397242669", 
+      "crc32": "99a6f1fb", 
+      "md5": "034e683153a9dae148f12d29d9a9dfcc", 
+      "original": "vaughansbookforf1913vaug_abbyy.gz", 
+      "size": "1990648"
+    }, 
+    {
+      "sha1": "5833892dbcc6b15d33a1ee6d2b37ebd8744532e7", 
+      "name": "vaughansbookforf1913vaug_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1418948796", 
+      "crc32": "139ed604", 
+      "md5": "20d053f6203cdec28dfae920212950c1", 
+      "size": "2866"
+    }, 
+    {
+      "sha1": "c023a4fbc5f5ea592b0ad43a762618b5ab93edeb", 
+      "name": "vaughansbookforf1913vaug_archive.torrent", 
+      "btih": "a93ea895ecd8f448924462e0714e908f40c43332", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1418948800", 
+      "crc32": "0d5d6d37", 
+      "md5": "34978664d7a0096b1ee3f39c8dd38ded", 
+      "size": "8336"
+    }, 
+    {
+      "source": "original", 
+      "md5": "eb3d35a988cc62e4d3897733f9596381", 
+      "name": "vaughansbookforf1913vaug_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "uniq": 1720384112, 
+  "created": 1446687466, 
+  "workable_servers": [
+    "ia600807.us.archive.org"
+  ], 
+  "server": "ia600807.us.archive.org", 
+  "item_size": 229916399, 
+  "dir": "/10/items/vaughansbookforf1913vaug", 
+  "metadata": {
+    "partner_shiptracking": "NC14_0051b_Vaughan", 
+    "shiptracking": "ST000834", 
+    "scanner": "scribe3.beltsville.archive.org", 
+    "creator": [
+      "Vaughan's Seed Company", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection", 
+    "ppi": "350", 
+    "subcollection": "henryggilbertnurseryandseedtradecollection", 
+    "nal_call_number": "62.23", 
+    "operator": "associate-mark-kanaskie@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "invoice": "3", 
+    "year": "1913", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "copright_message_": "The contributing institution believes that this item is not in copyright", 
+    "subject": [
+      "Flowers Seeds Catalogs", 
+      "Bulbs (Plants) Seedlings Catalogs", 
+      "Vegetables Seeds Catalogs", 
+      "Seeds Catalogs", 
+      "Horticulture Equipment and supplies Catalogs"
+    ], 
+    "call_number": "CAT31132629", 
+    "title": "Vaughan's book for florists : all florist's stock in season", 
+    "repub_state": "4", 
+    "camera": "Canon EOS 5D Mark II", 
+    "ocr": "ABBYY FineReader 9.0", 
+    "identifier-access": "http://archive.org/details/vaughansbookforf1913vaug", 
+    "scanningcenter": "beltsville", 
+    "identifier-ark": "ark:/13960/t99625633", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "fedlink", 
+      "americana", 
+      "biodiversity"
+    ], 
+    "volume": "1913", 
+    "repub_seconds": "1382", 
+    "updater": "associate-adrianna-flores@archive.org", 
+    "updatedate": "2014-01-14 20:36:50", 
+    "uploader": "associate-adrianna-flores@archive.org", 
+    "date": "1913", 
+    "republisher": "associate-mark-kanaskie@archive.org", 
+    "addeddate": "2014-01-14 20:36:52.468962", 
+    "publisher": "Chicago. Ill. : Vaughan's Seed Store", 
+    "publicdate": "2014-01-14 19:34:50", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "curation": "[curator]admin-shelia-deroche@archive.org[/curator][date]20140502145124[/date][state]approved[/state][comment]invoice201404[/comment]", 
+    "notes": "No copyright page found.", 
+    "imagecount": "86", 
+    "identifier": "vaughansbookforf1913vaug", 
+    "sponsordate": "20140430", 
+    "unique_id": "CAT31132629", 
+    "scandate": "20140411145431"
+  }, 
+  "files_count": 18, 
+  "d1": "ia600807.us.archive.org"
+}

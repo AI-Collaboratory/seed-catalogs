@@ -1,0 +1,252 @@
+{
+  "files": [
+    {
+      "sha1": "5c48e764b01f44635c4f5032b8b3765c36e4d798", 
+      "name": "annualcataloguep1894sout_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1406130447", 
+      "crc32": "067eb19f", 
+      "md5": "109dfdad0ac99f03d2c089ffe372955c", 
+      "size": "320"
+    }, 
+    {
+      "sha1": "d254fe9c919861aeca925a4b34f7c2749d79c5d5", 
+      "name": "annualcataloguep1894sout_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1406130447", 
+      "crc32": "4dfcc316", 
+      "md5": "909f054651948f3dbcd83bb3a1a4903c", 
+      "size": "3706"
+    }, 
+    {
+      "sha1": "7e0b3004bf6857564f8b966f38a155e366e09394", 
+      "name": "annualcataloguep1894sout_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1406130447", 
+      "crc32": "cf564c03", 
+      "md5": "40b721bdcd86fa50bc71d1d25ef6fdeb", 
+      "size": "1059"
+    }, 
+    {
+      "sha1": "22da0ee37cf509c896cac0a217e56b4993c5ab97", 
+      "name": "annualcataloguep1894sout_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1406130447", 
+      "crc32": "51d2e5cb", 
+      "md5": "601dd7ad6ecd629455d468c8fb74d62f", 
+      "size": "1494"
+    }, 
+    {
+      "sha1": "d34d7cee5388c97b8cfcf49cd55c2021455f9d62", 
+      "name": "annualcataloguep1894sout_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1406643088", 
+      "crc32": "45672339", 
+      "md5": "d68fefd0f85907db57981e036dc857f5", 
+      "size": "54814720"
+    }, 
+    {
+      "sha1": "7604ad9bf7e96096a4c7984781da446308b9d835", 
+      "name": "annualcataloguep1894sout_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1406643087", 
+      "crc32": "9fdc4663", 
+      "md5": "f08f26a9aa71c23466802804f429ac5f", 
+      "size": "63555"
+    }, 
+    {
+      "sha1": "471136f6a7b50443c471754f371cdcc135e11985", 
+      "name": "annualcataloguep1894sout_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1406644769", 
+      "crc32": "c01e0177", 
+      "md5": "11a83988f124d1c285573feeb40af470", 
+      "original": "annualcataloguep1894sout_orig_jp2.tar", 
+      "size": "26894692"
+    }, 
+    {
+      "sha1": "b292f9f79c2c64ea1108c1e90c497a0911e52c43", 
+      "name": "annualcataloguep1894sout_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1406646431", 
+      "crc32": "0216c15b", 
+      "md5": "d7264de5439cc5ea08b3e261d87f8fda", 
+      "original": "annualcataloguep1894sout_jp2.zip", 
+      "size": "771384"
+    }, 
+    {
+      "sha1": "f33dcf80601e26d287b9118423a8590dee8635e7", 
+      "name": "annualcataloguep1894sout_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1406646457", 
+      "crc32": "30d8b095", 
+      "md5": "b895e4616e8dbb4c92698b866f2a85a7", 
+      "original": "annualcataloguep1894sout_abbyy.gz", 
+      "size": "486719"
+    }, 
+    {
+      "sha1": "4dad310563f35e2e9d64702fcbebd307957dac9b", 
+      "name": "annualcataloguep1894sout.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1406644813", 
+      "crc32": "914c8bc0", 
+      "md5": "aca33f404a16a5b3751669cc5c0124b9", 
+      "original": "annualcataloguep1894sout_jp2.zip", 
+      "size": "284656"
+    }, 
+    {
+      "sha1": "757e6800e927feec48412eec81b6f08bca0ac02a", 
+      "name": "annualcataloguep1894sout.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1406646495", 
+      "crc32": "58275b72", 
+      "md5": "8bc5bedfc17b9a89807bddd69083ccd6", 
+      "original": "annualcataloguep1894sout_abbyy.gz", 
+      "size": "787257"
+    }, 
+    {
+      "sha1": "ebac55e7ef0a2715338931f174dd501558369237", 
+      "name": "annualcataloguep1894sout_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1406647015", 
+      "crc32": "44f3c309", 
+      "md5": "e8f36449fa3afd3d77dbc4a932dfabfe", 
+      "original": "annualcataloguep1894sout.djvu", 
+      "size": "51317"
+    }, 
+    {
+      "sha1": "4a9d3c527284d7d86b4747556766cfb5ffd42896", 
+      "name": "annualcataloguep1894sout.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1406646704", 
+      "crc32": "4658f940", 
+      "md5": "19c030dcfce40c87bde920d40737422c", 
+      "original": "annualcataloguep1894sout_djvu.xml", 
+      "size": "3489668"
+    }, 
+    {
+      "sha1": "7e0196233b4a3a79634437f5bd632887c7a5b53c", 
+      "name": "annualcataloguep1894sout.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1406647004", 
+      "crc32": "9bec775e", 
+      "md5": "304106eccfb2b5521e7119318245d11c", 
+      "original": "annualcataloguep1894sout_djvu.xml", 
+      "size": "5415543"
+    }, 
+    {
+      "sha1": "edd679c5c8828181bf82a556abeb91241c3a4ec5", 
+      "name": "annualcataloguep1894sout_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1418946245", 
+      "crc32": "6d34d446", 
+      "md5": "8df45613279d6e3b63825c824606f09e", 
+      "size": "2716"
+    }, 
+    {
+      "sha1": "02f9624703d1f6427dcbf0dca40af7f2b3ee07aa", 
+      "name": "annualcataloguep1894sout_archive.torrent", 
+      "btih": "092f7b7a3ac6978aa02eeaab64abe64299edd730", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1418946247", 
+      "crc32": "a7a63659", 
+      "md5": "1b1c9d263b67c1c04435c49d602276d4", 
+      "size": "5261"
+    }, 
+    {
+      "source": "original", 
+      "md5": "ebb947e1accc29033edb8623848750b3", 
+      "name": "annualcataloguep1894sout_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "updated": 1446508313, 
+  "uniq": 1756977066, 
+  "created": 1446507937, 
+  "workable_servers": [
+    "ia802303.us.archive.org", 
+    "ia902303.us.archive.org"
+  ], 
+  "server": "ia802303.us.archive.org", 
+  "item_size": 93074067, 
+  "dir": "/1/items/annualcataloguep1894sout", 
+  "metadata": {
+    "partner_shiptracking": "NC14_1894_S-T", 
+    "shiptracking": "ST002088", 
+    "scanner": "scribe2.beltsville.archive.org", 
+    "creator": [
+      "South St. Louis Nurseries", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection.", 
+    "ppi": "500", 
+    "subcollection": "henryggilbertnurseryandseedtradecollection", 
+    "nal_call_number": "62.29", 
+    "operator": "associate-saw-thein@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "copyright_message": "The contributing institution believes that this item is not in copyright", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "subject": [
+      "Nurseries (Horticulture), Minnesota, Catalogs", 
+      "Vegetables, Seeds, Catalogs", 
+      "Flowers, Catalogs"
+    ], 
+    "call_number": "CAT31281475", 
+    "title": "Annual catalogue and price list", 
+    "repub_state": "4", 
+    "camera": "Canon EOS 5D Mark II", 
+    "invoice": "3", 
+    "ocr": "ABBYY FineReader 9.0", 
+    "identifier-access": "http://archive.org/details/annualcataloguep1894sout", 
+    "scanningcenter": "beltsville", 
+    "description": "Cover title", 
+    "identifier-ark": "ark:/13960/t5n900m07", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "fedlink", 
+      "americana", 
+      "biodiversity"
+    ], 
+    "volume": "1894", 
+    "repub_seconds": "133", 
+    "updater": "associate-manuel-dennis@archive.org", 
+    "updatedate": "2014-07-23 15:47:27", 
+    "uploader": "associate-manuel-dennis@archive.org", 
+    "date": "1894", 
+    "republisher": "associate-saw-thein@archive.org", 
+    "addeddate": "2014-07-23 15:47:29.479794", 
+    "publisher": "St. Louis, Mo. : South St. Louis Nurseries", 
+    "publicdate": "2014-07-23 14:50:19", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "curation": "[curator]admin-shelia-deroche@archive.org[/curator][date]20140902192340[/date][state]approved[/state][comment]invoice201408[/comment]", 
+    "imagecount": "40", 
+    "identifier": "annualcataloguep1894sout", 
+    "sponsordate": "20140831", 
+    "unique_id": "CAT31281475", 
+    "scandate": "20140725112138"
+  }, 
+  "d2": "ia802303.us.archive.org", 
+  "files_count": 17, 
+  "d1": "ia902303.us.archive.org"
+}

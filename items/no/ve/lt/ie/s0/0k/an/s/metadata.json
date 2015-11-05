@@ -1,0 +1,250 @@
+{
+  "files": [
+    {
+      "sha1": "197b4eae175d8c04e4a37ed6f156bed747920dd9", 
+      "name": "novelties00kans_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1405006871", 
+      "crc32": "b536ff20", 
+      "md5": "d9f65dbc2b6005d22662fbd0e614c7a2", 
+      "size": "929"
+    }, 
+    {
+      "sha1": "f5bf61782d4fb00766a4f97726840220f6126f33", 
+      "name": "novelties00kans_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1405006871", 
+      "crc32": "1dc29162", 
+      "md5": "aeb49b3ad059be31277dd135a36a1eed", 
+      "size": "311"
+    }, 
+    {
+      "sha1": "24e579a362608b79b26456418cfb032e0e10d837", 
+      "name": "novelties00kans_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1405006871", 
+      "crc32": "7ef39312", 
+      "md5": "1d2baca7b65f9b7b56999f5fc7b193bb", 
+      "size": "1325"
+    }, 
+    {
+      "sha1": "7b36094b64be206974932dd8defa3d6457cfaa86", 
+      "name": "novelties00kans_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1405006871", 
+      "crc32": "2e65fe9f", 
+      "md5": "8680ac04925795db0627f3540273b7a5", 
+      "size": "3264"
+    }, 
+    {
+      "sha1": "63a1b4a18b063c83fff56c132166c5080ee774c0", 
+      "name": "novelties00kans_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1405593489", 
+      "crc32": "cc809b48", 
+      "md5": "effd1d6e555dd6c6f972afa896d207f6", 
+      "size": "12744"
+    }, 
+    {
+      "sha1": "2bd16684fba0f88bc701cce86fcad07be87d13f6", 
+      "name": "novelties00kans_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1405593489", 
+      "crc32": "a6c6d5fb", 
+      "md5": "3e68cf7ecb45c88e272d3883979c50fd", 
+      "size": "7946240"
+    }, 
+    {
+      "sha1": "7444fa114cd3b0d2863f5a002709d332c4ea9cd6", 
+      "name": "novelties00kans_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1405593866", 
+      "crc32": "1de2f364", 
+      "md5": "f3a12a72b271eb051972c5e5f387ab93", 
+      "original": "novelties00kans_jp2.zip", 
+      "size": "75805"
+    }, 
+    {
+      "sha1": "e26b2a8bc9581955d2df3dad87141ccb0b29ed35", 
+      "name": "novelties00kans_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1405593874", 
+      "crc32": "8b82d852", 
+      "md5": "06eacaa412eb394372bada033ca5b4bc", 
+      "original": "novelties00kans_abbyy.gz", 
+      "size": "52934"
+    }, 
+    {
+      "sha1": "26b0ce2de0f2d3a0b31bef4c2aea7ceceb9779c0", 
+      "name": "novelties00kans_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1405593760", 
+      "crc32": "c6ad8be5", 
+      "md5": "13a3538d272a8914f48a52ccaa0e076b", 
+      "original": "novelties00kans_orig_jp2.tar", 
+      "size": "5644855"
+    }, 
+    {
+      "sha1": "3d0c1cf9e9f3615bd7f34530aef9576fec700bcf", 
+      "name": "novelties00kans.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1405594006", 
+      "crc32": "b1684ea4", 
+      "md5": "34f70b0ba05b0e2f16443732655b2a0c", 
+      "original": "novelties00kans_djvu.xml", 
+      "size": "596366"
+    }, 
+    {
+      "sha1": "4d5b99895452d87460be76d02f54947501a80e6b", 
+      "name": "novelties00kans.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1405593937", 
+      "crc32": "9bcb7ca3", 
+      "md5": "3b0d60e87264a8ef0acc16c3172edaa1", 
+      "original": "novelties00kans_djvu.xml", 
+      "size": "396932"
+    }, 
+    {
+      "sha1": "494bfc8e6934e6ac01938aa3b80bd179100e11a5", 
+      "name": "novelties00kans.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1405593778", 
+      "crc32": "55cec67a", 
+      "md5": "ccdc01deec8ab1c37fc2927acd6bca6c", 
+      "original": "novelties00kans_jp2.zip", 
+      "size": "67633"
+    }, 
+    {
+      "sha1": "97afe9843edeffa6d38577a9c7903429879c1d2b", 
+      "name": "novelties00kans_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1405594013", 
+      "crc32": "7cdee526", 
+      "md5": "0a879850bd556953c1e0fcd159796212", 
+      "original": "novelties00kans.djvu", 
+      "size": "5028"
+    }, 
+    {
+      "sha1": "983c3fe9f163e25d8fd9a8852aff7a9eae98c515", 
+      "name": "novelties00kans.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1405593890", 
+      "crc32": "3dbd0f65", 
+      "md5": "4512a47ab877f4e450a44051a00f40af", 
+      "original": "novelties00kans_abbyy.gz", 
+      "size": "155270"
+    }, 
+    {
+      "sha1": "4798ba4d3069a160befa106a18ef71a7e9e67ae0", 
+      "name": "novelties00kans_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1418948028", 
+      "crc32": "ec31de40", 
+      "md5": "ac02a79eb1b7864b0c0f1cb2c6d6c1f6", 
+      "size": "2736"
+    }, 
+    {
+      "sha1": "9caaab0f624b4b4a715b0ea601e91fe7fa05bae0", 
+      "name": "novelties00kans_archive.torrent", 
+      "btih": "8349810b9ee1beb7fec1d58dd86ca6fdd7b50312", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1418948029", 
+      "crc32": "15c49a70", 
+      "md5": "aff3bcdc6862f2c190231a149e1630b1", 
+      "size": "3883"
+    }, 
+    {
+      "source": "original", 
+      "md5": "7b24632f26d17909b13f014e7b2fbb1c", 
+      "name": "novelties00kans_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "uniq": 1065799377, 
+  "created": 1446674700, 
+  "workable_servers": [
+    "ia902500.us.archive.org"
+  ], 
+  "server": "ia902500.us.archive.org", 
+  "item_size": 14966255, 
+  "dir": "/1/items/novelties00kans", 
+  "metadata": {
+    "partner_shiptracking": "NC14_1892_A-B", 
+    "shiptracking": "ST001907", 
+    "scanner": "scribe2.beltsville.archive.org", 
+    "creator": [
+      "Kansas Seed House", 
+      "F. Barteldes & Co", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection", 
+    "ppi": "500", 
+    "subcollection": "henryggilbertnurseryandseedtradecollection", 
+    "nal_call_number": "62.29", 
+    "operator": "associate-saw-thein@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "copyright_message": "The contributing institution believes that this item is not in copyright", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "subject": [
+      "Nursery stock Kansas Catalogs", 
+      "Trees Catalogs", 
+      "Vegetables Catalogs"
+    ], 
+    "call_number": "CAT31280378", 
+    "title": "Novelties", 
+    "repub_state": "4", 
+    "camera": "Canon EOS 5D Mark II", 
+    "invoice": "3", 
+    "ocr": "ABBYY FineReader 9.0", 
+    "identifier-access": "http://archive.org/details/novelties00kans", 
+    "scanningcenter": "beltsville", 
+    "description": "Caption title", 
+    "identifier-ark": "ark:/13960/t2q55b09z", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "fedlink", 
+      "americana", 
+      "biodiversity"
+    ], 
+    "repub_seconds": "72", 
+    "updater": "associate-manuel-dennis@archive.org", 
+    "updatedate": "2014-07-10 15:41:11", 
+    "uploader": "associate-manuel-dennis@archive.org", 
+    "date": "1892", 
+    "republisher": "associate-mark-kanaskie@archive.org", 
+    "addeddate": "2014-07-10 15:41:14.113442", 
+    "publisher": "Lawrence, Kan. : F. Barteldes & Co.", 
+    "publicdate": "2014-07-10 14:36:52", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "curation": "[curator]admin-shelia-deroche@archive.org[/curator][date]20140806170411[/date][state]approved[/state][comment]invoice201407[/comment]", 
+    "notes": "No copyright page found. No table-of-contents pages found.", 
+    "imagecount": "8", 
+    "identifier": "novelties00kans", 
+    "sponsordate": "20140731", 
+    "unique_id": "CAT31280378", 
+    "scandate": "20140715173051"
+  }, 
+  "files_count": 17, 
+  "d1": "ia902500.us.archive.org"
+}

@@ -1,0 +1,252 @@
+{
+  "files": [
+    {
+      "sha1": "ba9bc0214726975ed68ddc9e6f0c2a55148538fa", 
+      "name": "specials1890kans_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1404241337", 
+      "crc32": "092206ea", 
+      "md5": "d899ce23b9366061e016a9087660e61a", 
+      "size": "3337"
+    }, 
+    {
+      "sha1": "295432130945c903785cb990abc636d712f9d166", 
+      "name": "specials1890kans_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1404241337", 
+      "crc32": "7dd93d4f", 
+      "md5": "be6bae72e4ecee8b7edd0ac639d8ba1d", 
+      "size": "915"
+    }, 
+    {
+      "sha1": "54363bb24a33547d86697f1cc1f84b09a5469078", 
+      "name": "specials1890kans_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1404241337", 
+      "crc32": "b63ffe4a", 
+      "md5": "ecf07d2e67d8b6f03cad0d0175255cf4", 
+      "size": "1135"
+    }, 
+    {
+      "sha1": "7a168c1a9944695360a6c26673e95c1bf17d2fda", 
+      "name": "specials1890kans_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1404241337", 
+      "crc32": "4e9a579b", 
+      "md5": "0e6b6f17281daa3503f619ca5de7d84d", 
+      "size": "312"
+    }, 
+    {
+      "sha1": "a9d13d5d9b0687bd2700501122b404c9c5ff7d8a", 
+      "name": "specials1890kans_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1404909448", 
+      "crc32": "e466d9e8", 
+      "md5": "dc2220f1fa6b9f134fdbdef810341c48", 
+      "size": "19450"
+    }, 
+    {
+      "sha1": "eb89e3de1be3844b5ea7a065c8844bad40976baa", 
+      "name": "specials1890kans_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1404909448", 
+      "crc32": "e858aab4", 
+      "md5": "91b772decadbc73f1a680dd7dbe1bb7c", 
+      "size": "12298240"
+    }, 
+    {
+      "sha1": "30fbb49e1a80de324f6d554fa7e18b605943831c", 
+      "name": "specials1890kans_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1404925193", 
+      "crc32": "a7988147", 
+      "md5": "1ffa74b71549609452fb62dccc380a41", 
+      "original": "specials1890kans_abbyy.gz", 
+      "size": "132473"
+    }, 
+    {
+      "sha1": "05d8e20afd6a716358fc03cd0b3e5f13cc2c9337", 
+      "name": "specials1890kans.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1404925227", 
+      "crc32": "361210da", 
+      "md5": "38284d2449639860d3ac41b72e12790a", 
+      "original": "specials1890kans_djvu.xml", 
+      "size": "398854"
+    }, 
+    {
+      "sha1": "14c2006da4cec1bbdf75957d8a8a54c0a53489ce", 
+      "name": "specials1890kans.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1404925261", 
+      "crc32": "f00f04d7", 
+      "md5": "79864a47a8646a2ca3f0b300d1a52f14", 
+      "original": "specials1890kans_djvu.xml", 
+      "size": "665523"
+    }, 
+    {
+      "sha1": "d15c1ef52b90a704b597bdbabf79606279772b27", 
+      "name": "specials1890kans_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1404909718", 
+      "crc32": "cbfbd1e9", 
+      "md5": "5d7f3b2667eb7f16c7d9b02918d9e2b5", 
+      "original": "specials1890kans_orig_jp2.tar", 
+      "size": "6676327"
+    }, 
+    {
+      "sha1": "7f67941594cbf875784061f9faccfec7ecb9c9bd", 
+      "name": "specials1890kans_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1404925184", 
+      "crc32": "669f2a4a", 
+      "md5": "e7180b661b798894208cb303abca1daa", 
+      "original": "specials1890kans_jp2.zip", 
+      "size": "198521"
+    }, 
+    {
+      "sha1": "6603c94b5a4b0048f8ef3a5b7825ce2fdc490326", 
+      "name": "specials1890kans_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1404925267", 
+      "crc32": "7ae99421", 
+      "md5": "2e3b59fdb788247cf1751903080b4f02", 
+      "original": "specials1890kans.djvu", 
+      "size": "13732"
+    }, 
+    {
+      "sha1": "3b9fc5d18ee38a0975d277371b28dad60d9eadbf", 
+      "name": "specials1890kans.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1404925201", 
+      "crc32": "86afedd9", 
+      "md5": "19ab0f6a2b7eb6a9b6d012b0645984f4", 
+      "original": "specials1890kans_abbyy.gz", 
+      "size": "181028"
+    }, 
+    {
+      "sha1": "cd4d52ef541030eda4f077ff21f37b765eca1fe5", 
+      "name": "specials1890kans.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1404909727", 
+      "crc32": "bf0fa016", 
+      "md5": "85cdc1660666dfbd15cb610880577c52", 
+      "original": "specials1890kans_jp2.zip", 
+      "size": "91371"
+    }, 
+    {
+      "sha1": "f2e8629a00dbc39299b5b02e9bea7b3e3c8066f1", 
+      "name": "specials1890kans_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1418948411", 
+      "crc32": "ef1d8d04", 
+      "md5": "8402415f7ea3e0ed87b44054e6d727f3", 
+      "size": "2705"
+    }, 
+    {
+      "sha1": "b00cba781a9d0e8b5273c2cb5bda2959d58ccdfc", 
+      "name": "specials1890kans_archive.torrent", 
+      "btih": "96d4cae11e25289b0c813cd168b171967acf5787", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1418948412", 
+      "crc32": "d6e005a0", 
+      "md5": "b76e1c12763e22ab40f9216d238afcea", 
+      "size": "3947"
+    }, 
+    {
+      "source": "original", 
+      "md5": "9ca9d65fbe26d61cd7c6a6b4ff459118", 
+      "name": "specials1890kans_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "updated": 1446753313, 
+  "uniq": 2070513139, 
+  "created": 1446753296, 
+  "workable_servers": [
+    "ia802504.us.archive.org", 
+    "ia902504.us.archive.org"
+  ], 
+  "server": "ia802504.us.archive.org", 
+  "item_size": 20687870, 
+  "dir": "/0/items/specials1890kans", 
+  "metadata": {
+    "partner_shiptracking": "NC14_1890_H-K", 
+    "shiptracking": "ST001853", 
+    "scanner": "scribe3.beltsville.archive.org", 
+    "creator": [
+      "Kansas Home Nursery", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection", 
+    "ppi": "350", 
+    "subcollection": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection.", 
+    "nal_call_number": "62.29", 
+    "operator": "associate-mark-kanaskie@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "copyright_message": "The contributing institution believes that this item is not in copyright", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "subject": [
+      "Nursery stock Kansas Lawrence Catalogs", 
+      "Fruit trees Catalogs", 
+      "Fruit Catalogs"
+    ], 
+    "call_number": "CAT31280025", 
+    "title": "Specials", 
+    "repub_state": "4", 
+    "camera": "Canon EOS 5D Mark II", 
+    "invoice": "3", 
+    "ocr": "ABBYY FineReader 9.0", 
+    "identifier-access": "http://archive.org/details/specials1890kans", 
+    "scanningcenter": "beltsville", 
+    "identifier-ark": "ark:/13960/t9q26mn16", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "fedlink", 
+      "americana", 
+      "biodiversity"
+    ], 
+    "volume": "1890", 
+    "repub_seconds": "186", 
+    "updater": "associate-manuel-dennis@archive.org", 
+    "updatedate": "2014-07-01 19:02:17", 
+    "uploader": "associate-manuel-dennis@archive.org", 
+    "date": "1890", 
+    "republisher": "associate-john-leonard@archive.org", 
+    "addeddate": "2014-07-01 19:02:19.85871", 
+    "publisher": "Lawrence, Kan. : Kansas Home Nursery", 
+    "publicdate": "2014-07-01 18:06:55", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "curation": "[curator]admin-shelia-deroche@archive.org[/curator][date]20140806153802[/date][state]approved[/state][comment]invoice201407[/comment]", 
+    "notes": "No copyright page found. No table-of-contents pages found.", 
+    "imagecount": "12", 
+    "identifier": "specials1890kans", 
+    "sponsordate": "20140731", 
+    "unique_id": "CAT31280025", 
+    "scandate": "20140707183002"
+  }, 
+  "d2": "ia802504.us.archive.org", 
+  "files_count": 17, 
+  "d1": "ia902504.us.archive.org"
+}

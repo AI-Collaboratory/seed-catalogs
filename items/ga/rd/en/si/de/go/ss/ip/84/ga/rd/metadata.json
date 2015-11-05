@@ -1,0 +1,250 @@
+{
+  "files": [
+    {
+      "sha1": "b05446e3191f745860319f1b2bfd72499753dd33", 
+      "name": "gardensidegossip84gard_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1392734108", 
+      "crc32": "b1a974c8", 
+      "md5": "e75e57ed4095ef47de0eb1d153b3fb2a", 
+      "size": "320"
+    }, 
+    {
+      "sha1": "7f767ed71677c587dbc62046c541b0eb281bafe4", 
+      "name": "gardensidegossip84gard_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1392734108", 
+      "crc32": "6c969eb8", 
+      "md5": "3d42543d617e28982854cbe7c25b8f35", 
+      "size": "1202"
+    }, 
+    {
+      "sha1": "d211cc2505bb9dbe5cad4323aab346a40a38fc47", 
+      "name": "gardensidegossip84gard_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1392734108", 
+      "crc32": "e4d2abfa", 
+      "md5": "3460f8765b65abd3a901a18da3abd64a", 
+      "size": "3727"
+    }, 
+    {
+      "sha1": "bdafdc79ce557893135dabc2212ce9c441cd6479", 
+      "name": "gardensidegossip84gard_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1392734108", 
+      "crc32": "64c2d62c", 
+      "md5": "0092d7c798ffeca699c26ec440a8893f", 
+      "size": "1089"
+    }, 
+    {
+      "sha1": "6a577d8804a7e47ab5e241840b2e3e0cabc14d99", 
+      "name": "gardensidegossip84gard_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1392912385", 
+      "crc32": "385cda78", 
+      "md5": "71a778142569e156c80380211e91c800", 
+      "size": "19428"
+    }, 
+    {
+      "sha1": "56aad2d0f0c435d6b1b41f826d1562070a72552e", 
+      "name": "gardensidegossip84gard_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1392912385", 
+      "crc32": "15de15b6", 
+      "md5": "eeb270e9f89cc35fd2a50b25a69a7867", 
+      "size": "23224320"
+    }, 
+    {
+      "sha1": "de604b9334aa1a3df0a80476e0e3dad6575f34cf", 
+      "name": "gardensidegossip84gard_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1392912727", 
+      "crc32": "7d579d0e", 
+      "md5": "27f8ff5b3f150e3dbef9314d7a65fee6", 
+      "original": "gardensidegossip84gard_orig_jp2.tar", 
+      "size": "12956239"
+    }, 
+    {
+      "sha1": "d8efe58f40fa1cad41f61b5ba3d0c34c35633e6b", 
+      "name": "gardensidegossip84gard_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1392912865", 
+      "crc32": "6827766d", 
+      "md5": "ae069d1d74b68845c25ee4c096d19574", 
+      "original": "gardensidegossip84gard_abbyy.gz", 
+      "size": "397808"
+    }, 
+    {
+      "sha1": "321285ee268b11b33c7c82aec542134983e39321", 
+      "name": "gardensidegossip84gard_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1392912978", 
+      "crc32": "8a6aa34c", 
+      "md5": "5a2192af8dc6975134ae0376474e0440", 
+      "original": "gardensidegossip84gard.djvu", 
+      "size": "41137"
+    }, 
+    {
+      "sha1": "5b845ea6ffea5864e2a86cf2f5d88a9fb6669b84", 
+      "name": "gardensidegossip84gard.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1392912910", 
+      "crc32": "ca7834a1", 
+      "md5": "b5296e8ccb205d702a983c09f618d136", 
+      "original": "gardensidegossip84gard_djvu.xml", 
+      "size": "396638"
+    }, 
+    {
+      "sha1": "709a03c65aa968f77c6a53c128f6fe2c45a4059a", 
+      "name": "gardensidegossip84gard.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1392912972", 
+      "crc32": "1dcffd73", 
+      "md5": "b065acd5d0fec66f1c00640dc86fca43", 
+      "original": "gardensidegossip84gard_djvu.xml", 
+      "size": "760212"
+    }, 
+    {
+      "sha1": "7635e711642794707a72b0c366c5030d4ffcf59d", 
+      "name": "gardensidegossip84gard_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1392912851", 
+      "crc32": "66b28b71", 
+      "md5": "a00b106e2dd3aec0fee765a07e76ab77", 
+      "original": "gardensidegossip84gard_jp2.zip", 
+      "size": "573294"
+    }, 
+    {
+      "sha1": "5beaa1c21041696119b9a6d23e1bb028f9be336d", 
+      "name": "gardensidegossip84gard.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1392912870", 
+      "crc32": "480be4e1", 
+      "md5": "4cc06b01e9e96f2fa97ca2c58b57646d", 
+      "original": "gardensidegossip84gard_abbyy.gz", 
+      "size": "207478"
+    }, 
+    {
+      "sha1": "d0a9ebc2dfa74a4c5196e6d5185048055d9b5d3a", 
+      "name": "gardensidegossip84gard.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1392912737", 
+      "crc32": "e35ff4e9", 
+      "md5": "15bde2e16546637265eb1b741fdf2eb4", 
+      "original": "gardensidegossip84gard_jp2.zip", 
+      "size": "110934"
+    }, 
+    {
+      "sha1": "d666871d58e762dfeb9afec682634e120f38360c", 
+      "name": "gardensidegossip84gard_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1418947445", 
+      "crc32": "3868f1ac", 
+      "md5": "7d4021c1ac7fad25ad604432e9076e21", 
+      "size": "2869"
+    }, 
+    {
+      "sha1": "519aff490fa13465d6752c0f91679e801d7fa9f2", 
+      "name": "gardensidegossip84gard_archive.torrent", 
+      "btih": "b9107cae3b2c9ea8e22a492b837c1f2293bd2dd6", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1418947446", 
+      "crc32": "7e10787e", 
+      "md5": "5e132712c2ab2144f9e0ae73010876fd", 
+      "size": "4358"
+    }, 
+    {
+      "source": "original", 
+      "md5": "8dd0ba46a2a327fd9a750281dff493d8", 
+      "name": "gardensidegossip84gard_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "uniq": 977627375, 
+  "created": 1446750014, 
+  "workable_servers": [
+    "ia600306.us.archive.org"
+  ], 
+  "server": "ia600306.us.archive.org", 
+  "item_size": 38701053, 
+  "dir": "/22/items/gardensidegossip84gard", 
+  "metadata": {
+    "partner_shiptracking": "NC14_0065_Gardenside", 
+    "shiptracking": "ST001033", 
+    "scanner": "scribe1.beltsville.archive.org", 
+    "creator": [
+      "Gardenside Nurseries (Shelburne, Vt.)", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection.", 
+    "ppi": "350", 
+    "subcollection": "henryggilbertnurseryandseedtradecollection; gardensidegossip", 
+    "nal_call_number": "62.87", 
+    "operator": "associate-mang-pau@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "copyright_message": "The contributing institution believes that this item is not in copyright", 
+    "year": "1943", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "subject": "Nursery dealers Vermont Periodicals", 
+    "call_number": "CAT31151984_027", 
+    "title": "Gardenside gossip", 
+    "repub_state": "4", 
+    "camera": "Canon EOS 5D Mark II", 
+    "ocr": "ABBYY FineReader 9.0", 
+    "identifier-access": "http://archive.org/details/gardensidegossip84gard", 
+    "scanningcenter": "beltsville", 
+    "description": [
+      "Description based on: Vol. 1, no. 1 (1936); title from caption", 
+      "Latest issue consulted: Vol. 20 (1954)"
+    ], 
+    "identifier-ark": "ark:/13960/t9r23hn2m", 
+    "mediatype": "texts", 
+    "invoice": "3", 
+    "volume": "v.8:no.4", 
+    "repub_seconds": "169", 
+    "updater": "associate-adrianna-flores@archive.org", 
+    "updatedate": "2014-02-18 14:35:08", 
+    "uploader": "associate-adrianna-flores@archive.org", 
+    "date": "1943", 
+    "republisher": "associate-yvonne-wang@archive.org", 
+    "addeddate": "2014-02-18 14:35:10.550341", 
+    "publisher": "Shelburne, Vt. : Gardenside Nurseries, Inc", 
+    "publicdate": "2014-02-18 13:27:07", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "curation": "[curator]admin-shelia-deroche@archive.org[/curator][date]20140604171306[/date][state]approved[/state][comment]invoice201405[/comment]", 
+    "notes": "No table-of-contents pages found. No copyright page found.", 
+    "imagecount": "12", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "fedlink", 
+      "americana", 
+      "biodiversity"
+    ], 
+    "identifier": "gardensidegossip84gard", 
+    "sponsordate": "20140531", 
+    "unique_id": "CAT31151984_027", 
+    "scandate": "20140219135433"
+  }, 
+  "files_count": 17, 
+  "d1": "ia600306.us.archive.org"
+}

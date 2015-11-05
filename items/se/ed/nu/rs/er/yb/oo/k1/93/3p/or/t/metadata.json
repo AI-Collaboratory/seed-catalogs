@@ -1,0 +1,253 @@
+{
+  "files": [
+    {
+      "sha1": "007bde01378857e2169a5d853e8f482945e14677", 
+      "name": "seednurserybook1933port_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1394798733", 
+      "crc32": "a8381e9e", 
+      "md5": "90b5363c2631cd91d80b340479c20a31", 
+      "size": "4173"
+    }, 
+    {
+      "sha1": "3762a551a07549b1426df007ef117f6d33689bef", 
+      "name": "seednurserybook1933port_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1394798733", 
+      "crc32": "107039e3", 
+      "md5": "39ae3c85e47ef7578eacf1435719df64", 
+      "size": "1154"
+    }, 
+    {
+      "sha1": "daf6cac4a91488396696bea2aa54625e8c5e4fe2", 
+      "name": "seednurserybook1933port_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1394798733", 
+      "crc32": "164e7b8f", 
+      "md5": "5e8f3c5fa555895b46da1cdee2cc416b", 
+      "size": "321"
+    }, 
+    {
+      "sha1": "89dcac62f8c21a7f63da608b53b23d7832820dba", 
+      "name": "seednurserybook1933port_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1394798733", 
+      "crc32": "e78ddb4e", 
+      "md5": "e64dde39b3eaa7d52446c7277c008402", 
+      "size": "1648"
+    }, 
+    {
+      "sha1": "3175c7517a93aa981551c0651226f2b989af4f68", 
+      "name": "seednurserybook1933port_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1395148109", 
+      "crc32": "65a768fe", 
+      "md5": "390c7d49acf0ce7c407e2431d8c5727f", 
+      "size": "173233"
+    }, 
+    {
+      "sha1": "62d34d279f36209a13782a79c4f4810bda158900", 
+      "name": "seednurserybook1933port_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1395148114", 
+      "crc32": "c1c9b6c8", 
+      "md5": "b43cf8a2e06d4a7e59abce5a2eedac5d", 
+      "size": "179271680"
+    }, 
+    {
+      "sha1": "6c5388f51fcee241000e45db84ecc391205d08d5", 
+      "name": "seednurserybook1933port_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1395151184", 
+      "crc32": "334ee76d", 
+      "md5": "121ea44e0ffc2b39592d243047202be5", 
+      "original": "seednurserybook1933port_orig_jp2.tar", 
+      "size": "145592488"
+    }, 
+    {
+      "sha1": "61b579622a0b0eca21436167690e9c47f17ce89f", 
+      "name": "seednurserybook1933port_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1395155118", 
+      "crc32": "d1a0ba9a", 
+      "md5": "aae4a5cc558dbcf59531a70f1cb517ff", 
+      "original": "seednurserybook1933port.djvu", 
+      "size": "552030"
+    }, 
+    {
+      "sha1": "e46871de2b0f74c1079a5371a5d6e0dca4977e1b", 
+      "name": "seednurserybook1933port_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1395152709", 
+      "crc32": "1e0a74e5", 
+      "md5": "72135ef7dfba7b4947ed46d115675bf5", 
+      "original": "seednurserybook1933port_jp2.zip", 
+      "size": "8395518"
+    }, 
+    {
+      "sha1": "b6ff521c5ba3015fc101c2da8cb4956b97b8d06f", 
+      "name": "seednurserybook1933port.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1395155094", 
+      "crc32": "88c996a2", 
+      "md5": "0b31ed1d4f8f8c63a5aa752eb0b82c66", 
+      "original": "seednurserybook1933port_djvu.xml", 
+      "size": "20792323"
+    }, 
+    {
+      "sha1": "15eace38b93796a8c3e5cfd53f1a804fac5bd6a1", 
+      "name": "seednurserybook1933port.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1395153060", 
+      "crc32": "7a9409b3", 
+      "md5": "f651177a6d2f9d3af88226c9a6e14fa9", 
+      "original": "seednurserybook1933port_abbyy.gz", 
+      "size": "2516461"
+    }, 
+    {
+      "sha1": "c62644aa9cd0712fd01ad82fec14b8797ce3342b", 
+      "name": "seednurserybook1933port.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1395151225", 
+      "crc32": "2530f590", 
+      "md5": "019205781149064e8b410adbf3d94c4f", 
+      "original": "seednurserybook1933port_jp2.zip", 
+      "size": "304572"
+    }, 
+    {
+      "sha1": "ae474a92d7ea5002700f04a77224f39b9d54df61", 
+      "name": "seednurserybook1933port.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1395153926", 
+      "crc32": "02a11da6", 
+      "md5": "7b005ded6d5914ef953a427c1e53591d", 
+      "original": "seednurserybook1933port_djvu.xml", 
+      "size": "13881813"
+    }, 
+    {
+      "sha1": "01ac004ee4638e0cbf61b156b61fd890dfc938dd", 
+      "name": "seednurserybook1933port_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1395152903", 
+      "crc32": "cec64dba", 
+      "md5": "0291cc6a5a5ec6067ed1eab2922ac90c", 
+      "original": "seednurserybook1933port_abbyy.gz", 
+      "size": "5211201"
+    }, 
+    {
+      "sha1": "f1e49723930fb831c04904051673689131537044", 
+      "name": "seednurserybook1933port_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1418948318", 
+      "crc32": "770f9309", 
+      "md5": "20008c4cbc509423cef81858b172d4a3", 
+      "size": "2936"
+    }, 
+    {
+      "sha1": "6676f598be0632b16834ad65265e66a7d8997c1f", 
+      "name": "seednurserybook1933port_archive.torrent", 
+      "btih": "cc1d9a0828c930f1c74595ba2bf63e46c6c03e24", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1418948322", 
+      "crc32": "961941cf", 
+      "md5": "d494c62ea28b156c115ccd6d222b1c72", 
+      "size": "11328"
+    }, 
+    {
+      "source": "original", 
+      "md5": "a9186b941cb07770e0f3fa0e6984a4fd", 
+      "name": "seednurserybook1933port_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "uniq": 235684151, 
+  "created": 1446753024, 
+  "workable_servers": [
+    "ia600809.us.archive.org"
+  ], 
+  "server": "ia600809.us.archive.org", 
+  "item_size": 376712879, 
+  "dir": "/7/items/seednurserybook1933port", 
+  "metadata": {
+    "partner_shiptracking": "NC14_0084_Porter-Walton", 
+    "shiptracking": "ST001200", 
+    "scanner": "scribe2.beltsville.archive.org", 
+    "creator": [
+      "Porter-Walton Co", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G Gilbert Nursery and Seed Trade Catalog Collection", 
+    "ppi": "500", 
+    "subcollection": "henryggilbertnurseryandseedtradecollection", 
+    "nal_call_number": "62.85", 
+    "operator": "associate-saw-thein@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "copyright_message": "The contributing institution believes that this item is not in copyright", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "subject": [
+      "Fruit trees Utah Salt Lake City", 
+      "Ornamental trees Utah Salt Lake City", 
+      "Shrubs Utah Salt Lake City", 
+      "Climbing plants Utah Salt Lake City", 
+      "Bulbs (Plants) Utah Salt Lake City", 
+      "Flowers Seeds Utah Salt Lake City", 
+      "Vegetables Seeds Utah Salt Lake City"
+    ], 
+    "call_number": "CAT31165691", 
+    "title": "Seed and nursery book", 
+    "repub_state": "4", 
+    "camera": "Canon EOS 5D Mark II", 
+    "invoice": "3", 
+    "ocr": "ABBYY FineReader 9.0", 
+    "identifier-access": "http://archive.org/details/seednurserybook1933port", 
+    "scanningcenter": "beltsville", 
+    "description": "Cover title", 
+    "identifier-ark": "ark:/13960/t1pg48j5h", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "fedlink", 
+      "americana", 
+      "biodiversity"
+    ], 
+    "volume": "1933", 
+    "repub_seconds": "447", 
+    "updater": "associate-adrianna-flores@archive.org", 
+    "updatedate": "2014-03-14 12:05:33", 
+    "uploader": "associate-adrianna-flores@archive.org", 
+    "date": "1933", 
+    "republisher": "associate-saw-thein@archive.org", 
+    "addeddate": "2014-03-14 12:05:35.206357", 
+    "publisher": "Salt Lake City, Utah : Porter-Walton Co.", 
+    "publicdate": "2014-03-14 11:03:43", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "curation": "[curator]admin-shelia-deroche@archive.org[/curator][date]20140502145512[/date][state]approved[/state][comment]invoice201404[/comment]", 
+    "imagecount": "110", 
+    "identifier": "seednurserybook1933port", 
+    "sponsordate": "20140430", 
+    "unique_id": "CAT31165691", 
+    "scandate": "20140318122630"
+  }, 
+  "files_count": 17, 
+  "d1": "ia600809.us.archive.org"
+}

@@ -1,0 +1,269 @@
+{
+  "files": [
+    {
+      "sha1": "13102392891e77db906e8a46551a450c7c755f1f", 
+      "name": "allensdescriptiv18alle_3_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1374586223", 
+      "crc32": "91655dfa", 
+      "md5": "463482d0d12c9a993874cf235810f80a", 
+      "size": "325"
+    }, 
+    {
+      "sha1": "ed90db25a47ea712ee90a7363e90972a1a053b98", 
+      "name": "allensdescriptiv18alle_3_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1374586223", 
+      "crc32": "4dd55139", 
+      "md5": "8932fdbc41512a1b4d596bb6b3852841", 
+      "size": "3696"
+    }, 
+    {
+      "sha1": "a716eee1f856aea8a990d119fd814f2652477fb8", 
+      "name": "allensdescriptiv18alle_3_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1374586223", 
+      "crc32": "402fd15d", 
+      "md5": "58e7fd060665c188ed0adb288e5a423b", 
+      "size": "1095"
+    }, 
+    {
+      "sha1": "dffe78debdbdd7c9ea8be0821873b7b6ceee394b", 
+      "name": "allensdescriptiv18alle_3_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1374586223", 
+      "crc32": "85323bd6", 
+      "md5": "81d5a60f64e081a1b2e8e37f99ce1953", 
+      "size": "1422"
+    }, 
+    {
+      "sha1": "1b7cc191a2b4cb6e3c0a04058c72a4b6efce800a", 
+      "name": "allensdescriptiv18alle_3_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1374669557", 
+      "crc32": "faf46a84", 
+      "md5": "0ff4d1742161509e8ae8f2ec54fc8710", 
+      "size": "58245"
+    }, 
+    {
+      "sha1": "dc4e93a80635a306bfdd6b2780a83b667b9d752e", 
+      "name": "allensdescriptiv18alle_3_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1374669557", 
+      "crc32": "f36b581c", 
+      "md5": "26b8399b179ab6e05f16680cdf8fcd8c", 
+      "size": "24524800"
+    }, 
+    {
+      "sha1": "86aaf21a96bb371530691d5fa5ffefaf7c52d783", 
+      "name": "allensdescriptiv18alle_3_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1374670167", 
+      "crc32": "640ec6d7", 
+      "md5": "27569a9befc701bd179944329ee9b174", 
+      "original": "allensdescriptiv18alle_3_orig_jp2.tar", 
+      "size": "19253789"
+    }, 
+    {
+      "sha1": "1c1ea1d509f8eb5a998d54eb0a60dd4e5a9830b2", 
+      "name": "allensdescriptiv18alle_3_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1374671048", 
+      "crc32": "b84fb7b3", 
+      "md5": "a1b3a27afbc83bcc5545291d2fe14c94", 
+      "original": "allensdescriptiv18alle_3_abbyy.gz", 
+      "size": "586814"
+    }, 
+    {
+      "sha1": "70d102d3fe8012a76f4e20d1a16496a45630f022", 
+      "name": "allensdescriptiv18alle_3_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1374671030", 
+      "crc32": "075db6d7", 
+      "md5": "440d916c8aec3daf1bb562bffff19234", 
+      "original": "allensdescriptiv18alle_3_jp2.zip", 
+      "size": "915281"
+    }, 
+    {
+      "sha1": "b4a2383cac6441fee12b9999326a01920364d884", 
+      "name": "allensdescriptiv18alle_3.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1374671370", 
+      "crc32": "165c85e4", 
+      "md5": "5864832611bfa5086c16271ff834c243", 
+      "original": "allensdescriptiv18alle_3_djvu.xml", 
+      "size": "4168799"
+    }, 
+    {
+      "sha1": "7b2130e1ecac7b20aac14001927e3ffc070fa71f", 
+      "name": "allensdescriptiv18alle_3_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1374671379", 
+      "crc32": "3888e630", 
+      "md5": "56b93ed99103d9871816a51cedcc38e0", 
+      "original": "allensdescriptiv18alle_3.djvu", 
+      "size": "55318"
+    }, 
+    {
+      "sha1": "fb886b5ae134a8255ac86b20eed702c618e79f6e", 
+      "name": "allensdescriptiv18alle_3.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1374671065", 
+      "crc32": "d4b0b4cf", 
+      "md5": "09ea1e1c7d6c4581b8d923a9f2793c31", 
+      "original": "allensdescriptiv18alle_3_abbyy.gz", 
+      "size": "686232"
+    }, 
+    {
+      "sha1": "f839a7e90c2f72af63d6f39cfb402751e01fde3a", 
+      "name": "allensdescriptiv18alle_3.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1374670187", 
+      "crc32": "7d628264", 
+      "md5": "b7b46e6e935f37b53bb287285cf69cac", 
+      "original": "allensdescriptiv18alle_3_jp2.zip", 
+      "size": "316515"
+    }, 
+    {
+      "sha1": "66ad766c42eca4462b8ae68ea4c696c57b9315ff", 
+      "name": "allensdescriptiv18alle_3.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1374671190", 
+      "crc32": "606ff77c", 
+      "md5": "d89c303c3fd5ac7b24ee4b6a80812279", 
+      "original": "allensdescriptiv18alle_3_djvu.xml", 
+      "size": "2841675"
+    }, 
+    {
+      "sha1": "82478a5ce107b507b887effdf19bea93ae49d273", 
+      "name": "allensdescriptiv18alle_3_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1418946219", 
+      "crc32": "4d8b4a2e", 
+      "md5": "5c682059766c2a21b682f53392e5ff44", 
+      "size": "2633"
+    }, 
+    {
+      "sha1": "cb713ed70f39ad9ce976ba8f9a89b4698bb2322b", 
+      "name": "allensdescriptiv18alle_3_bhlmets.xml", 
+      "format": "Biodiversity Heritage Library METS", 
+      "source": "original", 
+      "mtime": "1420368495", 
+      "crc32": "4af76a66", 
+      "md5": "2ba1150c997e7b2f6741c2bb537d5d2f", 
+      "size": "21967"
+    }, 
+    {
+      "sha1": "5f9014560720e3b53df0377c783365a53e2110ff", 
+      "name": "allensdescriptiv18alle_3_meta.sqlite", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1420368502", 
+      "crc32": "c06410ca", 
+      "md5": "f4e001c496e14974853edb107e248271", 
+      "size": "6144"
+    }, 
+    {
+      "sha1": "583d3e2fd1d5983fdf543fc88e8ef4e1805a383c", 
+      "name": "allensdescriptiv18alle_3_archive.torrent", 
+      "btih": "c81f27f8f2c7b16fad1f17e751487c18e341e644", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1420368506", 
+      "crc32": "f849ce96", 
+      "md5": "cf8dceeb9f5f33581af5cb5a5fcae2a3", 
+      "size": "5302"
+    }, 
+    {
+      "source": "original", 
+      "md5": "80cb88dbebec169f0a75b6cce90c03b8", 
+      "name": "allensdescriptiv18alle_3_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "updated": 1446754450, 
+  "uniq": 1911003072, 
+  "created": 1446519601, 
+  "workable_servers": [
+    "ia600904.us.archive.org", 
+    "ia800904.us.archive.org"
+  ], 
+  "server": "ia600904.us.archive.org", 
+  "item_size": 53450052, 
+  "dir": "/24/items/allensdescriptiv18alle_3", 
+  "metadata": {
+    "shiptracking": "ST000074", 
+    "scanner": "scribe4.beltsville.archive.org", 
+    "creator": [
+      "Allen Co. (Salisbury, Md.)", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection", 
+    "ppi": "500", 
+    "nal_call_number": "62.37", 
+    "operator": "associate-mang-pau@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "subject": [
+      "Nurseries (Horticulture) Maryland Salisbury Catalogs", 
+      "Nursery stock Maryland Salisbury Catalogs", 
+      "Strawberries Maryland Salisbury Catalogs"
+    ], 
+    "call_number": "CAT31117123", 
+    "title": "Allen's descriptive catalogue of choice strawberry plants : grown and for sale by W. F. Allen, Jr", 
+    "repub_state": "4", 
+    "possible-copyright-status": "The contributing institution believes that this item is not in copyright", 
+    "camera": "Canon EOS 5D Mark II", 
+    "ocr": "ABBYY FineReader 8.0", 
+    "identifier-access": "http://archive.org/details/allensdescriptiv18alle_3", 
+    "scanningcenter": "beltsville", 
+    "description": "Cover title", 
+    "identifier-ark": "ark:/13960/t4km1101n", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "fedlink", 
+      "americana", 
+      "biodiversity"
+    ], 
+    "volume": "1894", 
+    "repub_seconds": "59523", 
+    "updater": "associate-adrianna-flores@archive.org", 
+    "updatedate": "2013-07-23 13:30:23", 
+    "uploader": "associate-adrianna-flores@archive.org", 
+    "date": "1894", 
+    "republisher": "associate-mang-pau@archive.org", 
+    "addeddate": "2013-07-23 13:30:25", 
+    "publisher": "Salisbury, Md. : Allen Co.", 
+    "publicdate": "2013-07-23 12:36:45", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "curation": "[curator]associate-john-leonard@archive.org[/curator][date]20130808173639[/date][state]approved[/state]", 
+    "imagecount": "36", 
+    "identifier": "allensdescriptiv18alle_3", 
+    "sponsordate": "20130731", 
+    "unique_id": "CAT31117123", 
+    "scandate": "20130723172012"
+  }, 
+  "d2": "ia800904.us.archive.org", 
+  "files_count": 19, 
+  "d1": "ia600904.us.archive.org"
+}

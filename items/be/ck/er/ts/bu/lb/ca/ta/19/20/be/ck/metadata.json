@@ -1,0 +1,257 @@
+{
+  "files": [
+    {
+      "sha1": "29e14c28dfb4955c0b1caed8f39f7726b7102b55", 
+      "name": "beckertsbulbcata1920beck_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1383838198", 
+      "crc32": "9fba641e", 
+      "md5": "6b524a87ea95e769226b07f921fff3cd", 
+      "size": "4876"
+    }, 
+    {
+      "sha1": "835b59feb12c8c8180d7a80795265f3a4f7ac1eb", 
+      "name": "beckertsbulbcata1920beck_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1383838198", 
+      "crc32": "0e20104d", 
+      "md5": "3a7c6001cbb9a2b08dc82a34f5254f49", 
+      "size": "322"
+    }, 
+    {
+      "sha1": "a7af5762b6438ae00a2f4ad29ddea9eef89b9930", 
+      "name": "beckertsbulbcata1920beck_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1383838198", 
+      "crc32": "fd4e6219", 
+      "md5": "ba503aa2314df63e189a83c5daa098a4", 
+      "size": "1380"
+    }, 
+    {
+      "sha1": "3dbbdc0cda17a3bb57c27cf18c6cf1ff317a9c22", 
+      "name": "beckertsbulbcata1920beck_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1383838198", 
+      "crc32": "99773119", 
+      "md5": "4a51d56fc680253b81e5eafcdff42148", 
+      "size": "1852"
+    }, 
+    {
+      "sha1": "c2b861d1f1028cbe5461b5727832bf2703d36a8a", 
+      "name": "beckertsbulbcata1920beck_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1393950453", 
+      "crc32": "7fb8f09e", 
+      "md5": "9d69b8d1cb69e1b29dcee0bb4faf974e", 
+      "size": "63599"
+    }, 
+    {
+      "sha1": "3670bd4e7cb2e2442da07277eb9133fa3d98f26d", 
+      "name": "beckertsbulbcata1920beck_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1393950454", 
+      "crc32": "f80edf1d", 
+      "md5": "67a33698d346629dd2cc23caa1d42b97", 
+      "size": "69939200"
+    }, 
+    {
+      "sha1": "d2cdad10227ba72d6947287f7afcb60af437cbcb", 
+      "name": "beckertsbulbcata1920beck_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1393952420", 
+      "crc32": "867f39fc", 
+      "md5": "a8479d4a644b990d888c5100bcfba542", 
+      "original": "beckertsbulbcata1920beck_orig_jp2.tar", 
+      "size": "37068834"
+    }, 
+    {
+      "sha1": "30d18d2e826e97846d484574e1943ef1413fc0c6", 
+      "name": "beckertsbulbcata1920beck_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1393953470", 
+      "crc32": "2f82fdbb", 
+      "md5": "aac1ba3bc2a856a942a6cce994514ca6", 
+      "original": "beckertsbulbcata1920beck_abbyy.gz", 
+      "size": "1351285"
+    }, 
+    {
+      "sha1": "9e86ca3cdb6d27f5e5db07449a196fc652ac53b3", 
+      "name": "beckertsbulbcata1920beck_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1393953437", 
+      "crc32": "f927e735", 
+      "md5": "b90af1e9509d8ddcc5102a2e2c501422", 
+      "original": "beckertsbulbcata1920beck_jp2.zip", 
+      "size": "1995820"
+    }, 
+    {
+      "sha1": "de8bfbd5c2bf062bda0be7f7a03ca7e1cfed90cb", 
+      "name": "beckertsbulbcata1920beck.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1393953494", 
+      "crc32": "6f1547b3", 
+      "md5": "95b7f2769fbeae42d678d52fda8c77fe", 
+      "original": "beckertsbulbcata1920beck_abbyy.gz", 
+      "size": "1010829"
+    }, 
+    {
+      "sha1": "c1bb0b232313b2bc2cbcd8417388e2d0d3c6d381", 
+      "name": "beckertsbulbcata1920beck.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1393952439", 
+      "crc32": "36ca7f75", 
+      "md5": "188875594d362d5e4b4fd697362ecfa3", 
+      "original": "beckertsbulbcata1920beck_jp2.zip", 
+      "size": "341451"
+    }, 
+    {
+      "sha1": "2ff5a493e35efc5d7249b4fce23c864303da33b7", 
+      "name": "beckertsbulbcata1920beck.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1393953828", 
+      "crc32": "18af74a3", 
+      "md5": "ae22b87ceed9835e60d29c35d173ed63", 
+      "original": "beckertsbulbcata1920beck_djvu.xml", 
+      "size": "5327705"
+    }, 
+    {
+      "sha1": "bc36b2df574d32fd25076f9cb69a3b134efc3a3e", 
+      "name": "beckertsbulbcata1920beck.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1393953638", 
+      "crc32": "a2deaeda", 
+      "md5": "63b1bf88c97354d67447cbfacc0251f1", 
+      "original": "beckertsbulbcata1920beck_djvu.xml", 
+      "size": "3380286"
+    }, 
+    {
+      "sha1": "4d85e1044dfabd94f6ead1e1e13be3dac7c2d1e4", 
+      "name": "beckertsbulbcata1920beck_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1393953837", 
+      "crc32": "56b45bfe", 
+      "md5": "7b2ac22ddd2911ffb2c25e94f1ae6b9c", 
+      "original": "beckertsbulbcata1920beck.djvu", 
+      "size": "139732"
+    }, 
+    {
+      "sha1": "2f505fbea47965f81ee61952070ce69bcf81d557", 
+      "name": "beckertsbulbcata1920beck_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1418946332", 
+      "crc32": "96e16555", 
+      "md5": "9efd133a176139448f7ed399cdc19132", 
+      "size": "2923"
+    }, 
+    {
+      "sha1": "c81d93b17f44930dc541d975eecf54199417c34d", 
+      "name": "beckertsbulbcata1920beck_archive.torrent", 
+      "btih": "6ac81e8d2bc7b0eefebd4d5a00ee4cead93f5774", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1418946334", 
+      "crc32": "44469803", 
+      "md5": "8bf30f47762aeb75ef07cc3f4c740ece", 
+      "size": "5745"
+    }, 
+    {
+      "source": "original", 
+      "md5": "ff8b7d90938f8d7a4b8bcb013e1a9ec5", 
+      "name": "beckertsbulbcata1920beck_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "updated": 1446749554, 
+  "uniq": 186527569, 
+  "created": 1446749450, 
+  "workable_servers": [
+    "ia801005.us.archive.org", 
+    "ia601005.us.archive.org"
+  ], 
+  "server": "ia801005.us.archive.org", 
+  "item_size": 120635839, 
+  "dir": "/2/items/beckertsbulbcata1920beck", 
+  "metadata": {
+    "partner_shiptracking": "NC14_0041c", 
+    "shiptracking": "ST000509", 
+    "scanner": "scribe1.beltsville.archive.org", 
+    "creator": [
+      "Beckert's Seed Store", 
+      "Beckert's Seed Store", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection", 
+    "ppi": "350", 
+    "nal_call_number": "62.73", 
+    "operator": "associate-mang-pau@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "invoice": "3", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "subject": [
+      "Nurseries (Horticulture) Pennsylvania Pittsburgh Catalogs", 
+      "Nursery stock Pennsylvania Pittsburgh Catalogs", 
+      "Vegetables Seeds Pennsylvania Pittsburgh Catalogs", 
+      "Flowers Seeds Pennsylvania Pittsburgh Catalogs", 
+      "Bulbs (Plants) Pennsylvania Pittsburgh Catalogs"
+    ], 
+    "call_number": "CAT31130035", 
+    "title": "Beckert's bulb catalogue", 
+    "repub_state": "4", 
+    "possible-copyright-status": "The contributing institution believes that this item is not in copyright", 
+    "camera": "Canon EOS 5D Mark II", 
+    "ocr": "ABBYY FineReader 9.0", 
+    "identifier-access": "http://archive.org/details/beckertsbulbcata1920beck", 
+    "scanningcenter": "beltsville", 
+    "description": [
+      "Cover title", 
+      "Includes index"
+    ], 
+    "identifier-ark": "ark:/13960/t0bw02c70", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "fedlink", 
+      "americana", 
+      "biodiversity"
+    ], 
+    "volume": "1920", 
+    "repub_seconds": "93", 
+    "updater": "associate-adrianna-flores@archive.org", 
+    "updatedate": "2013-11-07 15:29:58", 
+    "uploader": "associate-adrianna-flores@archive.org", 
+    "date": "1920", 
+    "republisher": "associate-mang-pau@archive.org", 
+    "addeddate": "2013-11-07 15:30:01.100018", 
+    "publisher": "Pittsburgh, Pa. : Beckert's Seed Store", 
+    "publicdate": "2013-11-07 14:20:37", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "curation": "[curator]admin-shelia-deroche@archive.org[/curator][date]20140502144926[/date][state]approved[/state][comment]invoice201404[/comment]", 
+    "imagecount": "40", 
+    "identifier": "beckertsbulbcata1920beck", 
+    "sponsordate": "20140430", 
+    "unique_id": "CAT31130035", 
+    "scandate": "20140228164050"
+  }, 
+  "d2": "ia801005.us.archive.org", 
+  "files_count": 17, 
+  "d1": "ia601005.us.archive.org"
+}

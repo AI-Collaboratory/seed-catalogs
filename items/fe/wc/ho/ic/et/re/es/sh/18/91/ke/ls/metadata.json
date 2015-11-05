@@ -1,0 +1,275 @@
+{
+  "files": [
+    {
+      "sha1": "8f6717d78bc86b0f2b4c14324e5708113093b666", 
+      "name": "fewchoicetreessh1891kels_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1404313626", 
+      "crc32": "b9ab825a", 
+      "md5": "df4f5344649bc22731614ecbdf49001a", 
+      "size": "3657"
+    }, 
+    {
+      "sha1": "6249f102392874e48a1094ce134a1a1ae3aff2ae", 
+      "name": "fewchoicetreessh1891kels_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1404313626", 
+      "crc32": "3e79c30d", 
+      "md5": "42a3e6ee70aa2f643736aaed33ab8513", 
+      "size": "1075"
+    }, 
+    {
+      "sha1": "ff0d38a476d00141cf15a48a51d6e96080722f9d", 
+      "name": "fewchoicetreessh1891kels_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1404313626", 
+      "crc32": "b8048809", 
+      "md5": "fbdda9cda7d49c25b8fd7a316f3207ba", 
+      "size": "1573"
+    }, 
+    {
+      "sha1": "4d367569cfa2e39914814387d609db6f414c363e", 
+      "name": "fewchoicetreessh1891kels_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1404313626", 
+      "crc32": "5d0ade2c", 
+      "md5": "0f2cedb6c8aab9872bd9c39d665e8f35", 
+      "size": "320"
+    }, 
+    {
+      "sha1": "2c4a09419305e1c38c9f96732f3b8f723fea840e", 
+      "name": "fewchoicetreessh1891kels_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1405004495", 
+      "crc32": "ed0d239f", 
+      "md5": "42491d5bb126996a10caf4143face81c", 
+      "size": "22292"
+    }, 
+    {
+      "sha1": "33ed949c85b42ebe50a4d3a05c95f6e48d6d3b58", 
+      "name": "fewchoicetreessh1891kels_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1405004497", 
+      "crc32": "70438010", 
+      "md5": "f59a5ee3159ab3422c9b511c070eb3e3", 
+      "size": "13445120"
+    }, 
+    {
+      "sha1": "a977b9ffbae16f1dd3e7e63c55ae3b3e610defcc", 
+      "name": "fewchoicetreessh1891kels_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1405005000", 
+      "crc32": "6e515010", 
+      "md5": "fcd4d95a08432573437649987c6ebffd", 
+      "original": "fewchoicetreessh1891kels_orig_jp2.tar", 
+      "size": "7912166"
+    }, 
+    {
+      "sha1": "e9da6ba2860a77553f41f9560e715dd64a2f0f45", 
+      "name": "fewchoicetreessh1891kels_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1405005408", 
+      "crc32": "edf7e02b", 
+      "md5": "4c46bb19072dd3a6f98c4340a2abef0f", 
+      "original": "fewchoicetreessh1891kels_abbyy.gz", 
+      "size": "243305"
+    }, 
+    {
+      "sha1": "1ffc308d6ab1829d1ed449064367a3405347c051", 
+      "name": "fewchoicetreessh1891kels_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1405005615", 
+      "crc32": "fd3e8f6c", 
+      "md5": "6a945e4dcb920799a1b808a35dbb2ec3", 
+      "original": "fewchoicetreessh1891kels.djvu", 
+      "size": "25750"
+    }, 
+    {
+      "sha1": "61b490b5d73c4a1aa5a95705fcf86b09dac4f99d", 
+      "name": "fewchoicetreessh1891kels.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1405005608", 
+      "crc32": "f4c358b1", 
+      "md5": "7d01e467c1b69f4d5531a28a50fa3b3a", 
+      "original": "fewchoicetreessh1891kels_djvu.xml", 
+      "size": "757227"
+    }, 
+    {
+      "sha1": "b15f1898b941607d771997372f279e7e0478faa7", 
+      "name": "fewchoicetreessh1891kels_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1405005392", 
+      "crc32": "3130c4cc", 
+      "md5": "38050a1715ccfe4e9c91dcfc02664a78", 
+      "original": "fewchoicetreessh1891kels_jp2.zip", 
+      "size": "379035"
+    }, 
+    {
+      "sha1": "9b5b633932d6ef7a85d9998e7e79951351abc84b", 
+      "name": "fewchoicetreessh1891kels.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1405005420", 
+      "crc32": "1fb13078", 
+      "md5": "caf56f3e263bc7438f4808acd9940937", 
+      "original": "fewchoicetreessh1891kels_abbyy.gz", 
+      "size": "141680"
+    }, 
+    {
+      "sha1": "5ca6ad3e7954385af844cfbea712640db288a3a8", 
+      "name": "fewchoicetreessh1891kels.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1405005496", 
+      "crc32": "03dc6e92", 
+      "md5": "0a1187b29f61998f4ec04896f1959715", 
+      "original": "fewchoicetreessh1891kels_djvu.xml", 
+      "size": "374248"
+    }, 
+    {
+      "sha1": "52190e8bf2e039256e836e914131b0a9ec3fa5f0", 
+      "name": "fewchoicetreessh1891kels.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1405005022", 
+      "crc32": "e75f0a01", 
+      "md5": "7a5784d0d66717a6749476452d1721e8", 
+      "original": "fewchoicetreessh1891kels_jp2.zip", 
+      "size": "94115"
+    }, 
+    {
+      "sha1": "131ce886cd213d08fcd770fd570a5fa6202d8654", 
+      "name": "fewchoicetreessh1891kels_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1418946139", 
+      "crc32": "9de4a2b9", 
+      "md5": "53b9bc483f72ab68d3c055016018efb4", 
+      "size": "2972"
+    }, 
+    {
+      "sha1": "3208204f9075efa8cc0ffaa19941743e8b58e5da", 
+      "name": "fewchoicetreessh1891kels_meta.sqlite", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1444374166", 
+      "crc32": "2c692923", 
+      "md5": "cace83f896367656b7171e7d5e39c54d", 
+      "size": "6144"
+    }, 
+    {
+      "sha1": "f62a662f9bc270b8d6d49dda124d9f2eef01147d", 
+      "name": "fewchoicetreessh1891kels_bhlmets.xml", 
+      "format": "Biodiversity Heritage Library METS", 
+      "source": "original", 
+      "mtime": "1444374161", 
+      "crc32": "cf13b8ce", 
+      "md5": "31963636ded24ee38fb0868b2ef49b5f", 
+      "size": "10194"
+    }, 
+    {
+      "sha1": "6779b8cb634fa85fd2d4fdfb6fb56f7582df8e83", 
+      "name": "fewchoicetreessh1891kels_archive.torrent", 
+      "btih": "6c18e0eb93164b3cc498be1313bf0853bbaa3608", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1444374169", 
+      "crc32": "521dad96", 
+      "md5": "301f394be4865452d96928e27363721f", 
+      "size": "4580"
+    }, 
+    {
+      "source": "original", 
+      "md5": "42e6816736a5376d448196851ad31698", 
+      "name": "fewchoicetreessh1891kels_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "uniq": 476364150, 
+  "created": 1446751247, 
+  "workable_servers": [
+    "ia902507.us.archive.org"
+  ], 
+  "server": "ia902507.us.archive.org", 
+  "item_size": 23425453, 
+  "dir": "/16/items/fewchoicetreessh1891kels", 
+  "metadata": {
+    "partner_shiptracking": "NC14_1891_K-O", 
+    "shiptracking": "ST001860", 
+    "scanner": "scribe2.beltsville.archive.org", 
+    "creator": [
+      "Kelsey, Fred W", 
+      "F.W. Kelsey Nursery Company", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection.", 
+    "ppi": "500", 
+    "subcollection": "henryggilbertnurseryandseedtradecollection", 
+    "nal_call_number": "62.61", 
+    "operator": "associate-saw-thein@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "copyright_message": "The contributing institution believes that this item is not in copyright", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "subject": [
+      "Nurseries (Horticulture) New York (State) New York Catalogs", 
+      "Trees Seedlings Catalogs", 
+      "Plants, Ornamental Catalogs", 
+      "Fruit Catalogs"
+    ], 
+    "call_number": "CAT31280246", 
+    "title": "A few choice trees, shrubs and hardy plants : specialties, novelties", 
+    "repub_state": "4", 
+    "camera": "Canon EOS 5D Mark II", 
+    "invoice": "3", 
+    "ocr": "ABBYY FineReader 9.0", 
+    "identifier-access": "http://archive.org/details/fewchoicetreessh1891kels", 
+    "scanningcenter": "beltsville", 
+    "description": [
+      "Cover title", 
+      "Includes insert \"Surplus Stock.\""
+    ], 
+    "identifier-ark": "ark:/13960/t3031jr9v", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "fedlink", 
+      "americana", 
+      "biodiversity"
+    ], 
+    "volume": "1891", 
+    "repub_seconds": "73876", 
+    "updater": "associate-manuel-dennis@archive.org", 
+    "updatedate": "2014-07-02 15:07:06", 
+    "uploader": "associate-manuel-dennis@archive.org", 
+    "date": "1891", 
+    "republisher": "associate-marc-adona@archive.org", 
+    "addeddate": "2014-07-02 15:07:08.545597", 
+    "publisher": "New York : Fred W. Kelsey", 
+    "publicdate": "2014-07-02 14:06:41", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "curation": "[curator]admin-shelia-deroche@archive.org[/curator][date]20140806170202[/date][state]approved[/state][comment]invoice201407[/comment]", 
+    "notes": "No copyright page found. No table-of-contents pages found.", 
+    "imagecount": "14", 
+    "identifier": "fewchoicetreessh1891kels", 
+    "sponsordate": "20140731", 
+    "unique_id": "CAT31280246", 
+    "scandate": "20140708130719"
+  }, 
+  "files_count": 19, 
+  "d1": "ia902507.us.archive.org"
+}

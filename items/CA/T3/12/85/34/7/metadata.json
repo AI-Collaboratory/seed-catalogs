@@ -1,0 +1,270 @@
+{
+  "files": [
+    {
+      "sha1": "8a254b7de16b480a6d29f02ce0abcf20f02764d9", 
+      "name": "CAT31285347_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1413564231", 
+      "crc32": "34b5da07", 
+      "md5": "fb62bb0125cd86929f4bc8c4a6f5a98e", 
+      "size": "307"
+    }, 
+    {
+      "sha1": "0489f1e50a82abf5baa6df3fa5c464d6fcf5371f", 
+      "name": "CAT31285347_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1413564231", 
+      "crc32": "3e7abef8", 
+      "md5": "10b47a3940ca916e45fba20265127a71", 
+      "size": "1174"
+    }, 
+    {
+      "sha1": "dc31e20bd961a2204ffc2415b9885fe1cd9efa55", 
+      "name": "CAT31285347_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1413564231", 
+      "crc32": "02f81380", 
+      "md5": "11b5dcaf5fbf0c7cb12f62989b232b3a", 
+      "size": "901"
+    }, 
+    {
+      "sha1": "bc24222dcd565ee692d82b8fe1e0bf7fc35e9140", 
+      "name": "CAT31285347_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1413564231", 
+      "crc32": "34313584", 
+      "md5": "e161dfa962b7f64c7efeb143b1b7381b", 
+      "size": "3154"
+    }, 
+    {
+      "sha1": "5ac518a953220c645ab8dd95ec8e238163da858d", 
+      "name": "CAT31285347_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1415111075", 
+      "crc32": "d06bb934", 
+      "md5": "95aa2bb89c8a45b1ba08f1d98982a303", 
+      "size": "9999"
+    }, 
+    {
+      "sha1": "686d6a5fb44c898c1e84c88182d59648aec22b63", 
+      "name": "CAT31285347_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1415111075", 
+      "crc32": "a53c66b1", 
+      "md5": "923e9bc96633bf5094c55cdda98bb7c1", 
+      "size": "3819520"
+    }, 
+    {
+      "sha1": "4c94801d2def472922588ea07970c5583a212a0b", 
+      "name": "CAT31285347_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1415111827", 
+      "crc32": "b16ffd7b", 
+      "md5": "20444953757d500062a77de57e41c716", 
+      "original": "CAT31285347_abbyy.gz", 
+      "size": "16003"
+    }, 
+    {
+      "sha1": "5c08b37ade41b8b5fd85c96a5b3eadd4b96520c6", 
+      "name": "CAT31285347_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1415111749", 
+      "crc32": "4b3e7d87", 
+      "md5": "48c46e98889c00e330cb9bfe4e04bf64", 
+      "original": "CAT31285347_orig_jp2.tar", 
+      "size": "1705027"
+    }, 
+    {
+      "sha1": "1a9d6ee05cac5ff7e1bb1052eba7bf0369393dac", 
+      "name": "CAT31285347.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1415111858", 
+      "crc32": "124d9c86", 
+      "md5": "f9a49329c402d7150725dd25a4e37ce6", 
+      "original": "CAT31285347_djvu.xml", 
+      "size": "74129"
+    }, 
+    {
+      "sha1": "b8363b0146fcf5a2a81f5ca5cb9fee518050e136", 
+      "name": "CAT31285347_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1415111892", 
+      "crc32": "d29bafd6", 
+      "md5": "be80402cb74662f1e6a8ad0252d84066", 
+      "original": "CAT31285347.djvu", 
+      "size": "1606"
+    }, 
+    {
+      "sha1": "08037932ceea36d287c39496145f588fa6382d60", 
+      "name": "CAT31285347.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1415111886", 
+      "crc32": "1b5925c3", 
+      "md5": "b6e68bb02fe5c22bfb53acc2aa0834a4", 
+      "original": "CAT31285347_djvu.xml", 
+      "size": "142810"
+    }, 
+    {
+      "sha1": "822cdcc26ddd1b28833ffe3150d23b5612e13595", 
+      "name": "CAT31285347_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1415111820", 
+      "crc32": "167134c6", 
+      "md5": "c849b4d33fb7da3d30a71affa779dae4", 
+      "original": "CAT31285347_jp2.zip", 
+      "size": "24438"
+    }, 
+    {
+      "sha1": "7372ec1451ffec04feb1b13457d4d804bd49515d", 
+      "name": "CAT31285347.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1415111838", 
+      "crc32": "68520867", 
+      "md5": "637e9ecfd935ab0091a06410164a9827", 
+      "original": "CAT31285347_abbyy.gz", 
+      "size": "122217"
+    }, 
+    {
+      "sha1": "0f3442c1fe22e2f27e3997c679a3a1554182bd88", 
+      "name": "CAT31285347.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1415111765", 
+      "crc32": "5a7a0d82", 
+      "md5": "cc5fc605b7518adaaa2d3f9b8398aebf", 
+      "original": "CAT31285347_jp2.zip", 
+      "size": "43081"
+    }, 
+    {
+      "sha1": "3c82e78de8d7bb35bf2666f667cf805f4dfb65ee", 
+      "name": "CAT31285347_meta.sqlite", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1415608023", 
+      "crc32": "aa714456", 
+      "md5": "4799d4221cfe1fcc76d63a3dcff98a72", 
+      "size": "6144"
+    }, 
+    {
+      "sha1": "860546b866297abcd730094765669bf83ac57303", 
+      "name": "CAT31285347_bhlmets.xml", 
+      "format": "Biodiversity Heritage Library METS", 
+      "source": "original", 
+      "mtime": "1415608020", 
+      "crc32": "0c801e59", 
+      "md5": "787d368f1dd342c554fc55adf8071588", 
+      "size": "5146"
+    }, 
+    {
+      "sha1": "d227e8be3ba4921b08383131943c59ffa82d0e44", 
+      "name": "CAT31285347_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1418849534", 
+      "crc32": "9264e664", 
+      "md5": "88cd2944ab576022b898f68edba141da", 
+      "size": "2590"
+    }, 
+    {
+      "sha1": "95d7d5d465bd79d6ae56b1c7c6c67dd8310626d1", 
+      "name": "CAT31285347_archive.torrent", 
+      "btih": "b81307d49ce197279286ed1ead57c644cf71e10d", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1418849535", 
+      "crc32": "9106a016", 
+      "md5": "ecc100f51d3ccec26c440aaa6229435d", 
+      "size": "3971"
+    }, 
+    {
+      "source": "original", 
+      "md5": "24690913216b50f5901133974aab6d6e", 
+      "name": "CAT31285347_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "updated": 1446751992, 
+  "uniq": 673935847, 
+  "created": 1446751991, 
+  "workable_servers": [
+    "ia802205.us.archive.org", 
+    "ia902205.us.archive.org"
+  ], 
+  "server": "ia802205.us.archive.org", 
+  "item_size": 5982217, 
+  "dir": "/13/items/CAT31285347", 
+  "metadata": {
+    "partner_shiptracking": "NC15_1901_W-Z", 
+    "shiptracking": "ST002605", 
+    "scanner": "scribe2.beltsville.archive.org", 
+    "creator": [
+      "Zirngiebel, Denys", 
+      "Denys Zirngiebel (Firm)", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection.", 
+    "ppi": "500", 
+    "subcollection": "henryggilbertnurseryandseedtradecollection", 
+    "nal_call_number": "62.39", 
+    "operator": "associate-saw-thein@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "copyright_message": "The contributing institution believes that this item is not in copyright", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "subject": [
+      "Nursery stock Massachusetts Needham Catalogs", 
+      "Pansies Seeds Catalogs"
+    ], 
+    "title": "Zirngiebel's new giant pansies", 
+    "repub_state": "4", 
+    "camera": "Canon EOS 5D Mark II", 
+    "invoice": "3", 
+    "ocr": "ABBYY FineReader 9.0", 
+    "identifier-access": "http://archive.org/details/CAT31285347", 
+    "scanningcenter": "beltsville", 
+    "identifier-ark": "ark:/13960/t2m64fv22", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "biodiversity", 
+      "fedlink", 
+      "americana"
+    ], 
+    "volume": "1901", 
+    "repub_seconds": "78405", 
+    "updater": "associate-manuel-dennis@archive.org", 
+    "updatedate": "2014-10-17 16:43:51", 
+    "uploader": "associate-manuel-dennis@archive.org", 
+    "date": "1901", 
+    "republisher": "associate-mang-pau@archive.org", 
+    "addeddate": "2014-10-17 16:43:53.793706", 
+    "publisher": "Needham, Mass. : Denys Zirngiebel", 
+    "publicdate": "2014-10-17 15:50:20", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "curation": "[curator]admin-shelia-deroche@archive.org[/curator][date]20141202145434[/date][state]approved[/state][comment]invoice201411[/comment]", 
+    "imagecount": "6", 
+    "identifier": "CAT31285347", 
+    "sponsordate": "20141130", 
+    "unique_id": "CAT31285347", 
+    "scandate": "20141029163126"
+  }, 
+  "d2": "ia802205.us.archive.org", 
+  "files_count": 19, 
+  "d1": "ia902205.us.archive.org"
+}

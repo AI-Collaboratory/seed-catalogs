@@ -1,0 +1,259 @@
+{
+  "files": [
+    {
+      "sha1": "0a0709405518c2842bee327f013e5f970cc87e2a", 
+      "name": "wyattsseeds1935jobp_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1406126432", 
+      "crc32": "841a38ec", 
+      "md5": "90a910ab2c8da3e75e617ed94ac3085d", 
+      "size": "315"
+    }, 
+    {
+      "sha1": "efc31de7c96dea1c3b8293511b9dbc89cfadb475", 
+      "name": "wyattsseeds1935jobp_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1406126432", 
+      "crc32": "8f302e02", 
+      "md5": "c836ce1f89f541b6b3aa65f47a605247", 
+      "size": "1849"
+    }, 
+    {
+      "sha1": "f6ea07670a6f6973be7c74f6dbcb745b90f26ad9", 
+      "name": "wyattsseeds1935jobp_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1406126432", 
+      "crc32": "7e00ae87", 
+      "md5": "37ad63bf81206db28edc642588d5842e", 
+      "size": "4914"
+    }, 
+    {
+      "sha1": "ace6a86360ab4b9fe920ffc07fd766cee72f67b0", 
+      "name": "wyattsseeds1935jobp_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1406126432", 
+      "crc32": "542c6d9e", 
+      "md5": "cec9f83b306de25dee346e57257c32ec", 
+      "size": "1415"
+    }, 
+    {
+      "sha1": "9d75b3c0b8450335526723607d25a1e1ee31c25b", 
+      "name": "wyattsseeds1935jobp_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1406639858", 
+      "crc32": "55700a75", 
+      "md5": "4bc3d692a868bd027716f6f9b1666323", 
+      "size": "120126"
+    }, 
+    {
+      "sha1": "a548688dd24b9d250852620354e094a74d3134d7", 
+      "name": "wyattsseeds1935jobp_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1406639861", 
+      "crc32": "e683b862", 
+      "md5": "cca15c3007a4f92b8a39421a1adf822a", 
+      "size": "110325760"
+    }, 
+    {
+      "sha1": "f533856d71f21f8f7bb0ce8d7e3a32e61f1a0121", 
+      "name": "wyattsseeds1935jobp_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1406642810", 
+      "crc32": "57822767", 
+      "md5": "7b23e291972865eccd4a61ecc5513b46", 
+      "original": "wyattsseeds1935jobp_orig_jp2.tar", 
+      "size": "71673763"
+    }, 
+    {
+      "sha1": "1678c18ba6d97acf37557f6f52d9f80367f525f4", 
+      "name": "wyattsseeds1935jobp_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1406649579", 
+      "crc32": "59a3970e", 
+      "md5": "209448170756a3ba5505ef8ce7a11ef5", 
+      "original": "wyattsseeds1935jobp_jp2.zip", 
+      "size": "6109080"
+    }, 
+    {
+      "sha1": "1410cf3385e89e3639aab7d9acf2311fa6e49faf", 
+      "name": "wyattsseeds1935jobp.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1406649989", 
+      "crc32": "832b447a", 
+      "md5": "35a2168b2bfb662f1124488878c6d9c0", 
+      "original": "wyattsseeds1935jobp_abbyy.gz", 
+      "size": "1903561"
+    }, 
+    {
+      "sha1": "d3b1ee2d161e0ebb1fd2af0ce9d0106284620394", 
+      "name": "wyattsseeds1935jobp_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1406651577", 
+      "crc32": "e835bf3b", 
+      "md5": "d17140720ed5c655f55c4e2d6007d332", 
+      "original": "wyattsseeds1935jobp.djvu", 
+      "size": "419567"
+    }, 
+    {
+      "sha1": "11b2521184cebb64c52defe5a6c6bee196138d63", 
+      "name": "wyattsseeds1935jobp.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1406650662", 
+      "crc32": "40682224", 
+      "md5": "09a2305da8355149be9f8d0e0bd46d11", 
+      "original": "wyattsseeds1935jobp_djvu.xml", 
+      "size": "6796596"
+    }, 
+    {
+      "sha1": "af0eaffb0474e3eab92ae241e30b3c024fe0da2c", 
+      "name": "wyattsseeds1935jobp.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1406642883", 
+      "crc32": "dde7d602", 
+      "md5": "ee504f541018f4d87a99a37731666f49", 
+      "original": "wyattsseeds1935jobp_jp2.zip", 
+      "size": "302741"
+    }, 
+    {
+      "sha1": "89d707b3ca02e430b2d22e0c7072ec11db9ea130", 
+      "name": "wyattsseeds1935jobp.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1406651556", 
+      "crc32": "59614dcf", 
+      "md5": "db52be89369c57017e3a78644fa5d83b", 
+      "original": "wyattsseeds1935jobp_djvu.xml", 
+      "size": "10407262"
+    }, 
+    {
+      "sha1": "5dcee0c0a1542749aed076d922fce50916653cd9", 
+      "name": "wyattsseeds1935jobp_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1406649779", 
+      "crc32": "4ee813c5", 
+      "md5": "b2362183189c05f6aca918bc6445c482", 
+      "original": "wyattsseeds1935jobp_abbyy.gz", 
+      "size": "4045455"
+    }, 
+    {
+      "sha1": "32e61d0ad7fcde4b3eec747e79aff21f656fc58a", 
+      "name": "wyattsseeds1935jobp_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1418949058", 
+      "crc32": "97d74a90", 
+      "md5": "6b6ae00e6ba6b5809cd2b92a84690dce", 
+      "size": "3029"
+    }, 
+    {
+      "sha1": "5275a215cbd930a44233450fd3a15e70594096d9", 
+      "name": "wyattsseeds1935jobp_archive.torrent", 
+      "btih": "579660a9cc6699ed5d2859cab728342799d5c736", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1418949060", 
+      "crc32": "2f99a55c", 
+      "md5": "9ec498e62e8f24a8a835ce823f9b68bd", 
+      "size": "7602"
+    }, 
+    {
+      "source": "original", 
+      "md5": "94adceda8756f67c83b54aed4c617aca", 
+      "name": "wyattsseeds1935jobp_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "updated": 1446712672, 
+  "uniq": 776379272, 
+  "created": 1446643395, 
+  "workable_servers": [
+    "ia802509.us.archive.org", 
+    "ia902509.us.archive.org"
+  ], 
+  "server": "ia802509.us.archive.org", 
+  "item_size": 212123035, 
+  "dir": "/5/items/wyattsseeds1935jobp", 
+  "metadata": {
+    "partner_shiptracking": "NC14_0096_Wyatt", 
+    "shiptracking": "ST002078", 
+    "scanner": "scribe1.beltsville.archive.org", 
+    "creator": [
+      "Job P. Wyatt and Sons Company", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection.", 
+    "ppi": "300", 
+    "subcollection": "henryggilbertnurseryandseedtradecollection", 
+    "nal_call_number": "62.63", 
+    "operator": "associate-marc-adona@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "copyright_message": "The contributing institution believes that this item is not in copyright", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "subject": [
+      "Nurseries (Horticulture) North Carolina Raleigh Catalogs", 
+      "Nursery stock North Carolina Raleigh Catalogs", 
+      "Seeds North Carolina Raleigh Catalogs", 
+      "Bulbs (Plants) North Carolina Raleigh Catalogs", 
+      "Vegetables North Carolina Raleigh Catalogs", 
+      "Gardening Nort"
+    ], 
+    "call_number": "CAT31277921", 
+    "title": "Wyatts seeds", 
+    "repub_state": "4", 
+    "camera": "Canon EOS 5D Mark II", 
+    "invoice": "3", 
+    "ocr": "ABBYY FineReader 9.0", 
+    "identifier-access": "http://archive.org/details/wyattsseeds1935jobp", 
+    "scanningcenter": "beltsville", 
+    "description": [
+      "Cover title", 
+      "Includes index"
+    ], 
+    "identifier-ark": "ark:/13960/t9h44gh86", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "fedlink", 
+      "americana", 
+      "biodiversity"
+    ], 
+    "volume": "1935", 
+    "repub_seconds": "64364", 
+    "updater": "associate-manuel-dennis@archive.org", 
+    "updatedate": "2014-07-23 14:40:31", 
+    "uploader": "associate-manuel-dennis@archive.org", 
+    "date": "1935", 
+    "republisher": "associate-marc-adona@archive.org", 
+    "addeddate": "2014-07-23 14:40:34.182098", 
+    "publisher": "Raleigh, N.C. : Job P. Wyatt and Sons", 
+    "publicdate": "2014-07-23 13:43:40", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "curation": "[curator]admin-shelia-deroche@archive.org[/curator][date]20140902190600[/date][state]approved[/state][comment]invoice201408[/comment]", 
+    "notes": "No copyright page found. No table-of-contents pages found.", 
+    "imagecount": "76", 
+    "identifier": "wyattsseeds1935jobp", 
+    "sponsordate": "20140831", 
+    "unique_id": "CAT31277921", 
+    "scandate": "20140725112117"
+  }, 
+  "d2": "ia802509.us.archive.org", 
+  "files_count": 17, 
+  "d1": "ia902509.us.archive.org"
+}

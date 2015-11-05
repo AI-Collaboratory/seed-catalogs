@@ -1,0 +1,259 @@
+{
+  "files": [
+    {
+      "sha1": "1f7c723209b1b9848be9998c35da3037ff1a3304", 
+      "name": "CAT31283573_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1410529329", 
+      "crc32": "5585ea7e", 
+      "md5": "88ba052af598777ba24ec15bad9f6d0f", 
+      "size": "1144"
+    }, 
+    {
+      "sha1": "e85d4499fe6421e91a6edfa5b38eecc8c997898b", 
+      "name": "CAT31283573_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1410529329", 
+      "crc32": "08161a23", 
+      "md5": "5ae23dc6f5d6475e3fca0c82db593297", 
+      "size": "3878"
+    }, 
+    {
+      "sha1": "fe040a69f2c47c5fb42535b61a305ff10a9205da", 
+      "name": "CAT31283573_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1410529329", 
+      "crc32": "1a44474a", 
+      "md5": "9797954af92c7336fbdf572bf97edf94", 
+      "size": "307"
+    }, 
+    {
+      "sha1": "fbb9756ad7593fa5fc075cc89613751c5106505c", 
+      "name": "CAT31283573_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1410529329", 
+      "crc32": "3513bb10", 
+      "md5": "225ad9b7bf3467ef8b6bc6cd8b6c38b9", 
+      "size": "1370"
+    }, 
+    {
+      "sha1": "00c6c31a1ae49c7c2e379731942457e0f079f9fe", 
+      "name": "CAT31283573_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1410907477", 
+      "crc32": "5661f570", 
+      "md5": "4ed87a46fb4cab51db602832034937b3", 
+      "size": "91490"
+    }, 
+    {
+      "sha1": "7303f5b22dccf7df91f1eecf50679a89fac822f4", 
+      "name": "CAT31283573_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1410907479", 
+      "crc32": "989e92f9", 
+      "md5": "2ebc8af53f6aa9a13b90c90a136cc176", 
+      "size": "47943680"
+    }, 
+    {
+      "sha1": "49a067eb40587af63d05ccab96f261397a832392", 
+      "name": "CAT31283573_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1410909632", 
+      "crc32": "185147d3", 
+      "md5": "9491e342a89479b0e98c36c7087749bf", 
+      "original": "CAT31283573_jp2.zip", 
+      "size": "1145076"
+    }, 
+    {
+      "sha1": "ffb64c82ce4daa104266052811fd01e234b4d5af", 
+      "name": "CAT31283573_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1410909124", 
+      "crc32": "4448119f", 
+      "md5": "1188b465a8d4d1fe444a3ec4e1261b3f", 
+      "original": "CAT31283573_orig_jp2.tar", 
+      "size": "35109332"
+    }, 
+    {
+      "sha1": "2a51bfa7d950c4153dade4ffc214d4aa17dceb81", 
+      "name": "CAT31283573_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1410909667", 
+      "crc32": "ac55693e", 
+      "md5": "09a5f7a09b52a49395b50e6379aa2b4d", 
+      "original": "CAT31283573_abbyy.gz", 
+      "size": "692649"
+    }, 
+    {
+      "sha1": "ce1f3e95218083ac9f09de6f43fe9d7f8ce362ad", 
+      "name": "CAT31283573_toc.xml", 
+      "format": "Contents", 
+      "source": "derivative", 
+      "mtime": "1410909709", 
+      "crc32": "bac0d2d2", 
+      "md5": "fc0dab8869088e8709a16a2ae929d17d", 
+      "original": "CAT31283573_djvu.xml", 
+      "size": "63"
+    }, 
+    {
+      "sha1": "474e39ec2d9d33fb51562dc4bad11320eb3029ef", 
+      "name": "CAT31283573.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1410909173", 
+      "crc32": "cc6316ed", 
+      "md5": "fd2e5dadaad0140b6acc3589a914426d", 
+      "original": "CAT31283573_jp2.zip", 
+      "size": "280357"
+    }, 
+    {
+      "sha1": "ae3a184af61c91064d65e6b2b9f442ee5a76c461", 
+      "name": "CAT31283573.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1410910521", 
+      "crc32": "4fa298de", 
+      "md5": "e5331c6f759a9308acda33b85ff3d2d8", 
+      "original": "CAT31283573_djvu.xml", 
+      "size": "5272849"
+    }, 
+    {
+      "sha1": "79198dd46ccbc2ebe2ba0c0b689da84d2ce17370", 
+      "name": "CAT31283573_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1410910534", 
+      "crc32": "0afdd7af", 
+      "md5": "c5800fab4727d36131193fa7d554dc95", 
+      "original": "CAT31283573.djvu", 
+      "size": "76746"
+    }, 
+    {
+      "sha1": "7c212eaa182aafcb8a188d41f5ee77bc12abccef", 
+      "name": "CAT31283573.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1410909702", 
+      "crc32": "c90b8f76", 
+      "md5": "3df888873b270aa8577dd5848dd83612", 
+      "original": "CAT31283573_abbyy.gz", 
+      "size": "535087"
+    }, 
+    {
+      "sha1": "cef353e3f248fd0c8043efd10a79410588bfe100", 
+      "name": "CAT31283573.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1410910024", 
+      "crc32": "b7ffaaf0", 
+      "md5": "eb372aef6b9e6f6ef95b41a2ded04f7e", 
+      "original": "CAT31283573_djvu.xml", 
+      "size": "3073557"
+    }, 
+    {
+      "sha1": "72b6e67107ea7e97e35fef88c37cda5d8e6949a9", 
+      "name": "CAT31283573_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1415309094", 
+      "crc32": "823e3c37", 
+      "md5": "a5f34b8d22a39200e3b0d53b88909305", 
+      "size": "2699"
+    }, 
+    {
+      "sha1": "b8d25d461e0cf3970161cc98347cf9e500d9a3d2", 
+      "name": "CAT31283573_archive.torrent", 
+      "btih": "9b9ca386813dd43c816c46f8b39bd4f9d1ccc869", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1415309096", 
+      "crc32": "f7c6b747", 
+      "md5": "0f9b0a32c3eaf3dba31ec927ead3e958", 
+      "size": "5481"
+    }, 
+    {
+      "source": "original", 
+      "md5": "61f6e0c5ba1ba8a2c883fb141271f80a", 
+      "name": "CAT31283573_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "uniq": 1628331786, 
+  "created": 1446600677, 
+  "workable_servers": [
+    "ia902300.us.archive.org"
+  ], 
+  "server": "ia902300.us.archive.org", 
+  "item_size": 94235765, 
+  "dir": "/14/items/CAT31283573", 
+  "metadata": {
+    "partner_shiptracking": "NC14_1898_T-V", 
+    "shiptracking": "ST002392", 
+    "scanner": "scribe3.beltsville.archive.org", 
+    "creator": [
+      "Robert Veitch & Son", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection.", 
+    "ppi": "500", 
+    "subcollection": "henryggilbertnurseryandseedtradecollection", 
+    "nal_call_number": "62.13", 
+    "operator": "associate-mark-kanaskie@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "copyright_message": "The contributing institution believes that this item is not in copyright", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "subject": [
+      "Nursery stock Connecticut Catalogs", 
+      "Vegetables Seeds Catalogs", 
+      "Herbs Seeds Catalogs", 
+      "Flowers Catalogs", 
+      "Commercial catalogs Connecticut New Haven"
+    ], 
+    "title": "Robert Veitch & Son's catalogue of seeds and plants for spring 1898", 
+    "repub_state": "4", 
+    "camera": "Canon EOS 5D Mark II", 
+    "invoice": "3", 
+    "ocr": "ABBYY FineReader 9.0", 
+    "identifier-access": "http://archive.org/details/CAT31283573", 
+    "scanningcenter": "beltsville", 
+    "identifier-ark": "ark:/13960/t28941433", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "fedlink", 
+      "americana"
+    ], 
+    "volume": "1898", 
+    "repub_seconds": "141", 
+    "updater": "associate-manuel-dennis@archive.org", 
+    "updatedate": "2014-09-12 13:42:09", 
+    "uploader": "associate-manuel-dennis@archive.org", 
+    "date": "1898", 
+    "republisher": "associate-lan-zhu@archive.org", 
+    "addeddate": "2014-09-12 13:42:11.789112", 
+    "publisher": "New Haven, Conn. : Robert Veitch & Son", 
+    "publicdate": "2014-09-12 12:46:49", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "curation": "[curator]admin-shelia-deroche@archive.org[/curator][date]20141104134035[/date][state]approved[/state][comment]invoice201410[/comment]", 
+    "imagecount": "58", 
+    "identifier": "CAT31283573", 
+    "sponsordate": "20141031", 
+    "unique_id": "CAT31283573", 
+    "scandate": "20140916161928"
+  }, 
+  "files_count": 18, 
+  "d1": "ia902300.us.archive.org"
+}

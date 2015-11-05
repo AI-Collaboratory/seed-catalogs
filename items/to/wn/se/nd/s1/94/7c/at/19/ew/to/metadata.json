@@ -1,0 +1,272 @@
+{
+  "files": [
+    {
+      "sha1": "f38bd2942a122a7628dda90751140629ce918870", 
+      "name": "townsends1947cat19ewto_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1374763564", 
+      "crc32": "3514d398", 
+      "md5": "fc78fb639dd232a9c6061f5f1ff44378", 
+      "size": "3550"
+    }, 
+    {
+      "sha1": "b4f53e5d3d99f89b557d079601f76be6127a96ba", 
+      "name": "townsends1947cat19ewto_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1374763564", 
+      "crc32": "ff7b7c50", 
+      "md5": "15349b1717d5b584a4c7e49e09f9a26e", 
+      "size": "323"
+    }, 
+    {
+      "sha1": "9a88167cd702dc36df362215bd497d785ead488a", 
+      "name": "townsends1947cat19ewto_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1374763564", 
+      "crc32": "4b8a3dd3", 
+      "md5": "22b560f7b9dec8bf04d64078d43ed720", 
+      "size": "1558"
+    }, 
+    {
+      "sha1": "6f295bf1f60a06879b04421a12323ca6282a4afd", 
+      "name": "townsends1947cat19ewto_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1374763564", 
+      "crc32": "66854bdb", 
+      "md5": "1eb244560b7476fc3969a95b3726fc7a", 
+      "size": "1027"
+    }, 
+    {
+      "sha1": "113177d2b3b4e0da112fdc1897471200a4a30a45", 
+      "name": "townsends1947cat19ewto_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1377611055", 
+      "crc32": "38d49948", 
+      "md5": "b74404e1121cd82ae28a95cbd7bad090", 
+      "size": "99970"
+    }, 
+    {
+      "sha1": "8b7b9f78a7ccddc3724f0946cc8a0c1b7f7bd58a", 
+      "name": "townsends1947cat19ewto_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1377611059", 
+      "crc32": "a0a4ab15", 
+      "md5": "36b60181534c4f1a7e60ecf573e88cad", 
+      "size": "88586240"
+    }, 
+    {
+      "sha1": "cc913771ed4246a92737706760163cd6f0c0a8d6", 
+      "name": "townsends1947cat19ewto_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1377765742", 
+      "crc32": "0a93a02d", 
+      "md5": "fd5d2cd637229676bbae6a29dc4adf93", 
+      "original": "townsends1947cat19ewto_orig_jp2.tar", 
+      "size": "74653090"
+    }, 
+    {
+      "sha1": "c34607d167b614e462fdd29bb9cf2ae35c0d7c48", 
+      "name": "townsends1947cat19ewto.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1377765771", 
+      "crc32": "964f2410", 
+      "md5": "7d065e4215b60a9481b0112d29f1faee", 
+      "original": "townsends1947cat19ewto_jp2.zip", 
+      "size": "272384"
+    }, 
+    {
+      "sha1": "55029383a60115497fd9f23a2994d2a1f6cdcd8c", 
+      "name": "townsends1947cat19ewto_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1377798718", 
+      "crc32": "6b2617c5", 
+      "md5": "1b86aa9c0bbfc1dbdd69143d7d6e7ae3", 
+      "original": "townsends1947cat19ewto_abbyy.gz", 
+      "size": "1448741"
+    }, 
+    {
+      "sha1": "904505782bccb7f20d3f6e9ea07b2dd04c31f2df", 
+      "name": "townsends1947cat19ewto.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1377798788", 
+      "crc32": "608a10ed", 
+      "md5": "c4d1881c753c98e09d2bb29248af5bc3", 
+      "original": "townsends1947cat19ewto_abbyy.gz", 
+      "size": "1732330"
+    }, 
+    {
+      "sha1": "d3b6ae50bb5119ae913b9a6cc9f1ecd43234898e", 
+      "name": "townsends1947cat19ewto_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1377798671", 
+      "crc32": "9f73da40", 
+      "md5": "2059327e48438806e3e754d74225df04", 
+      "original": "townsends1947cat19ewto_jp2.zip", 
+      "size": "2439246"
+    }, 
+    {
+      "sha1": "b4c228fcb021b0376129098668cc53a705e794fc", 
+      "name": "townsends1947cat19ewto.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1377799739", 
+      "crc32": "eaaf665e", 
+      "md5": "53cbb36ffda653b7eb8005dab5fbdef7", 
+      "original": "townsends1947cat19ewto_djvu.xml", 
+      "size": "12657853"
+    }, 
+    {
+      "sha1": "5a813d364d4f1f4a287c658b8bbb1e4999c5b087", 
+      "name": "townsends1947cat19ewto.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1377799170", 
+      "crc32": "1826c83f", 
+      "md5": "a1b6548b35dcdeba99699447ef16465d", 
+      "original": "townsends1947cat19ewto_djvu.xml", 
+      "size": "8639895"
+    }, 
+    {
+      "sha1": "53e572206ff35abb9e716b584edafe77e3e42027", 
+      "name": "townsends1947cat19ewto_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1377799755", 
+      "crc32": "32809c0b", 
+      "md5": "5ac9e5c599e4d6598fa02ada3ae902d4", 
+      "original": "townsends1947cat19ewto.djvu", 
+      "size": "148340"
+    }, 
+    {
+      "sha1": "b611f5777895b0b068399be5793556a66fbe34ac", 
+      "name": "townsends1947cat19ewto_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1418948739", 
+      "crc32": "7a8502fc", 
+      "md5": "fec260f84d64a15b266c5dd8ec355f7a", 
+      "size": "2657"
+    }, 
+    {
+      "sha1": "f8f997fc8e4e75da368ebf99769aef652412f63f", 
+      "name": "townsends1947cat19ewto_meta.sqlite", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1420968585", 
+      "crc32": "703580f6", 
+      "md5": "8145aa6de229b03482fcb69fee3a097f", 
+      "size": "6144"
+    }, 
+    {
+      "sha1": "f905fde8e86d882f7a94e70b95bbba54881a7df5", 
+      "name": "townsends1947cat19ewto_bhlmets.xml", 
+      "format": "Biodiversity Heritage Library METS", 
+      "source": "original", 
+      "mtime": "1420968582", 
+      "crc32": "f12a2247", 
+      "md5": "2892b9cbafc0c6033e814cb3ba493145", 
+      "size": "35110"
+    }, 
+    {
+      "sha1": "459ffcc5167049f8812020013a5c44f25d75071f", 
+      "name": "townsends1947cat19ewto_archive.torrent", 
+      "btih": "6f56caa882f00aaeb1a1782d0b965683c85cf77b", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1420968589", 
+      "crc32": "710afd73", 
+      "md5": "c30f9855a1c9d007bd64ac1b125e65a0", 
+      "size": "8042"
+    }, 
+    {
+      "source": "original", 
+      "md5": "fbfb8d72195fe698a21ee9af0681023b", 
+      "name": "townsends1947cat19ewto_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "updated": 1446751472, 
+  "uniq": 510087182, 
+  "created": 1446751290, 
+  "workable_servers": [
+    "ia600909.us.archive.org", 
+    "ia800909.us.archive.org"
+  ], 
+  "server": "ia600909.us.archive.org", 
+  "item_size": 190736500, 
+  "dir": "/1/items/townsends1947cat19ewto", 
+  "metadata": {
+    "shiptracking": "ST000090", 
+    "scanner": "scribe4.beltsville.archive.org", 
+    "creator": [
+      "E.W. Townsend & Co", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection", 
+    "ppi": "500", 
+    "nal_call_number": "62.37", 
+    "operator": "associate-mang-pau@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "1", 
+    "scanfee": "100", 
+    "subject": [
+      "Nurseries (Horticulture) Catalogs", 
+      "Strawberries Catalogs", 
+      "Fruit Catalogs", 
+      "Trees Catalogs", 
+      "Asparagus Catalogs"
+    ], 
+    "call_number": "CAT31119636", 
+    "title": "Townsend's 1947 catalog of strawberry plants : fruit trees and other fruit plants", 
+    "repub_state": "4", 
+    "foldout_seconds": "332", 
+    "possible-copyright-status": "The contributing institution believes that this item is not in copyright", 
+    "camera": "Canon EOS 5D Mark II", 
+    "ocr": "ABBYY FineReader 8.0", 
+    "identifier-access": "http://archive.org/details/townsends1947cat19ewto", 
+    "scanningcenter": "beltsville", 
+    "description": "Cover title", 
+    "identifier-ark": "ark:/13960/t54f3n35n", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "fedlink", 
+      "americana", 
+      "biodiversity"
+    ], 
+    "volume": "1947", 
+    "updater": "associate-adrianna-flores@archive.org", 
+    "updatedate": "2013-07-25 14:46:04", 
+    "uploader": "associate-adrianna-flores@archive.org", 
+    "date": "1947", 
+    "republisher": "associate-mang-pau@archive.org", 
+    "addeddate": "2013-07-25 14:46:06", 
+    "foldout-operator": "associate-marc-adona@archive.org", 
+    "publisher": "Salisbury, Md. : E.W. Townsend & Co.", 
+    "publicdate": "2013-07-25 13:47:10", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "notes": "No copyright page found. No table-of-contents pages found.", 
+    "imagecount": "62", 
+    "identifier": "townsends1947cat19ewto", 
+    "sponsordate": "20130831", 
+    "unique_id": "CAT31119636", 
+    "scandate": "20130726144722"
+  }, 
+  "d2": "ia800909.us.archive.org", 
+  "files_count": 19, 
+  "d1": "ia600909.us.archive.org"
+}

@@ -1,0 +1,261 @@
+{
+  "files": [
+    {
+      "sha1": "b3dc4f6654e2eb31f6624e125268b9e9249400aa", 
+      "name": "catalogue1906fanc_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1407343347", 
+      "crc32": "5f652098", 
+      "md5": "4b789cc2e15a06ec683fe8e0e5494b18", 
+      "size": "4629"
+    }, 
+    {
+      "sha1": "14cd76246d8b6dda3789bf635d2df81666b65a72", 
+      "name": "catalogue1906fanc_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1407343347", 
+      "crc32": "fc5a5676", 
+      "md5": "175f01fa96ff7f6b8c204608f9dc98a1", 
+      "size": "1343"
+    }, 
+    {
+      "sha1": "1855bb74cc0be27b90648365982170caeb9f81f2", 
+      "name": "catalogue1906fanc_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1407343347", 
+      "crc32": "92881609", 
+      "md5": "923e342828916d78c2daa99767f12486", 
+      "size": "1768"
+    }, 
+    {
+      "sha1": "53abcb16aa877e72721aa9adca1a7119d14228c2", 
+      "name": "catalogue1906fanc_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1407343347", 
+      "crc32": "8bedfb62", 
+      "md5": "23176d4ad85eef8ce73222e9d947c8a4", 
+      "size": "313"
+    }, 
+    {
+      "sha1": "47c159e0ea0832766493a95efa516e8b03f110c0", 
+      "name": "catalogue1906fanc_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1407927047", 
+      "crc32": "f55b3185", 
+      "md5": "a49771b7888a26ed5cb7c9a08034e511", 
+      "size": "217456640"
+    }, 
+    {
+      "sha1": "b98159458ec2a2d990c67100b293ad5f46d57836", 
+      "name": "catalogue1906fanc_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1407927041", 
+      "crc32": "24042f29", 
+      "md5": "0f0839585370ccb447b2e21e89ac44a8", 
+      "size": "229190"
+    }, 
+    {
+      "sha1": "7cb6d926d7af6c42c035a7e9a7b59e939f46f617", 
+      "name": "catalogue1906fanc_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1407931143", 
+      "crc32": "5689d9a7", 
+      "md5": "dbb8724d752176555fac0e16e515ee79", 
+      "original": "catalogue1906fanc_orig_jp2.tar", 
+      "size": "186105488"
+    }, 
+    {
+      "sha1": "280df2d63a1829197684a1d4fd097c315627b723", 
+      "name": "catalogue1906fanc_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1407933069", 
+      "crc32": "0add80e0", 
+      "md5": "ae52d53f92f04beec97671bbf5746f75", 
+      "original": "catalogue1906fanc_abbyy.gz", 
+      "size": "4776304"
+    }, 
+    {
+      "sha1": "40201bac3a116a4c3a32434a66e2f58c0522310b", 
+      "name": "catalogue1906fanc.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1407935407", 
+      "crc32": "cd4c0b34", 
+      "md5": "1649323f00691aa3b65a8741291056c5", 
+      "original": "catalogue1906fanc_djvu.xml", 
+      "size": "21789702"
+    }, 
+    {
+      "sha1": "3af851176b5cf05e9826169eeeeda36954b2bd4b", 
+      "name": "catalogue1906fanc.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1407933996", 
+      "crc32": "6696e098", 
+      "md5": "ce6675afac5f624368bc0894a8e2232b", 
+      "original": "catalogue1906fanc_djvu.xml", 
+      "size": "12708070"
+    }, 
+    {
+      "sha1": "4b35a0f2d1024665941c2a399bca4d370fec6558", 
+      "name": "catalogue1906fanc_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1407935432", 
+      "crc32": "1a745d18", 
+      "md5": "ceaa91efdb95e4830bde4610d7e424ab", 
+      "original": "catalogue1906fanc.djvu", 
+      "size": "528949"
+    }, 
+    {
+      "sha1": "01dfef350ed569ba6fae3905f054742b43be7f9a", 
+      "name": "catalogue1906fanc.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1407931201", 
+      "crc32": "6345445d", 
+      "md5": "02017a482cd63e068d81f3d3bc8db9c1", 
+      "original": "catalogue1906fanc_jp2.zip", 
+      "size": "269099"
+    }, 
+    {
+      "sha1": "4b744346e0c1b991b451b97a8e1a956523b78120", 
+      "name": "catalogue1906fanc.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1407933174", 
+      "crc32": "1ba9cd15", 
+      "md5": "966cabfa264e05a69bf1c6ac3724473f", 
+      "original": "catalogue1906fanc_abbyy.gz", 
+      "size": "1645125"
+    }, 
+    {
+      "sha1": "d7cb55efd4edbfe00d07620ac1d9719f6c800573", 
+      "name": "catalogue1906fanc_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1407932905", 
+      "crc32": "d4f4557b", 
+      "md5": "2e6066d3df2beb73d56f0c311ad2b2f6", 
+      "original": "catalogue1906fanc_jp2.zip", 
+      "size": "7686475"
+    }, 
+    {
+      "sha1": "8bc090aeda88c5d75c103ea4fa7be29319624eb9", 
+      "name": "catalogue1906fanc_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1418946041", 
+      "crc32": "30414ba9", 
+      "md5": "82d8afad1e6d8e4c0df79e202803817a", 
+      "size": "3062"
+    }, 
+    {
+      "sha1": "b609986789ed7a29a78601537eee19c82eb81c83", 
+      "name": "catalogue1906fanc_archive.torrent", 
+      "btih": "d49a551f8e57b623c58e6c9839facf96c4955999", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1418946045", 
+      "crc32": "47999cef", 
+      "md5": "d9f2baa6c725d7977c7b8053d5178e76", 
+      "size": "12662"
+    }, 
+    {
+      "source": "original", 
+      "md5": "8abef3c2099b461d8c2f8ddcda7f5cf2", 
+      "name": "catalogue1906fanc_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "updated": 1446752824, 
+  "uniq": 750719803, 
+  "created": 1446752824, 
+  "workable_servers": [
+    "ia802303.us.archive.org", 
+    "ia902303.us.archive.org"
+  ], 
+  "server": "ia802303.us.archive.org", 
+  "item_size": 453218819, 
+  "dir": "/9/items/catalogue1906fanc", 
+  "metadata": {
+    "partner_shiptracking": "NC14_0099_Fancher", 
+    "shiptracking": "ST002146", 
+    "scanner": "scribe3.beltsville.archive.org", 
+    "creator": [
+      "Fancher Creek Nurseries", 
+      "Roeding, George Christian, 1868-1928", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection.", 
+    "ppi": "500", 
+    "subcollection": "henryggilbertnurseryandseedtradecollection", 
+    "nal_call_number": "62.09", 
+    "operator": "associate-mark-kanaskie@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "copyright_message": "The contributing institution believes that this item is not in copyright", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "subject": [
+      "Nursery stock California Fresno Catalogs", 
+      "Nurseries (Horticulture) California Fresno Catalogs", 
+      "Fruit trees Seedlings Catalogs", 
+      "Fruit Catalogs", 
+      "Plants, Ornamental Catalogs", 
+      "Trees Seedlings Catalogs", 
+      "Shrubs Catalogs"
+    ], 
+    "call_number": "CAT31288519", 
+    "title": "[Catalogue]", 
+    "repub_state": "4", 
+    "camera": "Canon EOS 5D Mark II", 
+    "invoice": "3", 
+    "ocr": "ABBYY FineReader 9.0", 
+    "identifier-access": "http://archive.org/details/catalogue1906fanc", 
+    "scanningcenter": "beltsville", 
+    "description": [
+      "Cover title", 
+      "Includes index"
+    ], 
+    "identifier-ark": "ark:/13960/t0wq2r21b", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "fedlink", 
+      "americana", 
+      "biodiversity"
+    ], 
+    "volume": "1906", 
+    "repub_seconds": "166", 
+    "updater": "associate-manuel-dennis@archive.org", 
+    "updatedate": "2014-08-06 16:42:27", 
+    "uploader": "associate-manuel-dennis@archive.org", 
+    "date": "1906", 
+    "republisher": "associate-john-leonard@archive.org", 
+    "addeddate": "2014-08-06 16:42:29.477438", 
+    "publisher": "Fresno, Calif. : George C. Roeding", 
+    "publicdate": "2014-08-06 15:46:55", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "curation": "[curator]admin-shelia-deroche@archive.org[/curator][date]20141002145253[/date][state]approved[/state][comment]invoice201409[/comment]", 
+    "notes": "No copyright page found. No table-of-contents pages found.", 
+    "imagecount": "146", 
+    "identifier": "catalogue1906fanc", 
+    "sponsordate": "20140930", 
+    "unique_id": "CAT31288519", 
+    "scandate": "20140811113720"
+  }, 
+  "d2": "ia802303.us.archive.org", 
+  "files_count": 17, 
+  "d1": "ia902303.us.archive.org"
+}

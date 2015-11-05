@@ -1,0 +1,265 @@
+{
+  "files": [
+    {
+      "sha1": "e31f9130441e98ccffed657c41c0c93dc94e5f7e", 
+      "name": "bolgianoscatalog19fwbo_1_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1371741789", 
+      "crc32": "e96047ac", 
+      "md5": "121316e6cc49a073b03954a07a2132b9", 
+      "size": "887"
+    }, 
+    {
+      "sha1": "452440eb30c89ce3397990e994752717d5d431d7", 
+      "name": "bolgianoscatalog19fwbo_1_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1371741789", 
+      "crc32": "93e85a47", 
+      "md5": "fa016b04505651b819eb7f41bf4c4c56", 
+      "size": "3073"
+    }, 
+    {
+      "sha1": "e6582b1e6b73c4739cc0496d7e8bde3b82e47d63", 
+      "name": "bolgianoscatalog19fwbo_1_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1371741789", 
+      "crc32": "e0233edb", 
+      "md5": "8cb1c919e6a0050db480129d7ab957f3", 
+      "size": "325"
+    }, 
+    {
+      "sha1": "478d6e624307c1b3a108c9136511a7c3ed079824", 
+      "name": "bolgianoscatalog19fwbo_1_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1371741789", 
+      "crc32": "2315b229", 
+      "md5": "1652187f5acacc18c022414d29890217", 
+      "size": "1193"
+    }, 
+    {
+      "sha1": "cbe8bb0238042f1052adcc473ba5413e41911761", 
+      "name": "bolgianoscatalog19fwbo_1_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1372179243", 
+      "crc32": "2d0db78d", 
+      "md5": "f7a3183bb57dac3467d8d33114b2036e", 
+      "size": "54170"
+    }, 
+    {
+      "sha1": "308c72d5ac4288ff67b28c4a8253b90598df86c3", 
+      "name": "bolgianoscatalog19fwbo_1_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1372179244", 
+      "crc32": "b768bc07", 
+      "md5": "48f462ac327351096c9a4255ff443ccf", 
+      "size": "38266880"
+    }, 
+    {
+      "sha1": "190f82979dc73ef9bd4451e850700676a9f581cc", 
+      "name": "bolgianoscatalog19fwbo_1_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1372180047", 
+      "crc32": "99784433", 
+      "md5": "8a4a71316b02f9479aad8732c072c2f8", 
+      "original": "bolgianoscatalog19fwbo_1_orig_jp2.tar", 
+      "size": "21845897"
+    }, 
+    {
+      "sha1": "5f0aa8ae213cc05c47ad0572cdf01acb53efd2bd", 
+      "name": "bolgianoscatalog19fwbo_1.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1372181458", 
+      "crc32": "f272dd8f", 
+      "md5": "9819b8d009ab8d54e93bd90018021ce2", 
+      "original": "bolgianoscatalog19fwbo_1_djvu.xml", 
+      "size": "2780099"
+    }, 
+    {
+      "sha1": "7a891297e41716407b7d0049ca83ae5429ac3b4e", 
+      "name": "bolgianoscatalog19fwbo_1.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1372181229", 
+      "crc32": "4f4de060", 
+      "md5": "4d2c6137547b422d19ef4c9ec9b8db7c", 
+      "original": "bolgianoscatalog19fwbo_1_djvu.xml", 
+      "size": "1761358"
+    }, 
+    {
+      "sha1": "d8c119bec968391b007c18a4cb86b6126402327b", 
+      "name": "bolgianoscatalog19fwbo_1_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1372181066", 
+      "crc32": "0910ba12", 
+      "md5": "88c1fab667066eaf6e00b094fbdd6323", 
+      "original": "bolgianoscatalog19fwbo_1_abbyy.gz", 
+      "size": "540484"
+    }, 
+    {
+      "sha1": "b3a90f6f354160cea4b83494e201c12043007694", 
+      "name": "bolgianoscatalog19fwbo_1_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1372181044", 
+      "crc32": "0fbd9ce6", 
+      "md5": "482d593bfdd3a2c16d6e7ef92e8f05e7", 
+      "original": "bolgianoscatalog19fwbo_1_jp2.zip", 
+      "size": "879395"
+    }, 
+    {
+      "sha1": "3d841fb2b43f95ee2197b5085c5c6b63d1c06f36", 
+      "name": "bolgianoscatalog19fwbo_1.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1372180074", 
+      "crc32": "3d391551", 
+      "md5": "83408d0b772e2049a8c83bb857aa9efe", 
+      "original": "bolgianoscatalog19fwbo_1_jp2.zip", 
+      "size": "270837"
+    }, 
+    {
+      "sha1": "f8c16a548522d464c175ac5b64824e67d4760fdb", 
+      "name": "bolgianoscatalog19fwbo_1.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1372181087", 
+      "crc32": "657d257e", 
+      "md5": "fe63d93615f32ca57a11354d4f558fd0", 
+      "original": "bolgianoscatalog19fwbo_1_abbyy.gz", 
+      "size": "309990"
+    }, 
+    {
+      "sha1": "2c1e631d442f35faf9a4285c2df565b143d66e65", 
+      "name": "bolgianoscatalog19fwbo_1_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1372181467", 
+      "crc32": "d69c0248", 
+      "md5": "32d32c3cbb8aa6f574c72e866738aba6", 
+      "original": "bolgianoscatalog19fwbo_1.djvu", 
+      "size": "54717"
+    }, 
+    {
+      "sha1": "c3d0f38896c9009e082d3d8f31ae595c2de1930b", 
+      "name": "bolgianoscatalog19fwbo_1_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1418946371", 
+      "crc32": "1506922d", 
+      "md5": "3922a2e5f643b60609d9551a0ca1aa81", 
+      "size": "2435"
+    }, 
+    {
+      "sha1": "cc90523a767524d005fc8660489fc4ca51b4151d", 
+      "name": "bolgianoscatalog19fwbo_1_bhlmets.xml", 
+      "format": "Biodiversity Heritage Library METS", 
+      "source": "original", 
+      "mtime": "1420368298", 
+      "crc32": "d04a6ef3", 
+      "md5": "6e3b4f088c8bee1c34b0b3f665762cc2", 
+      "size": "20171"
+    }, 
+    {
+      "sha1": "0bee792a35cab1a9554aad05366df779f0ffe186", 
+      "name": "bolgianoscatalog19fwbo_1_meta.sqlite", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1420368307", 
+      "crc32": "364014b3", 
+      "md5": "e5b83142d4a723a3fef9ec0537fa548a", 
+      "size": "6144"
+    }, 
+    {
+      "sha1": "10fc5145f2180aa5c2f88399f4def485741ae58e", 
+      "name": "bolgianoscatalog19fwbo_1_archive.torrent", 
+      "btih": "fddff7efb95a20a10b289fced817d4b63720a8ca", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1420368312", 
+      "crc32": "dc106d7c", 
+      "md5": "d24dff527bcb1498d94776d9a838cf78", 
+      "size": "5281"
+    }, 
+    {
+      "source": "original", 
+      "md5": "dbe8cfff9961971a78f0c3724be4f205", 
+      "name": "bolgianoscatalog19fwbo_1_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "uniq": 157527591, 
+  "created": 1446730149, 
+  "workable_servers": [
+    "ia601801.us.archive.org"
+  ], 
+  "server": "ia601801.us.archive.org", 
+  "item_size": 66803336, 
+  "dir": "/26/items/bolgianoscatalog19fwbo_1", 
+  "metadata": {
+    "shiptracking": "NC006c", 
+    "scanner": "scribe4.beltsville.archive.org", 
+    "creator": [
+      "F.W. Bolgiano & Co", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection", 
+    "ppi": "500", 
+    "nal_call_number": "62.93", 
+    "operator": "associate-lian-kam@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "200", 
+    "subject": [
+      "Vegetables Seeds Catalogs", 
+      "Bulbs (Plants) Catalogs"
+    ], 
+    "call_number": "CAT31118109", 
+    "title": "Bolgianos catalog fall 1932 : selected bulbs and vegetables", 
+    "repub_state": "4", 
+    "possible-copyright-status": "The contributing institution believes that this item is not in copyright", 
+    "camera": "Canon EOS 5D Mark II", 
+    "ocr": "ABBYY FineReader 8.0", 
+    "identifier-access": "http://archive.org/details/bolgianoscatalog19fwbo_1", 
+    "scanningcenter": "beltsville", 
+    "description": "Cover title", 
+    "identifier-ark": "ark:/13960/t70w0484v", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "fedlink", 
+      "americana", 
+      "biodiversity"
+    ], 
+    "volume": "1932", 
+    "repub_seconds": "5820", 
+    "updater": "associate-adrianna-flores@archive.org", 
+    "updatedate": "2013-06-20 15:23:09", 
+    "uploader": "associate-adrianna-flores@archive.org", 
+    "date": "1932", 
+    "republisher": "associate-annie-coates@archive.org", 
+    "addeddate": "2013-06-20 15:23:11", 
+    "publisher": "Washington, D.C. : Bolgiano", 
+    "publicdate": "2013-06-20 14:20:05", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "notes": "No copyright page found. No table-of-contents pages found.", 
+    "imagecount": "34", 
+    "identifier": "bolgianoscatalog19fwbo_1", 
+    "sponsordate": "20130630", 
+    "unique_id": "CAT31118109", 
+    "scandate": "20130625125821"
+  }, 
+  "files_count": 19, 
+  "d1": "ia601801.us.archive.org"
+}

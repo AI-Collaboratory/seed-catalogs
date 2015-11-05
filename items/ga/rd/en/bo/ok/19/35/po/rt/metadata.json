@@ -1,0 +1,256 @@
+{
+  "files": [
+    {
+      "sha1": "83e843003097d537f02f8fda8a5606612ae35b30", 
+      "name": "gardenbook1935port_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1394798743", 
+      "crc32": "60225367", 
+      "md5": "49d0ec4b2503dd00bbb22ff49d7cee81", 
+      "size": "1733"
+    }, 
+    {
+      "sha1": "0ca6ad10694a11f333396a0595db27e7ff2cf4cd", 
+      "name": "gardenbook1935port_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1394798743", 
+      "crc32": "49e86655", 
+      "md5": "cf498604051166b31678c5d5d5430efd", 
+      "size": "1209"
+    }, 
+    {
+      "sha1": "d0eaa3d92c320b70e7b1f18816deb4fed8a6a2c1", 
+      "name": "gardenbook1935port_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1394798743", 
+      "crc32": "cc822a0e", 
+      "md5": "9c47a5d8c6c04d24b3ec953945b094c0", 
+      "size": "316"
+    }, 
+    {
+      "sha1": "e4eefc9dbe3af15f0e8f5ec6c62ccbc0e8e829aa", 
+      "name": "gardenbook1935port_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1394798743", 
+      "crc32": "7845cd71", 
+      "md5": "e06c8eb8ee3a6e69ee5a9bdf4c83af24", 
+      "size": "4369"
+    }, 
+    {
+      "sha1": "0c641181c62d2c8f008db083e987c6fbad1f1303", 
+      "name": "gardenbook1935port_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1395149698", 
+      "crc32": "7f7b4f67", 
+      "md5": "f0efef3ded5c9d06b6f9d78f6bd0b093", 
+      "size": "179512"
+    }, 
+    {
+      "sha1": "13ef7d59f4feef065491969e3c90012974167131", 
+      "name": "gardenbook1935port_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1395149703", 
+      "crc32": "62449282", 
+      "md5": "fa03fed53949909ddd973a5d66e5589e", 
+      "size": "195215360"
+    }, 
+    {
+      "sha1": "30815b3fda1650eb1df9775f76092f6229e5535f", 
+      "name": "gardenbook1935port_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1395154715", 
+      "crc32": "7dc9bc74", 
+      "md5": "9a6bae07d22ce7dfd9f8adf73f183476", 
+      "original": "gardenbook1935port_jp2.zip", 
+      "size": "7412453"
+    }, 
+    {
+      "sha1": "0a41ffe6c41749b6493c4bdc0587025cbde8359f", 
+      "name": "gardenbook1935port_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1395153134", 
+      "crc32": "bccdfcc4", 
+      "md5": "47c1fdd53d454a8040fd803f07ce92f3", 
+      "original": "gardenbook1935port_orig_jp2.tar", 
+      "size": "155843053"
+    }, 
+    {
+      "sha1": "fc304c6658c62f5f6e97b8c619d480ae56060754", 
+      "name": "gardenbook1935port.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1395155877", 
+      "crc32": "d54bab99", 
+      "md5": "a38023c13921d8c7a229992e2d5dc770", 
+      "original": "gardenbook1935port_djvu.xml", 
+      "size": "13281002"
+    }, 
+    {
+      "sha1": "63f28cf4b279cc28c69f5d912a6d197ede306873", 
+      "name": "gardenbook1935port.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1395157281", 
+      "crc32": "3ba321e1", 
+      "md5": "fc67869ae78ca0132fcd9c473cd4b5d5", 
+      "original": "gardenbook1935port_djvu.xml", 
+      "size": "20323126"
+    }, 
+    {
+      "sha1": "779bce7b0cba6980de702b08c6cea583c6de2748", 
+      "name": "gardenbook1935port_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1395154845", 
+      "crc32": "677e5ffd", 
+      "md5": "b7c48bfdea6f1ffca8f7d89d1bf39923", 
+      "original": "gardenbook1935port_abbyy.gz", 
+      "size": "4733722"
+    }, 
+    {
+      "sha1": "b4ed21eb7074464402965375336f9cdd435f1c41", 
+      "name": "gardenbook1935port_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1395157305", 
+      "crc32": "eb24cc07", 
+      "md5": "77285cc1f849884ecce141c39613b61b", 
+      "original": "gardenbook1935port.djvu", 
+      "size": "501648"
+    }, 
+    {
+      "sha1": "a7797e063cb1d3890f92f1a9b8a845fcb5695834", 
+      "name": "gardenbook1935port.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1395154946", 
+      "crc32": "ef3ec59a", 
+      "md5": "a1a4c2e9649310e719c673d5fceedffd", 
+      "original": "gardenbook1935port_abbyy.gz", 
+      "size": "2347698"
+    }, 
+    {
+      "sha1": "a7d0d102c644cf0ec9e674f575b1d85c90cce657", 
+      "name": "gardenbook1935port.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1395153207", 
+      "crc32": "3b5182e4", 
+      "md5": "00161063ae576492641f2fcae7705fde", 
+      "original": "gardenbook1935port_jp2.zip", 
+      "size": "260124"
+    }, 
+    {
+      "sha1": "272f1eee7b6657818ab208ab567d71c6be16d909", 
+      "name": "gardenbook1935port_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1418948595", 
+      "crc32": "22e23f48", 
+      "md5": "b4eff5772b47953eb7fb60c8b56428f2", 
+      "size": "2964"
+    }, 
+    {
+      "sha1": "bc6c9484f89d13a32d990fb45ddcb518668d7573", 
+      "name": "gardenbook1935port_archive.torrent", 
+      "btih": "ee764cd9392a2feadc47ba74f4b73503d9980742", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1418948599", 
+      "crc32": "3b8c939b", 
+      "md5": "85616b40d67accfccab22a7fb74379b4", 
+      "size": "11505"
+    }, 
+    {
+      "source": "original", 
+      "md5": "451b8c9f4e943d438c57e30061b39ac0", 
+      "name": "gardenbook1935port_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "uniq": 1477250981, 
+  "created": 1446753223, 
+  "workable_servers": [
+    "ia601008.us.archive.org"
+  ], 
+  "server": "ia601008.us.archive.org", 
+  "item_size": 400119794, 
+  "dir": "/19/items/gardenbook1935port", 
+  "metadata": {
+    "partner_shiptracking": "NC14_0084_Porter-Walton", 
+    "shiptracking": "ST001200", 
+    "scanner": "scribe2.beltsville.archive.org", 
+    "creator": [
+      "Porter-Walton Co", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G Gilbert Nursery and Seed Trade Catalog Collection", 
+    "ppi": "500", 
+    "subcollection": "henryggilbertnurseryandseedtradecollection", 
+    "nal_call_number": "62.85", 
+    "operator": "associate-saw-thein@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "copyright_message": "The contributing institution believes that this item is not in copyright", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "subject": [
+      "Fruit trees Utah Salt Lake City", 
+      "Ornamental trees Utah Salt Lake City", 
+      "Shrubs Utah Salt Lake City", 
+      "Climbing plants Utah Salt Lake City", 
+      "Bulbs (Plants) Utah Salt Lake City", 
+      "Flowers Seeds Utah Salt Lake City", 
+      "Vegetables Seeds Utah Salt Lake City"
+    ], 
+    "call_number": "CAT31165675", 
+    "title": "The garden book", 
+    "repub_state": "4", 
+    "camera": "Canon EOS 5D Mark II", 
+    "invoice": "3", 
+    "ocr": "ABBYY FineReader 9.0", 
+    "identifier-access": "http://archive.org/details/gardenbook1935port", 
+    "scanningcenter": "beltsville", 
+    "description": [
+      "Cover title", 
+      "Includes index"
+    ], 
+    "identifier-ark": "ark:/13960/t4sj42t33", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "fedlink", 
+      "americana", 
+      "biodiversity"
+    ], 
+    "volume": "1935", 
+    "repub_seconds": "380", 
+    "updater": "associate-adrianna-flores@archive.org", 
+    "updatedate": "2014-03-14 12:05:43", 
+    "uploader": "associate-adrianna-flores@archive.org", 
+    "date": "1935", 
+    "republisher": "associate-saw-thein@archive.org", 
+    "addeddate": "2014-03-14 12:05:45.994072", 
+    "publisher": "Salt Lake City, Utah : Porter-Walton Co.", 
+    "publicdate": "2014-03-14 11:03:45", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "curation": "[curator]admin-shelia-deroche@archive.org[/curator][date]20140502145512[/date][state]approved[/state][comment]invoice201404[/comment]", 
+    "imagecount": "114", 
+    "identifier": "gardenbook1935port", 
+    "sponsordate": "20140430", 
+    "unique_id": "CAT31165675", 
+    "scandate": "20140318125238"
+  }, 
+  "files_count": 17, 
+  "d1": "ia601008.us.archive.org"
+}

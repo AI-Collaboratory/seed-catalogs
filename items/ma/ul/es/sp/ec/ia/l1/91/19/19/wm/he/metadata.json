@@ -1,0 +1,244 @@
+{
+  "files": [
+    {
+      "sha1": "fcc776e073831744cbb9c368818194c35841659e", 
+      "name": "maulesspecial1911919wmhe_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1376491684", 
+      "crc32": "5e8ca7fa", 
+      "md5": "2bd9a1cbd70f8e4e822903dd4fce5ad8", 
+      "size": "325"
+    }, 
+    {
+      "sha1": "0f7f01d28389d1f728cd90390e20e815f56b9dd9", 
+      "name": "maulesspecial1911919wmhe_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1376491684", 
+      "crc32": "4f479e53", 
+      "md5": "ed8fedf0f9fe3ec3335d60a4f1ad25ed", 
+      "size": "934"
+    }, 
+    {
+      "sha1": "a49b55a20c29ed0e5f29be87998e45eb90cab6de", 
+      "name": "maulesspecial1911919wmhe_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1376491684", 
+      "crc32": "96eed68e", 
+      "md5": "6433b8c79dce1a2b377da637d3839a07", 
+      "size": "1290"
+    }, 
+    {
+      "sha1": "1e13b48487754e8889e29fe79dce52ad48c33dfc", 
+      "name": "maulesspecial1911919wmhe_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1376491684", 
+      "crc32": "acf63cbc", 
+      "md5": "55deb17229e86701e68295f513d6df35", 
+      "size": "3168"
+    }, 
+    {
+      "sha1": "2feec9fc718a4a4723de2d65e82f0ec245cfe8b9", 
+      "name": "maulesspecial1911919wmhe_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1377087309", 
+      "crc32": "50bf84a5", 
+      "md5": "e71f2d0aeef177069e79519e2f130026", 
+      "size": "47554560"
+    }, 
+    {
+      "sha1": "b322d32d3910ad5f645c311224513fa64e35afc3", 
+      "name": "maulesspecial1911919wmhe_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1377087308", 
+      "crc32": "3269df0f", 
+      "md5": "94623554689e14e2340ffa26564d972e", 
+      "size": "48075"
+    }, 
+    {
+      "sha1": "3dda8de35672a5b0e0b1b23ac11f265b1b511720", 
+      "name": "maulesspecial1911919wmhe_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1377179650", 
+      "crc32": "07ede4c3", 
+      "md5": "aea088faa036f8ccd48205d09c259b12", 
+      "original": "maulesspecial1911919wmhe_orig_jp2.tar", 
+      "size": "29360483"
+    }, 
+    {
+      "sha1": "7669dbfa69f7cbd59ebfc40621a8b9638ca23dc5", 
+      "name": "maulesspecial1911919wmhe_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1377182016", 
+      "crc32": "da68117c", 
+      "md5": "21cbd8b1be981ae01e171fdf3dcb4981", 
+      "original": "maulesspecial1911919wmhe_jp2.zip", 
+      "size": "1102618"
+    }, 
+    {
+      "sha1": "859db7e428bcc434c15675ab6d3735546847ba36", 
+      "name": "maulesspecial1911919wmhe.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1377182057", 
+      "crc32": "bd2596ef", 
+      "md5": "63ba77968c1559dd2136f78c961f2a21", 
+      "original": "maulesspecial1911919wmhe_abbyy.gz", 
+      "size": "883346"
+    }, 
+    {
+      "sha1": "5bb309f4974dac67c9789b0fca3d2b473b6ccaa6", 
+      "name": "maulesspecial1911919wmhe_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1377182307", 
+      "crc32": "601c4478", 
+      "md5": "ae2a17eb868c3b5ff16a359a501c5675", 
+      "original": "maulesspecial1911919wmhe.djvu", 
+      "size": "71693"
+    }, 
+    {
+      "sha1": "1ee305cd5770f39c4aff7fcd6584c90825ee6c6f", 
+      "name": "maulesspecial1911919wmhe.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1377182299", 
+      "crc32": "14dac2ea", 
+      "md5": "045cd932bcc24138489e6e9706650391", 
+      "original": "maulesspecial1911919wmhe_djvu.xml", 
+      "size": "4611733"
+    }, 
+    {
+      "sha1": "7bd9fbbfea47e46bf949aba27162d51bc49c918e", 
+      "name": "maulesspecial1911919wmhe.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1377182164", 
+      "crc32": "9274391f", 
+      "md5": "cdf1d747b559be88ea5c3bb0944e9a71", 
+      "original": "maulesspecial1911919wmhe_djvu.xml", 
+      "size": "3012076"
+    }, 
+    {
+      "sha1": "bfae71ef428c3f18b921c7c95e9b5002e952b767", 
+      "name": "maulesspecial1911919wmhe_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1377182037", 
+      "crc32": "73f3fdb7", 
+      "md5": "4f7b099919cd461b2808318191b0a75e", 
+      "original": "maulesspecial1911919wmhe_abbyy.gz", 
+      "size": "748024"
+    }, 
+    {
+      "sha1": "12c1d3bee2d8e94e95e71267516695d62b3a1b7d", 
+      "name": "maulesspecial1911919wmhe.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1377179667", 
+      "crc32": "ab0f93f0", 
+      "md5": "11b6b3ab207d2ac55cbb8305310d32ea", 
+      "original": "maulesspecial1911919wmhe_jp2.zip", 
+      "size": "228284"
+    }, 
+    {
+      "sha1": "c2b881e0be4ba9cb1a7ef0e04b14d7b96a5da483", 
+      "name": "maulesspecial1911919wmhe_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1418947901", 
+      "crc32": "039c00a8", 
+      "md5": "8d63df6921c93d9a67e5c94860ca95b5", 
+      "size": "2375"
+    }, 
+    {
+      "sha1": "d4554032b4e3cfe19af8a2f0a1bb2a08ab67086b", 
+      "name": "maulesspecial1911919wmhe_archive.torrent", 
+      "btih": "e271c59f7bbb9db4685db652e7b25bf03d615a90", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1418947902", 
+      "crc32": "576e35a0", 
+      "md5": "11f9fd374b244d352326b40fa6736eb2", 
+      "size": "5343"
+    }, 
+    {
+      "source": "original", 
+      "md5": "7eae6a8647c66a37815bce7d8119da1f", 
+      "name": "maulesspecial1911919wmhe_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "uniq": 6681888, 
+  "created": 1446716620, 
+  "workable_servers": [
+    "ia601900.us.archive.org"
+  ], 
+  "server": "ia601900.us.archive.org", 
+  "item_size": 87634327, 
+  "dir": "/20/items/maulesspecial1911919wmhe", 
+  "metadata": {
+    "shiptracking": "ST000181", 
+    "scanner": "scribe2.beltsville.archive.org", 
+    "creator": [
+      "Wm. Henry Maule (Firm)", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection", 
+    "ppi": "350", 
+    "nal_call_number": "62.73", 
+    "operator": "associate-saw-thein@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "subject": [
+      "Seeds Catalogs", 
+      "Vegetables Catalogs", 
+      "Fruit Catalogs"
+    ], 
+    "call_number": "CAT31123679", 
+    "title": "Maule's special 1919 price list of seeds, bulbs and sundries for market gardeners and florists", 
+    "repub_state": "4", 
+    "possible-copyright-status": "The contributing institution believes that this item is not in copyright", 
+    "camera": "Canon EOS 5D Mark II", 
+    "ocr": "ABBYY FineReader 8.0", 
+    "identifier-access": "http://archive.org/details/maulesspecial1911919wmhe", 
+    "scanningcenter": "beltsville", 
+    "description": "Cover title", 
+    "identifier-ark": "ark:/13960/t5fb6wd8x", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "fedlink", 
+      "americana", 
+      "biodiversity"
+    ], 
+    "volume": "1919", 
+    "updater": "associate-adrianna-flores@archive.org", 
+    "updatedate": "2013-08-14 14:48:04", 
+    "uploader": "associate-adrianna-flores@archive.org", 
+    "date": "1919", 
+    "republisher": "associate-saw-thein@archive.org", 
+    "addeddate": "2013-08-14 14:48:07", 
+    "publisher": "Philadelphia, Pa. : Maule", 
+    "publicdate": "2013-08-14 13:47:14", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "imagecount": "30", 
+    "identifier": "maulesspecial1911919wmhe", 
+    "sponsordate": "20130831", 
+    "unique_id": "CAT31123679", 
+    "scandate": "20130815164229"
+  }, 
+  "files_count": 17, 
+  "d1": "ia601900.us.archive.org"
+}

@@ -1,0 +1,272 @@
+{
+  "files": [
+    {
+      "sha1": "59d6d3f8eba5ed2209b4b0cc6f27eafecf9699bf", 
+      "name": "CAT31285165_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1413562961", 
+      "crc32": "b64a0a7c", 
+      "md5": "67dff684b2c9311a6d0334f27d9ebb0f", 
+      "size": "3374"
+    }, 
+    {
+      "sha1": "5c6a8fc301f18189b8da33de0cb8c877fcd8c08c", 
+      "name": "CAT31285165_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1413562961", 
+      "crc32": "c56a5d2f", 
+      "md5": "9a700d70760e774d36656913ee351302", 
+      "size": "966"
+    }, 
+    {
+      "sha1": "592503e9138c1d5aacb3312e4369872f5daecd87", 
+      "name": "CAT31285165_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1413562961", 
+      "crc32": "415115bb", 
+      "md5": "a6030fe814ebab923ed24dced242b5f1", 
+      "size": "307"
+    }, 
+    {
+      "sha1": "a5b35115f2b1027132e2559e1b6fa3cf095043ea", 
+      "name": "CAT31285165_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1413562961", 
+      "crc32": "df0ba4ff", 
+      "md5": "e1b13c17720d4602f497cf9984de934e", 
+      "size": "1373"
+    }, 
+    {
+      "sha1": "dca1b4db3cb893c949bce3f3718a28aeba2c0c62", 
+      "name": "CAT31285165_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1414769326", 
+      "crc32": "1a620fae", 
+      "md5": "7ace70347fb95442d6faf73b619cea79", 
+      "size": "9664"
+    }, 
+    {
+      "sha1": "28f6b3ed0db362a8f0d2ad4bf93ca5b8aa5b0d3b", 
+      "name": "CAT31285165_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1414769326", 
+      "crc32": "e98146a6", 
+      "md5": "bb0472991dab2ecac892e3a6e0ac800b", 
+      "size": "3717120"
+    }, 
+    {
+      "sha1": "f528b40c5fa84b21f091224cc0c14c9466f8c3db", 
+      "name": "CAT31285165_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1414769485", 
+      "crc32": "7d5cdedb", 
+      "md5": "4e3e98fef79b7565635c7c780e8a316b", 
+      "original": "CAT31285165_orig_jp2.tar", 
+      "size": "1524510"
+    }, 
+    {
+      "sha1": "dedf250c60ab8f9637d0cb40f89fedb78dcf1c58", 
+      "name": "CAT31285165.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1414769546", 
+      "crc32": "ab133138", 
+      "md5": "5d949244414d89552afbb13742a28333", 
+      "original": "CAT31285165_djvu.xml", 
+      "size": "52673"
+    }, 
+    {
+      "sha1": "019fa1fc10dd454558f62826fd2b171c1e9fe0e4", 
+      "name": "CAT31285165.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1414769526", 
+      "crc32": "8b188859", 
+      "md5": "8fa7379669d6e21e9e4c9b1e7197c32e", 
+      "original": "CAT31285165_abbyy.gz", 
+      "size": "4086"
+    }, 
+    {
+      "sha1": "7a1d64b57f505c667bd230ae13864cb46d265fbd", 
+      "name": "CAT31285165.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1414769495", 
+      "crc32": "355c05ca", 
+      "md5": "e5ff1d58cd5c06d03fe66509ff0e12ed", 
+      "original": "CAT31285165_jp2.zip", 
+      "size": "42152"
+    }, 
+    {
+      "sha1": "41bdd2bc80a0252cb07111a6844478a9343788dc", 
+      "name": "CAT31285165.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1414769628", 
+      "crc32": "d61d670d", 
+      "md5": "667aa6d71d30b9bc298a0a4cca22c768", 
+      "original": "CAT31285165_djvu.xml", 
+      "size": "120247"
+    }, 
+    {
+      "sha1": "4211d33f7e6e0db843de74f576a8a84b06203d4f", 
+      "name": "CAT31285165_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1414769635", 
+      "crc32": "bda35e45", 
+      "md5": "b4db1d16fb8befa66c677286c3753947", 
+      "original": "CAT31285165.djvu", 
+      "size": "869"
+    }, 
+    {
+      "sha1": "00eccc41441c0b3c517c433b64bffc29ffecda9e", 
+      "name": "CAT31285165_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1414769523", 
+      "crc32": "57e4d034", 
+      "md5": "29a4787e25d598a7ccf83ef76d8a6c5f", 
+      "original": "CAT31285165_abbyy.gz", 
+      "size": "10224"
+    }, 
+    {
+      "sha1": "82c1b4d2e387b6681af0eed75512cf3a703856fc", 
+      "name": "CAT31285165_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1414769516", 
+      "crc32": "fddc2e56", 
+      "md5": "d57ff9343d5c1c7967778539a44dc757", 
+      "original": "CAT31285165_jp2.zip", 
+      "size": "14062"
+    }, 
+    {
+      "sha1": "126c6b0cf7b8b3fb2a572e8f0ad94b1b20134c56", 
+      "name": "CAT31285165_meta.sqlite", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1415607756", 
+      "crc32": "f110e10b", 
+      "md5": "06cc1d8317ad8727f1a22300a3a643cd", 
+      "size": "6144"
+    }, 
+    {
+      "sha1": "5af33cc848a15bf5417454b730283b376e447d8a", 
+      "name": "CAT31285165_bhlmets.xml", 
+      "format": "Biodiversity Heritage Library METS", 
+      "source": "original", 
+      "mtime": "1415607731", 
+      "crc32": "19809578", 
+      "md5": "7af6aafad4655f561a5061b4ef72a239", 
+      "size": "5118"
+    }, 
+    {
+      "sha1": "ce0094b5cda11e7d65521c5ab9afc2a3a82781bd", 
+      "name": "CAT31285165_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1418849554", 
+      "crc32": "c7b0e1a1", 
+      "md5": "bb12cd7a80bc7564c478285bb0dbab70", 
+      "size": "2757"
+    }, 
+    {
+      "sha1": "f98cbc9a753b81916ceb53d4db48bca95182d0e1", 
+      "name": "CAT31285165_archive.torrent", 
+      "btih": "f9133fb4338bba376f73a2fa4a15998b80014bc4", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1418849555", 
+      "crc32": "f88750a7", 
+      "md5": "1ae14ce86ec59c4f174863dbb585e394", 
+      "size": "3947"
+    }, 
+    {
+      "source": "original", 
+      "md5": "134ad9a2aa6b51cc0b4821273b67cc80", 
+      "name": "CAT31285165_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "uniq": 899725434, 
+  "created": 1446750687, 
+  "workable_servers": [
+    "ia601404.us.archive.org"
+  ], 
+  "server": "ia601404.us.archive.org", 
+  "item_size": 5519593, 
+  "dir": "/30/items/CAT31285165", 
+  "metadata": {
+    "partner_shiptracking": "NC15_1901_H", 
+    "shiptracking": "ST002595", 
+    "scanner": "scribe2.beltsville.archive.org", 
+    "creator": [
+      "Freeman Hurff (Firm)", 
+      "Hurff, Freeman", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection.", 
+    "ppi": "500", 
+    "subcollection": "henryggilbertnurseryandseedtradecollection", 
+    "nal_call_number": "62.57", 
+    "operator": "associate-saw-thein@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "copyright_message": "The contributing institution believes that this item is not in copyright", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "subject": [
+      "Nursery stock New Jersey Catalogs", 
+      "Melons Seeds Catalogs"
+    ], 
+    "title": "Wholesale price list of melon seeds : no seeds by mail", 
+    "repub_state": "4", 
+    "camera": "Canon EOS 5D Mark II", 
+    "invoice": "3", 
+    "ocr": "ABBYY FineReader 9.0", 
+    "identifier-access": "http://archive.org/details/CAT31285165", 
+    "scanningcenter": "beltsville", 
+    "description": [
+      "Caption title", 
+      "\"Nov. 30, 1901.\""
+    ], 
+    "identifier-ark": "ark:/13960/t6b30sb7z", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "biodiversity", 
+      "fedlink", 
+      "americana"
+    ], 
+    "volume": "1901", 
+    "repub_seconds": "47", 
+    "updater": "associate-manuel-dennis@archive.org", 
+    "updatedate": "2014-10-17 16:22:41", 
+    "uploader": "associate-manuel-dennis@archive.org", 
+    "date": "1901", 
+    "republisher": "associate-marc-adona@archive.org", 
+    "addeddate": "2014-10-17 16:22:43.574848", 
+    "publisher": "Swedesboro, N.J. : Freeman Hurff", 
+    "publicdate": "2014-10-17 15:16:57", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "curation": "[curator]admin-shelia-deroche@archive.org[/curator][date]20141202144957[/date][state]approved[/state][comment]invoice201411[/comment]", 
+    "notes": "No copyright page found. No table-of-contents pages found.", 
+    "imagecount": "6", 
+    "identifier": "CAT31285165", 
+    "sponsordate": "20141130", 
+    "unique_id": "CAT31285165", 
+    "scandate": "20141029111555"
+  }, 
+  "files_count": 19, 
+  "d1": "ia601404.us.archive.org"
+}

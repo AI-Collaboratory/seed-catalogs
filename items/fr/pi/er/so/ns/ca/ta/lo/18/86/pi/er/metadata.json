@@ -1,0 +1,257 @@
+{
+  "files": [
+    {
+      "sha1": "f9590997262b5a3e41c7dfd845a7b7254bf6e11c", 
+      "name": "frpiersonscatalo1886pier_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1403192304", 
+      "crc32": "9a8b53d3", 
+      "md5": "8ddeb55d524dfecc5410f6c7a7eee93c", 
+      "size": "1089"
+    }, 
+    {
+      "sha1": "e50e8cfdc81855b202411123c59ca517382e463a", 
+      "name": "frpiersonscatalo1886pier_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1403192304", 
+      "crc32": "b4cbdf67", 
+      "md5": "c028cddaa426b40c698e3cf4dd1cb16a", 
+      "size": "320"
+    }, 
+    {
+      "sha1": "d45ac0e44003bb059db5a918e9bfd707afcbe469", 
+      "name": "frpiersonscatalo1886pier_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1403192304", 
+      "crc32": "58ca87bb", 
+      "md5": "1c113adeb1e56329188f5c5beed12ade", 
+      "size": "3765"
+    }, 
+    {
+      "sha1": "f647409f087f9bd995ebfe66045dbbaeb8304a6e", 
+      "name": "frpiersonscatalo1886pier_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1403192304", 
+      "crc32": "1b8e5dcd", 
+      "md5": "42593463cd3716852fe89be0b8789f63", 
+      "size": "1568"
+    }, 
+    {
+      "sha1": "2b867a24c493c7310087eb310e38772fd6139e4d", 
+      "name": "frpiersonscatalo1886pier_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1403528378", 
+      "crc32": "9062b2bf", 
+      "md5": "2dcd7d86f6206e362fd8f6e6b9cbe6fd", 
+      "size": "141798"
+    }, 
+    {
+      "sha1": "7b5104eb0c88196ba1fc084a93e553dade511df0", 
+      "name": "frpiersonscatalo1886pier_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1403528380", 
+      "crc32": "759b87b4", 
+      "md5": "db7b7d6ab6409e8a531c41577854a7fb", 
+      "size": "125644800"
+    }, 
+    {
+      "sha1": "7bc4f8d8661c72863bd053613c7c9744c302eb4e", 
+      "name": "frpiersonscatalo1886pier_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1403530498", 
+      "crc32": "432eeaa7", 
+      "md5": "5bd36072adc0ce6c74bc73df31d3c4a4", 
+      "original": "frpiersonscatalo1886pier_orig_jp2.tar", 
+      "size": "92956351"
+    }, 
+    {
+      "sha1": "93fa2e717095822958affac5b6ca2d4653c159be", 
+      "name": "frpiersonscatalo1886pier.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1403530524", 
+      "crc32": "879d2665", 
+      "md5": "746f475eff66a6a91e1c2464ee0d4c76", 
+      "original": "frpiersonscatalo1886pier_jp2.zip", 
+      "size": "273851"
+    }, 
+    {
+      "sha1": "12a26756d0d97fe6c09a03b7c0df2c1c2dfea53f", 
+      "name": "frpiersonscatalo1886pier_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1403535409", 
+      "crc32": "99c0932a", 
+      "md5": "c8398bfe8877e5b37dfdd2c78c04c383", 
+      "original": "frpiersonscatalo1886pier_jp2.zip", 
+      "size": "4908946"
+    }, 
+    {
+      "sha1": "cab3d610247af710039a94ee8e77ab9015ad17ad", 
+      "name": "frpiersonscatalo1886pier.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1403536461", 
+      "crc32": "1d7dd5c8", 
+      "md5": "f7eadb5a174cd7a13d906a1ca91d7765", 
+      "original": "frpiersonscatalo1886pier_djvu.xml", 
+      "size": "16735834"
+    }, 
+    {
+      "sha1": "49bfeb8b6310bba102d9044812c15d27062111b5", 
+      "name": "frpiersonscatalo1886pier.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1403535530", 
+      "crc32": "7e8f2367", 
+      "md5": "1aa4146ce8d0b8f10e56d21f9123bda5", 
+      "original": "frpiersonscatalo1886pier_abbyy.gz", 
+      "size": "1915004"
+    }, 
+    {
+      "sha1": "b8d8b312e5f27a6f46df795b08ce574e637899e4", 
+      "name": "frpiersonscatalo1886pier.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1403535930", 
+      "crc32": "f65f36da", 
+      "md5": "4a4c243fdefd8f85f10c8b08b24c2160", 
+      "original": "frpiersonscatalo1886pier_djvu.xml", 
+      "size": "11015834"
+    }, 
+    {
+      "sha1": "fe6154ccb9976626cd12788fba7065315fdd72c3", 
+      "name": "frpiersonscatalo1886pier_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1403535479", 
+      "crc32": "e298c3f4", 
+      "md5": "54093ddcc66aef00d7c9f27b6be5c929", 
+      "original": "frpiersonscatalo1886pier_abbyy.gz", 
+      "size": "3160871"
+    }, 
+    {
+      "sha1": "e9e856fe97c055f4c1e445a516e468116a6ac731", 
+      "name": "frpiersonscatalo1886pier_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1403536477", 
+      "crc32": "a3c488dd", 
+      "md5": "ee0dcd5560f07537f1a7b3b420071b71", 
+      "original": "frpiersonscatalo1886pier.djvu", 
+      "size": "340074"
+    }, 
+    {
+      "sha1": "6c8c67113e4bd8b7784bbc26275c59011321edd1", 
+      "name": "frpiersonscatalo1886pier_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1418947244", 
+      "crc32": "57fcedf8", 
+      "md5": "3195a1e6d0260d03c4be3909d6a46d9d", 
+      "size": "2910"
+    }, 
+    {
+      "sha1": "c6d5050c048ded8204d49ccb6b5d186b0930bb0f", 
+      "name": "frpiersonscatalo1886pier_archive.torrent", 
+      "btih": "b1e42c88bd0d5b487636b86e499a913d4124bd58", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1418947246", 
+      "crc32": "f5db2735", 
+      "md5": "598563f59904a572b84770825f5fd45c", 
+      "size": "8830"
+    }, 
+    {
+      "source": "original", 
+      "md5": "702988a57e11356d18849df8cfae572d", 
+      "name": "frpiersonscatalo1886pier_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "updated": 1446679496, 
+  "uniq": 1420446773, 
+  "created": 1446669732, 
+  "workable_servers": [
+    "ia802508.us.archive.org", 
+    "ia902508.us.archive.org"
+  ], 
+  "server": "ia802508.us.archive.org", 
+  "item_size": 257111845, 
+  "dir": "/27/items/frpiersonscatalo1886pier", 
+  "metadata": {
+    "partner_shiptracking": "NC14_1886_I-Z", 
+    "shiptracking": "ST001782", 
+    "scanner": "scribe4.beltsville.archive.org", 
+    "creator": [
+      "Pierson, F. R", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection.", 
+    "ppi": "500", 
+    "subcollection": "henryggilbertnurseryandseedtradecollection", 
+    "nal_call_number": "62.61", 
+    "operator": "associate-mang-pau@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "copyright_message": "The contributing institution believes that this item is not in copyright", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "subject": [
+      "Flowers Seeds Catalogs", 
+      "Fruit Seeds Catalogs", 
+      "Vegetables Seeds Catalogs", 
+      "Commercial catalogs Seeds New York (State) Tarrytown", 
+      "Nurseries (Horticulture) Catalogs"
+    ], 
+    "call_number": "CAT31279546", 
+    "title": "F.R. Pierson's catalogue of seeds, plants and garden supplies : of all kinds for country homes", 
+    "repub_state": "4", 
+    "camera": "Canon EOS 5D Mark II", 
+    "invoice": "3", 
+    "ocr": "ABBYY FineReader 9.0", 
+    "identifier-access": "http://archive.org/details/frpiersonscatalo1886pier", 
+    "scanningcenter": "beltsville", 
+    "description": [
+      "Cover title", 
+      "Includes order form"
+    ], 
+    "identifier-ark": "ark:/13960/t80k52g2t", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "fedlink", 
+      "americana", 
+      "biodiversity"
+    ], 
+    "volume": "1886", 
+    "repub_seconds": "193", 
+    "updater": "associate-manuel-dennis@archive.org", 
+    "updatedate": "2014-06-19 15:38:24", 
+    "uploader": "associate-manuel-dennis@archive.org", 
+    "date": "1886", 
+    "republisher": "associate-mang-pau@archive.org", 
+    "addeddate": "2014-06-19 15:38:26.290649", 
+    "publisher": "Tarrytown, N.Y. : F. R. Pierson", 
+    "publicdate": "2014-06-19 14:43:27", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "curation": "[curator]admin-shelia-deroche@archive.org[/curator][date]20140806150323[/date][state]approved[/state][comment]invoice201407[/comment]", 
+    "imagecount": "90", 
+    "identifier": "frpiersonscatalo1886pier", 
+    "sponsordate": "20140731", 
+    "unique_id": "CAT31279546", 
+    "scandate": "20140620163418"
+  }, 
+  "d2": "ia802508.us.archive.org", 
+  "files_count": 17, 
+  "d1": "ia902508.us.archive.org"
+}

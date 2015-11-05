@@ -1,0 +1,266 @@
+{
+  "files": [
+    {
+      "sha1": "2c77a31a965d465965821a01102a1b61a08b7a1a", 
+      "name": "CAT31284670_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1412614602", 
+      "crc32": "b13dc288", 
+      "md5": "e3be229784dfcfbd3ebdd625a913c2f7", 
+      "size": "1240"
+    }, 
+    {
+      "sha1": "16d37da238983740ce2e54057400e7478fee4bc2", 
+      "name": "CAT31284670_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1412614602", 
+      "crc32": "390541cd", 
+      "md5": "8db1040476148078bcbbb9006ce27bd4", 
+      "size": "4244"
+    }, 
+    {
+      "sha1": "b74c26cb97752b072e2d858d8f3d7aed3fa4cc81", 
+      "name": "CAT31284670_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1412614602", 
+      "crc32": "567805db", 
+      "md5": "d90cca10d1b2ec68b4f6efe086292079", 
+      "size": "307"
+    }, 
+    {
+      "sha1": "f7129da218fa32f0a1aa0ca3320b937814111a17", 
+      "name": "CAT31284670_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1412614602", 
+      "crc32": "81aa6253", 
+      "md5": "12196b87b93c32ec5134b64f043bdee4", 
+      "size": "1811"
+    }, 
+    {
+      "sha1": "9eda9a1de3b0b351b10919ffdee3008dcfff83aa", 
+      "name": "CAT31284670_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1413390044", 
+      "crc32": "0ba229c5", 
+      "md5": "7f5b1a91a9e6a0904e2761d10bf76933", 
+      "size": "104225"
+    }, 
+    {
+      "sha1": "187d2920b2e0cdc648e33f6efac0c1e71e8a4db0", 
+      "name": "CAT31284670_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1413390047", 
+      "crc32": "7fb3ccde", 
+      "md5": "dd079aacfff659b17452fab30e74ff30", 
+      "size": "110632960"
+    }, 
+    {
+      "sha1": "c890833bd110c38497030328ad24656abae49296", 
+      "name": "CAT31284670_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1413397071", 
+      "crc32": "8bab4485", 
+      "md5": "4e57a7fb66afbac5698537554162be6c", 
+      "original": "CAT31284670.djvu", 
+      "size": "247931"
+    }, 
+    {
+      "sha1": "a407381b7af29acf3f2894cadddb7da3be30eb16", 
+      "name": "CAT31284670_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1413396257", 
+      "crc32": "2450740a", 
+      "md5": "f0c9df524dd2fef8cece1698662aa85f", 
+      "original": "CAT31284670_abbyy.gz", 
+      "size": "2319223"
+    }, 
+    {
+      "sha1": "4c0b406525f3391530883d10a59805adfcfccfd9", 
+      "name": "CAT31284670_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1413396202", 
+      "crc32": "f04df5e4", 
+      "md5": "d2990cee76a85d658c1a17f079b683bf", 
+      "original": "CAT31284670_jp2.zip", 
+      "size": "3530625"
+    }, 
+    {
+      "sha1": "b64c4dbd9a838a72f46c8e5311c163ca94b494d0", 
+      "name": "CAT31284670_toc.xml", 
+      "format": "Contents", 
+      "source": "derivative", 
+      "mtime": "1413396276", 
+      "crc32": "acae5721", 
+      "md5": "c6f32b3cc825e4e0347c60718a72e671", 
+      "original": "CAT31284670_djvu.xml", 
+      "size": "58518"
+    }, 
+    {
+      "sha1": "4acb0c7496789eb7d5e814bfde11495edd3b5e54", 
+      "name": "CAT31284670.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1413396270", 
+      "crc32": "5ad340ed", 
+      "md5": "bc18b47fcdaeced37baecc626b20d6c4", 
+      "original": "CAT31284670_abbyy.gz", 
+      "size": "106749"
+    }, 
+    {
+      "sha1": "e5d92ba2746dff4735e665d636f1968cd3ee2d1a", 
+      "name": "CAT31284670.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1413397058", 
+      "crc32": "23d8c45e", 
+      "md5": "85d396c6925f4eb9181732994500a24f", 
+      "original": "CAT31284670_djvu.xml", 
+      "size": "11561902"
+    }, 
+    {
+      "sha1": "0b1b6c16e670547e48df73b9df3d3a1739c11191", 
+      "name": "CAT31284670.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1413396579", 
+      "crc32": "d33ea22f", 
+      "md5": "e396ead5f200f3a799899f4a702ca90a", 
+      "original": "CAT31284670_djvu.xml", 
+      "size": "7007822"
+    }, 
+    {
+      "sha1": "e6500275f15552faed74c2b9939d608cf0798c41", 
+      "name": "CAT31284670_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1413391715", 
+      "crc32": "731cc8a0", 
+      "md5": "ff1fee95cb683e078e116f3ec61df8ee", 
+      "original": "CAT31284670_orig_jp2.tar", 
+      "size": "78927436"
+    }, 
+    {
+      "sha1": "03dcf564882b873bcea0cc4023f8fe368b8f6b1c", 
+      "name": "CAT31284670.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1413391758", 
+      "crc32": "b12a6d5a", 
+      "md5": "8e18d1644623fd618815815778782242", 
+      "original": "CAT31284670_jp2.zip", 
+      "size": "307337"
+    }, 
+    {
+      "sha1": "b770b6e543007613582cc42788e3da6726d3df50", 
+      "name": "CAT31284670_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1415309145", 
+      "crc32": "e330dc82", 
+      "md5": "791ca025d3986ec811e26ad3c0eb9e06", 
+      "size": "2915"
+    }, 
+    {
+      "sha1": "341526386f606fbd18014aa82379e868ec44f5e5", 
+      "name": "CAT31284670_archive.torrent", 
+      "btih": "ec60bfb5013a3a81526f8438b5706efdc95bbeb8", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1415309148", 
+      "crc32": "e316cf84", 
+      "md5": "dcca3e223247f9e5b6fbb6c6fae8eead", 
+      "size": "7688"
+    }, 
+    {
+      "source": "original", 
+      "md5": "31a48c5b6e12df8824b35da679e5493b", 
+      "name": "CAT31284670_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "uniq": 847238517, 
+  "created": 1446748208, 
+  "workable_servers": [
+    "ia902607.us.archive.org"
+  ], 
+  "server": "ia902607.us.archive.org", 
+  "item_size": 214822933, 
+  "dir": "/28/items/CAT31284670", 
+  "metadata": {
+    "partner_shiptracking": "NC15_1900_Q-r", 
+    "shiptracking": "ST002529", 
+    "scanner": "scribe2.beltsville.archive.org", 
+    "creator": [
+      "Royal Palm Nurseries", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection.", 
+    "ppi": "500", 
+    "subcollection": "henryggilbertnurseryandseedtradecollection", 
+    "nal_call_number": "62.17", 
+    "operator": "associate-saw-thein@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "copyright_message": "The contributing institution believes that this item is not in copyright", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "subject": [
+      "Nurseries (Horticulture) Florida Catalogs", 
+      "Nursery stock Florida Catalogs", 
+      "Tropical plants Catalogs", 
+      "Palms Catalogs", 
+      "Fruit trees Seedlings Catalogs", 
+      "Citrus fruit industry Catalogs", 
+      "Fruit Catalogs", 
+      "Plants, Ornamental Catalogs"
+    ], 
+    "title": "Annual catalogue 1900 native and exotic plants, trees, shrubs", 
+    "repub_state": "4", 
+    "camera": "Canon EOS 5D Mark II", 
+    "invoice": "3", 
+    "ocr": "ABBYY FineReader 9.0", 
+    "identifier-access": "http://archive.org/details/CAT31284670", 
+    "scanningcenter": "beltsville", 
+    "description": [
+      "Cover title", 
+      "Includes index"
+    ], 
+    "identifier-ark": "ark:/13960/t3dz33x5w", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "fedlink", 
+      "americana"
+    ], 
+    "volume": "1900", 
+    "repub_seconds": "194", 
+    "updater": "associate-manuel-dennis@archive.org", 
+    "updatedate": "2014-10-06 16:56:42", 
+    "uploader": "associate-manuel-dennis@archive.org", 
+    "date": "1900", 
+    "republisher": "associate-saw-thein@archive.org", 
+    "addeddate": "2014-10-06 16:56:44.4233", 
+    "publisher": "Oneco, Fla. : Royal Palm Nurseries, Reasoner Bros.", 
+    "publicdate": "2014-10-06 15:56:56", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "curation": "[curator]admin-shelia-deroche@archive.org[/curator][date]20141104134812[/date][state]approved[/state][comment]invoice201410[/comment]", 
+    "imagecount": "66", 
+    "identifier": "CAT31284670", 
+    "sponsordate": "20141031", 
+    "unique_id": "CAT31284670", 
+    "scandate": "20141008171029"
+  }, 
+  "files_count": 18, 
+  "d1": "ia902607.us.archive.org"
+}

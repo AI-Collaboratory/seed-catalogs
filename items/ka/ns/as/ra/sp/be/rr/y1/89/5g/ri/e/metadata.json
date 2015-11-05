@@ -1,0 +1,252 @@
+{
+  "files": [
+    {
+      "sha1": "793b1156b4296ce6b634e5c0405a9b97f65d89db", 
+      "name": "kansasraspberry1895grie_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1407353031", 
+      "crc32": "5397c938", 
+      "md5": "f0d6b3f903ede0a651502e1e7fe5b0dc", 
+      "size": "319"
+    }, 
+    {
+      "sha1": "8224a56a743e2698f6c6e696c9afeb8ee5f7c879", 
+      "name": "kansasraspberry1895grie_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1407353031", 
+      "crc32": "2df85f94", 
+      "md5": "8ed7d079fb422e95a343328d13bc6ae2", 
+      "size": "1001"
+    }, 
+    {
+      "sha1": "c51696afb83130fc9ccebdcce0902fe9c571ea81", 
+      "name": "kansasraspberry1895grie_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1407353031", 
+      "crc32": "0a59b18d", 
+      "md5": "c448175b5b2a741731b86f982386fed6", 
+      "size": "1417"
+    }, 
+    {
+      "sha1": "23d04424c5f8e8f60161e7b33882a10575411b2f", 
+      "name": "kansasraspberry1895grie_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1407353031", 
+      "crc32": "fc626a9b", 
+      "md5": "0ab41c6a66dc50d34fc50b53f77c68bd", 
+      "size": "3606"
+    }, 
+    {
+      "sha1": "6918bddac144a61e3ef31107db141ef3e2c44928", 
+      "name": "kansasraspberry1895grie_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1407849094", 
+      "crc32": "dfc7cd9f", 
+      "md5": "3faf5dc85b5961186cd8ec013a250243", 
+      "size": "6645760"
+    }, 
+    {
+      "sha1": "56879b3c8e20c5615e7f5950e8e7beec049e82b4", 
+      "name": "kansasraspberry1895grie_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1407849094", 
+      "crc32": "991f3943", 
+      "md5": "deb877e94c1b389904cc0203d3c8a898", 
+      "size": "9718"
+    }, 
+    {
+      "sha1": "44e670f5c1c437592b645df530377f9169764b60", 
+      "name": "kansasraspberry1895grie_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1407849255", 
+      "crc32": "b9fe4ceb", 
+      "md5": "9f258a15a0ab2d7421602a22ad8d3ec0", 
+      "original": "kansasraspberry1895grie_orig_jp2.tar", 
+      "size": "4789407"
+    }, 
+    {
+      "sha1": "05e24e75e1675e393980080339a5fa01d5ae16da", 
+      "name": "kansasraspberry1895grie_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1407849337", 
+      "crc32": "d0ef7a07", 
+      "md5": "998b6638092bf74714b2e74ed8534cbe", 
+      "original": "kansasraspberry1895grie_jp2.zip", 
+      "size": "229028"
+    }, 
+    {
+      "sha1": "cf8ea10b73bed278eb35745c59e5df557a290f29", 
+      "name": "kansasraspberry1895grie_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1407849347", 
+      "crc32": "5a87c987", 
+      "md5": "48b981b8058326318281c265d19cf246", 
+      "original": "kansasraspberry1895grie_abbyy.gz", 
+      "size": "147858"
+    }, 
+    {
+      "sha1": "5c5f2b58f3b64c63a31223b5b47e721151596807", 
+      "name": "kansasraspberry1895grie.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1407849386", 
+      "crc32": "68c8c5dd", 
+      "md5": "ef53e319261f9ec8e9b4c68e1e8a5293", 
+      "original": "kansasraspberry1895grie_djvu.xml", 
+      "size": "286544"
+    }, 
+    {
+      "sha1": "6ce2989b22b7b64c20037e02356c39b6dc86e3d4", 
+      "name": "kansasraspberry1895grie_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1407849430", 
+      "crc32": "53a6b262", 
+      "md5": "2a3efe7dc08b5163674af1a052d0c052", 
+      "original": "kansasraspberry1895grie.djvu", 
+      "size": "14791"
+    }, 
+    {
+      "sha1": "77eda953c729537771058b54796d4710cf04efa2", 
+      "name": "kansasraspberry1895grie.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1407849356", 
+      "crc32": "6a0195df", 
+      "md5": "f516626cd7af633df8400f0b2822cbaa", 
+      "original": "kansasraspberry1895grie_abbyy.gz", 
+      "size": "188802"
+    }, 
+    {
+      "sha1": "ddf2738220c93b83981c9ee6db6aa00ce4d40f99", 
+      "name": "kansasraspberry1895grie.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1407849264", 
+      "crc32": "d407d259", 
+      "md5": "4710f9d157a48485d167639c70050719", 
+      "original": "kansasraspberry1895grie_jp2.zip", 
+      "size": "40797"
+    }, 
+    {
+      "sha1": "5580c5ee93cd3e2b437d1c667454fb0662a02773", 
+      "name": "kansasraspberry1895grie.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1407849424", 
+      "crc32": "ad7f251c", 
+      "md5": "330c90f8deeb99709bc26bb216cd73e9", 
+      "original": "kansasraspberry1895grie_djvu.xml", 
+      "size": "444426"
+    }, 
+    {
+      "sha1": "524f51f8981bd90b215b09b6779400612a7b0742", 
+      "name": "kansasraspberry1895grie_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1418948609", 
+      "crc32": "bf3c8171", 
+      "md5": "fef5cd574e4b37bd7c940dfdf535c602", 
+      "size": "2836"
+    }, 
+    {
+      "sha1": "23802b3466802c0ec150e0e6ef962ae8ca4ece0e", 
+      "name": "kansasraspberry1895grie_archive.torrent", 
+      "btih": "93eba6dd11b41dab4f5a8041b727a98c4041cc1b", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1418948610", 
+      "crc32": "b1329f41", 
+      "md5": "cf660e4e28d4a92e6209d73ffb036421", 
+      "size": "4016"
+    }, 
+    {
+      "source": "original", 
+      "md5": "c4563fc85098c687898a9c0c9020f3fb", 
+      "name": "kansasraspberry1895grie_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "uniq": 287692945, 
+  "created": 1446753559, 
+  "workable_servers": [
+    "ia902308.us.archive.org"
+  ], 
+  "server": "ia902308.us.archive.org", 
+  "item_size": 12810326, 
+  "dir": "/10/items/kansasraspberry1895grie", 
+  "metadata": {
+    "partner_shiptracking": "NC14_1895_I-K", 
+    "shiptracking": "ST002154", 
+    "scanner": "scribe3.beltsville.archive.org", 
+    "creator": [
+      "Griesa, A. H", 
+      "A.H. Griesa (Firm)", 
+      "Kansas Home Nursery", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection.", 
+    "ppi": "350", 
+    "subcollection": "henryggilbertnurseryandseedtradecollection", 
+    "nal_call_number": "62.29", 
+    "operator": "associate-mark-kanaskie@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "copyright_message": "The contributing institution believes that this item is not in copyright", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "subject": [
+      "Nursery stock Kansas Lawrence Catalogs", 
+      "Raspberries Catalogs", 
+      "Trees Seedlings Catalogs"
+    ], 
+    "call_number": "CAT31281771", 
+    "title": "The Kansas raspberry", 
+    "repub_state": "4", 
+    "camera": "Canon EOS 5D Mark II", 
+    "invoice": "3", 
+    "ocr": "ABBYY FineReader 9.0", 
+    "identifier-access": "http://archive.org/details/kansasraspberry1895grie", 
+    "scanningcenter": "beltsville", 
+    "description": "Caption title", 
+    "identifier-ark": "ark:/13960/t9d53dd3n", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "fedlink", 
+      "americana", 
+      "biodiversity"
+    ], 
+    "volume": "1895", 
+    "repub_seconds": "59", 
+    "updater": "associate-manuel-dennis@archive.org", 
+    "updatedate": "2014-08-06 19:23:51", 
+    "uploader": "associate-manuel-dennis@archive.org", 
+    "date": "1895", 
+    "republisher": "associate-mark-kanaskie@archive.org", 
+    "addeddate": "2014-08-06 19:23:53.655163", 
+    "publisher": "Lawrence, Kansas : A.H. Griesa", 
+    "publicdate": "2014-08-06 18:16:56", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "curation": "[curator]admin-shelia-deroche@archive.org[/curator][date]20141002145632[/date][state]approved[/state][comment]invoice201409[/comment]", 
+    "notes": "No copyright page found. No table-of-contents pages found.", 
+    "imagecount": "6", 
+    "identifier": "kansasraspberry1895grie", 
+    "sponsordate": "20140930", 
+    "unique_id": "CAT31281771", 
+    "scandate": "20140807170703"
+  }, 
+  "files_count": 17, 
+  "d1": "ia902308.us.archive.org"
+}

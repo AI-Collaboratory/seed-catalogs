@@ -1,0 +1,256 @@
+{
+  "files": [
+    {
+      "sha1": "a92ae436a4e40425f9b168588d574e0eddb092a2", 
+      "name": "gregoryshonestse1934jjhg_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1392738607", 
+      "crc32": "b6636000", 
+      "md5": "4d80bc33791eb6202bd4b8e870748d0e", 
+      "size": "1567"
+    }, 
+    {
+      "sha1": "fa79d1b27b67484ac5acbd5e87e3b8c68653e70c", 
+      "name": "gregoryshonestse1934jjhg_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1392738607", 
+      "crc32": "f5e8a972", 
+      "md5": "8a848b454d6b45f025a8006b15d55e51", 
+      "size": "1196"
+    }, 
+    {
+      "sha1": "79abad20048e42d92dff335c04738e77b0cc2645", 
+      "name": "gregoryshonestse1934jjhg_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1392738607", 
+      "crc32": "02fd8531", 
+      "md5": "94f96b811d9b7f8801a0555e1e8a89b7", 
+      "size": "4265"
+    }, 
+    {
+      "sha1": "4992a7c841d4ef71152eee7061ea2f9fffe04e77", 
+      "name": "gregoryshonestse1934jjhg_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1392738607", 
+      "crc32": "87f41718", 
+      "md5": "d0bd1b8696710be49b64ba55a0f00d3e", 
+      "size": "322"
+    }, 
+    {
+      "sha1": "1349d49d2e92789292a2a0f5022803b11f541d68", 
+      "name": "gregoryshonestse1934jjhg_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1392935122", 
+      "crc32": "0b726767", 
+      "md5": "cd64f4d282ac84cf7a1ed06ccb87058c", 
+      "size": "100679680"
+    }, 
+    {
+      "sha1": "46c44d965f1350feb66c9b7778b7f25e27bbe982", 
+      "name": "gregoryshonestse1934jjhg_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1392935120", 
+      "crc32": "4b971733", 
+      "md5": "bd3e66d242c541489a06d701c579cad1", 
+      "size": "88324"
+    }, 
+    {
+      "sha1": "043316486ad3c0c0fe82a0e197894c1a1c61fab5", 
+      "name": "gregoryshonestse1934jjhg_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1392936715", 
+      "crc32": "711adfb2", 
+      "md5": "2094d59016327008e0af5d3cb3996693", 
+      "original": "gregoryshonestse1934jjhg_orig_jp2.tar", 
+      "size": "72660733"
+    }, 
+    {
+      "sha1": "5118b90be5aa353680e88528ad0f89d087e965e4", 
+      "name": "gregoryshonestse1934jjhg_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1392937827", 
+      "crc32": "a7a0573f", 
+      "md5": "9aa537a337a0c4d63f04bd5d57dd4b35", 
+      "original": "gregoryshonestse1934jjhg_jp2.zip", 
+      "size": "3538482"
+    }, 
+    {
+      "sha1": "bc2fefb14b6f6f410e51aab0960ec6336d411c17", 
+      "name": "gregoryshonestse1934jjhg.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1392937921", 
+      "crc32": "7a7219d4", 
+      "md5": "42e064a39be6530a9ca4984225e2c96f", 
+      "original": "gregoryshonestse1934jjhg_abbyy.gz", 
+      "size": "896837"
+    }, 
+    {
+      "sha1": "de8f323f5ef413a289610a73249b2101eddd6db9", 
+      "name": "gregoryshonestse1934jjhg.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1392938679", 
+      "crc32": "dbe8eea0", 
+      "md5": "fce21436e5359d36ab922adf6a415e68", 
+      "original": "gregoryshonestse1934jjhg_djvu.xml", 
+      "size": "10338172"
+    }, 
+    {
+      "sha1": "1cf1c1eac272645a00dc850f48bb2a4f9f429e15", 
+      "name": "gregoryshonestse1934jjhg_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1392937887", 
+      "crc32": "ebbd8d3f", 
+      "md5": "ca4e72da9f6440f4864bee769f0cb5b1", 
+      "original": "gregoryshonestse1934jjhg_abbyy.gz", 
+      "size": "2334408"
+    }, 
+    {
+      "sha1": "d7b34368283e379795b3a93b0707d692fadca686", 
+      "name": "gregoryshonestse1934jjhg_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1392938694", 
+      "crc32": "eec2f503", 
+      "md5": "b52cbac13c7f879718bd2b8edd7676b0", 
+      "original": "gregoryshonestse1934jjhg.djvu", 
+      "size": "241061"
+    }, 
+    {
+      "sha1": "a4f6a59e87d14e4501ecef8f066f79e52b3e6c6a", 
+      "name": "gregoryshonestse1934jjhg.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1392938228", 
+      "crc32": "e44ee126", 
+      "md5": "6f14e3d8349b7145065656255329db45", 
+      "original": "gregoryshonestse1934jjhg_djvu.xml", 
+      "size": "6335381"
+    }, 
+    {
+      "sha1": "bd0c871552c9cb4ed122bf2ec1d805916a3166c3", 
+      "name": "gregoryshonestse1934jjhg.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1392936747", 
+      "crc32": "f360a923", 
+      "md5": "4cea882d915b98b53797b4fb608231c0", 
+      "original": "gregoryshonestse1934jjhg_jp2.zip", 
+      "size": "306224"
+    }, 
+    {
+      "sha1": "7b35d2dde234f4ef2ec98a71efff45a0342213c9", 
+      "name": "gregoryshonestse1934jjhg_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1418947502", 
+      "crc32": "ab8178dd", 
+      "md5": "7492d29557115472bb4826a215fe9ea2", 
+      "size": "3022"
+    }, 
+    {
+      "sha1": "816650bbedd6a3ac2ad6a2336cec458a4fdbe139", 
+      "name": "gregoryshonestse1934jjhg_archive.torrent", 
+      "btih": "c8335584e006e38802d9485b2c807e969e04f5b2", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1418947510", 
+      "crc32": "6f78eb25", 
+      "md5": "183e9c1aeb40ed72f42c10632c436595", 
+      "size": "7507"
+    }, 
+    {
+      "source": "original", 
+      "md5": "efd5f87349ce6b0b0f49997a7122f709", 
+      "name": "gregoryshonestse1934jjhg_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "uniq": 962941740, 
+  "created": 1446751334, 
+  "workable_servers": [
+    "ia600500.us.archive.org"
+  ], 
+  "server": "ia600500.us.archive.org", 
+  "item_size": 197437181, 
+  "dir": "/34/items/gregoryshonestse1934jjhg", 
+  "metadata": {
+    "partner_shiptracking": "NC14_0067", 
+    "shiptracking": "ST001034", 
+    "scanner": "scribe2.beltsville.archive.org", 
+    "creator": [
+      "J.J.H. Gregory & Son", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection.", 
+    "ppi": "350", 
+    "subcollection": "henryggilbertnurseryandseedtradecollection", 
+    "nal_call_number": "62.39", 
+    "operator": "associate-saw-thein@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "copyright_message": "The contributing institution believes that this item is not in copyright", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "subject": [
+      "Gardening United States Equipment and supplies Catalogs", 
+      "Vegetables Seeds United States Catalogs", 
+      "Flowers Seeds United States Catalogs", 
+      "Fruit Seeds United States Catalogs", 
+      "Grasses Seeds Catalogs", 
+      "Gardening Implements Catalogs"
+    ], 
+    "call_number": "CAT31153317", 
+    "title": "Gregory's honest seeds", 
+    "repub_state": "4", 
+    "camera": "Canon EOS 5D Mark II", 
+    "invoice": "3", 
+    "ocr": "ABBYY FineReader 9.0", 
+    "identifier-access": "http://archive.org/details/gregoryshonestse1934jjhg", 
+    "scanningcenter": "beltsville", 
+    "description": [
+      "Cover title", 
+      "Includes index"
+    ], 
+    "identifier-ark": "ark:/13960/t5w691q9w", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "fedlink", 
+      "americana", 
+      "biodiversity"
+    ], 
+    "volume": "1934", 
+    "repub_seconds": "354", 
+    "updater": "associate-adrianna-flores@archive.org", 
+    "updatedate": "2014-02-18 15:50:07", 
+    "uploader": "associate-adrianna-flores@archive.org", 
+    "date": "1934", 
+    "republisher": "associate-yvonne-wang@archive.org", 
+    "addeddate": "2014-02-18 15:50:09.511114", 
+    "publisher": "Marblehead, Mass. : J.J.H. Gregory & Son", 
+    "publicdate": "2014-02-18 14:51:00", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "curation": "[curator]admin-shelia-deroche@archive.org[/curator][date]20140604171445[/date][state]approved[/state][comment]invoice201405[/comment]", 
+    "notes": "No table-of-contents pages found. No copyright page found.", 
+    "imagecount": "56", 
+    "identifier": "gregoryshonestse1934jjhg", 
+    "sponsordate": "20140531", 
+    "unique_id": "CAT31153317", 
+    "scandate": "20140219191039"
+  }, 
+  "files_count": 17, 
+  "d1": "ia600500.us.archive.org"
+}

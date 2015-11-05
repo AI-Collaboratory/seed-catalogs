@@ -1,0 +1,247 @@
+{
+  "files": [
+    {
+      "sha1": "276348bbf89ff4885a5824f24670273b6f07d713", 
+      "name": "hendersonswholes19pete_35_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1373911326", 
+      "crc32": "3564eeec", 
+      "md5": "91a1b5e45671ec9167e67c87034cbf3e", 
+      "size": "1085"
+    }, 
+    {
+      "sha1": "43413ba43828e5b049260e56a2454f033597c383", 
+      "name": "hendersonswholes19pete_35_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1373911326", 
+      "crc32": "740732c6", 
+      "md5": "c04aaf03f8f66845a451f2488b656123", 
+      "size": "326"
+    }, 
+    {
+      "sha1": "8bd46f715b70d4b4f050dcdb612f5755ae221b1c", 
+      "name": "hendersonswholes19pete_35_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1373911326", 
+      "crc32": "81a564fc", 
+      "md5": "30994a36dcf5e84233a71b78c6c51677", 
+      "size": "1666"
+    }, 
+    {
+      "sha1": "d50d119048b109060e9d0efa3791def533b7dd3d", 
+      "name": "hendersonswholes19pete_35_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1373911326", 
+      "crc32": "5fac1080", 
+      "md5": "84046f2d56d2fc6499f13a825cc29951", 
+      "size": "3749"
+    }, 
+    {
+      "sha1": "94e6622599ca3c377f95b6f2811e6aa86674a9a0", 
+      "name": "hendersonswholes19pete_35_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1374239356", 
+      "crc32": "d59cedae", 
+      "md5": "5e352c4392ad959c2e6a42cb69aa31e7", 
+      "size": "92224"
+    }, 
+    {
+      "sha1": "8428a296539cb93e2c5c9035c61c0dba39f89979", 
+      "name": "hendersonswholes19pete_35_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1374239357", 
+      "crc32": "e5e7b990", 
+      "md5": "72ebf735a39d01ab82b65fd697d5f727", 
+      "size": "82339840"
+    }, 
+    {
+      "sha1": "e8151cf1e400f4bf6ac279c514da3ddd77704b57", 
+      "name": "hendersonswholes19pete_35_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1374240733", 
+      "crc32": "fcd75ab8", 
+      "md5": "1498993367b5ed8b8757f3f267b4b328", 
+      "original": "hendersonswholes19pete_35_orig_jp2.tar", 
+      "size": "54257257"
+    }, 
+    {
+      "sha1": "0bbff01ba720fd893b3c3fdef5b405a8e668693c", 
+      "name": "hendersonswholes19pete_35_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1374242371", 
+      "crc32": "15004826", 
+      "md5": "b1b1dda9042f29e97030471da31130e5", 
+      "original": "hendersonswholes19pete_35_jp2.zip", 
+      "size": "4584097"
+    }, 
+    {
+      "sha1": "08d81046a2bfc2c87d7930151bd94433334c002f", 
+      "name": "hendersonswholes19pete_35.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1374242482", 
+      "crc32": "d21badeb", 
+      "md5": "d1ea667ae1870f3b3cb39cc22d83bc50", 
+      "original": "hendersonswholes19pete_35_abbyy.gz", 
+      "size": "1365948"
+    }, 
+    {
+      "sha1": "201a5a201fa6196b6a23a3d578f15202c0825b31", 
+      "name": "hendersonswholes19pete_35_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1374242447", 
+      "crc32": "91708423", 
+      "md5": "6afb6fc9dd349dc0093dbfae67f9dae5", 
+      "original": "hendersonswholes19pete_35_abbyy.gz", 
+      "size": "2866493"
+    }, 
+    {
+      "sha1": "dfc4654fd3238d674f11eb44f57cc3775bac9478", 
+      "name": "hendersonswholes19pete_35.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1374243095", 
+      "crc32": "d4a97ad4", 
+      "md5": "cb0195b549c9ba2e9516b99265acb84c", 
+      "original": "hendersonswholes19pete_35_djvu.xml", 
+      "size": "6876453"
+    }, 
+    {
+      "sha1": "e88621745b2f73a094a9c2bc9850ea5a3b16afe2", 
+      "name": "hendersonswholes19pete_35.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1374240755", 
+      "crc32": "5a16f7d5", 
+      "md5": "d1cd9d96c9e2d89ba5d4b4d36d3df635", 
+      "original": "hendersonswholes19pete_35_jp2.zip", 
+      "size": "284869"
+    }, 
+    {
+      "sha1": "aae059565948d2db9f99d07ed1175696e610f0fa", 
+      "name": "hendersonswholes19pete_35_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1374243105", 
+      "crc32": "53a2f651", 
+      "md5": "73d27db85d9555d76e1894645e4b5df9", 
+      "original": "hendersonswholes19pete_35.djvu", 
+      "size": "299241"
+    }, 
+    {
+      "sha1": "e83f239f8592723579a79446b39ac3656ac21ae1", 
+      "name": "hendersonswholes19pete_35.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1374242728", 
+      "crc32": "5e45826b", 
+      "md5": "eb33aa8102df18d378a897b69edb3dcd", 
+      "original": "hendersonswholes19pete_35_djvu.xml", 
+      "size": "4709919"
+    }, 
+    {
+      "sha1": "dc7b420b45e4fe41d3a44c83e8f2cc5ddff74d5c", 
+      "name": "hendersonswholes19pete_35_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1418947594", 
+      "crc32": "f7e97be2", 
+      "md5": "4c535080a3272aa744b20ee8fbcb29e2", 
+      "size": "2527"
+    }, 
+    {
+      "sha1": "b3976676b3db182c922bb15f0867cd07b61c4416", 
+      "name": "hendersonswholes19pete_35_archive.torrent", 
+      "btih": "ee77971b1d437d3f6abb0db2a2c85a155db220fc", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1418947596", 
+      "crc32": "0508d3c8", 
+      "md5": "596d4497b3e38c65e721867ed6d2b75e", 
+      "size": "6708"
+    }, 
+    {
+      "source": "original", 
+      "md5": "650887a989cb83b644fa091627053a71", 
+      "name": "hendersonswholes19pete_35_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "uniq": 708001614, 
+  "created": 1446755278, 
+  "workable_servers": [
+    "ia601805.us.archive.org"
+  ], 
+  "server": "ia601805.us.archive.org", 
+  "item_size": 157692402, 
+  "dir": "/27/items/hendersonswholes19pete_35", 
+  "metadata": {
+    "shiptracking": "ST000046", 
+    "scanner": "scribe4.beltsville.archive.org", 
+    "creator": [
+      "Peter Henderson & Co", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection", 
+    "ppi": "350", 
+    "nal_call_number": "62.61", 
+    "operator": "associate-mang-pau@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "subject": [
+      "Seed industry and trade Catalogs", 
+      "Seeds Catalogs", 
+      "Vegetables Seeds Catalogs", 
+      "Fertilizers Catalogs", 
+      "Insecticides Catalogs"
+    ], 
+    "call_number": "CAT31115326", 
+    "title": "Henderson's wholesale catalogue for market growers and florists : spring 1929 edition", 
+    "repub_state": "4", 
+    "possible-copyright-status": "The contributing institution believes that this item is not in copyright", 
+    "camera": "Canon EOS 5D Mark II", 
+    "ocr": "ABBYY FineReader 8.0", 
+    "identifier-access": "http://archive.org/details/hendersonswholes19pete_35", 
+    "scanningcenter": "beltsville", 
+    "description": "Cover title", 
+    "identifier-ark": "ark:/13960/t6qz3xd1s", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "fedlink", 
+      "americana", 
+      "biodiversity"
+    ], 
+    "volume": "1929", 
+    "repub_seconds": "80422", 
+    "updater": "associate-adrianna-flores@archive.org", 
+    "updatedate": "2013-07-15 18:02:06", 
+    "uploader": "associate-adrianna-flores@archive.org", 
+    "date": "1929", 
+    "republisher": "associate-mang-pau@archive.org", 
+    "addeddate": "2013-07-15 18:02:08", 
+    "publisher": "New York : Peter Henderson & Co.", 
+    "publicdate": "2013-07-15 17:07:25", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "imagecount": "58", 
+    "identifier": "hendersonswholes19pete_35", 
+    "sponsordate": "20130731", 
+    "unique_id": "CAT31115326", 
+    "scandate": "20130717120150"
+  }, 
+  "files_count": 17, 
+  "d1": "ia601805.us.archive.org"
+}

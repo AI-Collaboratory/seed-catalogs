@@ -1,0 +1,260 @@
+{
+  "files": [
+    {
+      "sha1": "cf981a97e8cef2d15bc3300eff9aaee30026da7e", 
+      "name": "germaincatalog1921germ_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1396442702", 
+      "crc32": "b109117c", 
+      "md5": "ed624f9808c156a5dbab84f904f4f266", 
+      "size": "4055"
+    }, 
+    {
+      "sha1": "e53576d7857b5a6af052ab5373c4f91dd1ae745f", 
+      "name": "germaincatalog1921germ_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1396442702", 
+      "crc32": "9ff7f82e", 
+      "md5": "22019f24b98c5da4b09d1aa12aec3499", 
+      "size": "1126"
+    }, 
+    {
+      "sha1": "ec2e900cf19c490e6330e8e5e1808557e6ecade8", 
+      "name": "germaincatalog1921germ_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1396442702", 
+      "crc32": "7aac1617", 
+      "md5": "dfd199cfb889fc53b75c185fb81828aa", 
+      "size": "1655"
+    }, 
+    {
+      "sha1": "386c83d3afbf76faec52ce69409508a0e23d388f", 
+      "name": "germaincatalog1921germ_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1396442702", 
+      "crc32": "e03d75eb", 
+      "md5": "40872bf280d803b7d8df9493bde1a542", 
+      "size": "320"
+    }, 
+    {
+      "sha1": "d310690a86b26fc7cd7183ecb3f72096972fde05", 
+      "name": "germaincatalog1921germ_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1397147103", 
+      "crc32": "06977855", 
+      "md5": "fdcb7792fbe7c99ecddee0c6782cc189", 
+      "size": "336522"
+    }, 
+    {
+      "sha1": "a185c25df881ee6a42a07ab6f35ad3282769052b", 
+      "name": "germaincatalog1921germ_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1397147114", 
+      "crc32": "21a2171a", 
+      "md5": "917d329d8194abeef7b0a58bb3118701", 
+      "size": "416409600"
+    }, 
+    {
+      "sha1": "1401c1ccc88a8c5e2f40734553c2bfcd6b95163f", 
+      "name": "germaincatalog1921germ_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1397153721", 
+      "crc32": "5ae20e4a", 
+      "md5": "6c72a0d2a63262cde80e1bc816be13cd", 
+      "original": "germaincatalog1921germ_orig_jp2.tar", 
+      "size": "342003483"
+    }, 
+    {
+      "sha1": "4853d4f6cf650b3efc3cb2180b14aca846500044", 
+      "name": "germaincatalog1921germ.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1397165887", 
+      "crc32": "5141c585", 
+      "md5": "ab8b51494bf395f1462529c580e54134", 
+      "original": "germaincatalog1921germ_djvu.xml", 
+      "size": "40744998"
+    }, 
+    {
+      "sha1": "05d91935180dc18f3789823a9e7d84ced18a8191", 
+      "name": "germaincatalog1921germ_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1397162918", 
+      "crc32": "f0534a7b", 
+      "md5": "8a921c5c493a9f57e5c48085f2ee6df3", 
+      "original": "germaincatalog1921germ_jp2.zip", 
+      "size": "12162079"
+    }, 
+    {
+      "sha1": "3f26a075b099b54b9db0e859b7aec5a2d581b0e4", 
+      "name": "germaincatalog1921germ.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1397163260", 
+      "crc32": "d444f8bc", 
+      "md5": "5e7b8214f4e86b43b6f0169860d61de9", 
+      "original": "germaincatalog1921germ_abbyy.gz", 
+      "size": "4594489"
+    }, 
+    {
+      "sha1": "b736c3fdc8a2a7362f8a5dedc4b62130cb2fee21", 
+      "name": "germaincatalog1921germ_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1397165919", 
+      "crc32": "5f7422cd", 
+      "md5": "1b6e39827808e738a351694563830e06", 
+      "original": "germaincatalog1921germ.djvu", 
+      "size": "847330"
+    }, 
+    {
+      "sha1": "53f9a6b3f1e07e49bc90fed884476226aa3c7ee0", 
+      "name": "germaincatalog1921germ_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1397163112", 
+      "crc32": "30998e10", 
+      "md5": "e202a7970768ae735621cfed962f31b2", 
+      "original": "germaincatalog1921germ_abbyy.gz", 
+      "size": "8164527"
+    }, 
+    {
+      "sha1": "336d8ed1b1a87454564b862c2955b80de9b9cbb4", 
+      "name": "germaincatalog1921germ.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1397164332", 
+      "crc32": "bd677dc1", 
+      "md5": "69954c709ec55d4e9693cc21a48743bc", 
+      "original": "germaincatalog1921germ_djvu.xml", 
+      "size": "28379951"
+    }, 
+    {
+      "sha1": "de3bead7ad2e85b07defadb6da7edd511c300f7f", 
+      "name": "germaincatalog1921germ.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1397153754", 
+      "crc32": "fd11b5a9", 
+      "md5": "4759796e7659f32cc9c7e9a6533582a1", 
+      "original": "germaincatalog1921germ_jp2.zip", 
+      "size": "310259"
+    }, 
+    {
+      "sha1": "54f3add7a0cc732cfdf54505be438b9a146e784c", 
+      "name": "germaincatalog1921germ_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1418947459", 
+      "crc32": "9cdf0e83", 
+      "md5": "186831123d8f95093037d6b8d56d1acd", 
+      "size": "3207"
+    }, 
+    {
+      "sha1": "f9a557ebe67085c2bc5403b14a99d6b42a76ae8a", 
+      "name": "germaincatalog1921germ_archive.torrent", 
+      "btih": "09f5c0f58829372d1068100d55b7f8a844f0861a", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1418947463", 
+      "crc32": "e9aed4a6", 
+      "md5": "962fa21a1454fb2229c9355a19d252ec", 
+      "size": "20471"
+    }, 
+    {
+      "source": "original", 
+      "md5": "9c2bf90eedaf4f4ebdb146b2a452d05d", 
+      "name": "germaincatalog1921germ_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "updated": 1446752286, 
+  "uniq": 42125010, 
+  "created": 1446737473, 
+  "workable_servers": [
+    "ia800304.us.archive.org", 
+    "ia600304.us.archive.org"
+  ], 
+  "server": "ia800304.us.archive.org", 
+  "item_size": 853984072, 
+  "dir": "/11/items/germaincatalog1921germ", 
+  "metadata": {
+    "partner_shiptracking": "NC14_0089", 
+    "shiptracking": "ST001313", 
+    "scanner": "scribe2.beltsville.archive.org", 
+    "creator": [
+      "Germain Seed and Plant Company", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection.", 
+    "ppi": "350", 
+    "subcollection": "henryggilbertnurseryandseedtradecollection", 
+    "nal_call_number": "62.09", 
+    "operator": "associate-saw-thein@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "copyright_message": "The contributing institution believes that this item is not in copyright", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "subject": [
+      "Nurseries (Horticulture) Catalogs", 
+      "Flowers Seeds Catalogs", 
+      "Plants, Ornamental Catalogs", 
+      "Vegetables Seeds Catalogs", 
+      "Trees Catalogs", 
+      "Grasses Seeds Catalogs", 
+      "Gardening Equipment and supplies Catalogs"
+    ], 
+    "call_number": "CAT31276584", 
+    "title": "Germain : [catalog]", 
+    "repub_state": "4", 
+    "camera": "Canon EOS 5D Mark II", 
+    "invoice": "3", 
+    "ocr": "ABBYY FineReader 9.0", 
+    "identifier-access": "http://archive.org/details/germaincatalog1921germ", 
+    "scanningcenter": "beltsville", 
+    "description": [
+      "Cover title", 
+      "Includes index"
+    ], 
+    "identifier-ark": "ark:/13960/t2r527q0z", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "fedlink", 
+      "americana", 
+      "biodiversity"
+    ], 
+    "volume": "1921", 
+    "repub_seconds": "268990", 
+    "updater": "associate-adrianna-flores@archive.org", 
+    "updatedate": "2014-04-02 12:45:02", 
+    "uploader": "associate-adrianna-flores@archive.org", 
+    "date": "1921", 
+    "republisher": "associate-yvonne-wang@archive.org", 
+    "addeddate": "2014-04-02 12:45:04.986084", 
+    "publisher": "Los Angeles, Calif. : Germain", 
+    "publicdate": "2014-04-02 11:43:57", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "curation": "[curator]admin-shelia-deroche@archive.org[/curator][date]20140707145308[/date][state]approved[/state][comment]invoice201406[/comment]", 
+    "notes": "Some pages physically have tight gutter. Only copy. DS in leaf 21/22, pg 36/37,40/41,42/43,44/45,62/63,66/67,70/71,72/73,76/77,78/79,94/95,96/97,98/99,106/107,116/117,122/123,124/125,138/139 and 140/141.  \nNo table-of-contents pages found. No copyright page found.", 
+    "imagecount": "178", 
+    "identifier": "germaincatalog1921germ", 
+    "sponsordate": "20140630", 
+    "unique_id": "CAT31276584", 
+    "scandate": "20140403142905"
+  }, 
+  "d2": "ia800304.us.archive.org", 
+  "files_count": 17, 
+  "d1": "ia600304.us.archive.org"
+}

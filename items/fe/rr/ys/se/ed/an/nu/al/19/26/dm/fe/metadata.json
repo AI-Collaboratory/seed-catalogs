@@ -1,0 +1,283 @@
+{
+  "files": [
+    {
+      "sha1": "48e3839a7bea483c501c4801536668a95c55e1f3", 
+      "name": "ferrysseedannual1926dmfe_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1377101272", 
+      "crc32": "de5df40b", 
+      "md5": "b2b2f3a5abd89b1f8baf2e2b85f7df7f", 
+      "size": "322"
+    }, 
+    {
+      "sha1": "fe998475b69f4dae6e5279b26055434cee658eb4", 
+      "name": "ferrysseedannual1926dmfe_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1377101272", 
+      "crc32": "123c74af", 
+      "md5": "9efc239e33ecb325dc5fda33b868c92f", 
+      "size": "966"
+    }, 
+    {
+      "sha1": "baa27dbbb92395bc0e80a7646ad6505671e3d643", 
+      "name": "ferrysseedannual1926dmfe_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1377101272", 
+      "crc32": "4a44ea8d", 
+      "md5": "4875d208135963844b5c09d0a4356a6f", 
+      "size": "3452"
+    }, 
+    {
+      "sha1": "1a30769186cf911dfbaa9ca5f8ef970fbc44bfec", 
+      "name": "ferrysseedannual1926dmfe_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1377101272", 
+      "crc32": "33b8f622", 
+      "md5": "b83f88ca34ed673679d267dc1d5efa6e", 
+      "size": "1505"
+    }, 
+    {
+      "sha1": "7e4cdabdeb3f1536c7878a91d994e53b30143c98", 
+      "name": "ferrysseedannual1926dmfe_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1377261030", 
+      "crc32": "f3ae9b2b", 
+      "md5": "0959e05fd19f376ea96ec4e895264c23", 
+      "size": "179235"
+    }, 
+    {
+      "sha1": "483b3ea0fe1b257a2f077fb88db85597c790cf08", 
+      "name": "ferrysseedannual1926dmfe_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1377261036", 
+      "crc32": "7effb030", 
+      "md5": "b5aaf936fe3fd8bb4fce44b234a6c23e", 
+      "size": "264151040"
+    }, 
+    {
+      "sha1": "18542122ff56878c0502079b7389c5ffe56d5b47", 
+      "name": "ferrysseedannual1926dmfe_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1377264452", 
+      "crc32": "1074e324", 
+      "md5": "9bc44310dfbcba82ee36c27d73637e1c", 
+      "original": "ferrysseedannual1926dmfe_orig_jp2.tar", 
+      "size": "206375279"
+    }, 
+    {
+      "sha1": "05fda2040629a534e2d0b9e56d38180a70deb0d5", 
+      "name": "ferrysseedannual1926dmfe.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1377264484", 
+      "crc32": "c00dfd50", 
+      "md5": "522cd5a184daf9bbf6ecedf31349db8a", 
+      "original": "ferrysseedannual1926dmfe_jp2.zip", 
+      "size": "264562"
+    }, 
+    {
+      "sha1": "3d34f7779cb921d706f0c28a1caaf72855e98f5d", 
+      "name": "ferrysseedannual1926dmfe_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1377269002", 
+      "crc32": "4de7bf41", 
+      "md5": "a030dd53031ed1579255a95d55d59580", 
+      "original": "ferrysseedannual1926dmfe_abbyy.gz", 
+      "size": "5523563"
+    }, 
+    {
+      "sha1": "6ddede8b76aeb1a4ef68acb18feaf1e598587809", 
+      "name": "ferrysseedannual1926dmfe_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1377268870", 
+      "crc32": "ce57c747", 
+      "md5": "e0dd36d8ebbb21a0c3d5b229cb58e2e2", 
+      "original": "ferrysseedannual1926dmfe_jp2.zip", 
+      "size": "9067152"
+    }, 
+    {
+      "sha1": "dad269ab646d86326bdddd151b5cd013716fcc47", 
+      "name": "ferrysseedannual1926dmfe_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1377271133", 
+      "crc32": "3968ec9c", 
+      "md5": "bcf9f762aaffa62ffa611cab93266253", 
+      "original": "ferrysseedannual1926dmfe.djvu", 
+      "size": "581781"
+    }, 
+    {
+      "sha1": "a7de68bc54d530a560f4e4f24c896f65196370f6", 
+      "name": "ferrysseedannual1926dmfe_toc.xml", 
+      "format": "Contents", 
+      "source": "derivative", 
+      "mtime": "1377269089", 
+      "crc32": "62fb7fa1", 
+      "md5": "a4b80242856307d1ce3e103cd0d96b45", 
+      "original": "ferrysseedannual1926dmfe_djvu.xml", 
+      "size": "124131"
+    }, 
+    {
+      "sha1": "7020fedef49a19634fb8dd02e4e82f8fb23d8c9e", 
+      "name": "ferrysseedannual1926dmfe.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1377271107", 
+      "crc32": "353668c7", 
+      "md5": "6eb6bead5ab199494fc1194744dc0890", 
+      "original": "ferrysseedannual1926dmfe_djvu.xml", 
+      "size": "28448849"
+    }, 
+    {
+      "sha1": "44e9e0f5056dbdb677a148688aa3dcfffeeb3519", 
+      "name": "ferrysseedannual1926dmfe.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1377269928", 
+      "crc32": "c3649eac", 
+      "md5": "376777d057c6e44ae1cf9d25f0804f96", 
+      "original": "ferrysseedannual1926dmfe_djvu.xml", 
+      "size": "20045465"
+    }, 
+    {
+      "sha1": "dea41c5acee6475a9f91ed299ad30d3e447824e1", 
+      "name": "ferrysseedannual1926dmfe.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1377269082", 
+      "crc32": "08d453b6", 
+      "md5": "6b4a2b0295cfda1d677ff4d84b7eb280", 
+      "original": "ferrysseedannual1926dmfe_abbyy.gz", 
+      "size": "2050018"
+    }, 
+    {
+      "sha1": "9f28a2fd9df9c2de18a7f7a6c600cdb67a314163", 
+      "name": "ferrysseedannual1926dmfe_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1418947295", 
+      "crc32": "4dc8781f", 
+      "md5": "ba131f40c2520f05194b72e1fc2ef27f", 
+      "size": "2700"
+    }, 
+    {
+      "sha1": "b7ddf99f66716ac234c0dc54e42c442baf0081de", 
+      "name": "ferrysseedannual1926dmfe_meta.sqlite", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1420368195", 
+      "crc32": "cabafc46", 
+      "md5": "fc31bb7f8025b517eddce50d56091263", 
+      "size": "6144"
+    }, 
+    {
+      "sha1": "5f7bb6b52158778ecd0edee9016becaa7c97ed04", 
+      "name": "ferrysseedannual1926dmfe_bhlmets.xml", 
+      "format": "Biodiversity Heritage Library METS", 
+      "source": "original", 
+      "mtime": "1420368190", 
+      "crc32": "76d4e85f", 
+      "md5": "0057bdcbe38748f09564d3d1fc443da7", 
+      "size": "63234"
+    }, 
+    {
+      "sha1": "5b6276e86831a65092da448ca8b41dcbc55ed3f4", 
+      "name": "ferrysseedannual1926dmfe_archive.torrent", 
+      "btih": "b01ee6d39e53fd5bd0c5614af06e1b5ebfe10352", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1420368200", 
+      "crc32": "4f4ebc0e", 
+      "md5": "4bb657b342bf5e7de7abf03dd217aead", 
+      "size": "14797"
+    }, 
+    {
+      "source": "original", 
+      "md5": "3eb8620b351ac67e4ff414b79c8108b1", 
+      "name": "ferrysseedannual1926dmfe_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "uniq": 2054079037, 
+  "created": 1446755631, 
+  "workable_servers": [
+    "ia902301.us.archive.org"
+  ], 
+  "server": "ia902301.us.archive.org", 
+  "item_size": 536904195, 
+  "dir": "/25/items/ferrysseedannual1926dmfe", 
+  "metadata": {
+    "shiptracking": "ST000215", 
+    "scanner": "scribe1.beltsville.archive.org", 
+    "creator": [
+      "D.M. Ferry & Co", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection", 
+    "ppi": "500", 
+    "nal_call_number": "62.41", 
+    "operator": "associate-marc-adona@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "subject": [
+      "Seed industry and trade Michigan Detroit", 
+      "Flowers Seeds", 
+      "Vegetables Seeds", 
+      "Nursery stock", 
+      "Gardening Equipment and supplies"
+    ], 
+    "call_number": "CAT31125129", 
+    "title": "Ferry's seed annual : 1926", 
+    "repub_state": "4", 
+    "possible-copyright-status": "The contributing institution believes that this item is not in copyright", 
+    "camera": "Canon EOS 5D Mark II", 
+    "ocr": "ABBYY FineReader 8.0", 
+    "identifier-access": "http://archive.org/details/ferrysseedannual1926dmfe", 
+    "scanningcenter": "beltsville", 
+    "description": [
+      "Cover title", 
+      "Includes index"
+    ], 
+    "identifier-ark": "ark:/13960/t6g17t89n", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "fedlink", 
+      "americana", 
+      "biodiversity"
+    ], 
+    "volume": "1926", 
+    "repub_seconds": "237", 
+    "updater": "associate-adrianna-flores@archive.org", 
+    "updatedate": "2013-08-21 16:07:52", 
+    "uploader": "associate-adrianna-flores@archive.org", 
+    "date": "1926", 
+    "republisher": "associate-marc-adona@archive.org", 
+    "addeddate": "2013-08-21 16:07:54", 
+    "publisher": "Detroit, Mich. : D.M. Ferry & Co.", 
+    "publicdate": "2013-08-21 15:13:53", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "curation": "[curator]admin-shelia-deroche@archive.org[/curator][date]20130914203146[/date][state]approved[/state][comment]199[/comment]", 
+    "notes": "No copyright page found.", 
+    "imagecount": "114", 
+    "identifier": "ferrysseedannual1926dmfe", 
+    "sponsordate": "20130831", 
+    "unique_id": "CAT31125129", 
+    "scandate": "20130823115356"
+  }, 
+  "files_count": 20, 
+  "d1": "ia902301.us.archive.org"
+}

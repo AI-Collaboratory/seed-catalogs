@@ -1,0 +1,293 @@
+{
+  "files": [
+    {
+      "sha1": "6a2d0a473e90b999867c74e87633069ee47e4fc3", 
+      "name": "CAT31295731_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1442327580", 
+      "crc32": "159cac99", 
+      "md5": "1589503fcab9a5f80f626a56b2bfbd3c", 
+      "size": "307"
+    }, 
+    {
+      "sha1": "5ebf19062db994064419873f8546795ddb7faa38", 
+      "name": "CAT31295731_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1442327580", 
+      "crc32": "b4e1a600", 
+      "md5": "67ea2cd2c1f309dff1c2b4d2261c9a7e", 
+      "size": "3755"
+    }, 
+    {
+      "sha1": "7722ca4acb7d8b1050e78352f968ad4e8fc31e05", 
+      "name": "CAT31295731_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1442327580", 
+      "crc32": "0c72949b", 
+      "md5": "a559eb53c1a88953343865e67d489668", 
+      "size": "1522"
+    }, 
+    {
+      "sha1": "1851c844a19d0e8e872bc54ac78e756c4bec1858", 
+      "name": "CAT31295731_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1442327580", 
+      "crc32": "3d2e09a4", 
+      "md5": "a74923d4f4069f4a159490ddd2df667b", 
+      "size": "1150"
+    }, 
+    {
+      "sha1": "9ee173bf6b330b63c8a455434d9738ab073cf7b6", 
+      "name": "CAT31295731_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1444158478", 
+      "crc32": "49211dd4", 
+      "md5": "cdd25bd59e1c5c27ddf5f0e3566a5950", 
+      "size": "6584320"
+    }, 
+    {
+      "sha1": "0c1220385fd0278cbaaecb34914b391de9b9bdbc", 
+      "name": "CAT31295731_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1444158478", 
+      "crc32": "fc2c0f13", 
+      "md5": "83bbfa849f01f1054bdd51b9cef6fa67", 
+      "size": "13068"
+    }, 
+    {
+      "sha1": "93cc82178db4fe06af29a6836e054482f5dc0a8e", 
+      "name": "CAT31295731_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1444158649", 
+      "crc32": "43748030", 
+      "md5": "6e251dbf06cd7fe72107ef1ff0389256", 
+      "original": "CAT31295731_orig_jp2.tar", 
+      "size": "5376954"
+    }, 
+    {
+      "sha1": "c31b5ee3b969fa26ad397fee0fc5fe704891e346", 
+      "name": "CAT31295731.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1444159437", 
+      "crc32": "9bb6964f", 
+      "md5": "0de1b4bb774944fbce80d2b619ab6f22", 
+      "original": "CAT31295731_djvu.xml", 
+      "size": "622124"
+    }, 
+    {
+      "sha1": "aeac8e004157f50edef4f49f335393562e7079c7", 
+      "name": "CAT31295731.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1444159390", 
+      "crc32": "bebef0cb", 
+      "md5": "a525615c1a9147598f9012fc5145f039", 
+      "original": "CAT31295731_djvu.xml", 
+      "size": "340369"
+    }, 
+    {
+      "sha1": "07bfa5ac88e687a5858bb0cdcb379ce432e0f84a", 
+      "name": "CAT31295731_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1444159348", 
+      "crc32": "08c55d5c", 
+      "md5": "57cf9ac93a7960e2770637a0ce91293a", 
+      "original": "CAT31295731_abbyy.gz", 
+      "size": "128274"
+    }, 
+    {
+      "sha1": "91594744aaee441040dee9cbf64970e1dc1a0e45", 
+      "name": "CAT31295731_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1444159536", 
+      "crc32": "71f58242", 
+      "md5": "b192543a2ec835cdcec3bb51e772d0f9", 
+      "original": "CAT31295731.djvu", 
+      "size": "12758"
+    }, 
+    {
+      "sha1": "3d654cb94d45ab0cd79ee1c8e8524d0ab198fdd3", 
+      "name": "CAT31295731_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1444159337", 
+      "crc32": "8e225e9a", 
+      "md5": "ecad85aa78be26489e36825690e02393", 
+      "original": "CAT31295731_jp2.zip", 
+      "size": "198001"
+    }, 
+    {
+      "sha1": "7b2ba85a865accffaf1e0951bcd6f1541f7cec5a", 
+      "name": "CAT31295731.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1444159351", 
+      "crc32": "17d5a560", 
+      "md5": "14bddfb2baa3ede0592a43b84a242316", 
+      "original": "CAT31295731_abbyy.gz", 
+      "size": "9080"
+    }, 
+    {
+      "sha1": "421dc6fddf2e94c8866412b66cf85b006f936dac", 
+      "name": "CAT31295731.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1444158660", 
+      "crc32": "efb0868e", 
+      "md5": "6abdcbd09041eba732e445f7fa4988c5", 
+      "original": "CAT31295731_jp2.zip", 
+      "size": "56646"
+    }, 
+    {
+      "sha1": "b547c603ae8a5fd4411eada1ca5f9ee2a3362551", 
+      "name": "CAT31295731_bw.pdf", 
+      "format": "Grayscale LuraTech PDF", 
+      "source": "derivative", 
+      "mtime": "1444159529", 
+      "crc32": "94613341", 
+      "md5": "01db37e419ac6040d9205cd891f071cb", 
+      "original": "CAT31295731_djvu.xml", 
+      "size": "483190"
+    }, 
+    {
+      "sha1": "079f0362b369f04852f6c3c63f4394795b737a32", 
+      "name": "CAT31295731_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1444193356", 
+      "crc32": "b7a19f5f", 
+      "md5": "bbf869b604d709d94f61f001ec1153b6", 
+      "size": "2777"
+    }, 
+    {
+      "sha1": "d64919218aac9ee236f5567386e6855c82caef3b", 
+      "name": "CAT31295731_bhlmets.xml", 
+      "format": "Biodiversity Heritage Library METS", 
+      "source": "original", 
+      "mtime": "1444809830", 
+      "crc32": "41031a85", 
+      "md5": "6c5bff5ce88c04761ae2f52ca3a1533e", 
+      "size": "7182"
+    }, 
+    {
+      "sha1": "2dfdd6e8607f7786b84cac341dcb0f69b830c788", 
+      "name": "CAT31295731_meta.sqlite", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1444896274", 
+      "crc32": "184c31ee", 
+      "md5": "8f182fb569f0988315a30936fb208c52", 
+      "size": "6144"
+    }, 
+    {
+      "sha1": "a4407c70c5b5f31841ad10902b4f9106a5389281", 
+      "name": "CAT31295731_names.xml", 
+      "format": "Name Metadata", 
+      "source": "original", 
+      "mtime": "1444896271", 
+      "crc32": "db3e12e8", 
+      "md5": "54506941be7d1b4d0451bf94bed6054c", 
+      "size": "1218"
+    }, 
+    {
+      "sha1": "b69a84639e802472fee1842e4389f845f2089c85", 
+      "name": "CAT31295731_archive.torrent", 
+      "btih": "b80cd65d24ec2425348a26bb39c227ab3079aeaf", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1444896277", 
+      "crc32": "9ad41af7", 
+      "md5": "6d0f292bbf3cbe0b595ac9ab97f56e3f", 
+      "size": "4505"
+    }, 
+    {
+      "source": "original", 
+      "md5": "f5fdc4869c90da0c64d92d48e3414d77", 
+      "name": "CAT31295731_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "uniq": 1919283896, 
+  "created": 1446755877, 
+  "workable_servers": [
+    "ia601504.us.archive.org"
+  ], 
+  "server": "ia601504.us.archive.org", 
+  "item_size": 13853344, 
+  "dir": "/27/items/CAT31295731", 
+  "metadata": {
+    "partner_shiptracking": "NC15_1914_Wa-We", 
+    "shiptracking": "ST004388", 
+    "scanner": "scribe4.beltsville.archive.org", 
+    "creator": [
+      "Western Seed and Irrigation Company", 
+      "Emerson, Lowell", 
+      "Emerson, Frank T", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection", 
+    "ppi": "400", 
+    "subcollection": "henryggilbertnurseryandseedtradecollection", 
+    "nal_call_number": "62.51 1914", 
+    "operator": "associate-saw-thein@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "copyright_message": "The contributing institution believes that this item is not in copyright.", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "subject": [
+      "Nursery stock Nebraska Fremont Catalogs", 
+      "Vegetables Seeds Catalogs", 
+      "Corn Seeds Catalogs", 
+      "Nursery stock", 
+      "Vegetables", 
+      "Corn"
+    ], 
+    "title": "Special contract offer order sheet season of 1914 : sweet, flint and field corn and vine seeds", 
+    "repub_state": "4", 
+    "camera": "Canon EOS 5D Mark II", 
+    "invoice": "3", 
+    "ocr": "ABBYY FineReader 11.0", 
+    "identifier-access": "http://archive.org/details/CAT31295731", 
+    "scanningcenter": "beltsville", 
+    "description": "Caption title", 
+    "identifier-ark": "ark:/13960/t3b02tm9t", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "biodiversity", 
+      "fedlink", 
+      "americana"
+    ], 
+    "volume": "1914", 
+    "repub_seconds": "71", 
+    "updater": "associate-manuel-dennis@archive.org", 
+    "updatedate": "2015-09-15 14:33:00", 
+    "uploader": "associate-manuel-dennis@archive.org", 
+    "date": "1914", 
+    "republisher": "associate-lian-kam@archive.org", 
+    "addeddate": "2015-09-15 14:33:03.010276", 
+    "publisher": "Fremont, Neb. : Western Seed and Irrigation Co.", 
+    "publicdate": "2015-09-15 13:33:37", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "notes": "No copyright page found. No table-of-contents pages found.", 
+    "imagecount": "8", 
+    "identifier": "CAT31295731", 
+    "unique_id": "CAT31295731", 
+    "scandate": "20151002113348"
+  }, 
+  "files_count": 21, 
+  "d1": "ia601504.us.archive.org"
+}

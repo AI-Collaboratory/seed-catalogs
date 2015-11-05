@@ -1,0 +1,255 @@
+{
+  "files": [
+    {
+      "sha1": "3688a508c4d393d67c713ff5bf9e2e78f3575d2d", 
+      "name": "livingstonsseeda1931livi_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1384954290", 
+      "crc32": "d660e127", 
+      "md5": "f5079605df43a11e39b7d67aac871c08", 
+      "size": "3959"
+    }, 
+    {
+      "sha1": "3da1cd557fb0ab1dc0e3ef8b7fd6ce4365922153", 
+      "name": "livingstonsseeda1931livi_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1384954290", 
+      "crc32": "6efcfac2", 
+      "md5": "5276d6fa760a5f8a93c1fbde68c135ab", 
+      "size": "322"
+    }, 
+    {
+      "sha1": "5c7c5f13c0ece884ad2bb7cd46fa6b5284277f44", 
+      "name": "livingstonsseeda1931livi_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1384954290", 
+      "crc32": "402f7f29", 
+      "md5": "48ff6919685ab828ac0a61d026985b34", 
+      "size": "1104"
+    }, 
+    {
+      "sha1": "1c00f2faa3ed377a8125a1e17383e8b4ee900b20", 
+      "name": "livingstonsseeda1931livi_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1384954290", 
+      "crc32": "0d0ce840", 
+      "md5": "d20a671e6db5078efa193c3ef88b3558", 
+      "size": "1512"
+    }, 
+    {
+      "sha1": "5a9c2d1f99334c304e06c0787af247b6d425be6e", 
+      "name": "livingstonsseeda1931livi_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1385061694", 
+      "crc32": "8b785053", 
+      "md5": "46e2673e51e76494508f707d50d23a26", 
+      "size": "128992"
+    }, 
+    {
+      "sha1": "29335d4d38d0e54e31acfde43729cb0940542c6f", 
+      "name": "livingstonsseeda1931livi_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1385061698", 
+      "crc32": "4f66a1b0", 
+      "md5": "45350bb130cda90f6569dbf82f6c0506", 
+      "size": "121784320"
+    }, 
+    {
+      "sha1": "d350f39ffc37edc160aa48d0f2df9240be202678", 
+      "name": "livingstonsseeda1931livi_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1385063934", 
+      "crc32": "75075e30", 
+      "md5": "2dc7f22afb189c5adfc2a94b6cc3bb73", 
+      "original": "livingstonsseeda1931livi_orig_jp2.tar", 
+      "size": "98877510"
+    }, 
+    {
+      "sha1": "0a14fe2e6c1e7d1a0ed7266ea95b9e59f5bdffc1", 
+      "name": "livingstonsseeda1931livi.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1385066905", 
+      "crc32": "42b402d2", 
+      "md5": "51608c0f3161756c740bc94c569ede45", 
+      "original": "livingstonsseeda1931livi_abbyy.gz", 
+      "size": "1492459"
+    }, 
+    {
+      "sha1": "4b0eb6980beec6ac8e471735bbf65ecf873808e7", 
+      "name": "livingstonsseeda1931livi_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1385066753", 
+      "crc32": "b94eeadb", 
+      "md5": "63f5e669e67d5568813477f7eedb31a7", 
+      "original": "livingstonsseeda1931livi_jp2.zip", 
+      "size": "5251689"
+    }, 
+    {
+      "sha1": "259bab23954bd97c1458689c252c5005b045ba47", 
+      "name": "livingstonsseeda1931livi.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1385068112", 
+      "crc32": "6bf70b52", 
+      "md5": "8f49850addadffae349116b830666221", 
+      "original": "livingstonsseeda1931livi_djvu.xml", 
+      "size": "14245944"
+    }, 
+    {
+      "sha1": "1565222ab33cfd9cdbf9e438599439b22a18133e", 
+      "name": "livingstonsseeda1931livi_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1385066839", 
+      "crc32": "57095e34", 
+      "md5": "1fa5668eb0ffe3c9648be21ae2856f26", 
+      "original": "livingstonsseeda1931livi_abbyy.gz", 
+      "size": "3303743"
+    }, 
+    {
+      "sha1": "e49769e4f8c8eba3be6aba423ce65c79aa1e97c9", 
+      "name": "livingstonsseeda1931livi.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1385067405", 
+      "crc32": "31429d5d", 
+      "md5": "01864a437077257a4d3fccd82a72fc21", 
+      "original": "livingstonsseeda1931livi_djvu.xml", 
+      "size": "9130993"
+    }, 
+    {
+      "sha1": "47100598d83cc6ff9bfa6238e353216ae5f4c4d9", 
+      "name": "livingstonsseeda1931livi.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1385063970", 
+      "crc32": "da763d2c", 
+      "md5": "b56e1e718f070fd8be305b181c975654", 
+      "original": "livingstonsseeda1931livi_jp2.zip", 
+      "size": "303526"
+    }, 
+    {
+      "sha1": "f86738ecac3bc7ec9eec9cc166af6f0cdf9fa584", 
+      "name": "livingstonsseeda1931livi_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1385068128", 
+      "crc32": "ba72464f", 
+      "md5": "d3d2da545a4eeceabce5341e26562fe2", 
+      "original": "livingstonsseeda1931livi.djvu", 
+      "size": "349510"
+    }, 
+    {
+      "sha1": "e50722413861e1dc28186e9e798625813dc1f005", 
+      "name": "livingstonsseeda1931livi_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1418947827", 
+      "crc32": "ff0df298", 
+      "md5": "e8bccecbf8844b3bab5b45058bb5ce3d", 
+      "size": "2906"
+    }, 
+    {
+      "sha1": "105c36144e45a72b7e12855e4fb8f31218084a87", 
+      "name": "livingstonsseeda1931livi_archive.torrent", 
+      "btih": "a10148da31939d3bbdfd5973579bde68ff4b8fec", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1418947829", 
+      "crc32": "bca52211", 
+      "md5": "9bc096ea0dee0f535a699587217e516f", 
+      "size": "8889"
+    }, 
+    {
+      "source": "original", 
+      "md5": "98edf8805071cfd2850c284616e6d265", 
+      "name": "livingstonsseeda1931livi_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "uniq": 1920723136, 
+  "created": 1446568685, 
+  "workable_servers": [
+    "ia601007.us.archive.org"
+  ], 
+  "server": "ia601007.us.archive.org", 
+  "item_size": 254887378, 
+  "dir": "/33/items/livingstonsseeda1931livi", 
+  "metadata": {
+    "partner_shiptracking": "NC14_0043c", 
+    "shiptracking": "ST000573", 
+    "scanner": "scribe2.beltsville.archive.org", 
+    "creator": [
+      "Livingston Seed Company", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection", 
+    "ppi": "500", 
+    "subcollection": "henryggilbertnurseryandseedtradecollection", 
+    "nal_call_number": "62.67", 
+    "operator": "associate-saw-thein@archive.org", 
+    "curatestate": "freeze", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "copyright_message": "The contributing institution believes that this item is not in copyright", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "subject": [
+      "Seeds Catalogs", 
+      "Seed industry and trade Ohio Columbus Catalogs", 
+      "Vegetables Ohio Columbus Catalogs", 
+      "Fruit Ohio Columbus Catalogs", 
+      "Flowers Ohio Columbus Catalogs"
+    ], 
+    "call_number": "CAT31132184", 
+    "title": "Livingston's seed annual : 81st year", 
+    "repub_state": "4", 
+    "camera": "Canon EOS 5D Mark II", 
+    "invoice": "3", 
+    "ocr": "ABBYY FineReader 9.0", 
+    "identifier-access": "http://archive.org/details/livingstonsseeda1931livi", 
+    "scanningcenter": "beltsville", 
+    "description": [
+      "Caption title", 
+      "Includes index"
+    ], 
+    "identifier-ark": "ark:/13960/t1zd0911j", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "fedlink", 
+      "americana", 
+      "biodiversity"
+    ], 
+    "volume": "1931", 
+    "repub_seconds": "157", 
+    "updater": "associate-adrianna-flores@archive.org", 
+    "updatedate": "2013-11-20 13:31:30", 
+    "uploader": "associate-adrianna-flores@archive.org", 
+    "date": "1931", 
+    "republisher": "associate-saw-thein@archive.org", 
+    "addeddate": "2013-11-20 13:31:32.431187", 
+    "publisher": "Columbus, Ohio : The Livingstons Seed Co.", 
+    "publicdate": "2013-11-20 12:37:04", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "curation": "[curator]admin-shelia-deroche@archive.org[/curator][date]20140502144958[/date][state]approved[/state][comment]invoice201404[/comment]", 
+    "imagecount": "82", 
+    "identifier": "livingstonsseeda1931livi", 
+    "sponsordate": "20140430", 
+    "unique_id": "CAT31132184", 
+    "scandate": "20131120153612"
+  }, 
+  "files_count": 17, 
+  "d1": "ia601007.us.archive.org"
+}

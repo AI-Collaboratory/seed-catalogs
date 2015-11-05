@@ -1,0 +1,279 @@
+{
+  "files": [
+    {
+      "sha1": "9f0f9886fdf66c4ec358ab50aea91cd43d2f2492", 
+      "name": "CAT31293889_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1439382968", 
+      "crc32": "c45a9503", 
+      "md5": "d6b4ad90de70f36a1a105979d4e6d9fc", 
+      "size": "307"
+    }, 
+    {
+      "sha1": "72d4cd525d82b89d744478b215d7e37205e9b573", 
+      "name": "CAT31293889_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1439382968", 
+      "crc32": "a2347081", 
+      "md5": "3fe2b2917fe7596ff2bd27e880dacb0e", 
+      "size": "4172"
+    }, 
+    {
+      "sha1": "e73a52823f93336ec3e239aa9ca0dea91a9fe333", 
+      "name": "CAT31293889_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1439382968", 
+      "crc32": "4bf6e3a8", 
+      "md5": "3e12b02b72b92f7513b4a6ab6c742541", 
+      "size": "1214"
+    }, 
+    {
+      "sha1": "3e964b91624c2b5e794bfa0babb4fb42f3018d86", 
+      "name": "CAT31293889_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1439382968", 
+      "crc32": "294eae02", 
+      "md5": "d7c3838f15393d1ca1a8c25ed84545fb", 
+      "size": "1642"
+    }, 
+    {
+      "sha1": "64c5d9e546bc1bd7c64f3d29341f51075b2661f2", 
+      "name": "CAT31293889_meta.sqlite", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1440402965", 
+      "crc32": "d7c8d964", 
+      "md5": "8a6428c9f01aa7a58fca2943631f18f1", 
+      "size": "6144"
+    }, 
+    {
+      "sha1": "b0f2fb0d66e14cc4091e3037558d13c0b534688b", 
+      "name": "CAT31293889_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1443547268", 
+      "crc32": "28340f80", 
+      "md5": "98fb48ec029314fcbe9a0f60bc20c3d9", 
+      "size": "163177"
+    }, 
+    {
+      "sha1": "e0c21dce7b80a3edb8e19acd0f44470772996cec", 
+      "name": "CAT31293889_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1443547269", 
+      "crc32": "e05f0df6", 
+      "md5": "b032a651c4a3425531da9a854308845a", 
+      "size": "129454080"
+    }, 
+    {
+      "sha1": "3567283be91cbc470e884223d79b518161c36d8e", 
+      "name": "CAT31293889.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1443551041", 
+      "crc32": "a8d87a15", 
+      "md5": "b2f579fa50461fb1474c4a1b66e2f698", 
+      "original": "CAT31293889_djvu.xml", 
+      "size": "5116636"
+    }, 
+    {
+      "sha1": "f61d24b575483b966b7a147089b444208bb388b4", 
+      "name": "CAT31293889_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1443549767", 
+      "crc32": "a128eddf", 
+      "md5": "f9b480ea31883a8675ae3f7d5319fd37", 
+      "original": "CAT31293889_orig_jp2.tar", 
+      "size": "89907125"
+    }, 
+    {
+      "sha1": "36223ea2677336cde76df1f0680ee1ca8fbbf5c4", 
+      "name": "CAT31293889.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1443549796", 
+      "crc32": "ded86945", 
+      "md5": "e5e0f37f82fd7cca1b966e1258238129", 
+      "original": "CAT31293889_jp2.zip", 
+      "size": "317087"
+    }, 
+    {
+      "sha1": "857827271afbaed66508463c33ae386d625e09b1", 
+      "name": "CAT31293889.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1443550612", 
+      "crc32": "b2115817", 
+      "md5": "1989c0ddf94b34b2f9e7b4088efa8b4c", 
+      "original": "CAT31293889_abbyy.gz", 
+      "size": "208539"
+    }, 
+    {
+      "sha1": "34245080f33e82456a8d79a3133679fb30835d6e", 
+      "name": "CAT31293889_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1443550583", 
+      "crc32": "e28850c2", 
+      "md5": "1008ceec2bc17bc532efde1dfb0ebc83", 
+      "original": "CAT31293889_abbyy.gz", 
+      "size": "3615809"
+    }, 
+    {
+      "sha1": "d125db64f234a2767980caed19f2d0ad28677b78", 
+      "name": "CAT31293889_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1443552626", 
+      "crc32": "b48f7d99", 
+      "md5": "b7e4974a2e5dab18dab3cc307ed8ea17", 
+      "original": "CAT31293889.djvu", 
+      "size": "389507"
+    }, 
+    {
+      "sha1": "26003fbc4351110f5a9cb4f2a5904d5f1221be0e", 
+      "name": "CAT31293889_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1443550464", 
+      "crc32": "1d026450", 
+      "md5": "37e3cb1a98d5a75106e577e5c4201e76", 
+      "original": "CAT31293889_jp2.zip", 
+      "size": "5811770"
+    }, 
+    {
+      "sha1": "e54817ea6b3d52c8995a80ef95e47e8a85d8a7cd", 
+      "name": "CAT31293889.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1443551568", 
+      "crc32": "29ebfad6", 
+      "md5": "89826c748bfaee7b5f3333b8de3cdbd7", 
+      "original": "CAT31293889_djvu.xml", 
+      "size": "8642032"
+    }, 
+    {
+      "sha1": "878f7406e0ceb740fb1eb14187f5253832b462d1", 
+      "name": "CAT31293889_bw.pdf", 
+      "format": "Grayscale LuraTech PDF", 
+      "source": "derivative", 
+      "mtime": "1443552606", 
+      "crc32": "0a6ecaec", 
+      "md5": "252a57c89ab8a285c195d414a870b652", 
+      "original": "CAT31293889_djvu.xml", 
+      "size": "10133728"
+    }, 
+    {
+      "sha1": "5fd6b27b81af90e0bddc3c01a6ba187ee3ff511a", 
+      "name": "CAT31293889_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1446573066", 
+      "crc32": "e4a13eee", 
+      "md5": "e22e6a7840f174638f0342e1cdcd0b72", 
+      "size": "3042"
+    }, 
+    {
+      "sha1": "4b65beb21cde7259bf094c543bc7982933854f60", 
+      "name": "CAT31293889_archive.torrent", 
+      "btih": "a00a095654c6354dc69aaac17c0d5b156419b04f", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1446573068", 
+      "crc32": "bea0a352", 
+      "md5": "dff899d9999ea7e45c504d47388f1bf5", 
+      "size": "8618"
+    }, 
+    {
+      "source": "original", 
+      "md5": "444632fb18cd1a8a47395d498b3c92b8", 
+      "name": "CAT31293889_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "updated": 1446680593, 
+  "uniq": 1308569175, 
+  "created": 1446658438, 
+  "workable_servers": [
+    "ia801505.us.archive.org", 
+    "ia601505.us.archive.org"
+  ], 
+  "server": "ia801505.us.archive.org", 
+  "item_size": 253784629, 
+  "dir": "/12/items/CAT31293889", 
+  "metadata": {
+    "partner_shiptracking": "NC15_1913_Ha-Hen", 
+    "shiptracking": "ST004166", 
+    "scanner": "scribe1.beltsville.archive.org", 
+    "creator": [
+      "Hallawell Seed Company", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection", 
+    "ppi": "350", 
+    "subcollection": "henryggilbertnurseryandseedtradecollection", 
+    "nal_call_number": "62.09", 
+    "operator": "associate-mark-kanaskie@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "copyright_message": "The contributing institution believes that this item is not in copyright.", 
+    "year": "1913", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "subject": [
+      "Nursery stock California San Francisco Catalogs", 
+      "Nurseries (Horticulture) California San Francisco Catalogs", 
+      "Bulbs (Plants) Catalogs", 
+      "Flowers Seeds Catalogs", 
+      "Trees Seedlings Catalogs", 
+      "Vegetables Seeds Catalogs"
+    ], 
+    "title": "Hallawell's annual catalogue, 1913 : seeds, plants, trees", 
+    "repub_state": "4", 
+    "camera": "Canon EOS 5D Mark II", 
+    "invoice": "3", 
+    "ocr": "ABBYY FineReader 11.0", 
+    "identifier-access": "http://archive.org/details/CAT31293889", 
+    "scanningcenter": "beltsville", 
+    "description": [
+      "Cover title", 
+      "Includes index"
+    ], 
+    "identifier-ark": "ark:/13960/t3032g57t", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "biodiversity", 
+      "fedlink", 
+      "americana"
+    ], 
+    "volume": "1913", 
+    "repub_seconds": "193", 
+    "updater": "associate-manuel-dennis@archive.org", 
+    "updatedate": "2015-08-12 12:36:08", 
+    "uploader": "associate-manuel-dennis@archive.org", 
+    "date": "1913", 
+    "republisher": "associate-manuel-dennis@archive.org", 
+    "addeddate": "2015-08-12 12:36:10.989631", 
+    "publisher": "San Francisco, Calif. : Hallawell Seed Company, Incorporated", 
+    "publicdate": "2015-08-12 11:30:08", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "curation": "[curator]admin-shelia-deroche@archive.org[/curator][date]20151103175052[/date][state]approved[/state][comment]invoice201510[/comment]", 
+    "notes": "No copyright page found. No table-of-contents pages found.repeat button on inadvertently for a few shots at end of item.", 
+    "imagecount": "84", 
+    "identifier": "CAT31293889", 
+    "unique_id": "CAT31293889", 
+    "scandate": "20150929172108"
+  }, 
+  "d2": "ia801505.us.archive.org", 
+  "files_count": 19, 
+  "d1": "ia601505.us.archive.org"
+}

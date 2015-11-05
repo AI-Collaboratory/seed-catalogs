@@ -1,0 +1,253 @@
+{
+  "files": [
+    {
+      "sha1": "b5d90c8109697019fdf12d8989559aaac92d47ff", 
+      "name": "vicksillustrated1893jame_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1391178641", 
+      "crc32": "91a02f8c", 
+      "md5": "a30c52294a786b0b8b72f8f62dceb926", 
+      "size": "3809"
+    }, 
+    {
+      "sha1": "5a495a50f2afb49769204e3d09add057c7d69115", 
+      "name": "vicksillustrated1893jame_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1391178641", 
+      "crc32": "435d29d3", 
+      "md5": "63c69fbe1e02b94863f0d0a947f88d45", 
+      "size": "1109"
+    }, 
+    {
+      "sha1": "182a7b2e87a8c64a26828657008dc66b3571b64f", 
+      "name": "vicksillustrated1893jame_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1391178641", 
+      "crc32": "b2fda839", 
+      "md5": "e3859257aed9425faa99f2c1ce4d8612", 
+      "size": "322"
+    }, 
+    {
+      "sha1": "0732fc494a04f9f806e0883c958c51d29fc0e00b", 
+      "name": "vicksillustrated1893jame_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1391178641", 
+      "crc32": "8b4d879c", 
+      "md5": "62a349e777e9dc9700066945e8435cf7", 
+      "size": "1543"
+    }, 
+    {
+      "sha1": "574ce8e3674534c666927fa287080b84e1fd8916", 
+      "name": "vicksillustrated1893jame_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1391429120", 
+      "crc32": "8b124189", 
+      "md5": "9bceb81b9a06f64424af03d9d76b11db", 
+      "size": "91842"
+    }, 
+    {
+      "sha1": "f7c114cc3946d3127ff2817a38e4332ea07aabcb", 
+      "name": "vicksillustrated1893jame_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1391429122", 
+      "crc32": "844560f9", 
+      "md5": "6aa48a8430718a2ba5e561ca62908402", 
+      "size": "70912000"
+    }, 
+    {
+      "sha1": "a18b2eeb3711fb12d427aaee07b19ee8ad0ed7dc", 
+      "name": "vicksillustrated1893jame_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1391430966", 
+      "crc32": "2b0eabb6", 
+      "md5": "a8d77d767df011eaec5106b17f801a91", 
+      "original": "vicksillustrated1893jame_orig_jp2.tar", 
+      "size": "45253054"
+    }, 
+    {
+      "sha1": "28fc4f11667b8ed8636d00d042dcb157683b19ea", 
+      "name": "vicksillustrated1893jame.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1391431008", 
+      "crc32": "1490b931", 
+      "md5": "ed055dc8281a1c775087f2aa4f2be042", 
+      "original": "vicksillustrated1893jame_jp2.zip", 
+      "size": "323391"
+    }, 
+    {
+      "sha1": "bcb3d1bcb57ff13e954f5a2c482d6ca599d85445", 
+      "name": "vicksillustrated1893jame_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1391431732", 
+      "crc32": "e7349ab1", 
+      "md5": "2a6ab3500a5108c23e153d8c805169ea", 
+      "original": "vicksillustrated1893jame_abbyy.gz", 
+      "size": "1824581"
+    }, 
+    {
+      "sha1": "8e6fb7ae60ff5359dd42cbae9dbfb0e30b9e999a", 
+      "name": "vicksillustrated1893jame.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1391431804", 
+      "crc32": "ffbef265", 
+      "md5": "1d700891f968a8af4ad61dbdd90b5fb3", 
+      "original": "vicksillustrated1893jame_abbyy.gz", 
+      "size": "1581933"
+    }, 
+    {
+      "sha1": "32074616c8ac8da552e7f0aa01727e3de900abfc", 
+      "name": "vicksillustrated1893jame.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1391432174", 
+      "crc32": "12099988", 
+      "md5": "e1fcfffdc6d0611daea7272d8f582891", 
+      "original": "vicksillustrated1893jame_djvu.xml", 
+      "size": "4892109"
+    }, 
+    {
+      "sha1": "146a96d25b00c72e15f0fe4dc3ef9497120f4da5", 
+      "name": "vicksillustrated1893jame_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1391432687", 
+      "crc32": "58d02234", 
+      "md5": "e996bdf67359b52c1ee1c76aca3d2ef7", 
+      "original": "vicksillustrated1893jame.djvu", 
+      "size": "195264"
+    }, 
+    {
+      "sha1": "a93171874d3041884f588f74f53e1332186d49e4", 
+      "name": "vicksillustrated1893jame.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1391432672", 
+      "crc32": "e206da70", 
+      "md5": "950b7aca050160edfde6b251e1b3fb87", 
+      "original": "vicksillustrated1893jame_djvu.xml", 
+      "size": "7552371"
+    }, 
+    {
+      "sha1": "d868d9bee8f0678f76b99dc9d1af640e451cbdc4", 
+      "name": "vicksillustrated1893jame_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1391431636", 
+      "crc32": "4b3f0e1e", 
+      "md5": "42aa0db2a678d903a8898a2fcf7adf98", 
+      "original": "vicksillustrated1893jame_jp2.zip", 
+      "size": "2776705"
+    }, 
+    {
+      "sha1": "4e08b1b254470ca137c8b93eb54d8142a8c779a4", 
+      "name": "vicksillustrated1893jame_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1418948876", 
+      "crc32": "e788c518", 
+      "md5": "fb47c090976034b5afa79a324f2908e2", 
+      "size": "2774"
+    }, 
+    {
+      "sha1": "063b8c78cd45b10dd9a6c3fa8e6b8440a28d135d", 
+      "name": "vicksillustrated1893jame_archive.torrent", 
+      "btih": "c3c47f06e85dceef796f32dc5d09b63eb2c08f54", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1418948878", 
+      "crc32": "1cf3db93", 
+      "md5": "abf532f4ac44f4a091b81de56897f750", 
+      "size": "6287"
+    }, 
+    {
+      "source": "original", 
+      "md5": "5d509eb275cc31173644983d1fb65682", 
+      "name": "vicksillustrated1893jame_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "uniq": 759137874, 
+  "created": 1446751836, 
+  "workable_servers": [
+    "ia600307.us.archive.org"
+  ], 
+  "server": "ia600307.us.archive.org", 
+  "item_size": 135419094, 
+  "dir": "/31/items/vicksillustrated1893jame", 
+  "metadata": {
+    "partner_shiptracking": "NC0052b", 
+    "shiptracking": "ST000942", 
+    "scanner": "scribe2.beltsville.archive.org", 
+    "creator": [
+      "James Vick's Sons (Rochester, N.Y.)", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection", 
+    "ppi": "350", 
+    "subcollection": "henryggilbertnurseryandseedtradecollection", 
+    "nal_call_number": "62.61", 
+    "operator": "associate-saw-thein@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "copyright_message": "The contributing institution believes that this item is not in copyright", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "subject": [
+      "Seeds Catalogs", 
+      "Flowers Catalogs", 
+      "Bulbs (Plants) Catalogs", 
+      "Fruit Catalogs"
+    ], 
+    "call_number": "CAT31133445", 
+    "title": "Vick's illustrated catalogue of hardy bulbs and plants", 
+    "repub_state": "4", 
+    "camera": "Canon EOS 5D Mark II", 
+    "invoice": "3", 
+    "ocr": "ABBYY FineReader 9.0", 
+    "identifier-access": "http://archive.org/details/vicksillustrated1893jame", 
+    "scanningcenter": "beltsville", 
+    "description": [
+      "Cover title", 
+      "Includes index"
+    ], 
+    "identifier-ark": "ark:/13960/t2w407v6s", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "fedlink", 
+      "americana", 
+      "biodiversity"
+    ], 
+    "volume": "1893", 
+    "repub_seconds": "261", 
+    "updater": "associate-adrianna-flores@archive.org", 
+    "updatedate": "2014-01-31 14:30:41", 
+    "uploader": "associate-adrianna-flores@archive.org", 
+    "date": "1893", 
+    "republisher": "associate-saw-thein@archive.org", 
+    "addeddate": "2014-01-31 14:30:43.1974", 
+    "publisher": "Rochester, N.Y. : James Vick", 
+    "publicdate": "2014-01-31 13:30:22", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "curation": "[curator]admin-shelia-deroche@archive.org[/curator][date]20140604163957[/date][state]approved[/state][comment]invoice201405[/comment]", 
+    "imagecount": "58", 
+    "identifier": "vicksillustrated1893jame", 
+    "sponsordate": "20140531", 
+    "unique_id": "CAT31133445", 
+    "scandate": "20140131184809"
+  }, 
+  "files_count": 17, 
+  "d1": "ia600307.us.archive.org"
+}

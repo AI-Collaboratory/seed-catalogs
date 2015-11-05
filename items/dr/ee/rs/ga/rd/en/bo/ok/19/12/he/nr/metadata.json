@@ -1,0 +1,275 @@
+{
+  "files": [
+    {
+      "sha1": "b0343b87f826e2575c11a995cedc664bfd7727e5", 
+      "name": "dreersgardenbook1912henr_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1378907120", 
+      "crc32": "80e3d8b1", 
+      "md5": "0949c356bc4eaa65e49d0c5084e9d288", 
+      "size": "1678"
+    }, 
+    {
+      "sha1": "302978386f8bacc67176073868aa374f4fb90954", 
+      "name": "dreersgardenbook1912henr_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1378907120", 
+      "crc32": "34f6d136", 
+      "md5": "55a3f3013f5c95e0d3db0c7c2e8b7c5e", 
+      "size": "1137"
+    }, 
+    {
+      "sha1": "9f3ce6c35abc5dcc2c7b7c8b517f64f30ff6140d", 
+      "name": "dreersgardenbook1912henr_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1378907120", 
+      "crc32": "2cdcd109", 
+      "md5": "952d8e592750525f4d75f4ee7427efd5", 
+      "size": "4038"
+    }, 
+    {
+      "sha1": "1294169796237d2a3f6a1cbb6b180b40ba8a3735", 
+      "name": "dreersgardenbook1912henr_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1378907120", 
+      "crc32": "26c08eb7", 
+      "md5": "abe070ab162f08881f085c7fd840189d", 
+      "size": "322"
+    }, 
+    {
+      "sha1": "0528d2694d8221a5b4326108983a87c8cb76da0a", 
+      "name": "dreersgardenbook1912henr_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1379011114", 
+      "crc32": "94c9dfbe", 
+      "md5": "765fd6548caea1c2dac05196efe88495", 
+      "size": "412723200"
+    }, 
+    {
+      "sha1": "fd5b987b2523833625b41e3d94d708daec5b3cf2", 
+      "name": "dreersgardenbook1912henr_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1379011104", 
+      "crc32": "71f4382a", 
+      "md5": "215188a52e2dc523be72722a7920e20a", 
+      "size": "369184"
+    }, 
+    {
+      "sha1": "ccb4eecef874ad248feb6a87f30c80f0d7d2393e", 
+      "name": "dreersgardenbook1912henr_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1379018208", 
+      "crc32": "9c9d262f", 
+      "md5": "b591390b74075bb30baab94d43c35326", 
+      "original": "dreersgardenbook1912henr_orig_jp2.tar", 
+      "size": "240463159"
+    }, 
+    {
+      "sha1": "993344a4a50a6d91ffdfdd4e361b2e15c76e3d75", 
+      "name": "dreersgardenbook1912henr.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1379030772", 
+      "crc32": "b44b608c", 
+      "md5": "5f53e0e7a933fc121eecfc68afc6259a", 
+      "original": "dreersgardenbook1912henr_djvu.xml", 
+      "size": "27585943"
+    }, 
+    {
+      "sha1": "d88836eee287c5a57047ded6c71d0ba7cb711f83", 
+      "name": "dreersgardenbook1912henr_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1379032627", 
+      "crc32": "04140366", 
+      "md5": "7b6cfaab6b461de8dbf87096c1519364", 
+      "original": "dreersgardenbook1912henr.djvu", 
+      "size": "1209088"
+    }, 
+    {
+      "sha1": "30f8b17cc8b4e1db0dde78988ed4aac7bff0a66a", 
+      "name": "dreersgardenbook1912henr_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1379028802", 
+      "crc32": "bff266a8", 
+      "md5": "7419b9133bbec342077632fa89b6a6fe", 
+      "original": "dreersgardenbook1912henr_jp2.zip", 
+      "size": "19302205"
+    }, 
+    {
+      "sha1": "22e8997586d6fc2b9be069e6145eaf006eddf2ef", 
+      "name": "dreersgardenbook1912henr.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1379032589", 
+      "crc32": "ea757b25", 
+      "md5": "267a4de1e5f702e6f1b13c1a0dfab15c", 
+      "original": "dreersgardenbook1912henr_djvu.xml", 
+      "size": "40553452"
+    }, 
+    {
+      "sha1": "ff2713f199b6ab640acedf5cacf5057cb85bc13c", 
+      "name": "dreersgardenbook1912henr.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1379029499", 
+      "crc32": "f781c20a", 
+      "md5": "f39278cd53fe6bb773beab79e20ef33b", 
+      "original": "dreersgardenbook1912henr_abbyy.gz", 
+      "size": "8318661"
+    }, 
+    {
+      "sha1": "df181028c6fd9a943bd3b651c47746a97552e1a3", 
+      "name": "dreersgardenbook1912henr_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1379029103", 
+      "crc32": "c6f47030", 
+      "md5": "3963bebec03d29bdaf3c27530614727c", 
+      "original": "dreersgardenbook1912henr_abbyy.gz", 
+      "size": "11135467"
+    }, 
+    {
+      "sha1": "0ff18a24fe42942abfded2e31249eadf91f040ad", 
+      "name": "dreersgardenbook1912henr.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1379018238", 
+      "crc32": "1982ad69", 
+      "md5": "1c91670ab469b5344fd8f813d9c666ea", 
+      "original": "dreersgardenbook1912henr_jp2.zip", 
+      "size": "257204"
+    }, 
+    {
+      "sha1": "f021ecbe08aa2d751a1291ad83429bcaca4b139e", 
+      "name": "dreersgardenbook1912henr_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1418947131", 
+      "crc32": "72b0ea59", 
+      "md5": "8f024acd8cd80e46ee0a0f2d5bbc451a", 
+      "size": "2736"
+    }, 
+    {
+      "sha1": "20381bef85924cd3fb609cf56669ec2c6b415970", 
+      "name": "dreersgardenbook1912henr_meta.sqlite", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1420968847", 
+      "crc32": "7a5d3ae7", 
+      "md5": "3363aba393b8fbca1632ee73e0e88caf", 
+      "size": "6144"
+    }, 
+    {
+      "sha1": "5f4b1527a9a0f2343641ec832ae820033a0b4fef", 
+      "name": "dreersgardenbook1912henr_bhlmets.xml", 
+      "format": "Biodiversity Heritage Library METS", 
+      "source": "original", 
+      "mtime": "1420968843", 
+      "crc32": "8a33e2ea", 
+      "md5": "2201ca85d97c434e810b81bc7505f2f7", 
+      "size": "168905"
+    }, 
+    {
+      "sha1": "81c9b90d8c51d51ba842b20ca58e0fa39cc18125", 
+      "name": "dreersgardenbook1912henr_archive.torrent", 
+      "btih": "0d3e8450364e47cd30c18533cfdcf1428162c4e3", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1420968852", 
+      "crc32": "e9b09fcf", 
+      "md5": "e961763ce7cc4b561a9f5fb7b31d7276", 
+      "size": "17536"
+    }, 
+    {
+      "source": "original", 
+      "md5": "655f972d0c82a2eaacb2e2ce966c2427", 
+      "name": "dreersgardenbook1912henr_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "updated": 1446754367, 
+  "uniq": 442568059, 
+  "created": 1446754367, 
+  "workable_servers": [
+    "ia801008.us.archive.org", 
+    "ia601008.us.archive.org"
+  ], 
+  "server": "ia801008.us.archive.org", 
+  "item_size": 762120059, 
+  "dir": "/8/items/dreersgardenbook1912henr", 
+  "metadata": {
+    "shiptracking": "ST000271", 
+    "scanner": "scribe4.beltsville.archive.org", 
+    "creator": [
+      "Henry A. Dreer (Firm)", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection", 
+    "ppi": "350", 
+    "nal_call_number": "62.73", 
+    "operator": "associate-mang-pau@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "subject": [
+      "Seeds Catalogs", 
+      "Nursery stock Catalogs", 
+      "Gardening Equipment and supplies Catalogs", 
+      "Flowers Seeds Catalogs", 
+      "Vegetables Seeds Catalogs", 
+      "Fruit Seeds Catalogs"
+    ], 
+    "call_number": "CAT31122006", 
+    "title": "Dreer's garden book : seventy-fourth annual edition 1912", 
+    "repub_state": "4", 
+    "possible-copyright-status": "The contributing institution believes that this item is not in copyright", 
+    "camera": "Canon EOS 5D Mark II", 
+    "ocr": "ABBYY FineReader 8.0", 
+    "identifier-access": "http://archive.org/details/dreersgardenbook1912henr", 
+    "scanningcenter": "beltsville", 
+    "description": [
+      "Includes index", 
+      "Cover title"
+    ], 
+    "identifier-ark": "ark:/13960/t57d4rx06", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "fedlink", 
+      "americana", 
+      "biodiversity"
+    ], 
+    "volume": "1912", 
+    "repub_seconds": "356", 
+    "updater": "associate-adrianna-flores@archive.org", 
+    "updatedate": "2013-09-11 13:45:20", 
+    "uploader": "associate-adrianna-flores@archive.org", 
+    "date": "1912", 
+    "republisher": "associate-saw-thein@archive.org", 
+    "addeddate": "2013-09-11 13:45:22", 
+    "publisher": "Philadelphia, Pa. : Henry A. Dreer", 
+    "publicdate": "2013-09-11 12:53:23", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "curation": "[curator]admin-shelia-deroche@archive.org[/curator][date]20130926120522[/date][state]approved[/state][comment]199[/comment]", 
+    "imagecount": "310", 
+    "identifier": "dreersgardenbook1912henr", 
+    "sponsordate": "20130930", 
+    "unique_id": "CAT31122006", 
+    "scandate": "20130912173105"
+  }, 
+  "d2": "ia801008.us.archive.org", 
+  "files_count": 19, 
+  "d1": "ia601008.us.archive.org"
+}

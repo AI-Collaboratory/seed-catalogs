@@ -1,0 +1,272 @@
+{
+  "files": [
+    {
+      "sha1": "a84f8a14c94ad5f1f7acc9c5731145886c886e37", 
+      "name": "seedannual1908livi_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1384953763", 
+      "crc32": "40ff30ec", 
+      "md5": "a1550a521813bfd29356c22c86672a4f", 
+      "size": "1470"
+    }, 
+    {
+      "sha1": "6f4bcb93dedbf874847df43843dfde5db9926436", 
+      "name": "seedannual1908livi_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1384953763", 
+      "crc32": "ca88cd78", 
+      "md5": "7b3649e685003c7c9414a40a43801728", 
+      "size": "1151"
+    }, 
+    {
+      "sha1": "2da131c5e47b3c88f1904ba53dedd95d9f71eda3", 
+      "name": "seedannual1908livi_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1384953763", 
+      "crc32": "89068f54", 
+      "md5": "6ee9b4b5a039fb78924cea38a2457214", 
+      "size": "316"
+    }, 
+    {
+      "sha1": "bbf5489d40ca687602cde93638b2d81da930882d", 
+      "name": "seedannual1908livi_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1384953763", 
+      "crc32": "edf9552e", 
+      "md5": "7ae2884d8a25cb6338d2a0dc5b46f942", 
+      "size": "4340"
+    }, 
+    {
+      "sha1": "7c7068f86dda09e048cee4ddc93c5564bff12d4a", 
+      "name": "seedannual1908livi_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1385041771", 
+      "crc32": "46ae8722", 
+      "md5": "f3f7a006dbb8be1f4a10fb05d2ca4f65", 
+      "size": "177398"
+    }, 
+    {
+      "sha1": "226af9cffd5a1949062c739f26ebac331058d903", 
+      "name": "seedannual1908livi_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1385041776", 
+      "crc32": "d864d373", 
+      "md5": "3425632349f94d538d6c59233d273f26", 
+      "size": "162621440"
+    }, 
+    {
+      "sha1": "c3ea1b45e8dac3e4703b942a174244ff549d35a7", 
+      "name": "seedannual1908livi_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1385044395", 
+      "crc32": "1231c792", 
+      "md5": "34414cb995b4324aebc88c7220cbee4b", 
+      "original": "seedannual1908livi_orig_jp2.tar", 
+      "size": "118014941"
+    }, 
+    {
+      "sha1": "f6e88f7ef5c003e77aa9469a3c3f15ea674693ec", 
+      "name": "seedannual1908livi.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1385051001", 
+      "crc32": "c5cf60f0", 
+      "md5": "e008ff23d6c838f5d047c8e3785843b6", 
+      "original": "seedannual1908livi_djvu.xml", 
+      "size": "12225277"
+    }, 
+    {
+      "sha1": "93fbe0f28aab1b7864f4651d9eeb62596a81b9ee", 
+      "name": "seedannual1908livi.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1385051658", 
+      "crc32": "336df3d1", 
+      "md5": "55621804f6b64d5e5fe700d03f94178f", 
+      "original": "seedannual1908livi_djvu.xml", 
+      "size": "17769418"
+    }, 
+    {
+      "sha1": "9ee840c6040da41345157be907d07ed66c525323", 
+      "name": "seedannual1908livi.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1385050517", 
+      "crc32": "16c64ee4", 
+      "md5": "aed0081bbb28e9c36732b8944bfc8660", 
+      "original": "seedannual1908livi_abbyy.gz", 
+      "size": "3096140"
+    }, 
+    {
+      "sha1": "c743f9b8c3793dad7517f59b9c573ad1966dc2e3", 
+      "name": "seedannual1908livi_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1385050295", 
+      "crc32": "321748c3", 
+      "md5": "227154ec821dd406940b635d1387f37c", 
+      "original": "seedannual1908livi_jp2.zip", 
+      "size": "10097456"
+    }, 
+    {
+      "sha1": "ef2e7f1e9791d08363641c3ebcaf0a3fc34aa644", 
+      "name": "seedannual1908livi.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1385044418", 
+      "crc32": "c8d96a59", 
+      "md5": "49e83263fe17dc4b53777aa2d374d234", 
+      "original": "seedannual1908livi_jp2.zip", 
+      "size": "343671"
+    }, 
+    {
+      "sha1": "973280a58aed6b0723c841a315166b4f67d29bce", 
+      "name": "seedannual1908livi_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1385050447", 
+      "crc32": "fa9479a3", 
+      "md5": "47d1ea3a44a3d20c41b17695fc58d45b", 
+      "original": "seedannual1908livi_abbyy.gz", 
+      "size": "6205141"
+    }, 
+    {
+      "sha1": "71e16d7ddf9cf846a6820bc5074add458bc879a3", 
+      "name": "seedannual1908livi_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1385051675", 
+      "crc32": "eeed8697", 
+      "md5": "10fd5a17ae68c1a617cefc0ffb253240", 
+      "original": "seedannual1908livi.djvu", 
+      "size": "684329"
+    }, 
+    {
+      "sha1": "1b35fa1c38f79bee387889d7e1462bd96b6081ab", 
+      "name": "seedannual1908livi_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1418948326", 
+      "crc32": "254e2f36", 
+      "md5": "7fbc2f675e986e2566bcbea13060d3af", 
+      "size": "2842"
+    }, 
+    {
+      "sha1": "6cb17a594a8efcb86ce96c896a5829e3f561818c", 
+      "name": "seedannual1908livi_meta.sqlite", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1419758877", 
+      "crc32": "e77edc1c", 
+      "md5": "92c3f9cf884ca15e5502610f4593ba0b", 
+      "size": "6144"
+    }, 
+    {
+      "sha1": "5c924a676c7df85c7a59140295bfc27c69b8f9c1", 
+      "name": "seedannual1908livi_bhlmets.xml", 
+      "format": "Biodiversity Heritage Library METS", 
+      "source": "original", 
+      "mtime": "1419758872", 
+      "crc32": "0ab00a84", 
+      "md5": "6d1157e0bd65fec478b7a11616897a81", 
+      "size": "60846"
+    }, 
+    {
+      "sha1": "f47be7df1f6bd71c9f1f4fe2d95f6f6f4ec651b1", 
+      "name": "seedannual1908livi_archive.torrent", 
+      "btih": "71602a86d4a0a1c2450857d000ef77ba6b1da7da", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1419758882", 
+      "crc32": "3f996ec6", 
+      "md5": "5079ab26d598612da7544492d71eff21", 
+      "size": "10491"
+    }, 
+    {
+      "source": "original", 
+      "md5": "9e065aecacca1f14881cd2becb1a6d27", 
+      "name": "seedannual1908livi_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "uniq": 348703164, 
+  "created": 1446753024, 
+  "workable_servers": [
+    "ia601003.us.archive.org"
+  ], 
+  "server": "ia601003.us.archive.org", 
+  "item_size": 331322811, 
+  "dir": "/1/items/seedannual1908livi", 
+  "metadata": {
+    "shiptracking": "ST000572", 
+    "scanner": "scribe2.beltsville.archive.org", 
+    "creator": [
+      "Livingston Seed Company", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection", 
+    "ppi": "350", 
+    "subcollection": "henryggilbertnurseryandseedtradecollection", 
+    "nal_call_number": "62.67", 
+    "operator": "associate-saw-thein@archive.org", 
+    "curatestate": "freeze", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "copyright_message": "The contributing institution believes that this item is not in copyright", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "subject": [
+      "Seeds Catalogs", 
+      "Seed industry and trade Ohio Columbus Catalogs", 
+      "Vegetables Ohio Columbus Catalogs", 
+      "Fruit Ohio Columbus Catalogs", 
+      "Flowers Ohio Columbus Catalogs", 
+      "Gardening Ohio Columbus Equipment and supplies catalogs"
+    ], 
+    "call_number": "CAT31132093", 
+    "title": "Seed annual", 
+    "repub_state": "4", 
+    "camera": "Canon EOS 5D Mark II", 
+    "invoice": "3", 
+    "ocr": "ABBYY FineReader 9.0", 
+    "identifier-access": "http://archive.org/details/seedannual1908livi", 
+    "scanningcenter": "beltsville", 
+    "description": "Cover title", 
+    "identifier-ark": "ark:/13960/t88h10654", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "fedlink", 
+      "americana", 
+      "biodiversity"
+    ], 
+    "volume": "1908", 
+    "repub_seconds": "621", 
+    "updater": "associate-adrianna-flores@archive.org", 
+    "updatedate": "2013-11-20 13:22:43", 
+    "uploader": "associate-adrianna-flores@archive.org", 
+    "date": "1908", 
+    "republisher": "associate-saw-thein@archive.org", 
+    "addeddate": "2013-11-20 13:22:45.628976", 
+    "publisher": "Columbus, Ohio : A. W. Livingston's Sons", 
+    "publicdate": "2013-11-20 12:20:21", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "curation": "[curator]admin-shelia-deroche@archive.org[/curator][date]20140320170136[/date][state]approved[/state][comment]invoice201402[/comment]", 
+    "imagecount": "110", 
+    "identifier": "seedannual1908livi", 
+    "sponsordate": "20140228", 
+    "unique_id": "CAT31132093", 
+    "scandate": "20131120192806"
+  }, 
+  "files_count": 19, 
+  "d1": "ia601003.us.archive.org"
+}

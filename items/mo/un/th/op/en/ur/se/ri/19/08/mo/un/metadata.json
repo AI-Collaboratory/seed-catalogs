@@ -1,0 +1,264 @@
+{
+  "files": [
+    {
+      "sha1": "08f722381f5b9323db9e33ffc5ecf525350f30b5", 
+      "name": "mounthopenurseri1908moun_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1379341529", 
+      "crc32": "0bf4074c", 
+      "md5": "7619fe99b67582ea2a83e0233abba376", 
+      "size": "4411"
+    }, 
+    {
+      "sha1": "48bad203533ac17ed087cd6ed9d7824b05ee17a3", 
+      "name": "mounthopenurseri1908moun_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1379341529", 
+      "crc32": "47229374", 
+      "md5": "addb848b2febb1c41f4aa7e92631891a", 
+      "size": "1274"
+    }, 
+    {
+      "sha1": "c7707d450b7367a680c565f35939083c512cba90", 
+      "name": "mounthopenurseri1908moun_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1379341529", 
+      "crc32": "0d76f8d2", 
+      "md5": "a682bfb0dd598a2fb0b16b587c65e0d1", 
+      "size": "322"
+    }, 
+    {
+      "sha1": "186df35cd155bc800818b808b12624097d9bb4a2", 
+      "name": "mounthopenurseri1908moun_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1379341529", 
+      "crc32": "ebc02491", 
+      "md5": "c7fab29d20b25f8ac61816a239d6ade6", 
+      "size": "1803"
+    }, 
+    {
+      "sha1": "8c92a7a414e6b94b4019ac08e5aa84e37884e634", 
+      "name": "mounthopenurseri1908moun_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1379356620", 
+      "crc32": "1e406eb9", 
+      "md5": "505d9ee0bab25d23181a487147eb6cd3", 
+      "size": "114001920"
+    }, 
+    {
+      "sha1": "0471abe5f92c01fc3f9d363c9aac9f6ddcfba17c", 
+      "name": "mounthopenurseri1908moun_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1379356620", 
+      "crc32": "797a1c38", 
+      "md5": "deae47d5422f6f412bb5c7fa8c77047e", 
+      "size": "178826"
+    }, 
+    {
+      "sha1": "e9dbb5910a29b60488f266a2cc93f35cdd3f1cf3", 
+      "name": "mounthopenurseri1908moun_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1379359213", 
+      "crc32": "442a30e2", 
+      "md5": "83c9708a826f0d526e4acd59913d96dd", 
+      "original": "mounthopenurseri1908moun_orig_jp2.tar", 
+      "size": "87700210"
+    }, 
+    {
+      "sha1": "01ac72fd7b5cc360c74132c11e9f932c26ac2c29", 
+      "name": "mounthopenurseri1908moun.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1379359246", 
+      "crc32": "1062cfa4", 
+      "md5": "bace74d6fd1f8d7f5184bc38e2854885", 
+      "original": "mounthopenurseri1908moun_jp2.zip", 
+      "size": "292455"
+    }, 
+    {
+      "sha1": "35ca7fe9b932b5a44224c25248bcb34401ebd10f", 
+      "name": "mounthopenurseri1908moun.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1379364783", 
+      "crc32": "9866e0ec", 
+      "md5": "ae23ecdf378435e437215814ef729571", 
+      "original": "mounthopenurseri1908moun_djvu.xml", 
+      "size": "12655760"
+    }, 
+    {
+      "sha1": "26dffda8a8f5304042348eca0a6dac7e40a1482d", 
+      "name": "mounthopenurseri1908moun_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1379364798", 
+      "crc32": "e0accb05", 
+      "md5": "33f6efffc43c66dbb7c642ac791b1817", 
+      "original": "mounthopenurseri1908moun.djvu", 
+      "size": "323822"
+    }, 
+    {
+      "sha1": "2e66baecf33e83875420eab98b6a92057427e11c", 
+      "name": "mounthopenurseri1908moun.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1379363336", 
+      "crc32": "e2df4ee5", 
+      "md5": "d3c745e0fe58e2b420e92e95b29075fc", 
+      "original": "mounthopenurseri1908moun_abbyy.gz", 
+      "size": "1377571"
+    }, 
+    {
+      "sha1": "d5395c28831188ddc77fbefbf01c3b4da3a4f8a9", 
+      "name": "mounthopenurseri1908moun_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1379363211", 
+      "crc32": "5c158fd2", 
+      "md5": "6941bbf9ac13d8ca4f9f5c65c4d70326", 
+      "original": "mounthopenurseri1908moun_jp2.zip", 
+      "size": "5231414"
+    }, 
+    {
+      "sha1": "cc0e9c86f6bf6754160e4a473c8f5e0e7d831590", 
+      "name": "mounthopenurseri1908moun.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1379363864", 
+      "crc32": "7041282c", 
+      "md5": "a1b05f0010f307237f54a7fcbb8a2ded", 
+      "original": "mounthopenurseri1908moun_djvu.xml", 
+      "size": "7019855"
+    }, 
+    {
+      "sha1": "0344e655054f4de9dbce63f799e411e53daf26c4", 
+      "name": "mounthopenurseri1908moun_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1379363292", 
+      "crc32": "e0ca0c76", 
+      "md5": "9ad0381cdccf50677f478ad5564dc2d8", 
+      "original": "mounthopenurseri1908moun_abbyy.gz", 
+      "size": "2903946"
+    }, 
+    {
+      "sha1": "6519d7ecbeb22eb0c380d6fec45b09c867f708e7", 
+      "name": "mounthopenurseri1908moun_toc.xml", 
+      "format": "Contents", 
+      "source": "derivative", 
+      "mtime": "1379363341", 
+      "crc32": "ce3a10ad", 
+      "md5": "4919dfc747feaf9a8834d0b1f760f06a", 
+      "original": "mounthopenurseri1908moun_djvu.xml", 
+      "size": "17761"
+    }, 
+    {
+      "sha1": "a0327e9f6c0575e6725e0c9283f9d755d9fa8e21", 
+      "name": "mounthopenurseri1908moun_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1418947960", 
+      "crc32": "bb922a23", 
+      "md5": "210c48a85e246aa5beee9cfcd35746e9", 
+      "size": "2773"
+    }, 
+    {
+      "sha1": "2337a6e08bdef2f84900e0631f2008b262eddde9", 
+      "name": "mounthopenurseri1908moun_archive.torrent", 
+      "btih": "545231aca213d8c61b08169933c5d637884440a3", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1418947963", 
+      "crc32": "e57c1ac8", 
+      "md5": "10164687c8101b894a1ba5693a856504", 
+      "size": "8495"
+    }, 
+    {
+      "source": "original", 
+      "md5": "9fc1a0c6402a3e60afc2d9e240275b0b", 
+      "name": "mounthopenurseri1908moun_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "uniq": 1160127442, 
+  "created": 1446751827, 
+  "workable_servers": [
+    "ia601000.us.archive.org"
+  ], 
+  "server": "ia601000.us.archive.org", 
+  "item_size": 231722618, 
+  "dir": "/12/items/mounthopenurseri1908moun", 
+  "metadata": {
+    "shiptracking": "ST000297", 
+    "scanner": "scribe4.beltsville.archive.org", 
+    "creator": [
+      "Mount Hope Nurseries", 
+      "Ellwanger & Barry", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection", 
+    "ppi": "500", 
+    "nal_call_number": "62.61", 
+    "operator": "associate-mang-pau@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "subject": [
+      "Nurseries (Horticulture) Catalogs", 
+      "Roses Seeds Catalogs", 
+      "Strawberries Catalogs", 
+      "Bulbs (Plants) Catalogs", 
+      "Fruit Catalogs", 
+      "Flowers Catalogs"
+    ], 
+    "call_number": "CAT31127160", 
+    "title": "Mount Hope Nurseries established 1840 : general catalogue", 
+    "repub_state": "4", 
+    "possible-copyright-status": "The contributing institution believes that this item is not in copyright", 
+    "camera": "Canon EOS 5D Mark II", 
+    "ocr": "ABBYY FineReader 8.0", 
+    "identifier-access": "http://archive.org/details/mounthopenurseri1908moun", 
+    "scanningcenter": "beltsville", 
+    "description": [
+      "Includes index", 
+      "Cover title"
+    ], 
+    "identifier-ark": "ark:/13960/t0jt1jx7h", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "fedlink", 
+      "americana", 
+      "biodiversity"
+    ], 
+    "volume": "1908", 
+    "repub_seconds": "146", 
+    "updater": "associate-adrianna-flores@archive.org", 
+    "updatedate": "2013-09-16 14:25:29", 
+    "uploader": "associate-adrianna-flores@archive.org", 
+    "date": "1908", 
+    "republisher": "associate-mang-pau@archive.org", 
+    "addeddate": "2013-09-16 14:25:31.964981", 
+    "publisher": "Rochester, N.Y. : Ellwanger & Barry", 
+    "publicdate": "2013-09-16 13:27:08", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "curation": "[curator]admin-shelia-deroche@archive.org[/curator][date]20130929013759[/date][state]approved[/state][comment]199[/comment]", 
+    "imagecount": "114", 
+    "identifier": "mounthopenurseri1908moun", 
+    "sponsordate": "20130930", 
+    "unique_id": "CAT31127160", 
+    "scandate": "20130916181606"
+  }, 
+  "files_count": 18, 
+  "d1": "ia601000.us.archive.org"
+}

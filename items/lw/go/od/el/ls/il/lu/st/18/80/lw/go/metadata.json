@@ -1,0 +1,250 @@
+{
+  "files": [
+    {
+      "sha1": "88017b633311a61b5080d677917e4be64f9db879", 
+      "name": "lwgoodellsillust1880lwgo_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1402682294", 
+      "crc32": "1beec24f", 
+      "md5": "3727e473e0d25c2219d912deb52e0f8d", 
+      "size": "3245"
+    }, 
+    {
+      "sha1": "dbe40fa10138900c9afd06c153cf40dda95bd186", 
+      "name": "lwgoodellsillust1880lwgo_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1402682294", 
+      "crc32": "36d1257f", 
+      "md5": "3a692c0e62f36ad28fc44f881435fad7", 
+      "size": "926"
+    }, 
+    {
+      "sha1": "f3cee58bfd4c2d93b12354a407905e4f85ec3d67", 
+      "name": "lwgoodellsillust1880lwgo_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1402682294", 
+      "crc32": "dc1663db", 
+      "md5": "3340d45d833e8b0286c9f4eabd7118e1", 
+      "size": "320"
+    }, 
+    {
+      "sha1": "1483684e1bafd47b5edf8392cf14f5af99dbae9e", 
+      "name": "lwgoodellsillust1880lwgo_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1402682294", 
+      "crc32": "b2f31878", 
+      "md5": "18d9c14cd1a25776b76b99ed8888aae0", 
+      "size": "1275"
+    }, 
+    {
+      "sha1": "6cebfc7f8d6236f198e20431db5944a7d66b5720", 
+      "name": "lwgoodellsillust1880lwgo_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1403118514", 
+      "crc32": "3bdcc5bf", 
+      "md5": "f8ce9845d2f819b32a8e7b6b65b84b5b", 
+      "size": "27361280"
+    }, 
+    {
+      "sha1": "9772d4086f9c190ada9d45876f4cd41fcda51264", 
+      "name": "lwgoodellsillust1880lwgo_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1403118513", 
+      "crc32": "5b0c08f1", 
+      "md5": "08fc1a7efdf44b0943afcb84cabeb3eb", 
+      "size": "41241"
+    }, 
+    {
+      "sha1": "dc77d7ed59ab4d7a174b22b0d5a9ffb9bfefb652", 
+      "name": "lwgoodellsillust1880lwgo_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1403119068", 
+      "crc32": "fb90c223", 
+      "md5": "6110ed398fcc422936ab72a7a1a9de6c", 
+      "original": "lwgoodellsillust1880lwgo_orig_jp2.tar", 
+      "size": "16905598"
+    }, 
+    {
+      "sha1": "cf35bdb6577a5db571edf8cc434013066d9b5063", 
+      "name": "lwgoodellsillust1880lwgo_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1403121788", 
+      "crc32": "121c7992", 
+      "md5": "d04196c1242f3b6a0ec9e91d61e31993", 
+      "original": "lwgoodellsillust1880lwgo_jp2.zip", 
+      "size": "1335352"
+    }, 
+    {
+      "sha1": "d1a6432a8231eddf812bcdae12769ec66ce7832c", 
+      "name": "lwgoodellsillust1880lwgo_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1403122235", 
+      "crc32": "2a8d65e8", 
+      "md5": "614d1481695994cebdc479f51ef8fc57", 
+      "original": "lwgoodellsillust1880lwgo.djvu", 
+      "size": "82893"
+    }, 
+    {
+      "sha1": "87457d40b7781f4163ce5222816241f9e13ea581", 
+      "name": "lwgoodellsillust1880lwgo.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1403122224", 
+      "crc32": "85786dca", 
+      "md5": "43ab59a72d87f4c64ec3bce60fbdd675", 
+      "original": "lwgoodellsillust1880lwgo_djvu.xml", 
+      "size": "2897997"
+    }, 
+    {
+      "sha1": "927ba0e937b02c2e7252e0bdfe8163bd4a279c1c", 
+      "name": "lwgoodellsillust1880lwgo.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1403122003", 
+      "crc32": "6a8285d1", 
+      "md5": "830fc9667ee1ab7791a1b3f1f0f25ccd", 
+      "original": "lwgoodellsillust1880lwgo_djvu.xml", 
+      "size": "2067703"
+    }, 
+    {
+      "sha1": "5b7b2bba1bea70dd412ecf4440fe1f5bc1852fa2", 
+      "name": "lwgoodellsillust1880lwgo.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1403121845", 
+      "crc32": "ed651f2a", 
+      "md5": "f0b537c21ed028150607c689b80180e2", 
+      "original": "lwgoodellsillust1880lwgo_abbyy.gz", 
+      "size": "379995"
+    }, 
+    {
+      "sha1": "a23ced744076aa14d3cdf94b771bbbf7aef734a6", 
+      "name": "lwgoodellsillust1880lwgo_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1403121826", 
+      "crc32": "8cb37b2d", 
+      "md5": "821649e91be98a3625398a056062ff6f", 
+      "original": "lwgoodellsillust1880lwgo_abbyy.gz", 
+      "size": "780397"
+    }, 
+    {
+      "sha1": "15cecf321d301c8f209d591f22fea7c8858d0a0a", 
+      "name": "lwgoodellsillust1880lwgo.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1403119085", 
+      "crc32": "6063c8ea", 
+      "md5": "6f36eb6e7ff01ae21949c1b6678a5aa5", 
+      "original": "lwgoodellsillust1880lwgo_jp2.zip", 
+      "size": "200555"
+    }, 
+    {
+      "sha1": "cc45013a00c4e923a04974dc4a35f4d9ae1f9eb4", 
+      "name": "lwgoodellsillust1880lwgo_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1418947784", 
+      "crc32": "f8097382", 
+      "md5": "6170085f7fc2c0a5e263f72f588c0952", 
+      "size": "2813"
+    }, 
+    {
+      "sha1": "5041c5af3e146461066da82d7ae24a48e6913fa7", 
+      "name": "lwgoodellsillust1880lwgo_archive.torrent", 
+      "btih": "ca44b7840359b2a964b07eab195009cb4ce8f70d", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1418947785", 
+      "crc32": "d51f1815", 
+      "md5": "dfaf30e394029c483445e6c9ae7d2bb5", 
+      "size": "4762"
+    }, 
+    {
+      "source": "original", 
+      "md5": "92bf80b8aef1bc4bff5da94052202fef", 
+      "name": "lwgoodellsillust1880lwgo_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "uniq": 1019984649, 
+  "created": 1446754678, 
+  "workable_servers": [
+    "ia902504.us.archive.org"
+  ], 
+  "server": "ia902504.us.archive.org", 
+  "item_size": 52066352, 
+  "dir": "/28/items/lwgoodellsillust1880lwgo", 
+  "metadata": {
+    "partner_shiptracking": "NC14_1880_A-N", 
+    "shiptracking": "ST001742", 
+    "scanner": "scribe4.beltsville.archive.org", 
+    "creator": [
+      "L.W. Goodell (Firm)", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection.", 
+    "ppi": "500", 
+    "subcollection": "henryggilbertnurseryandseedtradecollection", 
+    "nal_call_number": "62.39", 
+    "operator": "associate-mang-pau@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "copyright_message": "The contributing institution believes that this item is not in copyright", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "subject": [
+      "Nurseries Massachusetts Amherst Catalogs", 
+      "Flowers Seeds Catalogs", 
+      "Vegetables Seeds Catalogs"
+    ], 
+    "call_number": "CAT31278930", 
+    "title": "L.W. Goodell's illustrated catalogue of seeds, bulbs and plants for 1880", 
+    "repub_state": "4", 
+    "camera": "Canon EOS 5D Mark II", 
+    "invoice": "3", 
+    "ocr": "ABBYY FineReader 9.0", 
+    "identifier-access": "http://archive.org/details/lwgoodellsillust1880lwgo", 
+    "scanningcenter": "beltsville", 
+    "description": "Cover title", 
+    "identifier-ark": "ark:/13960/t43r3jj86", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "fedlink", 
+      "americana", 
+      "biodiversity"
+    ], 
+    "volume": "1880", 
+    "repub_seconds": "257", 
+    "updater": "associate-manuel-dennis@archive.org", 
+    "updatedate": "2014-06-13 17:58:14", 
+    "uploader": "associate-manuel-dennis@archive.org", 
+    "date": "1880", 
+    "republisher": "associate-yvonne-wang@archive.org", 
+    "addeddate": "2014-06-13 17:58:16.867213", 
+    "publisher": "Amherst, Mass. : L.W. Goodell", 
+    "publicdate": "2014-06-13 17:03:27", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "curation": "[curator]admin-shelia-deroche@archive.org[/curator][date]20140707150558[/date][state]approved[/state][comment]invoice201406[/comment]", 
+    "notes": "No table-of-contents pages found. No copyright page found.", 
+    "imagecount": "26", 
+    "identifier": "lwgoodellsillust1880lwgo", 
+    "sponsordate": "20140630", 
+    "unique_id": "CAT31278930", 
+    "scandate": "20140617121028"
+  }, 
+  "files_count": 17, 
+  "d1": "ia902504.us.archive.org"
+}

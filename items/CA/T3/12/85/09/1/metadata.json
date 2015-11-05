@@ -1,0 +1,249 @@
+{
+  "files": [
+    {
+      "sha1": "dfa36ab0316bc0ca15dbc39a38c5da7b9093d093", 
+      "name": "CAT31285091_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1412615315", 
+      "crc32": "39830bb5", 
+      "md5": "f513f101c4769033477c1b4302801e36", 
+      "size": "1078"
+    }, 
+    {
+      "sha1": "1581bc0ab88d0939a3682b7ffa35d48b25e29024", 
+      "name": "CAT31285091_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1412615315", 
+      "crc32": "2c3f4bfb", 
+      "md5": "40d0de88823af6f6ca28343fb949e099", 
+      "size": "307"
+    }, 
+    {
+      "sha1": "c1bd0077d7c2e03bb8626c7a2cef47d324af85d9", 
+      "name": "CAT31285091_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1412615315", 
+      "crc32": "e6340be0", 
+      "md5": "25420739c9a55bedd45a23f519809533", 
+      "size": "1438"
+    }, 
+    {
+      "sha1": "3293e7ae9f0096edce0bbf2cfb2635a0d4eca9e1", 
+      "name": "CAT31285091_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1412615315", 
+      "crc32": "a4570f50", 
+      "md5": "a62088051e46b0f8c6dc4a730c18beb6", 
+      "size": "3575"
+    }, 
+    {
+      "sha1": "91a5b90d8f91a698537ebe023496fb068a58b326", 
+      "name": "CAT31285091_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1412853086", 
+      "crc32": "7e2ad046", 
+      "md5": "bc077efd035a696602b58fd526ea84cc", 
+      "size": "4597760"
+    }, 
+    {
+      "sha1": "4be47e5ba4a06ed72c443d369837716b0663f139", 
+      "name": "CAT31285091_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1412853086", 
+      "crc32": "649fbf78", 
+      "md5": "38e9852c4d30043ea20d2ebd9fc446bd", 
+      "size": "9683"
+    }, 
+    {
+      "sha1": "ef7d331a4c6c475cd3fb12e371b0e5ee952f0967", 
+      "name": "CAT31285091.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1412853323", 
+      "crc32": "30f2d816", 
+      "md5": "135560b5e462687aeaacfd2055400b00", 
+      "original": "CAT31285091_djvu.xml", 
+      "size": "81774"
+    }, 
+    {
+      "sha1": "d2b130486dc537a9bdbe691f18751e99ba132126", 
+      "name": "CAT31285091.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1412853366", 
+      "crc32": "4419351d", 
+      "md5": "27b9ab0a21fb762d8eae7daa875a0ecb", 
+      "original": "CAT31285091_djvu.xml", 
+      "size": "179334"
+    }, 
+    {
+      "sha1": "ad50e707f0be95d44f423aa2553ecce2a20d3c41", 
+      "name": "CAT31285091_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1412853372", 
+      "crc32": "7c2f9f54", 
+      "md5": "4eb00065e504415f78384d5354f1625c", 
+      "original": "CAT31285091.djvu", 
+      "size": "3704"
+    }, 
+    {
+      "sha1": "37e58315c90d0818f4f1d105171067b3fb88cf8d", 
+      "name": "CAT31285091.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1412853297", 
+      "crc32": "5e1670f4", 
+      "md5": "d4b63956a4c5f23e478298cee3b1b102", 
+      "original": "CAT31285091_abbyy.gz", 
+      "size": "4200"
+    }, 
+    {
+      "sha1": "91ebcc2702f5f37b4c8466f2332d132921267aef", 
+      "name": "CAT31285091_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1412853286", 
+      "crc32": "44d7c203", 
+      "md5": "426b0927453a623b9b203a40fd972ec4", 
+      "original": "CAT31285091_jp2.zip", 
+      "size": "55004"
+    }, 
+    {
+      "sha1": "00616a13aba94b955a3525908753b5a3c4fbfa3b", 
+      "name": "CAT31285091_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1412853294", 
+      "crc32": "83603c55", 
+      "md5": "c14e128d986e469c443717648e546273", 
+      "original": "CAT31285091_abbyy.gz", 
+      "size": "43681"
+    }, 
+    {
+      "sha1": "7eead3dfe204d33423bf44cfe153c2583c2e2a19", 
+      "name": "CAT31285091_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1412853241", 
+      "crc32": "19942d40", 
+      "md5": "d1a24584e45747d5d91d1ee0aab56c7f", 
+      "original": "CAT31285091_orig_jp2.tar", 
+      "size": "2884192"
+    }, 
+    {
+      "sha1": "199f1d1ab29b436dc0170acdc1a8880cba1c2d46", 
+      "name": "CAT31285091.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1412853253", 
+      "crc32": "e4b3b49a", 
+      "md5": "15c4926bd7faa5d187a6352a27bf4399", 
+      "original": "CAT31285091_jp2.zip", 
+      "size": "38059"
+    }, 
+    {
+      "sha1": "50e1f0216a218082e7095bea489bedd83bbb2eea", 
+      "name": "CAT31285091_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1415309196", 
+      "crc32": "f01a7695", 
+      "md5": "141af27a25f3db5563b280a1d57ec218", 
+      "size": "2824"
+    }, 
+    {
+      "sha1": "9fdd115b590bd8e4d5cfd3c6a72da4eb64cb14c6", 
+      "name": "CAT31285091_archive.torrent", 
+      "btih": "7e28075c741fc61d50b66c3efd7e660ec185f6e4", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1415309198", 
+      "crc32": "859baf24", 
+      "md5": "cb85ba627d7d1f04504e3404193fd98b", 
+      "size": "3656"
+    }, 
+    {
+      "source": "original", 
+      "md5": "954a1bdb047cc6365157567f565b9087", 
+      "name": "CAT31285091_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "uniq": 566569796, 
+  "created": 1446748160, 
+  "workable_servers": [
+    "ia601404.us.archive.org"
+  ], 
+  "server": "ia601404.us.archive.org", 
+  "item_size": 7910269, 
+  "dir": "/8/items/CAT31285091", 
+  "metadata": {
+    "partner_shiptracking": "NC_1900_T-V", 
+    "shiptracking": "ST002532", 
+    "scanner": "scribe2.beltsville.archive.org", 
+    "creator": [
+      "Frank Vestal (Firm)", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection.", 
+    "ppi": "500", 
+    "subcollection": "henryggilbertnurseryandseedtradecollection", 
+    "nal_call_number": "62.07", 
+    "operator": "associate-saw-thein@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "copyright_message": "The contributing institution believes that this item is not in copyright", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "subject": [
+      "Nursery stock Arkansas Catalogs", 
+      "Flowers Seedlings Catalogs", 
+      "Plants, Ornamental Catalogs", 
+      "Trees Seedlings Catalogs"
+    ], 
+    "title": "Trade price list, fall 1900 of nursery grown magnolias, evergreens, seedlings, shrubs, etc. : adapted to the Southern States and Pacific Coast", 
+    "repub_state": "4", 
+    "camera": "Canon EOS 5D Mark II", 
+    "invoice": "3", 
+    "ocr": "ABBYY FineReader 9.0", 
+    "identifier-access": "http://archive.org/details/CAT31285091", 
+    "scanningcenter": "beltsville", 
+    "description": "Caption title", 
+    "identifier-ark": "ark:/13960/t2g76765c", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "fedlink", 
+      "americana"
+    ], 
+    "volume": "1900", 
+    "repub_seconds": "55", 
+    "updater": "associate-manuel-dennis@archive.org", 
+    "updatedate": "2014-10-06 17:08:35", 
+    "uploader": "associate-manuel-dennis@archive.org", 
+    "date": "1900", 
+    "republisher": "associate-mark-kanaskie@archive.org", 
+    "addeddate": "2014-10-06 17:08:37.987125", 
+    "publisher": "Baring Cross, Ark. : Frank Vestal", 
+    "publicdate": "2014-10-06 16:13:42", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "curation": "[curator]admin-shelia-deroche@archive.org[/curator][date]20141104135014[/date][state]approved[/state][comment]invoice201410[/comment]", 
+    "notes": "No copyright page found. No table-of-contents pages found.", 
+    "imagecount": "6", 
+    "identifier": "CAT31285091", 
+    "sponsordate": "20141031", 
+    "unique_id": "CAT31285091", 
+    "scandate": "20141007132143"
+  }, 
+  "files_count": 17, 
+  "d1": "ia601404.us.archive.org"
+}

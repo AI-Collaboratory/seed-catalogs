@@ -1,0 +1,268 @@
+{
+  "files": [
+    {
+      "sha1": "e265bea3726e11ae1c19c676a026ebca451212ce", 
+      "name": "dreersgardencale1876henr_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1378733931", 
+      "crc32": "e53c9a46", 
+      "md5": "a2f4dcbadd8e2cebabea9925b7acd78a", 
+      "size": "322"
+    }, 
+    {
+      "sha1": "b72c97c2a78ca235f304623f9afa90a738a03625", 
+      "name": "dreersgardencale1876henr_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1378733931", 
+      "crc32": "82725ce5", 
+      "md5": "ceeb5ccee573359f699f6a4584635ff7", 
+      "size": "1340"
+    }, 
+    {
+      "sha1": "455a14381c15639e0eb896a39562f384f587a611", 
+      "name": "dreersgardencale1876henr_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1378733931", 
+      "crc32": "08c223cc", 
+      "md5": "f49456244c0e744e267f83913afa18a8", 
+      "size": "1014"
+    }, 
+    {
+      "sha1": "2a1e72030db899124f78ca25425661e8b363441f", 
+      "name": "dreersgardencale1876henr_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1378733931", 
+      "crc32": "129ecb24", 
+      "md5": "53e03bb4f6c4ff0d9507fab130a79e19", 
+      "size": "3756"
+    }, 
+    {
+      "sha1": "2a1779f1d1ca5042255e6db8633756c9d4d065de", 
+      "name": "dreersgardencale1876henr_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1378822725", 
+      "crc32": "b32ca1f0", 
+      "md5": "216210889b73b7a9a4db172a1ce6d316", 
+      "size": "124281"
+    }, 
+    {
+      "sha1": "a04ec36ce048d201e3dd390f8644bf466c2a8dbf", 
+      "name": "dreersgardencale1876henr_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1378822729", 
+      "crc32": "cdc62d7d", 
+      "md5": "596f78c7b28109d7524346a7ca55c872", 
+      "size": "153876480"
+    }, 
+    {
+      "sha1": "a1aab8b0ccfc8522f94204e90653f6cb9477342b", 
+      "name": "dreersgardencale1876henr_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1378825575", 
+      "crc32": "fca5cd37", 
+      "md5": "bca01a414836bc125b4e26892d330d5c", 
+      "original": "dreersgardencale1876henr_orig_jp2.tar", 
+      "size": "72204530"
+    }, 
+    {
+      "sha1": "58fad9b03522ce50ef7736f41d9acf333ee3a473", 
+      "name": "dreersgardencale1876henr.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1378828417", 
+      "crc32": "de23f33c", 
+      "md5": "7f74743018e91f0e82c08828f520c6ff", 
+      "original": "dreersgardencale1876henr_djvu.xml", 
+      "size": "7303246"
+    }, 
+    {
+      "sha1": "3ea6c5d11866f9351da56e15c1d77732e78f4735", 
+      "name": "dreersgardencale1876henr.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1378828987", 
+      "crc32": "9e501196", 
+      "md5": "c88d7d71874faa1c4200c4ebc6891b22", 
+      "original": "dreersgardencale1876henr_djvu.xml", 
+      "size": "11315054"
+    }, 
+    {
+      "sha1": "558a34c12573265fe2274af18c2da1ec2e495a44", 
+      "name": "dreersgardencale1876henr_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1378827912", 
+      "crc32": "4c160e50", 
+      "md5": "3b9d069ae632daef79d94b35444115d2", 
+      "original": "dreersgardencale1876henr_jp2.zip", 
+      "size": "3601370"
+    }, 
+    {
+      "sha1": "6394dabaa664d215194b8bb66216b9d1fa7eccb3", 
+      "name": "dreersgardencale1876henr.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1378825601", 
+      "crc32": "2e2e62e9", 
+      "md5": "5986a4ed3eb599576be762fea0177f70", 
+      "original": "dreersgardencale1876henr_jp2.zip", 
+      "size": "334764"
+    }, 
+    {
+      "sha1": "a50eb8863a4e88228c0ce07e796f9cd147431706", 
+      "name": "dreersgardencale1876henr_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1378829002", 
+      "crc32": "2bc8905c", 
+      "md5": "0b364bfd9ae5eddefe3f93d08ab4a3e6", 
+      "original": "dreersgardencale1876henr.djvu", 
+      "size": "229004"
+    }, 
+    {
+      "sha1": "f8f707a3d3e242deec8a821ac165c25850dd0c98", 
+      "name": "dreersgardencale1876henr.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1378828016", 
+      "crc32": "bed3aa3c", 
+      "md5": "3ae5a3e9448efb969066f460160fe423", 
+      "original": "dreersgardencale1876henr_abbyy.gz", 
+      "size": "1700426"
+    }, 
+    {
+      "sha1": "4d29c820bfba7f0b227559db9ca43f945f16b78b", 
+      "name": "dreersgardencale1876henr_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1378827977", 
+      "crc32": "b0d29405", 
+      "md5": "50165307373fd923957a6456334e230e", 
+      "original": "dreersgardencale1876henr_abbyy.gz", 
+      "size": "2115871"
+    }, 
+    {
+      "sha1": "21d0fe04ae8384f31da3dce00c78a89814bfc070", 
+      "name": "dreersgardencale1876henr_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1418947136", 
+      "crc32": "c40a6b73", 
+      "md5": "2b10ca7cf19bdeaa3e2d0c1a12839d7c", 
+      "size": "2363"
+    }, 
+    {
+      "sha1": "bf09fe77179a12a9f1b48781552e779d504abd0e", 
+      "name": "dreersgardencale1876henr_bhlmets.xml", 
+      "format": "Biodiversity Heritage Library METS", 
+      "source": "original", 
+      "mtime": "1420970478", 
+      "crc32": "490e29fa", 
+      "md5": "76c23cebed9df0b8bfca092ba8e5df38", 
+      "size": "57528"
+    }, 
+    {
+      "sha1": "5c06fa9b26a89701dd979eb7dfe5c1077e637973", 
+      "name": "dreersgardencale1876henr_meta.sqlite", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1420970482", 
+      "crc32": "64fb82bb", 
+      "md5": "37ddd311a01ced1861c1cb97b2b6a30c", 
+      "size": "6144"
+    }, 
+    {
+      "sha1": "fbd31393742aee26a3a946fb944982da10f8fb9b", 
+      "name": "dreersgardencale1876henr_archive.torrent", 
+      "btih": "102a236425b1c2838337b071c3dd304640ed4cb0", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1420970486", 
+      "crc32": "b47e79ab", 
+      "md5": "33038cd51a4bfcd6916c45a53e88f483", 
+      "size": "7971"
+    }, 
+    {
+      "source": "original", 
+      "md5": "b3515d999972e7585309e71d31f142e2", 
+      "name": "dreersgardencale1876henr_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "updated": 1446755755, 
+  "uniq": 869600913, 
+  "created": 1446754368, 
+  "workable_servers": [
+    "ia801001.us.archive.org", 
+    "ia601001.us.archive.org"
+  ], 
+  "server": "ia801001.us.archive.org", 
+  "item_size": 252885464, 
+  "dir": "/12/items/dreersgardencale1876henr", 
+  "metadata": {
+    "shiptracking": "ST000261", 
+    "scanner": "scribe1.beltsville.archive.org", 
+    "creator": [
+      "Henry A. Dreer (Firm)", 
+      "Henry A. Dreer (Firm)", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection", 
+    "ppi": "500", 
+    "nal_call_number": "62.73", 
+    "operator": "associate-lian-kam@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "subject": [
+      "Seeds Catalogs", 
+      "Gardens Catalogs", 
+      "Flowers Seeds Catalogs"
+    ], 
+    "call_number": "CAT31121342", 
+    "title": "Dreer's garden calendar : 1876", 
+    "repub_state": "4", 
+    "possible-copyright-status": "The contributing institution believes that this item is not in copyright", 
+    "camera": "Canon EOS 5D Mark II", 
+    "ocr": "ABBYY FineReader 8.0", 
+    "identifier-access": "http://archive.org/details/dreersgardencale1876henr", 
+    "scanningcenter": "beltsville", 
+    "identifier-ark": "ark:/13960/t8md0t090", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "fedlink", 
+      "americana", 
+      "biodiversity"
+    ], 
+    "volume": "1876", 
+    "repub_seconds": "215", 
+    "updater": "associate-adrianna-flores@archive.org", 
+    "updatedate": "2013-09-09 13:38:51", 
+    "uploader": "associate-adrianna-flores@archive.org", 
+    "date": "1876", 
+    "republisher": "associate-saw-thein@archive.org", 
+    "addeddate": "2013-09-09 13:38:53", 
+    "publisher": "Philadelphia, Pa. : Henry A. Dreer", 
+    "publicdate": "2013-09-09 12:33:33", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "imagecount": "104", 
+    "identifier": "dreersgardencale1876henr", 
+    "sponsordate": "20130930", 
+    "unique_id": "CAT31121342", 
+    "scandate": "20130910125246"
+  }, 
+  "d2": "ia801001.us.archive.org", 
+  "files_count": 19, 
+  "d1": "ia601001.us.archive.org"
+}

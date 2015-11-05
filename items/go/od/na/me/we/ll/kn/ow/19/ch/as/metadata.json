@@ -1,0 +1,253 @@
+{
+  "files": [
+    {
+      "sha1": "332bf557c3a3dbd2db47abd36ba115d979e05fb3", 
+      "name": "goodnamewellknow19chas_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1393947060", 
+      "crc32": "ab6a75fd", 
+      "md5": "bce746af8c19425f17edaa2a6bbb03f7", 
+      "size": "1335"
+    }, 
+    {
+      "sha1": "2672b33665d56f78ce3e1f2962e150fefe6d6a1c", 
+      "name": "goodnamewellknow19chas_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1393947060", 
+      "crc32": "e4580dc4", 
+      "md5": "59cee4067de0897d980777cdc4a42aea", 
+      "size": "320"
+    }, 
+    {
+      "sha1": "4af1f59969723874e39502f61a6341ab3ff5f8cb", 
+      "name": "goodnamewellknow19chas_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1393947060", 
+      "crc32": "91f1bf28", 
+      "md5": "d09b2988e08ac65b88272c8bcec75e1c", 
+      "size": "869"
+    }, 
+    {
+      "sha1": "eb8d4f225ee656a7055878af71d436b837c0a68c", 
+      "name": "goodnamewellknow19chas_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1393947060", 
+      "crc32": "2fdf42ab", 
+      "md5": "48f39fe8b4fddbad8735094a105d5956", 
+      "size": "3065"
+    }, 
+    {
+      "sha1": "621ddbabe36f0eca5f0b27c2828401b757e9b4d4", 
+      "name": "goodnamewellknow19chas_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1397239935", 
+      "crc32": "2c21657d", 
+      "md5": "1e17142dd16b92f0ce8d5cfb6f4db15b", 
+      "size": "134328320"
+    }, 
+    {
+      "sha1": "3167b7ef56ea256c0cfd0dfd5fff69a74011dba4", 
+      "name": "goodnamewellknow19chas_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1397239926", 
+      "crc32": "51fc10b8", 
+      "md5": "081d05fdf4c7d64c0c95c271420a6dfd", 
+      "size": "129078"
+    }, 
+    {
+      "sha1": "62fce7bff328ca87480fdc26a2e500519852824e", 
+      "name": "goodnamewellknow19chas_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1397241926", 
+      "crc32": "743ad804", 
+      "md5": "2c773772c176908e2d42990ba94413d4", 
+      "original": "goodnamewellknow19chas_orig_jp2.tar", 
+      "size": "47840151"
+    }, 
+    {
+      "sha1": "531b4a675edf35ed379d7b2fb0198c777e093d49", 
+      "name": "goodnamewellknow19chas_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1397262930", 
+      "crc32": "f8ae342e", 
+      "md5": "818ef846a9f786d2a83649627ce797d4", 
+      "original": "goodnamewellknow19chas_jp2.zip", 
+      "size": "160243"
+    }, 
+    {
+      "sha1": "207e9fec98149f5f19feef29d81b8ba440e4620c", 
+      "name": "goodnamewellknow19chas.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1397263006", 
+      "crc32": "916c3e63", 
+      "md5": "292a7f024914ad5ad070f1a202d542c4", 
+      "original": "goodnamewellknow19chas_abbyy.gz", 
+      "size": "1581090"
+    }, 
+    {
+      "sha1": "c44725f06fb8532e9c2c1f696258a185380c763c", 
+      "name": "goodnamewellknow19chas_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1397262942", 
+      "crc32": "bc8c7fa6", 
+      "md5": "45c4b13dea8088f6ae6afd62f46fe185", 
+      "original": "goodnamewellknow19chas_abbyy.gz", 
+      "size": "135800"
+    }, 
+    {
+      "sha1": "ed23d422b38630bcee0b1e0612b66162842b47c7", 
+      "name": "goodnamewellknow19chas_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1397263524", 
+      "crc32": "54b1d8bf", 
+      "md5": "f55e27a12bf36ceacdb3ed1ccb87f405", 
+      "original": "goodnamewellknow19chas.djvu", 
+      "size": "10958"
+    }, 
+    {
+      "sha1": "678047867db5b99c00dedb0de6a75b004347217c", 
+      "name": "goodnamewellknow19chas.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1397263512", 
+      "crc32": "ed25b3db", 
+      "md5": "bc196784bad218139e64adf2b40308a9", 
+      "original": "goodnamewellknow19chas_djvu.xml", 
+      "size": "8406456"
+    }, 
+    {
+      "sha1": "c44dad192007e2a3d8a9776ab05eb9e663c82a22", 
+      "name": "goodnamewellknow19chas.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1397241942", 
+      "crc32": "d1945024", 
+      "md5": "159916a80c38d39afc2408b94df123fb", 
+      "original": "goodnamewellknow19chas_jp2.zip", 
+      "size": "264758"
+    }, 
+    {
+      "sha1": "97d7b3d4d8e21758b598c59f3cc16e822b4589bb", 
+      "name": "goodnamewellknow19chas.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1397263230", 
+      "crc32": "0a39ee6e", 
+      "md5": "9fdd688d1659bf8590f0eb6af06f661d", 
+      "original": "goodnamewellknow19chas_djvu.xml", 
+      "size": "5920956"
+    }, 
+    {
+      "sha1": "10c4719405577f4044258fe53f1d7ddb382d9595", 
+      "name": "goodnamewellknow19chas_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1418946144", 
+      "crc32": "a51ad554", 
+      "md5": "95c076efb3720bc5d811eecfcff76e95", 
+      "size": "2804"
+    }, 
+    {
+      "sha1": "37af86fe1b9d2ad1ddc3f7344c2040284c927551", 
+      "name": "goodnamewellknow19chas_archive.torrent", 
+      "btih": "765d522a83bbbec36abfcb7ff00ece598b6371aa", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1418946145", 
+      "crc32": "630f4c6f", 
+      "md5": "79829621502e2b34f1c26fc1be7a6045", 
+      "size": "6222"
+    }, 
+    {
+      "source": "original", 
+      "md5": "8627dee9c2c2fde1cb7a0fe73869ee2a", 
+      "name": "goodnamewellknow19chas_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "updated": 1446754889, 
+  "uniq": 777563720, 
+  "created": 1446754888, 
+  "workable_servers": [
+    "ia800302.us.archive.org", 
+    "ia600302.us.archive.org"
+  ], 
+  "server": "ia800302.us.archive.org", 
+  "item_size": 198792425, 
+  "dir": "/15/items/goodnamewellknow19chas", 
+  "metadata": {
+    "partner_shiptracking": "NC14_0081_Lilly_Manifest", 
+    "shiptracking": "ST001134", 
+    "scanner": "scribe2.beltsville.archive.org", 
+    "creator": [
+      "Chas. H. Lilly Co", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G Gilbert Nursery and Seed Trade Catalog Collection", 
+    "ppi": "500", 
+    "subcollection": "henryggilbertnurseryandseedtradecollection", 
+    "nal_call_number": "62.91", 
+    "operator": "associate-saw-thein@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "copyright_message": "The contributing institution believes that this item is not in copyright", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "1", 
+    "scanfee": "100", 
+    "subject": [
+      "Nurseries (Horticulture)\nBrochures", 
+      "Seeds", 
+      "Vegetables"
+    ], 
+    "call_number": "CAT31164357", 
+    "title": "A good name well known : Lilly's", 
+    "repub_state": "4", 
+    "foldout_seconds": "251", 
+    "camera": "Canon EOS 5D Mark II", 
+    "invoice": "3", 
+    "ocr": "ABBYY FineReader 9.0", 
+    "identifier-access": "http://archive.org/details/goodnamewellknow19chas", 
+    "scanningcenter": "beltsville", 
+    "description": "Cover title", 
+    "identifier-ark": "ark:/13960/t0rr4fx5m", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "fedlink", 
+      "americana", 
+      "biodiversity"
+    ], 
+    "volume": "19uu", 
+    "updater": "associate-adrianna-flores@archive.org", 
+    "updatedate": "2014-03-04 15:31:00", 
+    "uploader": "associate-adrianna-flores@archive.org", 
+    "republisher": "associate-marc-adona@archive.org", 
+    "addeddate": "2014-03-04 15:31:02.826952", 
+    "foldout-operator": "associate-marc-adona@archive.org", 
+    "publisher": "Seattle, Wash. : Chas. H. Lilly Co.", 
+    "publicdate": "2014-03-04 14:24:03", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "curation": "[curator]admin-shelia-deroche@archive.org[/curator][date]20140502145441[/date][state]approved[/state][comment]invoice201404[/comment]", 
+    "notes": "No copyright page found. No table-of-contents pages found.", 
+    "imagecount": "82", 
+    "identifier": "goodnamewellknow19chas", 
+    "sponsordate": "20140430", 
+    "unique_id": "CAT31164357", 
+    "scandate": "20140305125211"
+  }, 
+  "d2": "ia800302.us.archive.org", 
+  "files_count": 17, 
+  "d1": "ia600302.us.archive.org"
+}

@@ -1,0 +1,252 @@
+{
+  "files": [
+    {
+      "sha1": "751d047229c7c303a3a37f0da8c888d10a1a678e", 
+      "name": "unset1848wmrp_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1379424984", 
+      "crc32": "aaffa59f", 
+      "md5": "b5d8f7aa10dbe1182f8fef57365bc6b1", 
+      "size": "3725"
+    }, 
+    {
+      "sha1": "51b3e31f251e6462b6695821cbe2e0dd6a2f3f40", 
+      "name": "unset1848wmrp_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1379424984", 
+      "crc32": "825e0f4c", 
+      "md5": "16655c254e6f376e15cdee5d3183e77f", 
+      "size": "311"
+    }, 
+    {
+      "sha1": "d04bf2e8e51d91178c9c265491f699ecadc18596", 
+      "name": "unset1848wmrp_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1379424984", 
+      "crc32": "8765d700", 
+      "md5": "d88765cae1efb5f2f8b5a9333ae4dabc", 
+      "size": "1151"
+    }, 
+    {
+      "sha1": "39c8b4f24d70a66012401a26674f62cdb900a1fe", 
+      "name": "unset1848wmrp_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1379424984", 
+      "crc32": "35be5590", 
+      "md5": "90d71196e54dad6d4bfc28d6b5a23ffd", 
+      "size": "1641"
+    }, 
+    {
+      "sha1": "7029313f4c2c48d9d15667f91f9eec79b687e9dc", 
+      "name": "unset1848wmrp_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1379515043", 
+      "crc32": "b9722916", 
+      "md5": "fffff272ab10aa21b5d0fc0c9fe45a95", 
+      "size": "5212160"
+    }, 
+    {
+      "sha1": "ed878bee8c5307e0ef0373d9baff1ebebe3104aa", 
+      "name": "unset1848wmrp_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1379515043", 
+      "crc32": "a7b859a9", 
+      "md5": "81c9dce66487d7b468b2291b0833d11d", 
+      "size": "10332"
+    }, 
+    {
+      "sha1": "986197a77fac1d0f89cc5fac687141266a284455", 
+      "name": "unset1848wmrp_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1379515199", 
+      "crc32": "078e7036", 
+      "md5": "ab1d104e09334d05059ae527b13ddf9f", 
+      "original": "unset1848wmrp_orig_jp2.tar", 
+      "size": "3524881"
+    }, 
+    {
+      "sha1": "77154e290efef48ceb03d0ca4fe712202996b2cd", 
+      "name": "unset1848wmrp_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1379515565", 
+      "crc32": "96df79de", 
+      "md5": "15ed2f4db449f953d8018a46cf1dc1b0", 
+      "original": "unset1848wmrp_abbyy.gz", 
+      "size": "96206"
+    }, 
+    {
+      "sha1": "26c86f46985441fa52c660e9f7d8496eccf2b23e", 
+      "name": "unset1848wmrp_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1379515556", 
+      "crc32": "be34e0f3", 
+      "md5": "54c75d3477e8a9d697a89d1af9fb1df5", 
+      "original": "unset1848wmrp_jp2.zip", 
+      "size": "146118"
+    }, 
+    {
+      "sha1": "729447f01e710d701a4f301ccd5b9d503fd46781", 
+      "name": "unset1848wmrp.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1379515569", 
+      "crc32": "c4c3476c", 
+      "md5": "f8524dab34328dcd5e943f0915c52207", 
+      "original": "unset1848wmrp_abbyy.gz", 
+      "size": "124691"
+    }, 
+    {
+      "sha1": "9e41ff2a5b60724ad86981cf5cfde85e56a1869e", 
+      "name": "unset1848wmrp.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1379515608", 
+      "crc32": "504a3a72", 
+      "md5": "8eb5c21bb1fceb5a3c3f7033d3ce717e", 
+      "original": "unset1848wmrp_djvu.xml", 
+      "size": "197605"
+    }, 
+    {
+      "sha1": "9b03b83f757f70beb8bf60cfe6516c1dadddc0d5", 
+      "name": "unset1848wmrp_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1379515613", 
+      "crc32": "e0955905", 
+      "md5": "fe9fccae22d4debc5db6536cf0d376f0", 
+      "original": "unset1848wmrp.djvu", 
+      "size": "9454"
+    }, 
+    {
+      "sha1": "3b0f6f65cc32fbba2b3d1c87a3c1fdba8b92c367", 
+      "name": "unset1848wmrp.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1379515586", 
+      "crc32": "88105751", 
+      "md5": "668a373f9a5f99b1d764fa0eb1eb25f9", 
+      "original": "unset1848wmrp_djvu.xml", 
+      "size": "125577"
+    }, 
+    {
+      "sha1": "e2a9c75c580001227e821177def583357b27a307", 
+      "name": "unset1848wmrp.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1379515207", 
+      "crc32": "96f95d4b", 
+      "md5": "f6472fa997210d049479788c591631e1", 
+      "original": "unset1848wmrp_jp2.zip", 
+      "size": "41940"
+    }, 
+    {
+      "sha1": "6919134fb87d0d509885bc2647eeb4c4157a9531", 
+      "name": "unset1848wmrp_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1418949048", 
+      "crc32": "941331db", 
+      "md5": "c1261b565500c9bc01c2e17d523ff436", 
+      "size": "2857"
+    }, 
+    {
+      "sha1": "bf5495e1ec64418feb4e31d66e6750bb592844af", 
+      "name": "unset1848wmrp_archive.torrent", 
+      "btih": "c7eb81388afe62b64b78d73fa7a53a51508d27a9", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1418949048", 
+      "crc32": "e677b410", 
+      "md5": "d1300620735dbacdec34c2e2f67d0ca2", 
+      "size": "3743"
+    }, 
+    {
+      "source": "original", 
+      "md5": "4d1d9f859e9b4f92faa84b3767cb7314", 
+      "name": "unset1848wmrp_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "uniq": 1834032527, 
+  "created": 1446755645, 
+  "workable_servers": [
+    "ia601000.us.archive.org"
+  ], 
+  "server": "ia601000.us.archive.org", 
+  "item_size": 9502392, 
+  "dir": "/2/items/unset1848wmrp", 
+  "metadata": {
+    "shiptracking": "ST000303", 
+    "scanner": "scribe2.beltsville.archive.org", 
+    "creator": [
+      "Wm. R. Prince & Co", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection", 
+    "ppi": "350", 
+    "nal_call_number": "62.61", 
+    "operator": "associate-saw-thein@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "year": "1848", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "subject": [
+      "Nurseries (Horticulture) New York (State) Catalogs", 
+      "Trees Catalogs", 
+      "Nursery stock Catalogs", 
+      "Shrubs Catalogs", 
+      "Fruit Catalogs"
+    ], 
+    "call_number": "CAT31133687", 
+    "title": "Wm. r. prince & co., a Flushing, pres New-York, n.b. les suivantes sont extrait de notre catalogue generale", 
+    "repub_state": "4", 
+    "possible-copyright-status": "The contributing institution believes that this item is not in copyright", 
+    "camera": "Canon EOS 5D Mark II", 
+    "ocr": "ABBYY FineReader 9.0", 
+    "identifier-access": "http://archive.org/details/unset1848wmrp", 
+    "scanningcenter": "beltsville", 
+    "description": [
+      "Caption title", 
+      "Arbres & arbrisseaux d'amerique du nord -- Plantes bulbeuses, tubereuses & vivaces -- Arbres fruitiers, et vignes, des especes americaines les plus recherches -- Graines de jardin"
+    ], 
+    "identifier-ark": "ark:/13960/t0rr3rj6h", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "fedlink", 
+      "americana", 
+      "biodiversity"
+    ], 
+    "volume": "1848", 
+    "repub_seconds": "2633", 
+    "updater": "associate-adrianna-flores@archive.org", 
+    "updatedate": "2013-09-17 13:36:24", 
+    "uploader": "associate-adrianna-flores@archive.org", 
+    "date": "1848", 
+    "republisher": "associate-marc-adona@archive.org", 
+    "addeddate": "2013-09-17 13:36:26.971341", 
+    "publisher": "Flushing, N.Y. : Wm. R. Prince & Co.", 
+    "publicdate": "2013-09-17 12:30:14", 
+    "language": "fre", 
+    "page-progression": "lr", 
+    "notes": "No copyright page found. No table-of-contents pages found.", 
+    "imagecount": "6", 
+    "identifier": "unset1848wmrp", 
+    "sponsordate": "20130930", 
+    "unique_id": "CAT31133687", 
+    "scandate": "20130918134953"
+  }, 
+  "files_count": 17, 
+  "d1": "ia601000.us.archive.org"
+}

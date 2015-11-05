@@ -1,0 +1,255 @@
+{
+  "files": [
+    {
+      "sha1": "204eac242a5f5b27c88304e2f8cd4171a29a1605", 
+      "name": "schwillsseedguid1926otto_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1399304513", 
+      "crc32": "836c7041", 
+      "md5": "1d5fa73609119e798b3cebed64d9afb5", 
+      "size": "1662"
+    }, 
+    {
+      "sha1": "d6ef14794e9f00fd4b468aa58b8f91a9c253478d", 
+      "name": "schwillsseedguid1926otto_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1399304513", 
+      "crc32": "0bcba5cf", 
+      "md5": "a83de411c2cce3f4124d6112f55920b9", 
+      "size": "1281"
+    }, 
+    {
+      "sha1": "f1e784f5d06ce4b5b7c3544c2b9a50911b6d828d", 
+      "name": "schwillsseedguid1926otto_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1399304513", 
+      "crc32": "a20e7baf", 
+      "md5": "cb580e27f4ee3c077b2f57861973472e", 
+      "size": "4553"
+    }, 
+    {
+      "sha1": "9c868ccb0f70cb9b31f4fe5cc25b8da9a4eb8ae3", 
+      "name": "schwillsseedguid1926otto_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1399304513", 
+      "crc32": "6ed8ef2e", 
+      "md5": "193fdb8a53b19a986601b4e992027bff", 
+      "size": "322"
+    }, 
+    {
+      "sha1": "106c99ca9a6f5afd0e4fda4d612f49722f150c75", 
+      "name": "schwillsseedguid1926otto_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1400607970", 
+      "crc32": "8882d526", 
+      "md5": "826f09fd604abc85af34b58583f89d9a", 
+      "size": "159334"
+    }, 
+    {
+      "sha1": "871f4a679ae60fb6ab1723b5c81482bd663b3bfe", 
+      "name": "schwillsseedguid1926otto_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1400607979", 
+      "crc32": "ef58c163", 
+      "md5": "88d5221cb09f3c599effe33d6b9b7eba", 
+      "size": "195645440"
+    }, 
+    {
+      "sha1": "7216ba9271092fa2809b3916f6dd1323d13b9b6c", 
+      "name": "schwillsseedguid1926otto_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1400610717", 
+      "crc32": "47d9e9a0", 
+      "md5": "ed9ae0015123714bcaedb0f50a114713", 
+      "original": "schwillsseedguid1926otto_orig_jp2.tar", 
+      "size": "126346247"
+    }, 
+    {
+      "sha1": "8adeba68b5e28d6c38c27087c17f284e09f83769", 
+      "name": "schwillsseedguid1926otto.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1400610742", 
+      "crc32": "994265e5", 
+      "md5": "64d46e3e5c588986c21ccd7d558cb7ec", 
+      "original": "schwillsseedguid1926otto_jp2.zip", 
+      "size": "265794"
+    }, 
+    {
+      "sha1": "2777d65bb660ff569e943c1b12384744003bc7b2", 
+      "name": "schwillsseedguid1926otto.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1400612191", 
+      "crc32": "e50d0fc7", 
+      "md5": "5be6c3948b9a219adff212276862b0a7", 
+      "original": "schwillsseedguid1926otto_abbyy.gz", 
+      "size": "2108646"
+    }, 
+    {
+      "sha1": "0f3722e2262510d896b89571375832db84090f73", 
+      "name": "schwillsseedguid1926otto_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1400612042", 
+      "crc32": "aa85e9db", 
+      "md5": "b27555519434b33f570327e9331c8bbe", 
+      "original": "schwillsseedguid1926otto_jp2.zip", 
+      "size": "5711881"
+    }, 
+    {
+      "sha1": "89029d728eccd4a88f3f4a6c655d2f617d888ddf", 
+      "name": "schwillsseedguid1926otto.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1400613210", 
+      "crc32": "ed87fb53", 
+      "md5": "b10768da7a943b03b86bf20406af54fe", 
+      "original": "schwillsseedguid1926otto_djvu.xml", 
+      "size": "15774478"
+    }, 
+    {
+      "sha1": "9a1d5b1c9d5a09ee1ece582587feea46c607b95a", 
+      "name": "schwillsseedguid1926otto_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1400612127", 
+      "crc32": "f2d53d2c", 
+      "md5": "c21591d2580687ebffbbd0d07cccf1bf", 
+      "original": "schwillsseedguid1926otto_abbyy.gz", 
+      "size": "3823411"
+    }, 
+    {
+      "sha1": "00f393fd7ab376d644c3c0e8bccb837ee75d59bc", 
+      "name": "schwillsseedguid1926otto.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1400612614", 
+      "crc32": "bf2e3e75", 
+      "md5": "cecd589590d565d99f4d2b715aea2b47", 
+      "original": "schwillsseedguid1926otto_djvu.xml", 
+      "size": "9592562"
+    }, 
+    {
+      "sha1": "d3c4fa39dec3fa7dcd38c7aeff2f3615dbdb068d", 
+      "name": "schwillsseedguid1926otto_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1400613225", 
+      "crc32": "62253c04", 
+      "md5": "143b82a9b20d6f3ce772d8fcfc4baf16", 
+      "original": "schwillsseedguid1926otto.djvu", 
+      "size": "394833"
+    }, 
+    {
+      "sha1": "2ba7b5fc91addcc01a3ccab2a8bbe70e07fc2135", 
+      "name": "schwillsseedguid1926otto_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1418948313", 
+      "crc32": "c0c4ccad", 
+      "md5": "9773ed70ce615e771557f4c67c6d9f78", 
+      "size": "2981"
+    }, 
+    {
+      "sha1": "6f90562a122df00cec2cf2dd70516f52118f18d9", 
+      "name": "schwillsseedguid1926otto_archive.torrent", 
+      "btih": "2076f18abd37022513424fbfa47aadf4cce98c7f", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1418948315", 
+      "crc32": "6e5638bd", 
+      "md5": "501dc32ca1c80599a0be736f77867927", 
+      "size": "10090"
+    }, 
+    {
+      "source": "original", 
+      "md5": "5292243565fd7c19007fd004237612b8", 
+      "name": "schwillsseedguid1926otto_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "uniq": 152110164, 
+  "created": 1446628735, 
+  "workable_servers": [
+    "ia902509.us.archive.org"
+  ], 
+  "server": "ia902509.us.archive.org", 
+  "item_size": 359843515, 
+  "dir": "/28/items/schwillsseedguid1926otto", 
+  "metadata": {
+    "partner_shiptracking": "NC14_0091_Schwill", 
+    "shiptracking": "ST001479", 
+    "scanner": "scribe2.beltsville.archive.org", 
+    "creator": [
+      "Otto Schwill & Company", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection.", 
+    "ppi": "350", 
+    "subcollection": "henryggilbertnurseryandseedtradecollection", 
+    "nal_call_number": "62.81", 
+    "operator": "associate-saw-thein@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "copyright_message": "The contributing institution believes that this item is not in copyright", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "subject": [
+      "Nurseries (Horticulture) Tennessee Memphis Catalogs", 
+      "Nursery stock Tennessee Memphis Catalogs", 
+      "Flowers Tennessee Memphis Catalogs", 
+      "Vegetables Tennessee Memphis Catalogs", 
+      "Fruit Tennessee Memphis Catalogs", 
+      "Gardening Tennessee Memphis Equipment and supp"
+    ], 
+    "call_number": "CAT31277067", 
+    "title": "Schwill's seed guide", 
+    "repub_state": "4", 
+    "camera": "Canon EOS 5D Mark II", 
+    "invoice": "3", 
+    "ocr": "ABBYY FineReader 9.0", 
+    "identifier-access": "http://archive.org/details/schwillsseedguid1926otto", 
+    "scanningcenter": "beltsville", 
+    "description": [
+      "Cover title", 
+      "Includes index"
+    ], 
+    "identifier-ark": "ark:/13960/t42r6gk75", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "fedlink", 
+      "americana", 
+      "biodiversity"
+    ], 
+    "volume": "1926", 
+    "repub_seconds": "1034452", 
+    "updater": "associate-adrianna-flores@archive.org", 
+    "updatedate": "2014-05-05 15:41:53", 
+    "uploader": "associate-adrianna-flores@archive.org", 
+    "date": "1926", 
+    "republisher": "associate-saw-thein@archive.org", 
+    "addeddate": "2014-05-05 15:41:55.481186", 
+    "publisher": "Memphis, Tenn. : Otto Schwill & Company", 
+    "publicdate": "2014-05-05 14:43:44", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "curation": "[curator]admin-shelia-deroche@archive.org[/curator][date]20140806144503[/date][state]approved[/state][comment]invoice201407[/comment]", 
+    "imagecount": "100", 
+    "identifier": "schwillsseedguid1926otto", 
+    "sponsordate": "20140731", 
+    "unique_id": "CAT31277067", 
+    "scandate": "20140506125136"
+  }, 
+  "files_count": 17, 
+  "d1": "ia902509.us.archive.org"
+}

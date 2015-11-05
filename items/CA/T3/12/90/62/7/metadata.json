@@ -1,0 +1,291 @@
+{
+  "files": [
+    {
+      "sha1": "12d504bcb16ac2893c3197d2e2615033125be46f", 
+      "name": "CAT31290627_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1432905264", 
+      "crc32": "cb4de621", 
+      "md5": "8347f80a2c9a789ffaf3927f5c0cdfbc", 
+      "size": "3542"
+    }, 
+    {
+      "sha1": "94423518cdeb675663a3f15457f71f51871765ce", 
+      "name": "CAT31290627_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1432905264", 
+      "crc32": "fd482242", 
+      "md5": "bf142324b75001f0fd2893f5003abd50", 
+      "size": "1012"
+    }, 
+    {
+      "sha1": "3e7d39c86637cf63330b837d66fdcd26f69e745b", 
+      "name": "CAT31290627_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1432905264", 
+      "crc32": "343a9df6", 
+      "md5": "bb2acaa065921c01c4cf02fd7cca8103", 
+      "size": "307"
+    }, 
+    {
+      "sha1": "37aa9fbea36c3a3a4ddd04061eba9f22ce3d6d94", 
+      "name": "CAT31290627_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1432905264", 
+      "crc32": "7992b34a", 
+      "md5": "75ba1a6337bdf29f959c3dd74cefb95b", 
+      "size": "1353"
+    }, 
+    {
+      "sha1": "1aed497ba380928939103eea1c91c57838edb385", 
+      "name": "CAT31290627_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1433337050", 
+      "crc32": "5ef17bfa", 
+      "md5": "23cc3ae2aab1164233ff61e754e809f3", 
+      "size": "55709"
+    }, 
+    {
+      "sha1": "d5648917c0e31669ab451ba1f95f01b0e101ea22", 
+      "name": "CAT31290627_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1433337050", 
+      "crc32": "3d8ff67b", 
+      "md5": "ad7d91095eb4a048b0063cafeb058ad5", 
+      "size": "60385280"
+    }, 
+    {
+      "sha1": "bfeefb615ea72be8dd52e25a42d8acbfbe98866f", 
+      "name": "CAT31290627_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1433339822", 
+      "crc32": "a22c399e", 
+      "md5": "12ede8b98452360477b1d28527310eee", 
+      "original": "CAT31290627_jp2.zip", 
+      "size": "1463135"
+    }, 
+    {
+      "sha1": "59ad8c1f8a4e9087e85af39d1b807d5adefd26db", 
+      "name": "CAT31290627_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1433339850", 
+      "crc32": "c5a856ab", 
+      "md5": "ffb436df45e5f50771ed2f9a31d635ea", 
+      "original": "CAT31290627_abbyy.gz", 
+      "size": "931810"
+    }, 
+    {
+      "sha1": "3086812deda3d616b666a2b14758cae9ff2c3179", 
+      "name": "CAT31290627_bw.pdf", 
+      "format": "Grayscale LuraTech PDF", 
+      "source": "derivative", 
+      "mtime": "1433340823", 
+      "crc32": "440b8fad", 
+      "md5": "89044b889ebb8fb71764097e00ab4a15", 
+      "original": "CAT31290627_djvu.xml", 
+      "size": "10301702"
+    }, 
+    {
+      "sha1": "e83e16b2bffb56473625ce755a8c17f9826f3926", 
+      "name": "CAT31290627.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1433338029", 
+      "crc32": "f1fa32df", 
+      "md5": "36a83e3b5338bd7c0b0a17a1e47ffe77", 
+      "original": "CAT31290627_jp2.zip", 
+      "size": "357449"
+    }, 
+    {
+      "sha1": "9d97205f04d197087aba399d48f43ef7265c29e2", 
+      "name": "CAT31290627.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1433340386", 
+      "crc32": "f6cc14c3", 
+      "md5": "7126144e072e60b1e38ea0365b1306e8", 
+      "original": "CAT31290627_djvu.xml", 
+      "size": "10446616"
+    }, 
+    {
+      "sha1": "681b05060a93fb9999b56dffa0ccac54814d6e0f", 
+      "name": "CAT31290627.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1433339860", 
+      "crc32": "c5eebab2", 
+      "md5": "e6daa0e3d98c55d9489f64eab9c3e039", 
+      "original": "CAT31290627_abbyy.gz", 
+      "size": "51937"
+    }, 
+    {
+      "sha1": "bc831ce609539097e36157fbd57976307fab4c3a", 
+      "name": "CAT31290627.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1433340084", 
+      "crc32": "ebc4dc5a", 
+      "md5": "d75e6cc8b13dc27722120cb23fa02f09", 
+      "original": "CAT31290627_djvu.xml", 
+      "size": "7227242"
+    }, 
+    {
+      "sha1": "6545d1d3d1bf8fe2e31c1a8774202bd9a131bc62", 
+      "name": "CAT31290627_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1433338007", 
+      "crc32": "506d133f", 
+      "md5": "becd67466928b89266e57ec918919ce2", 
+      "original": "CAT31290627_orig_jp2.tar", 
+      "size": "52305173"
+    }, 
+    {
+      "sha1": "2f2ef61515d9e2b752fbfeda55d21c7dcdcb3943", 
+      "name": "CAT31290627_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1433340836", 
+      "crc32": "d42a43a1", 
+      "md5": "1216bf16797cf6aca89c6f33d8c31875", 
+      "original": "CAT31290627.djvu", 
+      "size": "97960"
+    }, 
+    {
+      "sha1": "a11c4fbc3d448c25f86ae7c71b0d14aa53469ca8", 
+      "name": "CAT31290627_bhlmets.xml", 
+      "format": "Biodiversity Heritage Library METS", 
+      "source": "original", 
+      "mtime": "1433749126", 
+      "crc32": "1c254b32", 
+      "md5": "0e6deff527122eb87de361e45caa2046", 
+      "size": "20665"
+    }, 
+    {
+      "sha1": "3a5e3f05c3f27dac8a3be3c0aef921514812fb58", 
+      "name": "CAT31290627_names.xml", 
+      "format": "Name Metadata", 
+      "source": "original", 
+      "mtime": "1434008023", 
+      "crc32": "99186048", 
+      "md5": "1b66e03b8c36ef20798da2f9a7e18e29", 
+      "size": "16748"
+    }, 
+    {
+      "sha1": "45da2ae4495a2843c07b1d0c993843f73a28fb12", 
+      "name": "CAT31290627_meta.sqlite", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1434008026", 
+      "crc32": "b3fd1775", 
+      "md5": "8e22d08978d5b3abeb7f278d21e4e6d4", 
+      "size": "6144"
+    }, 
+    {
+      "sha1": "3ecdd7e2c10b417db199779f4832652a0732e079", 
+      "name": "CAT31290627_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1435773969", 
+      "crc32": "e602d6ff", 
+      "md5": "05eba9812139351220562a2293406517", 
+      "size": "2795"
+    }, 
+    {
+      "sha1": "58de79f5ba6a93af68a040ffe528787c702a9475", 
+      "name": "CAT31290627_archive.torrent", 
+      "btih": "d09ba96931ba481ee7a9557ea162e29a53ba82c8", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1435773971", 
+      "crc32": "0a4de87d", 
+      "md5": "7ec1c4116b6fdf55d931965c10d2b2df", 
+      "size": "7415"
+    }, 
+    {
+      "source": "original", 
+      "md5": "7ffb4bfd2f740c8cee34b39ad5fa4422", 
+      "name": "CAT31290627_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "uniq": 1435688271, 
+  "created": 1446601963, 
+  "workable_servers": [
+    "ia601308.us.archive.org"
+  ], 
+  "server": "ia601308.us.archive.org", 
+  "item_size": 143683994, 
+  "dir": "/18/items/CAT31290627", 
+  "metadata": {
+    "partner_shiptracking": "NC15_1910_D", 
+    "shiptracking": "ST003759", 
+    "scanner": "scribe1.beltsville.archive.org", 
+    "creator": [
+      "Deposit Seed Company (Deposit, N.Y.)", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection", 
+    "ppi": "500", 
+    "subcollection": "henryggilbertnurseryandseedtradecollection", 
+    "nal_call_number": "62.61 1910", 
+    "operator": "associate-mark-kanaskie@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "copyright_message": "The contributing institution believes that this item is not in copyright.", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "subject": [
+      "Nursery stock New York (State) Deposit Catalogs", 
+      "Vegetables Seeds Catalogs", 
+      "Plants, Ornamental Catalogs", 
+      "Flowers Seeds Catalogs"
+    ], 
+    "title": "The best in flower and vegetable seeds", 
+    "repub_state": "4", 
+    "camera": "Canon EOS 5D Mark II", 
+    "invoice": "3", 
+    "ocr": "ABBYY FineReader 9.0", 
+    "identifier-access": "http://archive.org/details/CAT31290627", 
+    "scanningcenter": "beltsville", 
+    "description": "Cover title", 
+    "identifier-ark": "ark:/13960/t5gb5kh0m", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "biodiversity", 
+      "fedlink", 
+      "americana"
+    ], 
+    "volume": "1910", 
+    "repub_seconds": "429", 
+    "updater": "associate-manuel-dennis@archive.org", 
+    "updatedate": "2015-05-29 13:14:24", 
+    "uploader": "associate-manuel-dennis@archive.org", 
+    "date": "1910", 
+    "republisher": "associate-marc-adona@archive.org", 
+    "addeddate": "2015-05-29 13:14:26.951496", 
+    "publisher": "Deposit, N.Y. : Deposit Seed Co.", 
+    "publicdate": "2015-05-29 12:20:07", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "curation": "[curator]admin-shelia-deroche@archive.org[/curator][date]20150701135303[/date][state]approved[/state][comment]invoice201506[/comment]", 
+    "notes": "No copyright page found. No table-of-contents pages found.", 
+    "imagecount": "36", 
+    "identifier": "CAT31290627", 
+    "sponsordate": "20150630", 
+    "unique_id": "CAT31290627", 
+    "scandate": "20150601125140"
+  }, 
+  "files_count": 21, 
+  "d1": "ia601308.us.archive.org"
+}

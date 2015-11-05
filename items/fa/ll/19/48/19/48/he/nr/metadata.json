@@ -1,0 +1,268 @@
+{
+  "files": [
+    {
+      "sha1": "1fda424fcc3e6ac884895a2b8b3f9bc94a3de5a5", 
+      "name": "fall19481948henr_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1378909312", 
+      "crc32": "d0d27479", 
+      "md5": "50d6625f7d73473a307f6118009604f5", 
+      "size": "3710"
+    }, 
+    {
+      "sha1": "3e2166bb5949e4eff39254caae21eda6006d589e", 
+      "name": "fall19481948henr_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1378909312", 
+      "crc32": "947c3add", 
+      "md5": "669298ff8a2df073ed6d7bb7b9ef7ee8", 
+      "size": "314"
+    }, 
+    {
+      "sha1": "fa8664054201e3c0377115e240a653e7e624fa56", 
+      "name": "fall19481948henr_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1378909312", 
+      "crc32": "4e13c714", 
+      "md5": "e4e1b55613c0fe3e217d73e8d29c803b", 
+      "size": "1058"
+    }, 
+    {
+      "sha1": "8cafc3eea775553b8fc08e411f6553cf7b5c2654", 
+      "name": "fall19481948henr_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1378909312", 
+      "crc32": "7c5f8904", 
+      "md5": "6ced657658502f7eb4f84341e1edd105", 
+      "size": "1395"
+    }, 
+    {
+      "sha1": "083f29c7f368d24b11db9f99322bcf308c3c2037", 
+      "name": "fall19481948henr_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1379354442", 
+      "crc32": "b898fda2", 
+      "md5": "7a2d2bbec957741f484a971f273f6b7d", 
+      "size": "90040320"
+    }, 
+    {
+      "sha1": "04ea78f945f87e9f09745e56b04c2fa6f0e936ef", 
+      "name": "fall19481948henr_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1379354440", 
+      "crc32": "e1e7f7a9", 
+      "md5": "47670036cbd4b5f7d2180f9122dc4092", 
+      "size": "65193"
+    }, 
+    {
+      "sha1": "07dcfac36df8bb274829cc8ceb7d040acd1098a5", 
+      "name": "fall19481948henr_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1379355610", 
+      "crc32": "d3fcdac1", 
+      "md5": "a3222f3ea70562f81dab3cdc5de79d07", 
+      "original": "fall19481948henr_orig_jp2.tar", 
+      "size": "42200090"
+    }, 
+    {
+      "sha1": "5d0073247caa9e16fe8e8e4c94cfebc04cad4720", 
+      "name": "fall19481948henr_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1379359970", 
+      "crc32": "aa3a2f5f", 
+      "md5": "aa326aa9c063b350b61cd20d920d02ce", 
+      "original": "fall19481948henr_jp2.zip", 
+      "size": "2237189"
+    }, 
+    {
+      "sha1": "256bb5918842b3c0d248687877c486ff2d2244c1", 
+      "name": "fall19481948henr.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1379360425", 
+      "crc32": "5ef8d5cc", 
+      "md5": "4deb1d2fe33590a5a177e874ada6c27a", 
+      "original": "fall19481948henr_djvu.xml", 
+      "size": "5825925"
+    }, 
+    {
+      "sha1": "c8dc5e55ad538701a2ff50ba39196568c8044ef8", 
+      "name": "fall19481948henr.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1379355627", 
+      "crc32": "8656d9f2", 
+      "md5": "dc27b52ffa457004753faf8412b2c91d", 
+      "original": "fall19481948henr_jp2.zip", 
+      "size": "329496"
+    }, 
+    {
+      "sha1": "2f8ecd0ed645ed069cc00332864edceb76222c65", 
+      "name": "fall19481948henr_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1379360434", 
+      "crc32": "12a57270", 
+      "md5": "eba0e5cf1e32aa7c633c76827326e927", 
+      "original": "fall19481948henr.djvu", 
+      "size": "143948"
+    }, 
+    {
+      "sha1": "db1ab544232a6e96ecd069b80d6cb94ba4cbe940", 
+      "name": "fall19481948henr_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1379360009", 
+      "crc32": "19ac2e7e", 
+      "md5": "041b3b514eff16ef27cefa103810b1a7", 
+      "original": "fall19481948henr_abbyy.gz", 
+      "size": "1336400"
+    }, 
+    {
+      "sha1": "7180aa0a7c0536d1b9482cc7a9a80f3c96b31550", 
+      "name": "fall19481948henr.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1379360202", 
+      "crc32": "c6dafd71", 
+      "md5": "1be7fd650bb4cd8f013dcce94a8c79eb", 
+      "original": "fall19481948henr_djvu.xml", 
+      "size": "3765592"
+    }, 
+    {
+      "sha1": "faecfaf6a8c6e49d1ffc48fe9eb859728cb81811", 
+      "name": "fall19481948henr.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1379360038", 
+      "crc32": "cba1bd0c", 
+      "md5": "748577496de23552a592267c7ee9a7e1", 
+      "original": "fall19481948henr_abbyy.gz", 
+      "size": "1004997"
+    }, 
+    {
+      "sha1": "c480e980236ac28b9eedf165ac72db920d35f5bd", 
+      "name": "fall19481948henr_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1418947251", 
+      "crc32": "d407ad4c", 
+      "md5": "0ddfb15211eeeb1084fbee13368c3a3b", 
+      "size": "2537"
+    }, 
+    {
+      "sha1": "aeb810ef512224ce4c162ea6f187362e76961d67", 
+      "name": "fall19481948henr_meta.sqlite", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1420970598", 
+      "crc32": "cbfbd80d", 
+      "md5": "378695d4216ef1d1273761894d4f98cc", 
+      "size": "6144"
+    }, 
+    {
+      "sha1": "7ca9a6e6322b0404acee94a6af9ff0154bf50ddc", 
+      "name": "fall19481948henr_bhlmets.xml", 
+      "format": "Biodiversity Heritage Library METS", 
+      "source": "original", 
+      "mtime": "1420970576", 
+      "crc32": "0e5fd279", 
+      "md5": "fae881ca285a84b6cb9877be15c7ec21", 
+      "size": "23595"
+    }, 
+    {
+      "sha1": "d914bd04f797792035c4ba4a72b94008bb7f279c", 
+      "name": "fall19481948henr_archive.torrent", 
+      "btih": "b6718a889d9e9fb721f1b20ad41e869e99b83a5d", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1420970609", 
+      "crc32": "4721ca7f", 
+      "md5": "41ebba39d6487c5dc74fc9734b0a425e", 
+      "size": "6185"
+    }, 
+    {
+      "source": "original", 
+      "md5": "25c147167063fc9c7cf76229df32b45f", 
+      "name": "fall19481948henr_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "uniq": 309377432, 
+  "created": 1446752539, 
+  "workable_servers": [
+    "ia601904.us.archive.org"
+  ], 
+  "server": "ia601904.us.archive.org", 
+  "item_size": 146994088, 
+  "dir": "/17/items/fall19481948henr", 
+  "metadata": {
+    "shiptracking": "ST000276", 
+    "scanner": "scribe1.beltsville.archive.org", 
+    "creator": [
+      "Henry A. Dreer (Firm)", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection", 
+    "ppi": "350", 
+    "nal_call_number": "62.73", 
+    "operator": "associate-lian-kam@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "subject": [
+      "Bulbs (Plants) Catalogs", 
+      "Flowers Seeds Catalogs", 
+      "Gardening Equipment and supplies Catalogs", 
+      "Nurseries (Horticulture) Catalogs", 
+      "Vegetables Seeds Catalogs"
+    ], 
+    "call_number": "CAT31122857", 
+    "title": "Fall 1948", 
+    "repub_state": "4", 
+    "possible-copyright-status": "The contributing institution believes that this item is not in copyright", 
+    "camera": "Canon EOS 5D Mark II", 
+    "ocr": "ABBYY FineReader 8.0", 
+    "identifier-access": "http://archive.org/details/fall19481948henr", 
+    "scanningcenter": "beltsville", 
+    "description": "Cover title", 
+    "identifier-ark": "ark:/13960/t16m54w5r", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "fedlink", 
+      "americana", 
+      "biodiversity"
+    ], 
+    "volume": "1948", 
+    "repub_seconds": "5025", 
+    "updater": "associate-adrianna-flores@archive.org", 
+    "updatedate": "2013-09-11 14:21:52", 
+    "uploader": "associate-adrianna-flores@archive.org", 
+    "date": "1948", 
+    "republisher": "associate-marc-adona@archive.org", 
+    "addeddate": "2013-09-11 14:21:54", 
+    "publisher": "Philadelphia, Pa. : Henry A. Dreer", 
+    "publicdate": "2013-09-11 13:27:08", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "notes": "No copyright page found. No table-of-contents pages found.", 
+    "imagecount": "40", 
+    "identifier": "fall19481948henr", 
+    "sponsordate": "20130930", 
+    "unique_id": "CAT31122857", 
+    "scandate": "20130916142347"
+  }, 
+  "files_count": 19, 
+  "d1": "ia601904.us.archive.org"
+}

@@ -1,0 +1,291 @@
+{
+  "files": [
+    {
+      "sha1": "0e774c410e3ee0077782d7e69b544c906e8005a9", 
+      "name": "CAT31294489_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1439399690", 
+      "crc32": "c21fa030", 
+      "md5": "72ebef8472fe0dab00c5073c38d4aefa", 
+      "size": "998"
+    }, 
+    {
+      "sha1": "0d3b4ddab10ccee19fd0e813d8c831d8cca5a3b2", 
+      "name": "CAT31294489_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1439399690", 
+      "crc32": "6a9e23ec", 
+      "md5": "d2abd9fbc6494f24fab9b87143d79384", 
+      "size": "1366"
+    }, 
+    {
+      "sha1": "cbee74ce36ffc74710c47c4cd396a4a53b662831", 
+      "name": "CAT31294489_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1439399690", 
+      "crc32": "fd60bb8c", 
+      "md5": "aabb81fc4f1a508571762acd52fb375a", 
+      "size": "307"
+    }, 
+    {
+      "sha1": "99b229a27b0c48a065231d63d90c08935f23ce5a", 
+      "name": "CAT31294489_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1439399690", 
+      "crc32": "27e5c010", 
+      "md5": "723c900e782761afa0814fc798171a93", 
+      "size": "3533"
+    }, 
+    {
+      "sha1": "4a6ccd901cbda2226d93c2bb00b5d37f6cb6832d", 
+      "name": "CAT31294489_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1440156192", 
+      "crc32": "a7f55282", 
+      "md5": "327851c04aa62e5e47f435868b600783", 
+      "size": "18941"
+    }, 
+    {
+      "sha1": "235dc1584e52f2670a3904d5b843287cdc1152cd", 
+      "name": "CAT31294489_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1440156192", 
+      "crc32": "83c52787", 
+      "md5": "947c4a86be06e1de71ab1996ac62df3d", 
+      "size": "11028480"
+    }, 
+    {
+      "sha1": "a677094e9425d7b8435c472e79a6d38f773a2832", 
+      "name": "CAT31294489_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1440156513", 
+      "crc32": "20b16d7b", 
+      "md5": "b9cb2b60498a8e44470d0da4a81b00d4", 
+      "original": "CAT31294489_jp2.zip", 
+      "size": "135245"
+    }, 
+    {
+      "sha1": "ee166a27fe49b9bf4daeee3e9cdb787737d5cd05", 
+      "name": "CAT31294489.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1440156778", 
+      "crc32": "43c9a083", 
+      "md5": "a1a1e58b5f1eb29c799c8fae1443b288", 
+      "original": "CAT31294489_djvu.xml", 
+      "size": "613251"
+    }, 
+    {
+      "sha1": "11719c00f68b2276fc5467d19e9c62c2b1b83ce5", 
+      "name": "CAT31294489.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1440156538", 
+      "crc32": "432a4318", 
+      "md5": "70f48ce7eeb688abae6174931f3687ed", 
+      "original": "CAT31294489_abbyy.gz", 
+      "size": "8397"
+    }, 
+    {
+      "sha1": "ced49c57af1626a6236ba6903220828b6431ece1", 
+      "name": "CAT31294489.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1440156464", 
+      "crc32": "125a85f7", 
+      "md5": "560c564bcd3f767370d33ec6ae4d5283", 
+      "original": "CAT31294489_jp2.zip", 
+      "size": "101181"
+    }, 
+    {
+      "sha1": "ffe88b382eaab3dbc8e82caf83d61ae28cd1b876", 
+      "name": "CAT31294489.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1440156605", 
+      "crc32": "d4c2cd17", 
+      "md5": "1e516ee7529a4c377fc6e0c5ef5415a5", 
+      "original": "CAT31294489_djvu.xml", 
+      "size": "362195"
+    }, 
+    {
+      "sha1": "f46f4f7c16dd54f854673d2ba61d59899bd38f75", 
+      "name": "CAT31294489_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1440156531", 
+      "crc32": "17f31c9e", 
+      "md5": "fce9a71722167e404fe446f56ef1a212", 
+      "original": "CAT31294489_abbyy.gz", 
+      "size": "85633"
+    }, 
+    {
+      "sha1": "bbfb1ddb3602a9138abf0e01ad268ba2aed4207a", 
+      "name": "CAT31294489_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1440156452", 
+      "crc32": "a04dfbcc", 
+      "md5": "e0d25560b0e744ee15d243881644ae37", 
+      "original": "CAT31294489_orig_jp2.tar", 
+      "size": "6774259"
+    }, 
+    {
+      "sha1": "360e2d95abc1d59eb5a1eb36dcf0849626ecc07a", 
+      "name": "CAT31294489_bw.pdf", 
+      "format": "Grayscale LuraTech PDF", 
+      "source": "derivative", 
+      "mtime": "1440156875", 
+      "crc32": "ad6956be", 
+      "md5": "f6e68abe9a603aa850a94cb25c9ec370", 
+      "original": "CAT31294489_djvu.xml", 
+      "size": "608693"
+    }, 
+    {
+      "sha1": "accb93cc941698c7337d98f782174ebe14d7acef", 
+      "name": "CAT31294489_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1440156886", 
+      "crc32": "dad300d8", 
+      "md5": "02dcf440fcc4fd7aa1eda4f97e3aaa9b", 
+      "original": "CAT31294489.djvu", 
+      "size": "9083"
+    }, 
+    {
+      "sha1": "99c7256bcf25ce496f9984a88c7788df30cf8a3f", 
+      "name": "CAT31294489_bhlmets.xml", 
+      "format": "Biodiversity Heritage Library METS", 
+      "source": "original", 
+      "mtime": "1440402010", 
+      "crc32": "d654f8ad", 
+      "md5": "c8c6cf9bfec201b3ca4dbdf86abce98a", 
+      "size": "8320"
+    }, 
+    {
+      "sha1": "671142c45682b080ebf65cd2b2d4587530fdfadc", 
+      "name": "CAT31294489_meta.sqlite", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1440488460", 
+      "crc32": "c4a20679", 
+      "md5": "53373f48669c488f99df2f008041d213", 
+      "size": "6144"
+    }, 
+    {
+      "sha1": "abc9f23caba524def3c54d880cff559d39fe1ce1", 
+      "name": "CAT31294489_names.xml", 
+      "format": "Name Metadata", 
+      "source": "original", 
+      "mtime": "1440488456", 
+      "crc32": "9efa62b7", 
+      "md5": "9c4e290bb7a511c79d5e9eecc507b21e", 
+      "size": "3214"
+    }, 
+    {
+      "sha1": "7c7b8d276a8ac233e0be1c26fb54464912939faa", 
+      "name": "CAT31294489_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1444177842", 
+      "crc32": "bf605c39", 
+      "md5": "899dc739621a4d5e5c29b7669e4c60ee", 
+      "size": "2775"
+    }, 
+    {
+      "sha1": "9926dc878e95d208850de5389570ad228f0ce6cc", 
+      "name": "CAT31294489_archive.torrent", 
+      "btih": "18ec5236c7a11d10ee66969de401a66e242d35ce", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1444177844", 
+      "crc32": "c73dab65", 
+      "md5": "532825bfdeaab15d6d833326ab2d9c2d", 
+      "size": "4563"
+    }, 
+    {
+      "source": "original", 
+      "md5": "3323fffaae91f54f55073c41675fb7dc", 
+      "name": "CAT31294489_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "uniq": 1266461324, 
+  "created": 1446753046, 
+  "workable_servers": [
+    "ia601504.us.archive.org"
+  ], 
+  "server": "ia601504.us.archive.org", 
+  "item_size": 19776578, 
+  "dir": "/30/items/CAT31294489", 
+  "metadata": {
+    "partner_shiptracking": "NC15_1913_Wo-Z", 
+    "shiptracking": "ST004184", 
+    "scanner": "scribe1.beltsville.archive.org", 
+    "creator": [
+      "Ant. C. Zvolanek (Firm)", 
+      "Zvolanek, Ant. C", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection", 
+    "ppi": "500", 
+    "subcollection": "henryggilbertnurseryandseedtradecollection", 
+    "nal_call_number": "62.09", 
+    "operator": "associate-mark-kanaskie@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "copyright_message": "The contributing institution believes that this item is not in copyright.", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "subject": [
+      "Nursery stock California Lompoc Catalogs", 
+      "Sweet peas Catalogs", 
+      "Flowers Seeds Catalogs"
+    ], 
+    "title": "Price list : Zvolanek's winter flowering sweet pea seed", 
+    "repub_state": "4", 
+    "camera": "Canon EOS 5D Mark II", 
+    "invoice": "3", 
+    "ocr": "ABBYY FineReader 9.0", 
+    "identifier-access": "http://archive.org/details/CAT31294489", 
+    "scanningcenter": "beltsville", 
+    "description": "Cover title", 
+    "identifier-ark": "ark:/13960/t62557n8z", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "biodiversity", 
+      "fedlink", 
+      "americana"
+    ], 
+    "volume": "1913", 
+    "repub_seconds": "69", 
+    "updater": "associate-manuel-dennis@archive.org", 
+    "updatedate": "2015-08-12 17:14:50", 
+    "uploader": "associate-manuel-dennis@archive.org", 
+    "date": "1913", 
+    "republisher": "associate-john-leonard@archive.org", 
+    "addeddate": "2015-08-12 17:14:52.755526", 
+    "publisher": "Lompoc, Calif. : Ant. C. Zvolanek", 
+    "publicdate": "2015-08-12 16:13:34", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "curation": "[curator]admin-shelia-deroche@archive.org[/curator][date]20151002134359[/date][state]approved[/state][comment]invoice201509[/comment]", 
+    "notes": "No copyright page found. No table-of-contents pages found.", 
+    "imagecount": "12", 
+    "identifier": "CAT31294489", 
+    "sponsordate": "20150930", 
+    "unique_id": "CAT31294489", 
+    "scandate": "20150818151859"
+  }, 
+  "files_count": 21, 
+  "d1": "ia601504.us.archive.org"
+}

@@ -1,0 +1,259 @@
+{
+  "files": [
+    {
+      "sha1": "9a9676f6c6d825b151a56af09f15462e6dda385d", 
+      "name": "CAT31282446_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1409751551", 
+      "crc32": "83827259", 
+      "md5": "559d74d2605c3c08272a3d27db941d10", 
+      "size": "3752"
+    }, 
+    {
+      "sha1": "a57d727bbe3ef653a013a4ca0cdb18f5f9dc7060", 
+      "name": "CAT31282446_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1409751551", 
+      "crc32": "2b2e324e", 
+      "md5": "1188ac79239d9a7617c42530a520208c", 
+      "size": "307"
+    }, 
+    {
+      "sha1": "6f2d367814db5485a6f3543befa4cbc48b51b003", 
+      "name": "CAT31282446_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1409751551", 
+      "crc32": "f6641091", 
+      "md5": "56545093ba2a7b1c5fdff91c53cfd2a5", 
+      "size": "1519"
+    }, 
+    {
+      "sha1": "1db0eada8eaf510dc88e586384e9da3a69007fbc", 
+      "name": "CAT31282446_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1409751551", 
+      "crc32": "e512ac35", 
+      "md5": "6a66fcf9ab69fba7d20f247596681065", 
+      "size": "1077"
+    }, 
+    {
+      "sha1": "568205fc483609a75c795a144b9e4082b96a2997", 
+      "name": "CAT31282446_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1410264009", 
+      "crc32": "13c671ff", 
+      "md5": "ead059df1d1259a7c558a6018855d93f", 
+      "size": "89128960"
+    }, 
+    {
+      "sha1": "3adb42688fed59b81b40e9383a9bfa1133c71d2a", 
+      "name": "CAT31282446_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1410264007", 
+      "crc32": "9751de16", 
+      "md5": "d6e1fdba6aadbfa3b20eb997f2678843", 
+      "size": "126313"
+    }, 
+    {
+      "sha1": "0d2467c8c398f4afe4b122d977485cd9a75a1bd3", 
+      "name": "CAT31282446_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1410268123", 
+      "crc32": "0ccf8cf6", 
+      "md5": "b6b6ca0e91bb0475e00e2264f559820d", 
+      "original": "CAT31282446_jp2.zip", 
+      "size": "3813710"
+    }, 
+    {
+      "sha1": "ff7fb1aace66164dba4c498fdd0dbe6b7af9dcc7", 
+      "name": "CAT31282446_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1410268218", 
+      "crc32": "e5086c1b", 
+      "md5": "91a2d341c8d2b6a195c9ceb7ea70f3b1", 
+      "original": "CAT31282446_abbyy.gz", 
+      "size": "2452713"
+    }, 
+    {
+      "sha1": "41facbd18df4d8f68377c5f0f459ef221bead734", 
+      "name": "CAT31282446.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1410268871", 
+      "crc32": "b2034a26", 
+      "md5": "e74b10f27ad938b8254352a132332f8a", 
+      "original": "CAT31282446_djvu.xml", 
+      "size": "7151380"
+    }, 
+    {
+      "sha1": "894a129cc5e8e14c9be44512fcf6e54cef36ffd9", 
+      "name": "CAT31282446_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1410266417", 
+      "crc32": "e9542f26", 
+      "md5": "cf88bdbe7aedd4e5f1def26901390ab3", 
+      "original": "CAT31282446_orig_jp2.tar", 
+      "size": "70672722"
+    }, 
+    {
+      "sha1": "a75929100089b73a097a19f1025c519bcff1cdea", 
+      "name": "CAT31282446.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1410268290", 
+      "crc32": "08390769", 
+      "md5": "9614105e78a2a20994e7b8fd1dab0ab3", 
+      "original": "CAT31282446_abbyy.gz", 
+      "size": "1215702"
+    }, 
+    {
+      "sha1": "50d08cf28cfae1da64d7f44eea5d1edb41a728ef", 
+      "name": "CAT31282446.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1410269609", 
+      "crc32": "51d4b3f1", 
+      "md5": "909a02087f4ef3ffa4c4c6a1d30b6703", 
+      "original": "CAT31282446_djvu.xml", 
+      "size": "11009384"
+    }, 
+    {
+      "sha1": "1f637b298860c02db4403662015fb78bf1774892", 
+      "name": "CAT31282446_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1410269627", 
+      "crc32": "966f4e15", 
+      "md5": "62de40ec03b460d93e4d005ad221c040", 
+      "original": "CAT31282446.djvu", 
+      "size": "255665"
+    }, 
+    {
+      "sha1": "85900f1590665e39f363380debc6d08fc5c56df5", 
+      "name": "CAT31282446.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1410266474", 
+      "crc32": "6b5df1f6", 
+      "md5": "a8b9959f4e301ae1ed8a2e592ba6baee", 
+      "original": "CAT31282446_jp2.zip", 
+      "size": "309824"
+    }, 
+    {
+      "sha1": "8968d973821cbd04a221a981b2a01c9d026ca6b7", 
+      "name": "CAT31282446_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1418948288", 
+      "crc32": "50d3e344", 
+      "md5": "cd3b4a98f6e0f8106fea3643f22a414e", 
+      "size": "3038"
+    }, 
+    {
+      "sha1": "0766bf2dbc7ae28d7135cc7547e593a8cd6ed2dc", 
+      "name": "CAT31282446_archive.torrent", 
+      "btih": "53096c58dc49c15151a01f5f70530c96efaeab4b", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1418948290", 
+      "crc32": "093091c2", 
+      "md5": "0bfee31fbd518b2dc21e467bbd96f011", 
+      "size": "7254"
+    }, 
+    {
+      "source": "original", 
+      "md5": "bf7a1bcdd10b69274644508480237fbd", 
+      "name": "CAT31282446_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "uniq": 452644696, 
+  "created": 1446750138, 
+  "workable_servers": [
+    "ia902301.us.archive.org"
+  ], 
+  "server": "ia902301.us.archive.org", 
+  "item_size": 186153320, 
+  "dir": "/9/items/CAT31282446", 
+  "metadata": {
+    "partner_shiptracking": "NC14_1896_S", 
+    "shiptracking": "ST002314", 
+    "scanner": "scribe3.beltsville.archive.org", 
+    "creator": [
+      "Sioux City Nursery and Seed Company", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection.", 
+    "ppi": "500", 
+    "subcollection": "henryggilbertnurseryandseedtradecollection", 
+    "nal_call_number": "62.27", 
+    "operator": "associate-mark-kanaskie@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "copyright_message": "The contributing institution believes that this item is not in copyright", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "republisher": "associate-john-leonard@archive.org", 
+    "subject": [
+      "Nursery stock Iowa Catalogs", 
+      "Vegetables Seeds Catalogs", 
+      "Flowers Seeds Catalogs", 
+      "Grasses Seeds Catalogs", 
+      "Gardening Equipment and supplies Catalogs", 
+      "Nursery stock", 
+      "Vegetables", 
+      "Flowers", 
+      "Grasses", 
+      "Gardening"
+    ], 
+    "title": "Retail seed catalogue", 
+    "repub_state": "4", 
+    "camera": "Canon EOS 5D Mark II", 
+    "invoice": "3", 
+    "ocr": "ABBYY FineReader 9.0", 
+    "identifier-access": "http://archive.org/details/CAT31282446", 
+    "scanningcenter": "beltsville", 
+    "description": [
+      "Cover title", 
+      "Includes index"
+    ], 
+    "identifier-ark": "ark:/13960/t9m35mv5v", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "fedlink", 
+      "americana", 
+      "biodiversity"
+    ], 
+    "repub_seconds": "246", 
+    "updater": "associate-manuel-dennis@archive.org", 
+    "updatedate": "2014-09-03 13:39:11", 
+    "uploader": "associate-manuel-dennis@archive.org", 
+    "date": "1896", 
+    "volume_": "1896", 
+    "addeddate": "2014-09-03 13:39:13.794988", 
+    "publisher": "Sioux City, Iowa : Sioux City Nursery & Seed Company", 
+    "publicdate": "2014-09-03 12:40:08", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "curation": "[curator]admin-shelia-deroche@archive.org[/curator][date]20141002150158[/date][state]approved[/state][comment]invoice201409[/comment]", 
+    "notes": "No copyright page found. No table-of-contents pages found.", 
+    "imagecount": "80", 
+    "identifier": "CAT31282446", 
+    "sponsordate": "20140930", 
+    "unique_id": "CAT31282446", 
+    "scandate": "20140904150045"
+  }, 
+  "files_count": 17, 
+  "d1": "ia902301.us.archive.org"
+}

@@ -1,0 +1,251 @@
+{
+  "files": [
+    {
+      "sha1": "ca0bf576706987f3dcc5f9da41f8be9a65bd2530", 
+      "name": "CAT31282315_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1409748380", 
+      "crc32": "6f8f226d", 
+      "md5": "a792cafdaafcb9ed2ddd934fce52fcba", 
+      "size": "307"
+    }, 
+    {
+      "sha1": "bd75f94982b1bf85d1031ccd678088ffe8de4a2d", 
+      "name": "CAT31282315_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1409748380", 
+      "crc32": "2c456515", 
+      "md5": "a22b0e63bc596b3249d61d03476ea8c9", 
+      "size": "1287"
+    }, 
+    {
+      "sha1": "ebc67ec15d17f6a5a71b6d2f6b0fb1d4c2607771", 
+      "name": "CAT31282315_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1409748380", 
+      "crc32": "b861b135", 
+      "md5": "f322e0c8df34b0c8ed9d51454490c689", 
+      "size": "3155"
+    }, 
+    {
+      "sha1": "0d7c8bfc473e8b7ac3e6b7c2e7472a012827387c", 
+      "name": "CAT31282315_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1409748380", 
+      "crc32": "b2af9c05", 
+      "md5": "4773f1e1b6854b177daf166211ac60b3", 
+      "size": "902"
+    }, 
+    {
+      "sha1": "768f5a19decadd789d56abd514f096031fb7eeb3", 
+      "name": "CAT31282315_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1410261066", 
+      "crc32": "ce81d59f", 
+      "md5": "ce4ea9161592006a1d0b11e763e40eb9", 
+      "size": "3287040"
+    }, 
+    {
+      "sha1": "43a2c5ead72238462a5ee966efd9560e2e81e689", 
+      "name": "CAT31282315_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1410261066", 
+      "crc32": "2257f838", 
+      "md5": "fdac836e7455f43c808378680e668108", 
+      "size": "9690"
+    }, 
+    {
+      "sha1": "ba7617bdde031e33d28bf9d016afa7d63a57e5ba", 
+      "name": "CAT31282315_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1410261225", 
+      "crc32": "576bc8ab", 
+      "md5": "560bbfa404ab465e82aab7100c452993", 
+      "original": "CAT31282315_orig_jp2.tar", 
+      "size": "2041689"
+    }, 
+    {
+      "sha1": "240f5bff2a6727384a46502e10e246dc0adaf825", 
+      "name": "CAT31282315_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1410261273", 
+      "crc32": "6b76db3d", 
+      "md5": "c4b4d8b57cf02ea431f511e964f270e7", 
+      "original": "CAT31282315_abbyy.gz", 
+      "size": "14547"
+    }, 
+    {
+      "sha1": "6fcba4a2a808a5d59a623032d9994ebe1de58cff", 
+      "name": "CAT31282315.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1410261284", 
+      "crc32": "276aa60b", 
+      "md5": "3a02218f7ffd22059f6ad9ffd77070e9", 
+      "original": "CAT31282315_abbyy.gz", 
+      "size": "72049"
+    }, 
+    {
+      "sha1": "52398749bd15e11db70df5e754c70efa08c5f69e", 
+      "name": "CAT31282315_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1410261266", 
+      "crc32": "f7740114", 
+      "md5": "f82096bb9ff7df6ccaeff2541b958e4b", 
+      "original": "CAT31282315_jp2.zip", 
+      "size": "20667"
+    }, 
+    {
+      "sha1": "a3e9f381de80da0af6cc9ff8779799f01067bb9a", 
+      "name": "CAT31282315.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1410261340", 
+      "crc32": "77169440", 
+      "md5": "fc8e996fbe79cf1d09038f8e7a7ae612", 
+      "original": "CAT31282315_djvu.xml", 
+      "size": "127804"
+    }, 
+    {
+      "sha1": "db2e99dd174726abbaacdb242de78bba0946fa03", 
+      "name": "CAT31282315.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1410261237", 
+      "crc32": "046353c8", 
+      "md5": "ffc484082d809c2a7f5c8cd92b2ae500", 
+      "original": "CAT31282315_jp2.zip", 
+      "size": "40103"
+    }, 
+    {
+      "sha1": "e4a132229b568a442ef3eb6733261b1a07c54ff1", 
+      "name": "CAT31282315_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1410261346", 
+      "crc32": "bee73a86", 
+      "md5": "e25c56261dfc252217b4fbd6d94dae5e", 
+      "original": "CAT31282315.djvu", 
+      "size": "1285"
+    }, 
+    {
+      "sha1": "b414bcdb49aaff3ae5bf5460c5ecd9642f4c12f1", 
+      "name": "CAT31282315.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1410261306", 
+      "crc32": "574cda89", 
+      "md5": "e473059c2416cdd12fd0490a6f91fe75", 
+      "original": "CAT31282315_djvu.xml", 
+      "size": "55747"
+    }, 
+    {
+      "sha1": "a61bf602d2a3a49719cde905e2fef1f2cfb465c3", 
+      "name": "CAT31282315_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1418948045", 
+      "crc32": "8e9a79b1", 
+      "md5": "cf090372d68392fafb182d1f1c16dbce", 
+      "size": "2792"
+    }, 
+    {
+      "sha1": "9fe656faa233d205cccb76722665aa256c10fb96", 
+      "name": "CAT31282315_archive.torrent", 
+      "btih": "0f0b23a22ac2ca34ba7426ec1ec8d3505d5ef99f", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1418948046", 
+      "crc32": "d4b944c2", 
+      "md5": "4af6e70b6a9c7d94ac7266f9e58ab21d", 
+      "size": "3618"
+    }, 
+    {
+      "source": "original", 
+      "md5": "57a218dd8a86c051430923862c9e93f6", 
+      "name": "CAT31282315_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "uniq": 623322711, 
+  "created": 1446755056, 
+  "workable_servers": [
+    "ia601401.us.archive.org"
+  ], 
+  "server": "ia601401.us.archive.org", 
+  "item_size": 5682682, 
+  "dir": "/16/items/CAT31282315", 
+  "metadata": {
+    "partner_shiptracking": "NC14_1896_M", 
+    "shiptracking": "ST002311", 
+    "scanner": "scribe3.beltsville.archive.org", 
+    "creator": [
+      "Manwell, Allen D", 
+      "Allen D. Manwell (Firm)", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection.", 
+    "ppi": "500", 
+    "subcollection": "henryggilbertnurseryandseedtradecollection", 
+    "nal_call_number": "62.27", 
+    "operator": "associate-mark-kanaskie@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "copyright_message": "The contributing institution believes that this item is not in copyright", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "subject": [
+      "Nursery stock Iowa Vinton Catalogs", 
+      "Fruit Seedlings Catalogs", 
+      "Nursery stock", 
+      "Fruit"
+    ], 
+    "title": "Order sheet : Allen D. Manwell's fruit and fine stock farm", 
+    "repub_state": "4", 
+    "camera": "Canon EOS 5D Mark II", 
+    "invoice": "3", 
+    "ocr": "ABBYY FineReader 9.0", 
+    "identifier-access": "http://archive.org/details/CAT31282315", 
+    "scanningcenter": "beltsville", 
+    "description": "Caption title", 
+    "identifier-ark": "ark:/13960/t0rr4nj36", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "fedlink", 
+      "americana", 
+      "biodiversity"
+    ], 
+    "volume": "1896", 
+    "repub_seconds": "59", 
+    "updater": "associate-manuel-dennis@archive.org", 
+    "updatedate": "2014-09-03 12:46:20", 
+    "uploader": "associate-manuel-dennis@archive.org", 
+    "date": "1896", 
+    "republisher": "associate-mark-kanaskie@archive.org", 
+    "addeddate": "2014-09-03 12:46:22.757206", 
+    "publisher": "Vinton, Iowa : Allen D. Manwell", 
+    "publicdate": "2014-09-03 11:50:07", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "curation": "[curator]admin-shelia-deroche@archive.org[/curator][date]20141104133543[/date][state]approved[/state][comment]invoice201410[/comment]", 
+    "notes": "No copyright page found. No table-of-contents pages found.", 
+    "imagecount": "6", 
+    "identifier": "CAT31282315", 
+    "sponsordate": "20141031", 
+    "unique_id": "CAT31282315", 
+    "scandate": "20140904115729"
+  }, 
+  "files_count": 17, 
+  "d1": "ia601401.us.archive.org"
+}

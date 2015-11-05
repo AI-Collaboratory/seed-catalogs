@@ -1,0 +1,275 @@
+{
+  "files": [
+    {
+      "sha1": "d2c03cb07f87b0042dbc51d7bd1a1900a4785ef7", 
+      "name": "1930griffithturn1930grif_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1380200521", 
+      "crc32": "2f9ccfcd", 
+      "md5": "c79fb63175f9054929311d2ae6e90705", 
+      "size": "3674"
+    }, 
+    {
+      "sha1": "c8cfe004b442b56b5c528ef4180941dc5739cd54", 
+      "name": "1930griffithturn1930grif_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1380200521", 
+      "crc32": "6c7ace51", 
+      "md5": "630a2dda353524be051248295832ccb0", 
+      "size": "322"
+    }, 
+    {
+      "sha1": "8f493faa300b16482ab94526bcb0bd5779fa6cb1", 
+      "name": "1930griffithturn1930grif_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1380200521", 
+      "crc32": "fd17f7c9", 
+      "md5": "c760d3b33ded856aae96b82cc3ab62bf", 
+      "size": "1060"
+    }, 
+    {
+      "sha1": "6ab3ce079f2b5e97a837111fbde2cce21e6ca837", 
+      "name": "1930griffithturn1930grif_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1380200521", 
+      "crc32": "11e2718f", 
+      "md5": "e5554cb53a8def1834dd323178ca8105", 
+      "size": "1552"
+    }, 
+    {
+      "sha1": "5f0cddb1d15512c1012a4efec7acd415c527d0eb", 
+      "name": "1930griffithturn1930grif_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1380221052", 
+      "crc32": "1ab0cb05", 
+      "md5": "3b3465b655ddd9bbcfdb7e97fd355ff0", 
+      "size": "350484480"
+    }, 
+    {
+      "sha1": "7eb38877682bef178a420f685c60a6560db1de57", 
+      "name": "1930griffithturn1930grif_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1380221038", 
+      "crc32": "6a8c8f4d", 
+      "md5": "92299a4c5b9f7d79ff994fc4136f7ea1", 
+      "size": "372883"
+    }, 
+    {
+      "sha1": "af87743e360dccf0864b63043510cc582e018bc6", 
+      "name": "1930griffithturn1930grif_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1380234997", 
+      "crc32": "cf0ec4d1", 
+      "md5": "dac23f6d51a9490456ddf46fdcc1f731", 
+      "original": "1930griffithturn1930grif_abbyy.gz", 
+      "size": "9317048"
+    }, 
+    {
+      "sha1": "dbe89f4874d66a404f7c7e5dbfb024a657511ed6", 
+      "name": "1930griffithturn1930grif_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1380227427", 
+      "crc32": "9af9d97e", 
+      "md5": "4227a7defcb5b3a533f5315d6f35d9c3", 
+      "original": "1930griffithturn1930grif_orig_jp2.tar", 
+      "size": "233986396"
+    }, 
+    {
+      "sha1": "7acc24e67647321ade7dc5bb3e7061961eaadc25", 
+      "name": "1930griffithturn1930grif.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1380236223", 
+      "crc32": "402df37b", 
+      "md5": "82241303705875003d70464abc7651ad", 
+      "original": "1930griffithturn1930grif_djvu.xml", 
+      "size": "25023076"
+    }, 
+    {
+      "sha1": "4b443fcb68fdeecba66bdf93194e9953a6961e4c", 
+      "name": "1930griffithturn1930grif.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1380237555", 
+      "crc32": "136e2fc5", 
+      "md5": "bc72803d57cbace843e31dff58e0b323", 
+      "original": "1930griffithturn1930grif_djvu.xml", 
+      "size": "39479916"
+    }, 
+    {
+      "sha1": "d8a554872ffc352563d4bd9bca24f71057d06522", 
+      "name": "1930griffithturn1930grif.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1380235206", 
+      "crc32": "43177d5a", 
+      "md5": "cafda8d38c9d0491fefb168f150f565c", 
+      "original": "1930griffithturn1930grif_abbyy.gz", 
+      "size": "8131562"
+    }, 
+    {
+      "sha1": "08487a6ef59182fc086ef45c36d581b49b9560d5", 
+      "name": "1930griffithturn1930grif_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1380234785", 
+      "crc32": "e54e3829", 
+      "md5": "3f71a0a030547c234f1d459a862729e9", 
+      "original": "1930griffithturn1930grif_jp2.zip", 
+      "size": "13431560"
+    }, 
+    {
+      "sha1": "96df6d8d2ffefd2ab8291f1961fb7901eb90c87d", 
+      "name": "1930griffithturn1930grif_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1380237588", 
+      "crc32": "d863d878", 
+      "md5": "1115c2048f21756b1bcf1e3095cbcaa6", 
+      "original": "1930griffithturn1930grif.djvu", 
+      "size": "940332"
+    }, 
+    {
+      "sha1": "a4a9f87a8599523add607e0fa8a7d518468d3cea", 
+      "name": "1930griffithturn1930grif.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1380227458", 
+      "crc32": "ef09024c", 
+      "md5": "cfb1b8b9151e8612bb310b9908c9df35", 
+      "original": "1930griffithturn1930grif_jp2.zip", 
+      "size": "347582"
+    }, 
+    {
+      "sha1": "ae2cfd4c6f7b7bbf4943642d1a5d1a26495923e3", 
+      "name": "1930griffithturn1930grif_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1418946084", 
+      "crc32": "818f097b", 
+      "md5": "b173bb6497fb5f2331988f79d429ac72", 
+      "size": "2757"
+    }, 
+    {
+      "sha1": "eee20fba3f5ecdadbf86ff73d90bb62534ffcfd9", 
+      "name": "1930griffithturn1930grif_archive.torrent", 
+      "btih": "396ce642dc50bbb669d38165c640f519d9806401", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1420368953", 
+      "crc32": "bae730b0", 
+      "md5": "2f18bb93348e7e5d7fe08abb5698a324", 
+      "size": "16833"
+    }, 
+    {
+      "sha1": "71e6fb5dd74449f1ae5f03e1fcccdb346a49c88a", 
+      "name": "1930griffithturn1930grif_meta.sqlite", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1440054671", 
+      "crc32": "c3dfecd4", 
+      "md5": "e2abc822c73f061593ee6747f678e7a0", 
+      "size": "6144"
+    }, 
+    {
+      "sha1": "9b0870e3b7dfbb172548fe4f8974598053a858e7", 
+      "name": "1930griffithturn1930grif_bhlmets.xml", 
+      "format": "Biodiversity Heritage Library METS", 
+      "source": "original", 
+      "mtime": "1440054666", 
+      "crc32": "3f781613", 
+      "md5": "781a5976309096b178dba6819a22825e", 
+      "size": "127891"
+    }, 
+    {
+      "source": "original", 
+      "md5": "9fd813ac8ac84f5c3b0fc962bd64bc22", 
+      "name": "1930griffithturn1930grif_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "updated": 1446754170, 
+  "uniq": 488995617, 
+  "created": 1446728934, 
+  "workable_servers": [
+    "ia801008.us.archive.org", 
+    "ia601008.us.archive.org"
+  ], 
+  "server": "ia801008.us.archive.org", 
+  "item_size": 681675068, 
+  "dir": "/31/items/1930griffithturn1930grif", 
+  "metadata": {
+    "shiptracking": "ST000353", 
+    "scanner": "scribe2.beltsville.archive.org", 
+    "creator": [
+      "Griffith and Turner Co", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection", 
+    "ppi": "350", 
+    "nal_call_number": "62.37", 
+    "operator": "associate-saw-thein@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "subject": [
+      "Gardening Equipment and supplies Catalogs", 
+      "Agricultural implements Catalogs", 
+      "Seeds Catalogs", 
+      "Bulbs (Plants) Catalogs", 
+      "Vegetables Catalogs", 
+      "Flowers Catalogs"
+    ], 
+    "call_number": "CAT31118903", 
+    "title": "1930 Griffith and Turner Co. : farm and garden supplies", 
+    "repub_state": "4", 
+    "possible-copyright-status": "The contributing institution believes that this item is not in copyright", 
+    "camera": "Canon EOS 5D Mark II", 
+    "ocr": "ABBYY FineReader 9.0", 
+    "identifier-access": "http://archive.org/details/1930griffithturn1930grif", 
+    "scanningcenter": "beltsville", 
+    "description": [
+      "Cover title", 
+      "Includes index"
+    ], 
+    "identifier-ark": "ark:/13960/t4tj0gc4h", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "fedlink", 
+      "americana", 
+      "biodiversity"
+    ], 
+    "volume": "1930", 
+    "repub_seconds": "501", 
+    "updater": "associate-adrianna-flores@archive.org", 
+    "updatedate": "2013-09-26 13:02:01", 
+    "uploader": "associate-adrianna-flores@archive.org", 
+    "date": "1930", 
+    "republisher": "associate-saw-thein@archive.org", 
+    "addeddate": "2013-09-26 13:02:03.492764", 
+    "publisher": "Baltimore, Md. : Griffith and Turner Co., 1930", 
+    "publicdate": "2013-09-26 12:04:05", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "curation": "[curator]admin-shelia-deroche@archive.org[/curator][date]20131007193341[/date][state]approved[/state][comment]199[/comment]", 
+    "imagecount": "234", 
+    "identifier": "1930griffithturn1930grif", 
+    "sponsordate": "20130930", 
+    "unique_id": "CAT31118903", 
+    "scandate": "20130926174531"
+  }, 
+  "d2": "ia801008.us.archive.org", 
+  "files_count": 19, 
+  "d1": "ia601008.us.archive.org"
+}

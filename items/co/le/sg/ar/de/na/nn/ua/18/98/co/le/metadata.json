@@ -1,0 +1,256 @@
+{
+  "files": [
+    {
+      "sha1": "f762adc7608046f06a32de3f31e4950fb4ff241a", 
+      "name": "colesgardenannua1898cole_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1382463505", 
+      "crc32": "d6be36ca", 
+      "md5": "c483ac84e60020525ca68f73336649d6", 
+      "size": "4068"
+    }, 
+    {
+      "sha1": "95b9e8d2a111d8cae0b2a47fae8bf79900344ec4", 
+      "name": "colesgardenannua1898cole_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1382463505", 
+      "crc32": "4735dd04", 
+      "md5": "aea31045cd177321cdc532b690f4b4d9", 
+      "size": "1665"
+    }, 
+    {
+      "sha1": "2562677bb2033d5394ccb1a7902fd031d2f0f2de", 
+      "name": "colesgardenannua1898cole_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1382463505", 
+      "crc32": "1e4b888d", 
+      "md5": "67fa3716be3548dfa76338c43933402f", 
+      "size": "322"
+    }, 
+    {
+      "sha1": "77b734626281c8f9a9f8a18cb1bc4d3b69cc98d1", 
+      "name": "colesgardenannua1898cole_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1382463505", 
+      "crc32": "6dd94abd", 
+      "md5": "7b9a5a88926e4e92bf7b81dcfe8719a2", 
+      "size": "1119"
+    }, 
+    {
+      "sha1": "e2b3a7b362df8207de4a59f887040158542b76d4", 
+      "name": "colesgardenannua1898cole_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1382626481", 
+      "crc32": "48da6f40", 
+      "md5": "731669d78a2b29461b04003bac28e79c", 
+      "size": "139161"
+    }, 
+    {
+      "sha1": "df18e8a2a3db9dedfe5d56376e1aeb6b166ff8f8", 
+      "name": "colesgardenannua1898cole_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1382626484", 
+      "crc32": "073e39da", 
+      "md5": "9c73904cc26fe94eab7549aa6aaac2f0", 
+      "size": "158259200"
+    }, 
+    {
+      "sha1": "3a4d0d03b5faba5ed50945f810b1a39521c7f923", 
+      "name": "colesgardenannua1898cole_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1382632644", 
+      "crc32": "196a034b", 
+      "md5": "a3b077b57844b1b9781a0e2e76c5550d", 
+      "original": "colesgardenannua1898cole_jp2.zip", 
+      "size": "5190329"
+    }, 
+    {
+      "sha1": "c9a4fe35fcdecdd7ca647207e8cf2b1aafc4b8b1", 
+      "name": "colesgardenannua1898cole_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1382629405", 
+      "crc32": "1b456b65", 
+      "md5": "5b3e63cd0f50006fe6b2d7b7f7ad49d0", 
+      "original": "colesgardenannua1898cole_orig_jp2.tar", 
+      "size": "93726618"
+    }, 
+    {
+      "sha1": "464795277a07930dc445abc19d8bc65ad7ac3b14", 
+      "name": "colesgardenannua1898cole.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1382629437", 
+      "crc32": "f237945c", 
+      "md5": "6329a37e816dc3c18ec88ccdfa788448", 
+      "original": "colesgardenannua1898cole_jp2.zip", 
+      "size": "278298"
+    }, 
+    {
+      "sha1": "124309994272a81f3ae9003c5e66e5220bf7a875", 
+      "name": "colesgardenannua1898cole.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1382633254", 
+      "crc32": "5a42810f", 
+      "md5": "fa2da84134813c95cf1327447a2b26b0", 
+      "original": "colesgardenannua1898cole_djvu.xml", 
+      "size": "10273752"
+    }, 
+    {
+      "sha1": "da0722984222e9ba6c6309060e3f8cf975b81244", 
+      "name": "colesgardenannua1898cole.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1382633888", 
+      "crc32": "ff742092", 
+      "md5": "a60005edb847aaaca556d0327db06028", 
+      "original": "colesgardenannua1898cole_djvu.xml", 
+      "size": "14723275"
+    }, 
+    {
+      "sha1": "171e30cc6d0dbfda0f24d25795dba0a7381b5231", 
+      "name": "colesgardenannua1898cole_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1382633906", 
+      "crc32": "e6257d7e", 
+      "md5": "611ba0a72a0b125a546c325a8bc3e57f", 
+      "original": "colesgardenannua1898cole.djvu", 
+      "size": "349426"
+    }, 
+    {
+      "sha1": "df4a8b112764baf69ee2773c19714ae7268c31c5", 
+      "name": "colesgardenannua1898cole.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1382632783", 
+      "crc32": "3adcef0c", 
+      "md5": "de422fb6a8513fadd8755495d2c60bbb", 
+      "original": "colesgardenannua1898cole_abbyy.gz", 
+      "size": "1695135"
+    }, 
+    {
+      "sha1": "bd066730ca4b516c0af0e840502311d61b5e516f", 
+      "name": "colesgardenannua1898cole_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1382632729", 
+      "crc32": "249d5f85", 
+      "md5": "74fa63ca1009c81c5490ba7cd9315c9b", 
+      "original": "colesgardenannua1898cole_abbyy.gz", 
+      "size": "3345291"
+    }, 
+    {
+      "sha1": "49d1a91d9d75a32e07c2dd3bbcdf8b0293155630", 
+      "name": "colesgardenannua1898cole_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1418946680", 
+      "crc32": "3e9a257e", 
+      "md5": "3af72519f13be4cc41c7d20614a0f118", 
+      "size": "2917"
+    }, 
+    {
+      "sha1": "a817341414e035d71d674597cc6e23fc1e5df89d", 
+      "name": "colesgardenannua1898cole_archive.torrent", 
+      "btih": "b33ad690bd629062e74cd6a8493cce29bc63d214", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1418946682", 
+      "crc32": "85e18e9f", 
+      "md5": "3162d28a08bd00ebfde81255d4cc0af1", 
+      "size": "8768"
+    }, 
+    {
+      "source": "original", 
+      "md5": "10ed1d9c5c4cec3b6b61c7c71da4875c", 
+      "name": "colesgardenannua1898cole_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "uniq": 1765978247, 
+  "created": 1446753591, 
+  "workable_servers": [
+    "ia601009.us.archive.org"
+  ], 
+  "server": "ia601009.us.archive.org", 
+  "item_size": 287999344, 
+  "dir": "/8/items/colesgardenannua1898cole", 
+  "metadata": {
+    "partner_shiptracking": "NC14_0037", 
+    "shiptracking": "ST000440", 
+    "scanner": "scribe2.beltsville.archive.org", 
+    "creator": [
+      "Cole's Seed Store", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection", 
+    "ppi": "500", 
+    "nal_call_number": "62.27", 
+    "operator": "associate-saw-thein@archive.org", 
+    "curatestate": "freeze", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "invoice": "3", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "subject": [
+      "Vegetables Seeds Catalogs", 
+      "Nurseries (Horticulture) Iowa Catalogs", 
+      "Garden tools Catalogs", 
+      "Flowers Seeds Catalogs", 
+      "Trees Seeds Catalogs", 
+      "Bulbs (Plants) Seeds Catalogs"
+    ], 
+    "call_number": "CAT31131180", 
+    "title": "Cole's garden annual", 
+    "repub_state": "4", 
+    "possible-copyright-status": "The contributing institution believes that this item is not in copyright", 
+    "camera": "Canon EOS 5D Mark II", 
+    "ocr": "ABBYY FineReader 9.0", 
+    "identifier-access": "http://archive.org/details/colesgardenannua1898cole", 
+    "scanningcenter": "beltsville", 
+    "description": [
+      "Cover title", 
+      "Includes index"
+    ], 
+    "identifier-ark": "ark:/13960/t1wd61b6b", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "fedlink", 
+      "americana", 
+      "biodiversity"
+    ], 
+    "volume": "1898", 
+    "repub_seconds": "1388", 
+    "updater": "associate-adrianna-flores@archive.org", 
+    "updatedate": "2013-10-22 17:38:25", 
+    "uploader": "associate-adrianna-flores@archive.org", 
+    "date": "1898", 
+    "republisher": "associate-annie-coates@archive.org", 
+    "addeddate": "2013-10-22 17:38:27.738712", 
+    "publisher": "Pella, Iowa : Cole's Seed Store", 
+    "publicdate": "2013-10-22 16:40:09", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "curation": "[curator]admin-shelia-deroche@archive.org[/curator][date]20140507144952[/date][state]approved[/state][comment]invoice201312[/comment]", 
+    "notes": "No copyright page found. No table-of-contents pages found.", 
+    "imagecount": "88", 
+    "identifier": "colesgardenannua1898cole", 
+    "sponsordate": "20131231", 
+    "unique_id": "CAT31131180", 
+    "scandate": "20131023124343"
+  }, 
+  "files_count": 17, 
+  "d1": "ia601009.us.archive.org"
+}

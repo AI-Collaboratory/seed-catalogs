@@ -1,0 +1,293 @@
+{
+  "files": [
+    {
+      "sha1": "628dec6396cee960b6c1147260929ab84e559f33", 
+      "name": "CAT31293123_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1436792491", 
+      "crc32": "53df87e8", 
+      "md5": "1ac99fee5dc321544a8586f93dfb8962", 
+      "size": "1072"
+    }, 
+    {
+      "sha1": "2327cad94fd5f27e56f7d67a94ef0e6dda0e440d", 
+      "name": "CAT31293123_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1436792491", 
+      "crc32": "3d99d195", 
+      "md5": "b61620af1aa4be1ad593754b84f0c6c2", 
+      "size": "307"
+    }, 
+    {
+      "sha1": "fe848b29e18ba5efaa42df8fd14e02f7bbbda82e", 
+      "name": "CAT31293123_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1436792491", 
+      "crc32": "c64512d6", 
+      "md5": "c5bbcf2eaba3dbc1f2a21a01e2d28a05", 
+      "size": "3419"
+    }, 
+    {
+      "sha1": "08ad1a82fd5278b964b8b8646f72bea315aff08f", 
+      "name": "CAT31293123_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1436792491", 
+      "crc32": "27faad7f", 
+      "md5": "568e35e35afc427a9ed7f4716569d25f", 
+      "size": "1298"
+    }, 
+    {
+      "sha1": "ba9c90722125b278b9fc4f56f8a50a8a980374b1", 
+      "name": "CAT31293123_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1440172314", 
+      "crc32": "3811a40f", 
+      "md5": "8a7a64ef678d012a14f823e088055a43", 
+      "size": "14601"
+    }, 
+    {
+      "sha1": "9cda7901ca94d6a26ee3740428495b3feff09ee7", 
+      "name": "CAT31293123_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1440172315", 
+      "crc32": "dfb39cf9", 
+      "md5": "df1ef67098720128c6533e60b091bd0e", 
+      "size": "12759040"
+    }, 
+    {
+      "sha1": "ea369a9ddea0da61cb48fa4b12470cbd77347623", 
+      "name": "CAT31293123_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1440177893", 
+      "crc32": "53708e85", 
+      "md5": "ee941df14a64d10b8618172caac418c1", 
+      "original": "CAT31293123_abbyy.gz", 
+      "size": "391935"
+    }, 
+    {
+      "sha1": "617c8c6ee6597cff082b7199f3d9d94cd7f5186e", 
+      "name": "CAT31293123.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1440177929", 
+      "crc32": "e40d6e5f", 
+      "md5": "e46b2fa70fbdf5f6dd092af1dc5eecf8", 
+      "original": "CAT31293123_djvu.xml", 
+      "size": "395963"
+    }, 
+    {
+      "sha1": "157436dd5d6a1327a4607fd34309b1f2e2061137", 
+      "name": "CAT31293123_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1440172571", 
+      "crc32": "5ea0c1d1", 
+      "md5": "53305d4d4656f2ce2720f3c6940211d5", 
+      "original": "CAT31293123_orig_jp2.tar", 
+      "size": "7271677"
+    }, 
+    {
+      "sha1": "8aa8fa492a790d2df1c3f9e8267459770e5ddaad", 
+      "name": "CAT31293123.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1440177976", 
+      "crc32": "a618330a", 
+      "md5": "464532cc8558002bf00845ddf7b098ae", 
+      "original": "CAT31293123_djvu.xml", 
+      "size": "629777"
+    }, 
+    {
+      "sha1": "fc43df2c56fb7ef099d9d57439f0c9a3879894bb", 
+      "name": "CAT31293123.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1440177896", 
+      "crc32": "1b325b4b", 
+      "md5": "b9d0f89e71586db7c4d0ecc793502a34", 
+      "original": "CAT31293123_abbyy.gz", 
+      "size": "18592"
+    }, 
+    {
+      "sha1": "85184154ce4ce0b5da04f64655e90b94155d4434", 
+      "name": "CAT31293123_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1440177877", 
+      "crc32": "b9a04942", 
+      "md5": "47f67665ab75db9ba610571faf92f04f", 
+      "original": "CAT31293123_jp2.zip", 
+      "size": "630262"
+    }, 
+    {
+      "sha1": "8e9695aca140a41f3e23cc5cd5ec3a04b5180336", 
+      "name": "CAT31293123.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1440172583", 
+      "crc32": "e17ebcf3", 
+      "md5": "f74dda68aa6d8413554994aa068d666e", 
+      "original": "CAT31293123_jp2.zip", 
+      "size": "94603"
+    }, 
+    {
+      "sha1": "880b15e6362443525d03616214534bf8ac36bd9c", 
+      "name": "CAT31293123_bw.pdf", 
+      "format": "Grayscale LuraTech PDF", 
+      "source": "derivative", 
+      "mtime": "1440178033", 
+      "crc32": "acae1712", 
+      "md5": "5d74e96e49afc193a181258f3c2b250f", 
+      "original": "CAT31293123_djvu.xml", 
+      "size": "542956"
+    }, 
+    {
+      "sha1": "3088665b2a056a73dd82e8456f64415d6563a627", 
+      "name": "CAT31293123_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1440178040", 
+      "crc32": "8feb6359", 
+      "md5": "47c170b8f726c47068b28c8bd761c0e7", 
+      "original": "CAT31293123.djvu", 
+      "size": "41262"
+    }, 
+    {
+      "sha1": "c730822c3d5a8cd80e856e1307342ead6f43ae3a", 
+      "name": "CAT31293123_bhlmets.xml", 
+      "format": "Biodiversity Heritage Library METS", 
+      "source": "original", 
+      "mtime": "1441009327", 
+      "crc32": "83f45f51", 
+      "md5": "abc82c103bfa43f81699edf1a1d9c5c5", 
+      "size": "8411"
+    }, 
+    {
+      "sha1": "e7f634e51b3e2ab3c541125ff3c05ae9e0530112", 
+      "name": "CAT31293123_names.xml", 
+      "format": "Name Metadata", 
+      "source": "original", 
+      "mtime": "1441093194", 
+      "crc32": "4489419b", 
+      "md5": "cc2a60a0b544f5fa44de8c875d166569", 
+      "size": "4173"
+    }, 
+    {
+      "sha1": "c33b17c30921f69c5235b28294f1914d2f74b5f8", 
+      "name": "CAT31293123_meta.sqlite", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1441093197", 
+      "crc32": "1dbfb8df", 
+      "md5": "52c436fda6bc1438b5a3296aa94896e7", 
+      "size": "6144"
+    }, 
+    {
+      "sha1": "3555a74c2ca9f3853cd1cd278715cc0ce8a99320", 
+      "name": "CAT31293123_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1441999408", 
+      "crc32": "3293b62d", 
+      "md5": "4d98e9255321cfb307ff20c12af77689", 
+      "size": "2916"
+    }, 
+    {
+      "sha1": "993bc008b202623d31a4be877f879bbc73464bdb", 
+      "name": "CAT31293123_archive.torrent", 
+      "btih": "bb972fb6364685eef267cc469614479dc8e033fb", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1441999409", 
+      "crc32": "dda33b21", 
+      "md5": "9fb7e38905d1e2bcd816f783c8afa7ea", 
+      "size": "4626"
+    }, 
+    {
+      "source": "original", 
+      "md5": "6fce2a527a59a3af0eb43389df852212", 
+      "name": "CAT31293123_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "updated": 1446754400, 
+  "uniq": 828563798, 
+  "created": 1446659909, 
+  "workable_servers": [
+    "ia801305.us.archive.org", 
+    "ia601305.us.archive.org"
+  ], 
+  "server": "ia801305.us.archive.org", 
+  "item_size": 22823034, 
+  "dir": "/2/items/CAT31293123", 
+  "metadata": {
+    "partner_shiptracking": "NC15_1912_Ha-Hel", 
+    "shiptracking": "ST004005", 
+    "scanner": "scribe2.beltsville.archive.org", 
+    "creator": [
+      "Hancock Inoculatum Co., Inc", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection", 
+    "ppi": "350", 
+    "subcollection": "henryggilbertnurseryandseedtradecollection", 
+    "nal_call_number": "62.89 1912", 
+    "operator": "associate-manuel-dennis@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "copyright_message": "The contributing institution believes that this item is not in copyright.", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "1", 
+    "scanfee": "100", 
+    "subject": [
+      "Poultry Diseases Chemotherapy Catalogs", 
+      "Poultry Virginia Equipment and supplies Catalogs"
+    ], 
+    "title": "Oculum : scientific remedy and preventive for cholera, roup, white diarrhea and sore head, also cure for gapes : inoculate your fowls and prevent disease", 
+    "repub_state": "4", 
+    "foldout_seconds": "181", 
+    "camera": "Canon EOS 5D Mark II", 
+    "invoice": "3", 
+    "ocr": "ABBYY FineReader 11.0", 
+    "identifier-access": "http://archive.org/details/CAT31293123", 
+    "scanningcenter": "beltsville", 
+    "description": "Cover title", 
+    "identifier-ark": "ark:/13960/t14n2t22d", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "biodiversity", 
+      "fedlink", 
+      "americana"
+    ], 
+    "volume": "1912", 
+    "updater": "associate-manuel-dennis@archive.org", 
+    "updatedate": "2015-07-13 13:01:31", 
+    "uploader": "associate-manuel-dennis@archive.org", 
+    "date": "1912", 
+    "republisher": "associate-manuel-dennis@archive.org", 
+    "addeddate": "2015-07-13 13:01:34.072924", 
+    "foldout-operator": "associate-marc-adona@archive.org", 
+    "publisher": "Salem, Va. : Hancock Inoculatum Co., Inc.", 
+    "publicdate": "2015-07-13 12:03:38", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "curation": "[curator]admin-shelia-deroche@archive.org[/curator][date]20150908171117[/date][state]approved[/state][comment]invoice201508[/comment]", 
+    "notes": "No copyright page found. No table-of-contents pages found.", 
+    "imagecount": "12", 
+    "identifier": "CAT31293123", 
+    "sponsordate": "20150831", 
+    "unique_id": "CAT31293123", 
+    "scandate": "20150821153733"
+  }, 
+  "d2": "ia801305.us.archive.org", 
+  "files_count": 21, 
+  "d1": "ia601305.us.archive.org"
+}

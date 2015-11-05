@@ -1,0 +1,252 @@
+{
+  "files": [
+    {
+      "sha1": "63d420330979824d17a0bd564bd462ed70e3dd7c", 
+      "name": "germains1953fall1953germ_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1396442901", 
+      "crc32": "8a1b6736", 
+      "md5": "788771d3e177fddece6faee8b9955abc", 
+      "size": "869"
+    }, 
+    {
+      "sha1": "a7f5f80f306f211d642279bb7920987e0d5dce5f", 
+      "name": "germains1953fall1953germ_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1396442901", 
+      "crc32": "0272fa51", 
+      "md5": "66f3d12d73e0d90174cef69d2bbbea77", 
+      "size": "1091"
+    }, 
+    {
+      "sha1": "b6d5a0a8dd16c89ef1d7f8fc907738277ee14364", 
+      "name": "germains1953fall1953germ_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1396442901", 
+      "crc32": "a9fc543c", 
+      "md5": "9691781e36fd461512005e2439074501", 
+      "size": "322"
+    }, 
+    {
+      "sha1": "64395d8160508fe73f929f0ba08f913530409c85", 
+      "name": "germains1953fall1953germ_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1396442901", 
+      "crc32": "52250aa6", 
+      "md5": "f04f21d310ebcb017b2b2ebdd69e2119", 
+      "size": "2953"
+    }, 
+    {
+      "sha1": "7511890d44f030aa71a99f05ecb21fa9eb4c996e", 
+      "name": "germains1953fall1953germ_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1396627772", 
+      "crc32": "66b31634", 
+      "md5": "e6657ac1fe7b40f44be86c929b9fe071", 
+      "size": "17229"
+    }, 
+    {
+      "sha1": "d5562bb386c28ca81b2f0b96c57b8feaeb11883c", 
+      "name": "germains1953fall1953germ_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1396627773", 
+      "crc32": "23ed1d91", 
+      "md5": "f0e3841d3a2e2eeb1d7e537b82d76d90", 
+      "size": "13056000"
+    }, 
+    {
+      "sha1": "eb6722e60353b95eeea2e299a762a88fb445df8f", 
+      "name": "germains1953fall1953germ_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1396628197", 
+      "crc32": "9be18d1f", 
+      "md5": "fc01dd0849e36003862d7cc6ad3918de", 
+      "original": "germains1953fall1953germ_jp2.zip", 
+      "size": "385508"
+    }, 
+    {
+      "sha1": "5e8644b9940159adb92db865fa984bba0b3e8de1", 
+      "name": "germains1953fall1953germ_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1396628042", 
+      "crc32": "8e4a2b36", 
+      "md5": "b5dfd6e5905ae8acb5ff36266adbaf8a", 
+      "original": "germains1953fall1953germ_orig_jp2.tar", 
+      "size": "8879805"
+    }, 
+    {
+      "sha1": "f418123b6ea7587c5a640c8b6936b73f1d2e502f", 
+      "name": "germains1953fall1953germ_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1396628315", 
+      "crc32": "d4d42679", 
+      "md5": "230c452f5748c6b78f9c7812ba5ea235", 
+      "original": "germains1953fall1953germ.djvu", 
+      "size": "25568"
+    }, 
+    {
+      "sha1": "64f3f31e4d1f9e20ad0176a73cf369db44c987cc", 
+      "name": "germains1953fall1953germ.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1396628256", 
+      "crc32": "5e9a7e73", 
+      "md5": "0572196423d5ac5f9cfb5ec9ac528605", 
+      "original": "germains1953fall1953germ_djvu.xml", 
+      "size": "568963"
+    }, 
+    {
+      "sha1": "b58936da22ccae185a8351fa794a8cd6a1ece2b8", 
+      "name": "germains1953fall1953germ.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1396628309", 
+      "crc32": "ccb237e9", 
+      "md5": "dc626fdfe5ef32084273a1e3a9b811d0", 
+      "original": "germains1953fall1953germ_djvu.xml", 
+      "size": "788217"
+    }, 
+    {
+      "sha1": "c4c22f02fca805890a38242294c6c889bd667687", 
+      "name": "germains1953fall1953germ.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1396628215", 
+      "crc32": "58656cf7", 
+      "md5": "6ad26589ae9cb12863781b3e23c708a4", 
+      "original": "germains1953fall1953germ_abbyy.gz", 
+      "size": "175186"
+    }, 
+    {
+      "sha1": "c98d303da536499aa0509ac158fa83fc4f2fb651", 
+      "name": "germains1953fall1953germ.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1396628053", 
+      "crc32": "0c82afa4", 
+      "md5": "bde3bd58641c7318f434175b2534434c", 
+      "original": "germains1953fall1953germ_jp2.zip", 
+      "size": "87458"
+    }, 
+    {
+      "sha1": "a527d697acb86edba1ed6513bd7d949535a10287", 
+      "name": "germains1953fall1953germ_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1396628208", 
+      "crc32": "3ddaf038", 
+      "md5": "d138e6f89f3f4ef8d09106a37e115416", 
+      "original": "germains1953fall1953germ_abbyy.gz", 
+      "size": "252864"
+    }, 
+    {
+      "sha1": "14f5091cae0ce7a6fa87717c95e107ae2d1bcae9", 
+      "name": "germains1953fall1953germ_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1418947462", 
+      "crc32": "606105e0", 
+      "md5": "aabdd2001642cea8106159316b9dd89d", 
+      "size": "2759"
+    }, 
+    {
+      "sha1": "4a6c338321e1d8da74371be512a4771ca22b7889", 
+      "name": "germains1953fall1953germ_archive.torrent", 
+      "btih": "573a8fc376b70fbc84e651872a009326f152f7a9", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1418947463", 
+      "crc32": "47838fc2", 
+      "md5": "7da1130f57f78328bd63810d8628c6e3", 
+      "size": "4237"
+    }, 
+    {
+      "source": "original", 
+      "md5": "7f40efc78a80400fcbb5224d28c28ab0", 
+      "name": "germains1953fall1953germ_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "updated": 1446751978, 
+  "uniq": 594579428, 
+  "created": 1446677494, 
+  "workable_servers": [
+    "ia800309.us.archive.org", 
+    "ia600309.us.archive.org"
+  ], 
+  "server": "ia800309.us.archive.org", 
+  "item_size": 24249029, 
+  "dir": "/8/items/germains1953fall1953germ", 
+  "metadata": {
+    "partner_shiptracking": "NC14_0089", 
+    "shiptracking": "ST001313", 
+    "scanner": "scribe3.beltsville.archive.org", 
+    "creator": [
+      "Germain Seed and Plant Company", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection.", 
+    "ppi": "350", 
+    "subcollection": "henryggilbertnurseryandseedtradecollection", 
+    "nal_call_number": "62.09", 
+    "operator": "associate-mark-kanaskie@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "copyright_message": "The contributing institution believes that this item is not in copyright", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "2", 
+    "scanfee": "100", 
+    "subject": [
+      "Nurseries (Horticulture) Catalogs", 
+      "Flowers Catalogs"
+    ], 
+    "call_number": "CAT31276669", 
+    "title": "Germain's 1953 fall special", 
+    "repub_state": "4", 
+    "foldout_seconds": "117", 
+    "camera": "Canon EOS 5D Mark II", 
+    "invoice": "3", 
+    "ocr": "ABBYY FineReader 9.0", 
+    "identifier-access": "http://archive.org/details/germains1953fall1953germ", 
+    "scanningcenter": "beltsville", 
+    "identifier-ark": "ark:/13960/t7zk7z644", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "fedlink", 
+      "americana", 
+      "biodiversity"
+    ], 
+    "volume": "1953", 
+    "updater": "associate-adrianna-flores@archive.org", 
+    "updatedate": "2014-04-02 12:48:21", 
+    "uploader": "associate-adrianna-flores@archive.org", 
+    "date": "1953", 
+    "republisher": "associate-marc-adona@archive.org", 
+    "addeddate": "2014-04-02 12:48:23.26621", 
+    "foldout-operator": "associate-marc-adona@archive.org", 
+    "publisher": "Los Angeles, Calif. : Germain's", 
+    "publicdate": "2014-04-02 11:44:44", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "curation": "[curator]admin-shelia-deroche@archive.org[/curator][date]20140707145308[/date][state]approved[/state][comment]invoice201406[/comment]", 
+    "notes": "No copyright page found. No table-of-contents pages found.", 
+    "imagecount": "12", 
+    "identifier": "germains1953fall1953germ", 
+    "sponsordate": "20140630", 
+    "unique_id": "CAT31276669", 
+    "scandate": "20140403151731"
+  }, 
+  "d2": "ia800309.us.archive.org", 
+  "files_count": 17, 
+  "d1": "ia600309.us.archive.org"
+}

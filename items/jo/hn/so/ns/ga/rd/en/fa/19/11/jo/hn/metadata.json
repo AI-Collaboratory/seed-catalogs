@@ -1,0 +1,270 @@
+{
+  "files": [
+    {
+      "sha1": "b82e9aaba2cfd499441c6d5099e4e3c36a72ad62", 
+      "name": "johnsonsgardenfa1911john_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1377099485", 
+      "crc32": "0bc0504a", 
+      "md5": "75500ec8db6473242d44d353821036cf", 
+      "size": "322"
+    }, 
+    {
+      "sha1": "b756e1b19a8100499b6ee41a4ab0c0ad7a8dea52", 
+      "name": "johnsonsgardenfa1911john_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1377099485", 
+      "crc32": "e19a7973", 
+      "md5": "2e3436711d8027b6eaf626696065272d", 
+      "size": "4608"
+    }, 
+    {
+      "sha1": "5b0d3b846dc650776aa06c6be691bc022893ebcf", 
+      "name": "johnsonsgardenfa1911john_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1377099485", 
+      "crc32": "5b739525", 
+      "md5": "80a3d57c21658b633bf65ef57ea3a986", 
+      "size": "1766"
+    }, 
+    {
+      "sha1": "1a72714d7ec4d2b5dd52713d45370e8d2d2115c3", 
+      "name": "johnsonsgardenfa1911john_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1377099485", 
+      "crc32": "d4a598f6", 
+      "md5": "7f6781d16852a915cdfa2d68b4abb58a", 
+      "size": "1307"
+    }, 
+    {
+      "sha1": "35f857f04c797fe5d314bb335552b0bfbac0135f", 
+      "name": "johnsonsgardenfa1911john_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1377189697", 
+      "crc32": "89a728d8", 
+      "md5": "eb647b8c2610f1459cb68c058571a446", 
+      "size": "166778"
+    }, 
+    {
+      "sha1": "73e553a5b62b21f46373a9bb0357715d35a2ebde", 
+      "name": "johnsonsgardenfa1911john_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1377189699", 
+      "crc32": "decc7541", 
+      "md5": "ae064f7f1b850df65daf06e8ecb1342f", 
+      "size": "173752320"
+    }, 
+    {
+      "sha1": "ab000a9ec4364d2e08788a8883faf7b8e73ba4a1", 
+      "name": "johnsonsgardenfa1911john_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1377192562", 
+      "crc32": "e0202186", 
+      "md5": "f66eeb3fcc733cab197154474c77e908", 
+      "original": "johnsonsgardenfa1911john_orig_jp2.tar", 
+      "size": "153439145"
+    }, 
+    {
+      "sha1": "090b7bce8831acb75009853aa739f7755542354d", 
+      "name": "johnsonsgardenfa1911john.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1377199419", 
+      "crc32": "3115eaa4", 
+      "md5": "6b4af03558af58a7125ee67d9f94aed0", 
+      "original": "johnsonsgardenfa1911john_djvu.xml", 
+      "size": "25655061"
+    }, 
+    {
+      "sha1": "899a4959f2bc66b613607001ccad9b9684b0ee37", 
+      "name": "johnsonsgardenfa1911john_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1377199443", 
+      "crc32": "b325c0bf", 
+      "md5": "73be99427f069512d24b99a86b976a4b", 
+      "original": "johnsonsgardenfa1911john.djvu", 
+      "size": "338578"
+    }, 
+    {
+      "sha1": "4010387812619b933fa61054e890db71f5df9602", 
+      "name": "johnsonsgardenfa1911john_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1377197525", 
+      "crc32": "4703400a", 
+      "md5": "e11008c5283f74f8d3d345692f2d1dd9", 
+      "original": "johnsonsgardenfa1911john_jp2.zip", 
+      "size": "5464392"
+    }, 
+    {
+      "sha1": "ea2791b5f21056edf86f3d9891583da248c3f405", 
+      "name": "johnsonsgardenfa1911john.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1377197693", 
+      "crc32": "0a49fdf1", 
+      "md5": "c4bcc50d3bd748a742e3f62334933a3b", 
+      "original": "johnsonsgardenfa1911john_abbyy.gz", 
+      "size": "2507872"
+    }, 
+    {
+      "sha1": "a5b7fe664438abdd37c1724284a6cc6efa60fc6e", 
+      "name": "johnsonsgardenfa1911john.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1377198414", 
+      "crc32": "6f1af3a1", 
+      "md5": "2f6a7001ca775400916d90770e2c93fd", 
+      "original": "johnsonsgardenfa1911john_djvu.xml", 
+      "size": "17295856"
+    }, 
+    {
+      "sha1": "edd602635d8003a4fb6211fac314dad07880762d", 
+      "name": "johnsonsgardenfa1911john.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1377192600", 
+      "crc32": "bab6b217", 
+      "md5": "199f6aa66d9534ee7fce789420970009", 
+      "original": "johnsonsgardenfa1911john_jp2.zip", 
+      "size": "299032"
+    }, 
+    {
+      "sha1": "83a10d0faa4a9f69cd19a442141ee430ee96632b", 
+      "name": "johnsonsgardenfa1911john_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1377197606", 
+      "crc32": "901ac50f", 
+      "md5": "ea526286f9e0a0b152f585b2fe06ee46", 
+      "original": "johnsonsgardenfa1911john_abbyy.gz", 
+      "size": "3366246"
+    }, 
+    {
+      "sha1": "847fd1e7fbd2a5efc437de4e53292ecebfc99e3d", 
+      "name": "johnsonsgardenfa1911john_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1418947772", 
+      "crc32": "b60af574", 
+      "md5": "d3ce79632cd1d27bf2e20dd97329aa37", 
+      "size": "2652"
+    }, 
+    {
+      "sha1": "474367ea20003a5c185ca78f6f8bbc093afc3ebf", 
+      "name": "johnsonsgardenfa1911john_meta.sqlite", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1428391758", 
+      "crc32": "c2231e28", 
+      "md5": "6fc41504108ca1d2f47c16f3d5171751", 
+      "size": "6144"
+    }, 
+    {
+      "sha1": "f44f34e24fba56e61f72d9fc0d5670ec4316de92", 
+      "name": "johnsonsgardenfa1911john_bhlmets.xml", 
+      "format": "Biodiversity Heritage Library METS", 
+      "source": "original", 
+      "mtime": "1428391746", 
+      "crc32": "3be23224", 
+      "md5": "f05a7ad6df8c4346572e563b35abce54", 
+      "size": "59237"
+    }, 
+    {
+      "sha1": "d1d622b7ff651893be0b59f2dc8eca66d9a44d5f", 
+      "name": "johnsonsgardenfa1911john_archive.torrent", 
+      "btih": "7445d43c57c943e92d61a4e6de26622a49ae72c7", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1428391829", 
+      "crc32": "1799ec9e", 
+      "md5": "9ec7455a7f68d018d3df29444e9da1b7", 
+      "size": "12153"
+    }, 
+    {
+      "source": "original", 
+      "md5": "0890219a798706caae22d5f1d0132891", 
+      "name": "johnsonsgardenfa1911john_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "uniq": 375017434, 
+  "created": 1446755301, 
+  "workable_servers": [
+    "ia601001.us.archive.org"
+  ], 
+  "server": "ia601001.us.archive.org", 
+  "item_size": 382373469, 
+  "dir": "/26/items/johnsonsgardenfa1911john", 
+  "metadata": {
+    "shiptracking": "ST000212", 
+    "scanner": "scribe4.beltsville.archive.org", 
+    "creator": [
+      "Johnson Seed Co", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection", 
+    "ppi": "500", 
+    "nal_call_number": "62.73", 
+    "operator": "associate-mang-pau@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "subject": [
+      "Nurseries (Horticulture) Pennsylvania Philadelphia Catalogs", 
+      "Nursery stock Pennsylvania Philadelphia Catalogs", 
+      "Vegetables Seeds Pennsylvania Philadelphia Catalogs", 
+      "Flowers Seeds Pennsylvania Philadelphia Catalogs", 
+      "Fruit Pennsylvania Philadelphia Catalogs"
+    ], 
+    "call_number": "CAT31123382", 
+    "title": "Johnson's garden & farm manual : 1911", 
+    "repub_state": "4", 
+    "possible-copyright-status": "The contributing institution believes that this item is not in copyright", 
+    "camera": "Canon EOS 5D Mark II", 
+    "ocr": "ABBYY FineReader 8.0", 
+    "identifier-access": "http://archive.org/details/johnsonsgardenfa1911john", 
+    "scanningcenter": "beltsville", 
+    "description": [
+      "Cover title", 
+      "Includes index"
+    ], 
+    "identifier-ark": "ark:/13960/t6p000k3q", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "fedlink", 
+      "americana", 
+      "biodiversity"
+    ], 
+    "volume": "1911", 
+    "repub_seconds": "17635", 
+    "updater": "associate-adrianna-flores@archive.org", 
+    "updatedate": "2013-08-21 15:38:05", 
+    "uploader": "associate-adrianna-flores@archive.org", 
+    "date": "1911", 
+    "republisher": "associate-saw-thein@archive.org", 
+    "addeddate": "2013-08-21 15:38:07", 
+    "publisher": "Philadelphia, Pa. : Johnson Seed Co.", 
+    "publicdate": "2013-08-21 14:40:24", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "imagecount": "106", 
+    "identifier": "johnsonsgardenfa1911john", 
+    "sponsordate": "20130831", 
+    "unique_id": "CAT31123382", 
+    "scandate": "20130821173607"
+  }, 
+  "files_count": 19, 
+  "d1": "ia601001.us.archive.org"
+}

@@ -1,0 +1,252 @@
+{
+  "files": [
+    {
+      "sha1": "7c7c54f1aa3fbdaf81ed2818ec8aa2914fb43ad0", 
+      "name": "annualseedbook1895fwri_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1407427216", 
+      "crc32": "4bf46bf8", 
+      "md5": "3e1f4cd8bde1fde75d7853dd037e0eea", 
+      "size": "3400"
+    }, 
+    {
+      "sha1": "c710dec838d1173617666b4b00c510dd319f194e", 
+      "name": "annualseedbook1895fwri_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1407427216", 
+      "crc32": "627059e1", 
+      "md5": "944bd95b8f0f0e8ecd781afe76d9bdb8", 
+      "size": "933"
+    }, 
+    {
+      "sha1": "edcf2192ddf5a47d05fd5f061524e7cd9ed5c3ee", 
+      "name": "annualseedbook1895fwri_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1407427216", 
+      "crc32": "645532cb", 
+      "md5": "b830a46ecf06ee22e72ea7c9d191a0f2", 
+      "size": "318"
+    }, 
+    {
+      "sha1": "7054079f3495c7043841b3e057a333ef6e391466", 
+      "name": "annualseedbook1895fwri_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1407427216", 
+      "crc32": "40ee356d", 
+      "md5": "d6378c1e6805830d94bee736a9a20a11", 
+      "size": "1320"
+    }, 
+    {
+      "sha1": "c22f84869f7bd7601190b8ff1a648036e6ad5807", 
+      "name": "annualseedbook1895fwri_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1409335393", 
+      "crc32": "dbb6d7c6", 
+      "md5": "676465233ac2d769a93e74785f18802f", 
+      "size": "123690"
+    }, 
+    {
+      "sha1": "112c830fac3e8315fa129e2019652f1c00bd35aa", 
+      "name": "annualseedbook1895fwri_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1409335393", 
+      "crc32": "c6c626f7", 
+      "md5": "d5f6aae9bbcc2fd39dc01bb3f01308bd", 
+      "size": "124979200"
+    }, 
+    {
+      "sha1": "64a8dfa12d82ec5095ecce1100620d27e2d7df1b", 
+      "name": "annualseedbook1895fwri_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1409339146", 
+      "crc32": "d46b0d76", 
+      "md5": "28dd32c1d777a7ec72bb744b4c31f3a0", 
+      "original": "annualseedbook1895fwri_jp2.zip", 
+      "size": "4168169"
+    }, 
+    {
+      "sha1": "67fcc404b2c7e4299b64955fed228c9d7737822e", 
+      "name": "annualseedbook1895fwri_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1409337946", 
+      "crc32": "0a8a252a", 
+      "md5": "2d7204fe988aa32031f1134781bee34b", 
+      "original": "annualseedbook1895fwri_orig_jp2.tar", 
+      "size": "84181426"
+    }, 
+    {
+      "sha1": "d47c2b314370b8fa73626410c0371efed9a1dce4", 
+      "name": "annualseedbook1895fwri.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1409339385", 
+      "crc32": "881110f4", 
+      "md5": "ab407a3d9aa0114df4403375a36b1158", 
+      "original": "annualseedbook1895fwri_abbyy.gz", 
+      "size": "2167680"
+    }, 
+    {
+      "sha1": "de82fd7a7b15ebe691640ee40a6f7ae175791611", 
+      "name": "annualseedbook1895fwri.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1409337996", 
+      "crc32": "b1308ddd", 
+      "md5": "b20f6835bec09c51d4a9d8cafd2df475", 
+      "original": "annualseedbook1895fwri_jp2.zip", 
+      "size": "272003"
+    }, 
+    {
+      "sha1": "cec79a1bd52a799a0d3818065b4119de66d69ca6", 
+      "name": "annualseedbook1895fwri.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1409340422", 
+      "crc32": "7b08a705", 
+      "md5": "edc637199e4ac4d19e4d57d202f68a94", 
+      "original": "annualseedbook1895fwri_djvu.xml", 
+      "size": "12461675"
+    }, 
+    {
+      "sha1": "633602cd1fb71310bdfa39be5aaa4d42b8c326fa", 
+      "name": "annualseedbook1895fwri.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1409339847", 
+      "crc32": "52246675", 
+      "md5": "74d29cdfe048d14513b4e13e833e6669", 
+      "original": "annualseedbook1895fwri_djvu.xml", 
+      "size": "8255211"
+    }, 
+    {
+      "sha1": "7ac2601ebf1402ebdf21749ebc1eb75117451602", 
+      "name": "annualseedbook1895fwri_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1409340440", 
+      "crc32": "eaf7fb3f", 
+      "md5": "e97dcdadc2eb415e871af9b73c7c1cd6", 
+      "original": "annualseedbook1895fwri.djvu", 
+      "size": "291357"
+    }, 
+    {
+      "sha1": "7a1beaf4ffeb9e25217feb32ed1a62cb4b069c99", 
+      "name": "annualseedbook1895fwri_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1409339269", 
+      "crc32": "55a64325", 
+      "md5": "4af7d4062a8f47e39be919e426b1c9d5", 
+      "original": "annualseedbook1895fwri_abbyy.gz", 
+      "size": "2728347"
+    }, 
+    {
+      "sha1": "a52fd0b00803fbfb0bf396ee403f9f3fa304e8b6", 
+      "name": "annualseedbook1895fwri_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1418946271", 
+      "crc32": "29a29049", 
+      "md5": "73f67d5430e3dc1888b594a420229002", 
+      "size": "2831"
+    }, 
+    {
+      "sha1": "13f7e4ea8fd98301bab5dbe230c085452ce06afd", 
+      "name": "annualseedbook1895fwri_archive.torrent", 
+      "btih": "2818f0dfc636ac5d7cd8810f2cb6279d03a35cbe", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1418946273", 
+      "crc32": "b5eaa33c", 
+      "md5": "952adab625b0650b7eb3be986950dc9c", 
+      "size": "8146"
+    }, 
+    {
+      "source": "original", 
+      "md5": "7de5935ce0e0d1e8b21948bbe6715de2", 
+      "name": "annualseedbook1895fwri_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "uniq": 818037849, 
+  "created": 1446753844, 
+  "workable_servers": [
+    "ia902304.us.archive.org"
+  ], 
+  "server": "ia902304.us.archive.org", 
+  "item_size": 239645706, 
+  "dir": "/17/items/annualseedbook1895fwri", 
+  "metadata": {
+    "partner_shiptracking": "NC14_1895_Q-R", 
+    "shiptracking": "ST002161", 
+    "scanner": "scribe3.beltsville.archive.org", 
+    "creator": [
+      "F.W. Ritter & Co", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection.", 
+    "ppi": "350", 
+    "subcollection": "henryggilbertnurseryandseedtradecollection", 
+    "nal_call_number": "62.67", 
+    "operator": "associate-mark-kanaskie@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "copyright_message": "The contributing institution believes that this item is not in copyright", 
+    "year": "1895", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "subject": [
+      "Nursery stock Ohio Dayton Catalogs", 
+      "Vegetables Seeds Catalogs", 
+      "Flowers Seeds Catalogs", 
+      "Plants, Ornamental Catalogs"
+    ], 
+    "call_number": "CAT31281946", 
+    "title": "Annual seed book", 
+    "repub_state": "4", 
+    "camera": "Canon EOS 5D Mark II", 
+    "invoice": "3", 
+    "ocr": "ABBYY FineReader 9.0", 
+    "identifier-access": "http://archive.org/details/annualseedbook1895fwri", 
+    "scanningcenter": "beltsville", 
+    "description": "Cover title", 
+    "identifier-ark": "ark:/13960/t4zg9db65", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "fedlink", 
+      "americana", 
+      "biodiversity"
+    ], 
+    "volume": "1895", 
+    "repub_seconds": "383", 
+    "updater": "associate-manuel-dennis@archive.org", 
+    "updatedate": "2014-08-07 16:00:16", 
+    "uploader": "associate-manuel-dennis@archive.org", 
+    "date": "1895", 
+    "republisher": "associate-manuel-dennis@archive.org", 
+    "addeddate": "2014-08-07 16:00:18.731097", 
+    "publisher": "Dayton, Ohio : F.W. Ritter & Co.", 
+    "publicdate": "2014-08-07 15:06:49", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "curation": "[curator]admin-shelia-deroche@archive.org[/curator][date]20141002145800[/date][state]approved[/state][comment]invoice201409[/comment]", 
+    "notes": "No copyright page found. No table-of-contents pages found.", 
+    "imagecount": "76", 
+    "identifier": "annualseedbook1895fwri", 
+    "sponsordate": "20140930", 
+    "unique_id": "CAT31281946", 
+    "scandate": "20140829180313"
+  }, 
+  "files_count": 17, 
+  "d1": "ia902304.us.archive.org"
+}

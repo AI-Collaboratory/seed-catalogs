@@ -1,0 +1,255 @@
+{
+  "files": [
+    {
+      "sha1": "090ed46a81449f68e758187c117652c17f9c00eb", 
+      "name": "livingstonswhole1902livi_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1384952102", 
+      "crc32": "bcf71447", 
+      "md5": "4f735dc1e37741da41ca2f0103f412eb", 
+      "size": "1022"
+    }, 
+    {
+      "sha1": "955209dc84e01d3aaa305110e8bcdcf726e148b3", 
+      "name": "livingstonswhole1902livi_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1384952102", 
+      "crc32": "fe3fd133", 
+      "md5": "f34e634319e215a1c0e9c81a69f1170f", 
+      "size": "1461"
+    }, 
+    {
+      "sha1": "77afbb4d04c55dbb09da86726ada068c6a26b37c", 
+      "name": "livingstonswhole1902livi_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1384952102", 
+      "crc32": "39cecd9a", 
+      "md5": "04328875935db2dd9f4afb04ad77303f", 
+      "size": "3633"
+    }, 
+    {
+      "sha1": "387ee2ece3494e1156dabec6529d7ca9a89d9a0d", 
+      "name": "livingstonswhole1902livi_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1384952102", 
+      "crc32": "9dff5666", 
+      "md5": "222f2097266f70dd734585bcf362e8a2", 
+      "size": "322"
+    }, 
+    {
+      "sha1": "2f0571403023fa644284ca15194fe1681e2445cc", 
+      "name": "livingstonswhole1902livi_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1385148678", 
+      "crc32": "a1223712", 
+      "md5": "7f9c7682fa93b35353ea5f427fa93023", 
+      "size": "38085"
+    }, 
+    {
+      "sha1": "32b6c293b2c1abd85acf3a535f5b363ac552c832", 
+      "name": "livingstonswhole1902livi_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1385148679", 
+      "crc32": "27a1fdf4", 
+      "md5": "6efec77f6c428646535e2ef3e450f292", 
+      "size": "21688320"
+    }, 
+    {
+      "sha1": "1109e6b7969b9b206f48b0ecb1971e594e0a29f8", 
+      "name": "livingstonswhole1902livi_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1385149375", 
+      "crc32": "97bc6ee8", 
+      "md5": "e00b7051ec75a15d42789c7ddc420eb1", 
+      "original": "livingstonswhole1902livi_orig_jp2.tar", 
+      "size": "16066977"
+    }, 
+    {
+      "sha1": "ecf07f253343bee9cf629d603ccb0992abea06ef", 
+      "name": "livingstonswhole1902livi_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1385149693", 
+      "crc32": "5e2d5add", 
+      "md5": "6ac41f87558c2d5d46a7c579e4f89110", 
+      "original": "livingstonswhole1902livi_abbyy.gz", 
+      "size": "386109"
+    }, 
+    {
+      "sha1": "f2c9e91c56f913f5d59f8a42477647486d0155a1", 
+      "name": "livingstonswhole1902livi.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1385149399", 
+      "crc32": "08aeb693", 
+      "md5": "e3625d2da72d40e4328a42f07b4d64a3", 
+      "original": "livingstonswhole1902livi_jp2.zip", 
+      "size": "208349"
+    }, 
+    {
+      "sha1": "da77e29307da2b1edf3a986a283a273c3ff70cc6", 
+      "name": "livingstonswhole1902livi_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1385149678", 
+      "crc32": "9d16ee0e", 
+      "md5": "c111b0a5dcd17cc634667a9a10989b8a", 
+      "original": "livingstonswhole1902livi_jp2.zip", 
+      "size": "569624"
+    }, 
+    {
+      "sha1": "cd75433dfcbef3159da371afffffb10c591dac47", 
+      "name": "livingstonswhole1902livi.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1385149702", 
+      "crc32": "bdd2e74a", 
+      "md5": "48f5dbf75f3b86db47955f176d6fb5d5", 
+      "original": "livingstonswhole1902livi_abbyy.gz", 
+      "size": "174488"
+    }, 
+    {
+      "sha1": "785ae61578db434768ab10bb7ad4a784ab6a8f11", 
+      "name": "livingstonswhole1902livi.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1385149929", 
+      "crc32": "728d0474", 
+      "md5": "4ff3c3d59a7463efd48ae692a483bc27", 
+      "original": "livingstonswhole1902livi_djvu.xml", 
+      "size": "2070979"
+    }, 
+    {
+      "sha1": "c7b07b63d8198811125ef26bdaf7cfa21bafcb32", 
+      "name": "livingstonswhole1902livi_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1385149936", 
+      "crc32": "7273c9a2", 
+      "md5": "34d917c35bbcd02dafcdb839f3a5adca", 
+      "original": "livingstonswhole1902livi.djvu", 
+      "size": "35957"
+    }, 
+    {
+      "sha1": "f60cd6a58f6da14ba1f471aa8cf00ac6563b3c5f", 
+      "name": "livingstonswhole1902livi.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1385149799", 
+      "crc32": "4719c943", 
+      "md5": "34b936455d054907db401f7cd99b0b02", 
+      "original": "livingstonswhole1902livi_djvu.xml", 
+      "size": "1199711"
+    }, 
+    {
+      "sha1": "66744b9b7f59f66589ce3b9f2aa04d9642f5bb36", 
+      "name": "livingstonswhole1902livi_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1418947835", 
+      "crc32": "120c9dd4", 
+      "md5": "eebebb9623d60b33965e4eeec6642387", 
+      "size": "2961"
+    }, 
+    {
+      "sha1": "6d78fd8a6b1a0f30881b59516915f606241805da", 
+      "name": "livingstonswhole1902livi_archive.torrent", 
+      "btih": "7a9a044d6835fc6264ea3d9498a6ea43645711b6", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1418947836", 
+      "crc32": "83b89524", 
+      "md5": "15073a4ef6e28f350c565b5edad7c7c0", 
+      "size": "4602"
+    }, 
+    {
+      "source": "original", 
+      "md5": "72a73ef68e25549940541942064b573a", 
+      "name": "livingstonswhole1902livi_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "uniq": 505080560, 
+  "created": 1446675783, 
+  "workable_servers": [
+    "ia601001.us.archive.org"
+  ], 
+  "server": "ia601001.us.archive.org", 
+  "item_size": 42452600, 
+  "dir": "/19/items/livingstonswhole1902livi", 
+  "metadata": {
+    "partner_shiptracking": "NC14_0043a", 
+    "shiptracking": "ST000571", 
+    "scanner": "scribe1.beltsville.archive.org", 
+    "creator": [
+      "Livingston Seed Company", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection", 
+    "ppi": "500", 
+    "subcollection": "henryggilbertnurseryandseedtradecollection", 
+    "nal_call_number": "62.67", 
+    "operator": "associate-marc-adona@archive.org", 
+    "curatestate": "freeze", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "copyright_message": "The contributing institution believes that this item is not in copyright", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "subject": [
+      "Seeds Catalogs", 
+      "Seed industry and trade Ohio Columbus Catalogs", 
+      "Vegetables Ohio Columbus Catalogs", 
+      "Fruit Ohio Columbus Catalogs"
+    ], 
+    "call_number": "CAT31132073", 
+    "title": "Livingston's wholesale trade prices for 1902 : true blue seeds", 
+    "repub_state": "4", 
+    "camera": "Canon EOS 5D Mark II", 
+    "invoice": "3", 
+    "ocr": "ABBYY FineReader 9.0", 
+    "identifier-access": "http://archive.org/details/livingstonswhole1902livi", 
+    "scanningcenter": "beltsville", 
+    "description": [
+      "Cover title", 
+      "\"February 1902.\""
+    ], 
+    "identifier-ark": "ark:/13960/t5s77r79z", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "fedlink", 
+      "americana", 
+      "biodiversity"
+    ], 
+    "volume": "1902", 
+    "repub_seconds": "179", 
+    "updater": "associate-adrianna-flores@archive.org", 
+    "updatedate": "2013-11-20 12:55:02", 
+    "uploader": "associate-adrianna-flores@archive.org", 
+    "date": "1902", 
+    "republisher": "associate-mark-kanaskie@archive.org", 
+    "addeddate": "2013-11-20 12:55:04.819403", 
+    "publisher": "Columbus, Ohio : The Livingstons Seed Co.", 
+    "publicdate": "2013-11-20 12:03:26", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "curation": "[curator]admin-shelia-deroche@archive.org[/curator][date]20140806142802[/date][state]approved[/state][comment]invoice201407[/comment]", 
+    "notes": "No copyright page found. No table-of-contents pages found.", 
+    "imagecount": "24", 
+    "identifier": "livingstonswhole1902livi", 
+    "sponsordate": "20140731", 
+    "unique_id": "CAT31132073", 
+    "scandate": "20131120171939"
+  }, 
+  "files_count": 17, 
+  "d1": "ia601001.us.archive.org"
+}

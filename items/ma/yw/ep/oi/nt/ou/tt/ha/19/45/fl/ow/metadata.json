@@ -1,0 +1,262 @@
+{
+  "files": [
+    {
+      "sha1": "4e82a3c09d24d3bb9653b5b189b435771f9ca656", 
+      "name": "maywepointouttha1945flow_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1386098979", 
+      "crc32": "ce9fceeb", 
+      "md5": "738e87206422c0558b8fe13dba477b97", 
+      "size": "322"
+    }, 
+    {
+      "sha1": "a1faf540db24e31e8571de51d1eed6b15eb173e8", 
+      "name": "maywepointouttha1945flow_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1386098979", 
+      "crc32": "d78a4e8b", 
+      "md5": "ea5e05c96b44b6ad61695239b87966eb", 
+      "size": "1171"
+    }, 
+    {
+      "sha1": "688c672f0cdf15ba5b7cffb789dd0eca71ad8c39", 
+      "name": "maywepointouttha1945flow_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1386098979", 
+      "crc32": "25f55dd4", 
+      "md5": "9c8990725d07f49f07f76129382c84cd", 
+      "size": "3993"
+    }, 
+    {
+      "sha1": "98e338a166be872d6581d22ce6de684177668501", 
+      "name": "maywepointouttha1945flow_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1386098979", 
+      "crc32": "6a6ba37d", 
+      "md5": "04edc973f6693f7d30b6fdf0d0dd3db8", 
+      "size": "1616"
+    }, 
+    {
+      "sha1": "92739e579524bbd8f24a1bc7c0b9feb12b79cd3e", 
+      "name": "maywepointouttha1945flow_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1386182587", 
+      "crc32": "b2d1419e", 
+      "md5": "fadd4edbaa4ed889f8788d205ae77938", 
+      "size": "10306"
+    }, 
+    {
+      "sha1": "6f7feca5cc72fdff34c2bee406da2d4fe11a596e", 
+      "name": "maywepointouttha1945flow_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1386182587", 
+      "crc32": "0dc7d0fd", 
+      "md5": "379e55cbde06944eb7ca2b890c24e784", 
+      "size": "4638720"
+    }, 
+    {
+      "sha1": "4fb9562b378ec81ea4249e0a7c68281d0603c32e", 
+      "name": "maywepointouttha1945flow_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1386182703", 
+      "crc32": "fa136576", 
+      "md5": "f3e1159a207035917d79c423a9825739", 
+      "original": "maywepointouttha1945flow_orig_jp2.tar", 
+      "size": "2867145"
+    }, 
+    {
+      "sha1": "f821cd8732abd38ab27183b00270936d71680dce", 
+      "name": "maywepointouttha1945flow_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1386182727", 
+      "crc32": "2a82c04a", 
+      "md5": "0feb1c9cf35da3d7cb2ccb97524fd2c5", 
+      "original": "maywepointouttha1945flow_jp2.zip", 
+      "size": "12460"
+    }, 
+    {
+      "sha1": "b1993516c86dbefb89e219c907818b408f647574", 
+      "name": "maywepointouttha1945flow_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1386182732", 
+      "crc32": "2bfdb4d2", 
+      "md5": "e34e69d32e68516bdea4fa6ff4a1d12d", 
+      "original": "maywepointouttha1945flow_abbyy.gz", 
+      "size": "8984"
+    }, 
+    {
+      "sha1": "c9840b676e66292647c70844122f70d3e4bef7de", 
+      "name": "maywepointouttha1945flow.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1386182710", 
+      "crc32": "effe6b08", 
+      "md5": "06ed2a10b35aedf1843baa26b42cda99", 
+      "original": "maywepointouttha1945flow_jp2.zip", 
+      "size": "44654"
+    }, 
+    {
+      "sha1": "b2fc0e92b40d00190654a9ed9cb2d0eb233d84c2", 
+      "name": "maywepointouttha1945flow.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1386182751", 
+      "crc32": "9bca7b07", 
+      "md5": "9f1b25012ec9422e7532ae6345acde69", 
+      "original": "maywepointouttha1945flow_djvu.xml", 
+      "size": "50792"
+    }, 
+    {
+      "sha1": "96b7152cf95ac6a52b0b3f68e6aabed8cd2691db", 
+      "name": "maywepointouttha1945flow.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1386182769", 
+      "crc32": "60c69473", 
+      "md5": "d0a23a155a987ed888d59d9d7e501cb1", 
+      "original": "maywepointouttha1945flow_djvu.xml", 
+      "size": "99925"
+    }, 
+    {
+      "sha1": "fde3b4ad6754ded98e5a07ae8cbc40635405be0f", 
+      "name": "maywepointouttha1945flow.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1386182736", 
+      "crc32": "97dff9e0", 
+      "md5": "c09005c0b725f1260ef4f8e0d822d840", 
+      "original": "maywepointouttha1945flow_abbyy.gz", 
+      "size": "67828"
+    }, 
+    {
+      "sha1": "482ae3709cc79257eac4d46fd0d26761c918938a", 
+      "name": "maywepointouttha1945flow_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1386182775", 
+      "crc32": "a025c4a8", 
+      "md5": "72e17c6ea6867e793df408af0cbcb7a3", 
+      "original": "maywepointouttha1945flow.djvu", 
+      "size": "776"
+    }, 
+    {
+      "sha1": "2e6665fd43c471d952ce2f597b1d253ad2a63715", 
+      "name": "maywepointouttha1945flow_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1418947904", 
+      "crc32": "0be689f8", 
+      "md5": "0ed3f114ae9765fef5c86f07dd546182", 
+      "size": "3198"
+    }, 
+    {
+      "sha1": "61eb9ad7eaac67a8f2a866ec289835485978e1e9", 
+      "name": "maywepointouttha1945flow_archive.torrent", 
+      "btih": "4fe8e75dbfe21d23c68adb9f92d7caef771f45fb", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1418947905", 
+      "crc32": "1b5d4d89", 
+      "md5": "815a85befecf224851e885b8ba9fcdfc", 
+      "size": "3930"
+    }, 
+    {
+      "source": "original", 
+      "md5": "7ab18fd79fe8dd8e3eff6a3165906143", 
+      "name": "maywepointouttha1945flow_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "uniq": 2012398659, 
+  "created": 1446753289, 
+  "workable_servers": [
+    "ia601004.us.archive.org"
+  ], 
+  "server": "ia601004.us.archive.org", 
+  "item_size": 7815820, 
+  "dir": "/32/items/maywepointouttha1945flow", 
+  "metadata": {
+    "partner_shiptracking": "NC14_0045a", 
+    "shiptracking": "ST000639", 
+    "scanner": "scribe1.beltsville.archive.org", 
+    "creator": [
+      "Flowerfield Bulb Farm", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection", 
+    "ppi": "500", 
+    "subcollection": "henryggilbertnurseryandseedtradecollection", 
+    "nal_call_number": "62.61", 
+    "operator": "associate-marc-adona@archive.org", 
+    "curatestate": "freeze", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "invoice": "3", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "copright_message_": "The contributing institution believes that this item is not in copyright", 
+    "subject": [
+      "Horticulture New York (State) Catalogs", 
+      "Nursery stock New York (State) Catalogs", 
+      "Bulbs (Plants) New York (State) Catalogs", 
+      "Flowers Seeds New York (State) Catalogs", 
+      "Seed industry and trade New York (State) Catalogs", 
+      "Flowerfield Bulb Farm", 
+      "Horticulture", 
+      "Nursery stock", 
+      "Bulbs (Plants)", 
+      "Flowers", 
+      "Seed industry and trade"
+    ], 
+    "call_number": "CAT31131646", 
+    "title": "May we point out, - that ...", 
+    "repub_state": "4", 
+    "camera": "Canon EOS 5D Mark II", 
+    "ocr": "ABBYY FineReader 9.0", 
+    "identifier-access": "http://archive.org/details/maywepointouttha1945flow", 
+    "scanningcenter": "beltsville", 
+    "description": [
+      "Cover title", 
+      "\"March 10, 1945.\""
+    ], 
+    "identifier-ark": "ark:/13960/t75t62489", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "fedlink", 
+      "americana", 
+      "biodiversity"
+    ], 
+    "volume": "1945", 
+    "repub_seconds": "1924", 
+    "updater": "associate-adrianna-flores@archive.org", 
+    "updatedate": "2013-12-03 19:29:39", 
+    "uploader": "associate-adrianna-flores@archive.org", 
+    "date": "1945", 
+    "republisher": "associate-mang-pau@archive.org", 
+    "addeddate": "2013-12-03 19:29:42.27296", 
+    "publisher": "Long Island, New York : Flowerfield Bulb Farm", 
+    "dates": "1945", 
+    "publicdate": "2013-12-03 18:23:23", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "curation": "[curator]admin-shelia-deroche@archive.org[/curator][date]20140502145026[/date][state]approved[/state][comment]invoice201404[/comment]", 
+    "imagecount": "6", 
+    "identifier": "maywepointouttha1945flow", 
+    "sponsordate": "20140430", 
+    "unique_id": "CAT31131646", 
+    "scandate": "20131204163525"
+  }, 
+  "files_count": 17, 
+  "d1": "ia601004.us.archive.org"
+}

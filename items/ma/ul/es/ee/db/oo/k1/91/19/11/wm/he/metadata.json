@@ -1,0 +1,264 @@
+{
+  "files": [
+    {
+      "sha1": "8051f9688b8824a9177032925a299b73de8622bc", 
+      "name": "mauleseedbook1911911wmhe_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1376491634", 
+      "crc32": "89721c4c", 
+      "md5": "b8441086997ce03fbb28e40f54789436", 
+      "size": "325"
+    }, 
+    {
+      "sha1": "59d43edc3bf13b37e561c9cc0abcd2d450d2712b", 
+      "name": "mauleseedbook1911911wmhe_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1376491634", 
+      "crc32": "a072e363", 
+      "md5": "ad5f5f5d6da4613a09f18ab84062a55b", 
+      "size": "3787"
+    }, 
+    {
+      "sha1": "091b96a2697565f100b961b6c99c39bee6c982e9", 
+      "name": "mauleseedbook1911911wmhe_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1376491634", 
+      "crc32": "b39c67c0", 
+      "md5": "1784c1b6e0845a6faab668ec65447834", 
+      "size": "1620"
+    }, 
+    {
+      "sha1": "9430a6233c7ba45543f8f3657d83e7537d5e52b5", 
+      "name": "mauleseedbook1911911wmhe_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1376491634", 
+      "crc32": "47b39a34", 
+      "md5": "f37937829db214c7edcc01c68a7ac2de", 
+      "size": "1032"
+    }, 
+    {
+      "sha1": "2220b95f686f99c1efa8259672e5773c0fbe046a", 
+      "name": "mauleseedbook1911911wmhe_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1377011656", 
+      "crc32": "87173dc0", 
+      "md5": "900216d0df74eaaab9542f2cb909d9fd", 
+      "size": "508149760"
+    }, 
+    {
+      "sha1": "82a0c640c7b485fafe4ba0d7e0931dd867188b36", 
+      "name": "mauleseedbook1911911wmhe_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1377011643", 
+      "crc32": "944e5eb2", 
+      "md5": "87debbfd14ce5923665006892ea89dce", 
+      "size": "303131"
+    }, 
+    {
+      "sha1": "8a99360774e2692a4c1b9f453e04c318422d4ea8", 
+      "name": "mauleseedbook1911911wmhe_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1377024809", 
+      "crc32": "a5a6f125", 
+      "md5": "2ea38711cf0c0ac8caa78f574a1e2c31", 
+      "original": "mauleseedbook1911911wmhe_abbyy.gz", 
+      "size": "7882821"
+    }, 
+    {
+      "sha1": "b15329342a9b5eec512771411518907850160ab7", 
+      "name": "mauleseedbook1911911wmhe_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1377017870", 
+      "crc32": "d133a858", 
+      "md5": "0b5ef68f76fdf140ba1bf139d0f66c0d", 
+      "original": "mauleseedbook1911911wmhe_orig_jp2.tar", 
+      "size": "301365522"
+    }, 
+    {
+      "sha1": "8ca20505913fd191f7f1323a8bceed77a9731caf", 
+      "name": "mauleseedbook1911911wmhe.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1377026307", 
+      "crc32": "109d1ff7", 
+      "md5": "cf82171309e427af0c90e1764b914bdf", 
+      "original": "mauleseedbook1911911wmhe_djvu.xml", 
+      "size": "40969425"
+    }, 
+    {
+      "sha1": "eee18ebe76e33a4a947bfa4fc2c1f35e3f23ade3", 
+      "name": "mauleseedbook1911911wmhe.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1377027785", 
+      "crc32": "415aec8d", 
+      "md5": "2d5d41b815d06355816aba39e309e980", 
+      "original": "mauleseedbook1911911wmhe_djvu.xml", 
+      "size": "60686503"
+    }, 
+    {
+      "sha1": "b268330b5d2057a93e1f6987aece4e27620ed04a", 
+      "name": "mauleseedbook1911911wmhe.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1377017899", 
+      "crc32": "21f19f85", 
+      "md5": "316bf1bd2c82965354b299861d261546", 
+      "original": "mauleseedbook1911911wmhe_jp2.zip", 
+      "size": "286223"
+    }, 
+    {
+      "sha1": "fb9a9b02287cdfdc207073d4785e14c90904bcfe", 
+      "name": "mauleseedbook1911911wmhe.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1377025060", 
+      "crc32": "e3d3cbef", 
+      "md5": "203c19e7b14a52039d4a5d4f12c2fab6", 
+      "original": "mauleseedbook1911911wmhe_abbyy.gz", 
+      "size": "10685074"
+    }, 
+    {
+      "sha1": "2d4b04fff582084b604dbe05fa2203838cf90c59", 
+      "name": "mauleseedbook1911911wmhe_toc.xml", 
+      "format": "Contents", 
+      "source": "derivative", 
+      "mtime": "1377025066", 
+      "crc32": "5e732754", 
+      "md5": "f8123774baf36a2abc95b009581d793d", 
+      "original": "mauleseedbook1911911wmhe_djvu.xml", 
+      "size": "285315"
+    }, 
+    {
+      "sha1": "d9b6152224d5f5d19e59321b30a452d5705e5895", 
+      "name": "mauleseedbook1911911wmhe_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1377027830", 
+      "crc32": "1d70101a", 
+      "md5": "a60486627bc1201d2d57674ec9e549cb", 
+      "original": "mauleseedbook1911911wmhe.djvu", 
+      "size": "838353"
+    }, 
+    {
+      "sha1": "19c28d5e3b2d9ee1b4caf8869ecae2a1ea757f3b", 
+      "name": "mauleseedbook1911911wmhe_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1377024589", 
+      "crc32": "c9a73ec5", 
+      "md5": "9c8ae2b66bdefac7dbf29aa8a5602c9b", 
+      "original": "mauleseedbook1911911wmhe_jp2.zip", 
+      "size": "13123626"
+    }, 
+    {
+      "sha1": "6999234b10b13fcb8827a922d1a1b1597bba604e", 
+      "name": "mauleseedbook1911911wmhe_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1418948616", 
+      "crc32": "5f7061bb", 
+      "md5": "280a63263c1f1590b82e3defc5d87f57", 
+      "size": "2718"
+    }, 
+    {
+      "sha1": "54a4303157cd2ecb41159b2c64014abdb41a06cb", 
+      "name": "mauleseedbook1911911wmhe_archive.torrent", 
+      "btih": "de88ae9cc0b448b307985d07d1ec287e68f9bf39", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1418948621", 
+      "crc32": "3af04f59", 
+      "md5": "e5e2ed7d143ffc0999a52eedcbf296cf", 
+      "size": "20661"
+    }, 
+    {
+      "source": "original", 
+      "md5": "6462ef1937ff28ad9594260919f876c1", 
+      "name": "mauleseedbook1911911wmhe_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "uniq": 162496713, 
+  "created": 1446734568, 
+  "workable_servers": [
+    "ia601901.us.archive.org"
+  ], 
+  "server": "ia601901.us.archive.org", 
+  "item_size": 944605896, 
+  "dir": "/11/items/mauleseedbook1911911wmhe", 
+  "metadata": {
+    "shiptracking": "ST000181", 
+    "scanner": "scribe3.beltsville.archive.org", 
+    "creator": [
+      "Wm. Henry Maule (Firm)", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection", 
+    "ppi": "350", 
+    "nal_call_number": "62.73", 
+    "operator": "associate-lian-kam@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "subject": [
+      "Seeds Catalogs", 
+      "Vegetables Catalogs", 
+      "Fruit Catalogs", 
+      "Flowers Catalogs", 
+      "Livestock Catalogs", 
+      "Trees Seeds Catalogs", 
+      "Gardening Equipment and supplies Catalogs"
+    ], 
+    "call_number": "CAT31123543", 
+    "title": "The Maule seed book : 1911", 
+    "repub_state": "4", 
+    "possible-copyright-status": "The contributing institution believes that this item is not in copyright", 
+    "camera": "Canon EOS 5D Mark II", 
+    "ocr": "ABBYY FineReader 8.0", 
+    "identifier-access": "http://archive.org/details/mauleseedbook1911911wmhe", 
+    "scanningcenter": "beltsville", 
+    "description": [
+      "Cover title", 
+      "Includes index"
+    ], 
+    "identifier-ark": "ark:/13960/t2v42jb0b", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "fedlink", 
+      "americana", 
+      "biodiversity"
+    ], 
+    "volume": "1911", 
+    "repub_seconds": "9022", 
+    "updater": "associate-adrianna-flores@archive.org", 
+    "updatedate": "2013-08-14 14:47:14", 
+    "uploader": "associate-adrianna-flores@archive.org", 
+    "date": "1911", 
+    "republisher": "associate-mang-pau@archive.org", 
+    "addeddate": "2013-08-14 14:47:16", 
+    "publisher": "Philadelphia, Pa. : Maule", 
+    "publicdate": "2013-08-14 13:47:02", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "curation": "[curator]admin-shelia-deroche@archive.org[/curator][date]20130831203136[/date][state]approved[/state][comment]199[/comment]", 
+    "imagecount": "190", 
+    "identifier": "mauleseedbook1911911wmhe", 
+    "sponsordate": "20130831", 
+    "unique_id": "CAT31123543", 
+    "scandate": "20130819131441"
+  }, 
+  "files_count": 18, 
+  "d1": "ia601901.us.archive.org"
+}

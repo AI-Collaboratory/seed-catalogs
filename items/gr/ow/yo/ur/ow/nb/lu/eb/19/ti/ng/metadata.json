@@ -1,0 +1,240 @@
+{
+  "files": [
+    {
+      "sha1": "8987d7833b320801797fd20d31bece723a3d6f97", 
+      "name": "growyourownblueb19ting_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1375366036", 
+      "crc32": "a9238537", 
+      "md5": "124e72ea939848c4cbf5d49990a7d255", 
+      "size": "852"
+    }, 
+    {
+      "sha1": "a7a61d7310bd3a19db70e6458807809aba128219", 
+      "name": "growyourownblueb19ting_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1375366036", 
+      "crc32": "b0c91da4", 
+      "md5": "892b83976b003a767274216af22e2f3e", 
+      "size": "1206"
+    }, 
+    {
+      "sha1": "0efadca2e0f40875aab63d19cc7d9d2e1aabdb7e", 
+      "name": "growyourownblueb19ting_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1375366036", 
+      "crc32": "c00f1fe4", 
+      "md5": "b45e91607112ad562a08ea37e3fb0eb7", 
+      "size": "323"
+    }, 
+    {
+      "sha1": "406dc53e4a00e381d684a3a54611fc736528f7cc", 
+      "name": "growyourownblueb19ting_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1375366036", 
+      "crc32": "d74666e1", 
+      "md5": "7d8dedbf12c5c9e25ed0847ef2fdc687", 
+      "size": "2926"
+    }, 
+    {
+      "sha1": "497ac055de615355a5956918d9fee172ff11c2c3", 
+      "name": "growyourownblueb19ting_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1375728639", 
+      "crc32": "817534ba", 
+      "md5": "51d00fecfd80087db9b661c92c06dafb", 
+      "size": "12743"
+    }, 
+    {
+      "sha1": "72fd53387d2e6d2d0f77e64a57ba4f8072b4acb6", 
+      "name": "growyourownblueb19ting_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1375728639", 
+      "crc32": "229809c2", 
+      "md5": "c27aa7fd1d6cdbd82bca7186e8dab6d5", 
+      "size": "13527040"
+    }, 
+    {
+      "sha1": "9bb05c96b8b872fdbe8c24960736cf1ace9796f6", 
+      "name": "growyourownblueb19ting_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1375729022", 
+      "crc32": "0268c396", 
+      "md5": "a2ca5c1523bd4261417fd1603ddb60ff", 
+      "original": "growyourownblueb19ting_jp2.zip", 
+      "size": "204704"
+    }, 
+    {
+      "sha1": "b8939e9ced49bf72ae3db3bef43f9ffa7d83947a", 
+      "name": "growyourownblueb19ting_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1375728884", 
+      "crc32": "98ee9f9b", 
+      "md5": "ecf56fe152403c0dff950e14b0eda400", 
+      "original": "growyourownblueb19ting_orig_jp2.tar", 
+      "size": "7339248"
+    }, 
+    {
+      "sha1": "4a0ff1aadacde9b57032852fe720cf18fd3fa23e", 
+      "name": "growyourownblueb19ting.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1375729104", 
+      "crc32": "e78558b7", 
+      "md5": "a7e3282544ac15c1095fa9f2d292499e", 
+      "original": "growyourownblueb19ting_djvu.xml", 
+      "size": "546408"
+    }, 
+    {
+      "sha1": "ed8347701a4bd4a440eec58c6a4cc94dc16d172a", 
+      "name": "growyourownblueb19ting.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1375728892", 
+      "crc32": "68ae8b77", 
+      "md5": "c0eccac2c71eaee577c12ec8ecfda6fe", 
+      "original": "growyourownblueb19ting_jp2.zip", 
+      "size": "51138"
+    }, 
+    {
+      "sha1": "31c3bcf9e94e85dcf4dff9e39b9a4f4c4ba4a099", 
+      "name": "growyourownblueb19ting.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1375729067", 
+      "crc32": "9c16bc13", 
+      "md5": "3a94803d3e38e3ec7300cb1861b9604e", 
+      "original": "growyourownblueb19ting_djvu.xml", 
+      "size": "271508"
+    }, 
+    {
+      "sha1": "0a0263fcc0b70bd8948e4e7b7706acf4c603b40a", 
+      "name": "growyourownblueb19ting_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1375729110", 
+      "crc32": "e745b70e", 
+      "md5": "2fe27932fb4ab63e5353ad4153a6622b", 
+      "original": "growyourownblueb19ting.djvu", 
+      "size": "13361"
+    }, 
+    {
+      "sha1": "dd6ceb0ef75952546c73a066368bc3d797892ebc", 
+      "name": "growyourownblueb19ting.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1375729034", 
+      "crc32": "0fbe9d1e", 
+      "md5": "a4e2fbffb81341bb46a983bdc02447e5", 
+      "original": "growyourownblueb19ting_abbyy.gz", 
+      "size": "130247"
+    }, 
+    {
+      "sha1": "c5fe7dd6c860d59d67984575b228f7bbbf751be4", 
+      "name": "growyourownblueb19ting_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1375729030", 
+      "crc32": "c27abd16", 
+      "md5": "6fc0f8dd59429223a63f3aa93411ef2f", 
+      "original": "growyourownblueb19ting_abbyy.gz", 
+      "size": "124269"
+    }, 
+    {
+      "sha1": "d888a336ab6ad82b9852c32cde884691f4798595", 
+      "name": "growyourownblueb19ting_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1418947506", 
+      "crc32": "4d26da40", 
+      "md5": "d43e366e1e54aa1e41821fc0ece11ca4", 
+      "size": "2320"
+    }, 
+    {
+      "sha1": "ba12bceffc2fdfaa34ac049f488c9fef60580258", 
+      "name": "growyourownblueb19ting_archive.torrent", 
+      "btih": "b0f08d242b2683cb448df57cddf380aeec7a1ee5", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1418947507", 
+      "crc32": "e45b3c2e", 
+      "md5": "0c9b9e441614cd6ffd3583142ae9d26b", 
+      "size": "4095"
+    }, 
+    {
+      "source": "original", 
+      "md5": "572c86d66458c5a96df2544574eb0ccb", 
+      "name": "growyourownblueb19ting_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "uniq": 687595528, 
+  "created": 1446753403, 
+  "workable_servers": [
+    "ia600905.us.archive.org"
+  ], 
+  "server": "ia600905.us.archive.org", 
+  "item_size": 22232388, 
+  "dir": "/11/items/growyourownblueb19ting", 
+  "metadata": {
+    "shiptracking": "ST000127", 
+    "scanner": "scribe3.beltsville.archive.org", 
+    "creator": [
+      "Tingle Nursery Company", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection", 
+    "ppi": "350", 
+    "nal_call_number": "62.37", 
+    "operator": "associate-lian-kam@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "subject": "Nurseries (Horticulture) Catalogs;Blueberries Catalogs;", 
+    "call_number": "CAT31118594", 
+    "title": "Grow your own blueberries : pick them fresh off the bush", 
+    "repub_state": "4", 
+    "possible-copyright-status": "The contributing institution believes that this item is not in copyright", 
+    "camera": "Canon EOS 5D Mark II", 
+    "ocr": "ABBYY FineReader 8.0", 
+    "identifier-access": "http://archive.org/details/growyourownblueb19ting", 
+    "scanningcenter": "beltsville", 
+    "description": "Cover title", 
+    "identifier-ark": "ark:/13960/t7vm6101v", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "fedlink", 
+      "americana", 
+      "biodiversity"
+    ], 
+    "volume": "19uu", 
+    "repub_seconds": "82", 
+    "updater": "associate-adrianna-flores@archive.org", 
+    "updatedate": "2013-08-01 14:07:16", 
+    "uploader": "associate-adrianna-flores@archive.org", 
+    "republisher": "associate-eliza-zhang@archive.org", 
+    "addeddate": "2013-08-01 14:07:18", 
+    "publisher": "Pittsville, Md. : Tingle Nursery", 
+    "publicdate": "2013-08-01 13:00:15", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "imagecount": "8", 
+    "identifier": "growyourownblueb19ting", 
+    "sponsordate": "20130831", 
+    "unique_id": "CAT31118594", 
+    "scandate": "20130802142446"
+  }, 
+  "files_count": 17, 
+  "d1": "ia600905.us.archive.org"
+}

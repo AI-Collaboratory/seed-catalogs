@@ -1,0 +1,252 @@
+{
+  "files": [
+    {
+      "sha1": "8c662d6b4a5b52a954cb472c2a10c238c9ee5265", 
+      "name": "hoveycosdescript1843hove_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1392999358", 
+      "crc32": "6c209174", 
+      "md5": "c520dd80a936df15063c8651cefed700", 
+      "size": "3573"
+    }, 
+    {
+      "sha1": "e7e7e8cf11574bc204229be4c71ecc794acdd5ee", 
+      "name": "hoveycosdescript1843hove_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1392999358", 
+      "crc32": "8db9c16f", 
+      "md5": "7a091fb76eaedb4c57753c1eef6251db", 
+      "size": "1620"
+    }, 
+    {
+      "sha1": "b82e93354e40d54009c08d3e5dda29fbf3c68792", 
+      "name": "hoveycosdescript1843hove_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1392999358", 
+      "crc32": "cb56963b", 
+      "md5": "0fe57dd07d69455f8737ed60fb6b10b1", 
+      "size": "1121"
+    }, 
+    {
+      "sha1": "fa358c08e95465443b781a8252ff214e9ef3efa4", 
+      "name": "hoveycosdescript1843hove_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1392999358", 
+      "crc32": "156f64a5", 
+      "md5": "4196e8e2c335067f1da4757d1b3eab4b", 
+      "size": "322"
+    }, 
+    {
+      "sha1": "931113a1cd9b3cc01caacdc90b94d71ada2fef2c", 
+      "name": "hoveycosdescript1843hove_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1393335950", 
+      "crc32": "3090ae21", 
+      "md5": "84d241c4145d766e0cef55bf9cea562f", 
+      "size": "31917"
+    }, 
+    {
+      "sha1": "efb9da9b268c7b274f1bc0ac3979278cbe770023", 
+      "name": "hoveycosdescript1843hove_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1393335951", 
+      "crc32": "5d6e88b6", 
+      "md5": "bf897c1ef79fe9e9e94ff6d4ea9d3500", 
+      "size": "16885760"
+    }, 
+    {
+      "sha1": "e00eb3c13004510538aa8c3424175255bfa5786a", 
+      "name": "hoveycosdescript1843hove_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1393336408", 
+      "crc32": "4a4d6694", 
+      "md5": "50ccbdf1f68718918866b68cd753d1ee", 
+      "original": "hoveycosdescript1843hove_orig_jp2.tar", 
+      "size": "8219217"
+    }, 
+    {
+      "sha1": "3a657ada55a0ba6ddae8c586addbe132dc584daf", 
+      "name": "hoveycosdescript1843hove.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1393336622", 
+      "crc32": "061fce10", 
+      "md5": "9be95f28666a09ab6a629378f5774bd4", 
+      "original": "hoveycosdescript1843hove_djvu.xml", 
+      "size": "435970"
+    }, 
+    {
+      "sha1": "af27c198ce7926ab7ddc1497f7235f6a53c2ac6b", 
+      "name": "hoveycosdescript1843hove_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1393336567", 
+      "crc32": "66630fb5", 
+      "md5": "153508ebadd9e399c73139c2f92eb5ed", 
+      "original": "hoveycosdescript1843hove_abbyy.gz", 
+      "size": "456635"
+    }, 
+    {
+      "sha1": "ebdea4a040a825d9bf3947878d30a130aefb80a0", 
+      "name": "hoveycosdescript1843hove.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1393336420", 
+      "crc32": "f01b208e", 
+      "md5": "cbf76c0ced9ce476fb34d75e1c1b509d", 
+      "original": "hoveycosdescript1843hove_jp2.zip", 
+      "size": "187118"
+    }, 
+    {
+      "sha1": "3f6c604eb5a80d8a79e8e632170ff1bc65ee5129", 
+      "name": "hoveycosdescript1843hove_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1393336550", 
+      "crc32": "5bc097f8", 
+      "md5": "b57edbcd2070f66b02748f0690168088", 
+      "original": "hoveycosdescript1843hove_jp2.zip", 
+      "size": "606993"
+    }, 
+    {
+      "sha1": "0247889e44bf2f1f634c0e6061a87c823a8bbbe0", 
+      "name": "hoveycosdescript1843hove.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1393336685", 
+      "crc32": "e73368b1", 
+      "md5": "d9f808557c1abb9330760241054bb4f1", 
+      "original": "hoveycosdescript1843hove_djvu.xml", 
+      "size": "788393"
+    }, 
+    {
+      "sha1": "1cc81b845a9ce5dd56d236fe1fe6cbcc25d0270c", 
+      "name": "hoveycosdescript1843hove.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1393336572", 
+      "crc32": "1bc1b15b", 
+      "md5": "0a4a17f4845888860bdf41f25c4cadcb", 
+      "original": "hoveycosdescript1843hove_abbyy.gz", 
+      "size": "87537"
+    }, 
+    {
+      "sha1": "5efcf9096ea30e2ab00011b1af673a079abfa222", 
+      "name": "hoveycosdescript1843hove_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1393336700", 
+      "crc32": "26fbed3c", 
+      "md5": "0621c0f288d9ab51bd5d8fe620db14c2", 
+      "original": "hoveycosdescript1843hove.djvu", 
+      "size": "43346"
+    }, 
+    {
+      "sha1": "ff669de875e959ac7d1b1f2bc3cfa026bccfc959", 
+      "name": "hoveycosdescript1843hove_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1418947640", 
+      "crc32": "003a42c8", 
+      "md5": "bb4b776a73a1447c6aff73323cf6fcc4", 
+      "size": "2868"
+    }, 
+    {
+      "sha1": "f538e1c5d6ed5668b966629633674226ef92d512", 
+      "name": "hoveycosdescript1843hove_archive.torrent", 
+      "btih": "e370b565df3f15cc1fdd27d794e74f4c2ddd5330", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1418947641", 
+      "crc32": "7abe7dee", 
+      "md5": "f230328bf94cbe82d314a23bed4f9318", 
+      "size": "4216"
+    }, 
+    {
+      "source": "original", 
+      "md5": "8f94bed8aa26c0d21aa35753d91997ac", 
+      "name": "hoveycosdescript1843hove_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "updated": 1446651133, 
+  "uniq": 627161975, 
+  "created": 1446612158, 
+  "workable_servers": [
+    "ia700407.us.archive.org", 
+    "ia600407.us.archive.org"
+  ], 
+  "server": "ia700407.us.archive.org", 
+  "item_size": 27756606, 
+  "dir": "/4/items/hoveycosdescript1843hove", 
+  "metadata": {
+    "partner_shiptracking": "NC14_0074", 
+    "shiptracking": "ST001069", 
+    "scanner": "scribe3.beltsville.archive.org", 
+    "creator": [
+      "Hovey & Co", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection.", 
+    "ppi": "350", 
+    "subcollection": "henryggilbertnurseryandseedtradecollection", 
+    "nal_call_number": "62.39", 
+    "operator": "associate-mark-kanaskie@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "copyright_message": "The contributing institution believes that this item is not in copyright", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "subject": [
+      "Horticultural products industry Catalogs", 
+      "Nurseries (Horticulture) Catalogs", 
+      "Roses Catalogs"
+    ], 
+    "call_number": "CAT31152392", 
+    "title": "Hovey & Co.'s descriptive catalogue of roses, cultivated, and for sale at the Cambridge nursuries, Cambridge, near Boston, Mass. : for the autumn of 1843 and spring of 1844", 
+    "repub_state": "4", 
+    "camera": "Canon EOS 5D Mark II", 
+    "invoice": "3", 
+    "ocr": "ABBYY FineReader 9.0", 
+    "identifier-access": "http://archive.org/details/hoveycosdescript1843hove", 
+    "scanningcenter": "beltsville", 
+    "description": "Advertisements on p. [15] at end", 
+    "identifier-ark": "ark:/13960/t0sr1fr5j", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "fedlink", 
+      "americana", 
+      "biodiversity"
+    ], 
+    "volume": "1843", 
+    "repub_seconds": "122", 
+    "updater": "associate-adrianna-flores@archive.org", 
+    "updatedate": "2014-02-21 16:15:58", 
+    "uploader": "associate-adrianna-flores@archive.org", 
+    "date": "1843", 
+    "republisher": "associate-saw-thein@archive.org", 
+    "addeddate": "2014-02-21 16:16:00.613335", 
+    "publisher": "Boston : Published by Hovey & Co.", 
+    "publicdate": "2014-02-21 15:20:03", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "curation": "[curator]admin-shelia-deroche@archive.org[/curator][date]20140707145052[/date][state]approved[/state][comment]invoice201406[/comment]", 
+    "imagecount": "20", 
+    "identifier": "hoveycosdescript1843hove", 
+    "sponsordate": "20140630", 
+    "unique_id": "CAT31152392", 
+    "scandate": "20140224172229"
+  }, 
+  "d2": "ia700407.us.archive.org", 
+  "files_count": 17, 
+  "d1": "ia600407.us.archive.org"
+}

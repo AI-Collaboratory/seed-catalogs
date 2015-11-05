@@ -1,0 +1,253 @@
+{
+  "files": [
+    {
+      "sha1": "447454790ceb848271629c055bbe1949fb21ac58", 
+      "name": "descriptiveprice1938moor_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1406126032", 
+      "crc32": "1e03911b", 
+      "md5": "0dceb68c3b0158406c88bc1d8269bde8", 
+      "size": "3341"
+    }, 
+    {
+      "sha1": "8dfbef1f815b77cca3e62773229a03cebf76fdcc", 
+      "name": "descriptiveprice1938moor_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1406126032", 
+      "crc32": "ada2a04b", 
+      "md5": "49cf94f05f166b185ea8e40ac7d930f8", 
+      "size": "1390"
+    }, 
+    {
+      "sha1": "a962b77ae16c12918d111fe59172094eaf86e689", 
+      "name": "descriptiveprice1938moor_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1406126032", 
+      "crc32": "35f716e7", 
+      "md5": "12205b2504b5d4254406dd2ebfbaf228", 
+      "size": "933"
+    }, 
+    {
+      "sha1": "e4f5aa92c5c8c6340dbb852aedd6ac94e0c967b9", 
+      "name": "descriptiveprice1938moor_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1406126032", 
+      "crc32": "b654318d", 
+      "md5": "807bd8345680ca3415b49048f5173a11", 
+      "size": "320"
+    }, 
+    {
+      "sha1": "9158f3fc2c6f36cc669ec2c018208d9ff2994775", 
+      "name": "descriptiveprice1938moor_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1406812181", 
+      "crc32": "ed08cb1f", 
+      "md5": "d1c99d0109c54768bef52343dfd879d0", 
+      "size": "10104"
+    }, 
+    {
+      "sha1": "59b5a48b89b125be89ea0f977517f9b15ae5bf68", 
+      "name": "descriptiveprice1938moor_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1406812182", 
+      "crc32": "be51bcfc", 
+      "md5": "01cb1bc00d2f6d4fa806286e0c8890b8", 
+      "size": "9738240"
+    }, 
+    {
+      "sha1": "338cc6e16602486e88224ae0b07d2f0a03058924", 
+      "name": "descriptiveprice1938moor_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1406812499", 
+      "crc32": "4d87011b", 
+      "md5": "6246eef671d83a32928f278354841386", 
+      "original": "descriptiveprice1938moor_orig_jp2.tar", 
+      "size": "5758147"
+    }, 
+    {
+      "sha1": "6bc967146815d68bbcda036c49854fdfbcf5612e", 
+      "name": "descriptiveprice1938moor_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1406814519", 
+      "crc32": "fa250b85", 
+      "md5": "b9d095f007fd7b693237c9f6894aede1", 
+      "original": "descriptiveprice1938moor_jp2.zip", 
+      "size": "268230"
+    }, 
+    {
+      "sha1": "023e526988e75bdc753a1e79acb4ad0d11b54629", 
+      "name": "descriptiveprice1938moor.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1406814680", 
+      "crc32": "b8b9c23d", 
+      "md5": "32c7a885addf969fc01df226022c5add", 
+      "original": "descriptiveprice1938moor_djvu.xml", 
+      "size": "346459"
+    }, 
+    {
+      "sha1": "78a411dbebc0cb2085a3be98557c975f4849a009", 
+      "name": "descriptiveprice1938moor_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1406814536", 
+      "crc32": "21481587", 
+      "md5": "e968604ade40d88a5cec6ef59779c4fc", 
+      "original": "descriptiveprice1938moor_abbyy.gz", 
+      "size": "165970"
+    }, 
+    {
+      "sha1": "74d3e8ab0e05efa2a621f3e9194cbd634ec92dc1", 
+      "name": "descriptiveprice1938moor.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1406814599", 
+      "crc32": "6df854d8", 
+      "md5": "7acfa0d0cdc78b13bbceb46516a81729", 
+      "original": "descriptiveprice1938moor_djvu.xml", 
+      "size": "194174"
+    }, 
+    {
+      "sha1": "ed5915e6f24e305fb41773e3da998453f4f124d3", 
+      "name": "descriptiveprice1938moor.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1406812515", 
+      "crc32": "fc18bea7", 
+      "md5": "6796d23785a29eb3f4561a63f9e54a50", 
+      "original": "descriptiveprice1938moor_jp2.zip", 
+      "size": "59057"
+    }, 
+    {
+      "sha1": "c5280a6a531225bdfc303b544d7857a6b39ff956", 
+      "name": "descriptiveprice1938moor.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1406814545", 
+      "crc32": "bd646158", 
+      "md5": "4f5f9031ae939a7284b7f596685de231", 
+      "original": "descriptiveprice1938moor_abbyy.gz", 
+      "size": "31539"
+    }, 
+    {
+      "sha1": "cece370923fd9dbbae2db45e4c9600fa80e6ce75", 
+      "name": "descriptiveprice1938moor_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1406814686", 
+      "crc32": "116257ce", 
+      "md5": "593ceab3fc0af3ddcdcdb2c2b157c4a9", 
+      "original": "descriptiveprice1938moor.djvu", 
+      "size": "18303"
+    }, 
+    {
+      "sha1": "12aa56972ed574126d6a17181eefc00033751537", 
+      "name": "descriptiveprice1938moor_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1418947089", 
+      "crc32": "da5cc84b", 
+      "md5": "52aa450352c0bf001f94bdc604767570", 
+      "size": "2932"
+    }, 
+    {
+      "sha1": "c5aafd0ffbe9feb94f0ef90b6d732df9563685f9", 
+      "name": "descriptiveprice1938moor_archive.torrent", 
+      "btih": "6c54136d4a3e7483db1069e7cfc565930380b28b", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1418947090", 
+      "crc32": "ad688855", 
+      "md5": "83bc9e4cd8452b698a3182fae9227434", 
+      "size": "4074"
+    }, 
+    {
+      "source": "original", 
+      "md5": "acebecda7aab6bc3600620cb3fe69f33", 
+      "name": "descriptiveprice1938moor_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "uniq": 1766971039, 
+  "created": 1446754788, 
+  "workable_servers": [
+    "ia902507.us.archive.org"
+  ], 
+  "server": "ia902507.us.archive.org", 
+  "item_size": 16603213, 
+  "dir": "/5/items/descriptiveprice1938moor", 
+  "metadata": {
+    "partner_shiptracking": "NC14_0095_Moore", 
+    "shiptracking": "ST002077", 
+    "scanner": "scribe3.beltsville.archive.org", 
+    "creator": [
+      "Moore's Nurseries", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection.", 
+    "ppi": "350", 
+    "subcollection": "henryggilbertnurseryandseedtradecollection", 
+    "nal_call_number": "62.85", 
+    "operator": "associate-mark-kanaskie@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "copyright_message": "The contributing institution believes that this item is not in copyright", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "2", 
+    "scanfee": "100", 
+    "subject": [
+      "Nurseries (Horticulture) Catalogs", 
+      "Fruit trees Catalogs", 
+      "Ornamental trees Catalogs", 
+      "Shrubs Catalogs", 
+      "Perennials Catalogs", 
+      "Trees Catalogs"
+    ], 
+    "call_number": "CAT31163792", 
+    "title": "Descriptive price list", 
+    "repub_state": "4", 
+    "foldout_seconds": "284", 
+    "camera": "Canon EOS 5D Mark II", 
+    "invoice": "3", 
+    "ocr": "ABBYY FineReader 9.0", 
+    "identifier-access": "http://archive.org/details/descriptiveprice1938moor", 
+    "scanningcenter": "beltsville", 
+    "identifier-ark": "ark:/13960/t70w17f18", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "fedlink", 
+      "americana", 
+      "biodiversity"
+    ], 
+    "volume": "1938", 
+    "updater": "associate-manuel-dennis@archive.org", 
+    "updatedate": "2014-07-23 14:33:52", 
+    "uploader": "associate-manuel-dennis@archive.org", 
+    "date": "1938", 
+    "republisher": "associate-mark-kanaskie@archive.org", 
+    "addeddate": "2014-07-23 14:33:54.937332", 
+    "foldout-operator": "associate-marc-adona@archive.org", 
+    "publisher": "Ogden, Utah : Moore's Nurseries", 
+    "publicdate": "2014-07-23 13:27:06", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "curation": "[curator]admin-shelia-deroche@archive.org[/curator][date]20140902190522[/date][state]approved[/state][comment]invoice201408[/comment]", 
+    "notes": "No title page found. No copyright page found. No table-of-contents pages found.", 
+    "imagecount": "8", 
+    "identifier": "descriptiveprice1938moor", 
+    "sponsordate": "20140831", 
+    "unique_id": "CAT31163792", 
+    "scandate": "20140728163117"
+  }, 
+  "files_count": 17, 
+  "d1": "ia902507.us.archive.org"
+}

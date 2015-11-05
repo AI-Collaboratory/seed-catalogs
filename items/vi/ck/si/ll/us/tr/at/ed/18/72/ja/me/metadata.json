@@ -1,0 +1,262 @@
+{
+  "files": [
+    {
+      "sha1": "0c37f926f29b00875c5e5c79dd6cd0319a351a7c", 
+      "name": "vicksillustrated1872jame_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1391178568", 
+      "crc32": "a40e3017", 
+      "md5": "fe938b44f58f12153f13c3f9f8ab8c24", 
+      "size": "1014"
+    }, 
+    {
+      "sha1": "adef037e8de12a61d164d3b1d4234ba8128ed1dd", 
+      "name": "vicksillustrated1872jame_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1391178568", 
+      "crc32": "5f7e4329", 
+      "md5": "f23827cdddbe4a2867a3057bcfb5b360", 
+      "size": "1487"
+    }, 
+    {
+      "sha1": "819a8e2a7b2ae03930581730ab6a752a3dc5c7bc", 
+      "name": "vicksillustrated1872jame_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1391178568", 
+      "crc32": "d825ec1a", 
+      "md5": "0164ab7e94e6e5e69939421eaa464d52", 
+      "size": "322"
+    }, 
+    {
+      "sha1": "81da1461d3f92fe7133d5e04963c19746120fc1a", 
+      "name": "vicksillustrated1872jame_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1391178568", 
+      "crc32": "b3c6e2e0", 
+      "md5": "066ec873fe14ea9ba19df2608dca0f67", 
+      "size": "3328"
+    }, 
+    {
+      "sha1": "8feda894721beaf81781b6155271716413c3f437", 
+      "name": "vicksillustrated1872jame_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1391604262", 
+      "crc32": "4a83ff2f", 
+      "md5": "c78b32b54eeeb398ecec2523a821ab66", 
+      "size": "209112"
+    }, 
+    {
+      "sha1": "9fddfab9123bb830c10d9393ba7bcabcb7c9e08e", 
+      "name": "vicksillustrated1872jame_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1391604266", 
+      "crc32": "45ff35c0", 
+      "md5": "4e52fa75e1bfc8982de0760c03896a5d", 
+      "size": "171499520"
+    }, 
+    {
+      "sha1": "0f62e5260a2dd60e1b0de19c9710c806ca54bb95", 
+      "name": "vicksillustrated1872jame_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1391607316", 
+      "crc32": "41b377db", 
+      "md5": "774365f9146192585e199dee9b6710f4", 
+      "original": "vicksillustrated1872jame_orig_jp2.tar", 
+      "size": "128081048"
+    }, 
+    {
+      "sha1": "cff2a8967b749aa2b90ed6e147dfc0d33bcc21d8", 
+      "name": "vicksillustrated1872jame.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1391608587", 
+      "crc32": "bbe34c35", 
+      "md5": "4542dc02c8aa67230a5bed062e8feb4a", 
+      "original": "vicksillustrated1872jame_abbyy.gz", 
+      "size": "991445"
+    }, 
+    {
+      "sha1": "5423e3e55029adbe927d160c59f3588c2f755dad", 
+      "name": "vicksillustrated1872jame_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1391608546", 
+      "crc32": "f8556b83", 
+      "md5": "222d9d1ec09fd87c5a69fabb043a808e", 
+      "original": "vicksillustrated1872jame_abbyy.gz", 
+      "size": "2865009"
+    }, 
+    {
+      "sha1": "7712bb769a9a8980d177c7f46fad411c89a4ef26", 
+      "name": "vicksillustrated1872jame.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1391609218", 
+      "crc32": "cb998bbf", 
+      "md5": "7f4d9ab79029cd551c56c63d76c6b63b", 
+      "original": "vicksillustrated1872jame_djvu.xml", 
+      "size": "16441666"
+    }, 
+    {
+      "sha1": "ac07bef824a8d7f88e235beccd9c98b9c12df81c", 
+      "name": "vicksillustrated1872jame_toc.xml", 
+      "format": "Contents", 
+      "source": "derivative", 
+      "mtime": "1391608592", 
+      "crc32": "23b21e8e", 
+      "md5": "7682a4a6211a1e104e01cbbc77bf48ad", 
+      "original": "vicksillustrated1872jame_djvu.xml", 
+      "size": "22820"
+    }, 
+    {
+      "sha1": "3e2a2e6b6c1885c56472e285d7dd0804652ae1a8", 
+      "name": "vicksillustrated1872jame.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1391610126", 
+      "crc32": "62fe86f1", 
+      "md5": "2f95c7e449783e45ab4d31eeb0d950c6", 
+      "original": "vicksillustrated1872jame_djvu.xml", 
+      "size": "24440816"
+    }, 
+    {
+      "sha1": "9ae520f903606c9284483c4778662dea0c7847b6", 
+      "name": "vicksillustrated1872jame.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1391607342", 
+      "crc32": "72752a43", 
+      "md5": "e90e161ee4c0b05a46d29c094ecf2ca6", 
+      "original": "vicksillustrated1872jame_jp2.zip", 
+      "size": "280207"
+    }, 
+    {
+      "sha1": "8f7a5a1e078b5ad76aa11a3c7624bc832e92ca58", 
+      "name": "vicksillustrated1872jame_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1391610149", 
+      "crc32": "833cded6", 
+      "md5": "1fa60214c465139ff84f92e8491085b8", 
+      "original": "vicksillustrated1872jame.djvu", 
+      "size": "302600"
+    }, 
+    {
+      "sha1": "db1386dce66a6451dee29f92fc0c06fc9fc2084e", 
+      "name": "vicksillustrated1872jame_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1391608477", 
+      "crc32": "4e5153be", 
+      "md5": "7b0347aa69ed95d02aab35365132d4b3", 
+      "original": "vicksillustrated1872jame_jp2.zip", 
+      "size": "4438183"
+    }, 
+    {
+      "sha1": "8d9946211bf70257624be7a80af84a6281f1288e", 
+      "name": "vicksillustrated1872jame_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1418948875", 
+      "crc32": "6f4b0c6c", 
+      "md5": "3d70561857351fe64cda07b70af87af1", 
+      "size": "2807"
+    }, 
+    {
+      "sha1": "7d92ff6c8bffb7feb7f3f55dbfea125576da254d", 
+      "name": "vicksillustrated1872jame_archive.torrent", 
+      "btih": "33f481008b6b5db909f8c5a0de56637f53d60d32", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1418948877", 
+      "crc32": "0a7c8bd9", 
+      "md5": "0b24c3f8b4e66bf2a94cf6bcc8f1b9c7", 
+      "size": "10794"
+    }, 
+    {
+      "source": "original", 
+      "md5": "81ec4f080d0c9a3c35aba7e66c5c3a94", 
+      "name": "vicksillustrated1872jame_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "uniq": 1327954956, 
+  "created": 1446754724, 
+  "workable_servers": [
+    "ia902700.us.archive.org"
+  ], 
+  "server": "ia902700.us.archive.org", 
+  "item_size": 349592178, 
+  "dir": "/7/items/vicksillustrated1872jame", 
+  "metadata": {
+    "partner_shiptracking": "NC0052b", 
+    "shiptracking": "ST000942", 
+    "scanner": "scribe1.beltsville.archive.org", 
+    "creator": [
+      "James Vick's Sons (Rochester, N.Y.)", 
+      "James Vick's Sons (Rochester, N.Y.)", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection", 
+    "ppi": "500", 
+    "subcollection": "henryggilbertnurseryandseedtradecollection", 
+    "nal_call_number": "62.61", 
+    "operator": "associate-mang-pau@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "copyright_message": "The contributing institution believes that this item is not in copyright", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "subject": [
+      "Flowers", 
+      "Seed industry and trade New York (State) Rochester", 
+      "Seeds", 
+      "Vegetables"
+    ], 
+    "call_number": "CAT31133629", 
+    "title": "Vick's illustrated catalogue and floral guide for 1872", 
+    "repub_state": "4", 
+    "camera": "Canon EOS 5D Mark II", 
+    "invoice": "3", 
+    "ocr": "ABBYY FineReader 9.0", 
+    "identifier-access": "http://archive.org/details/vicksillustrated1872jame", 
+    "scanningcenter": "beltsville", 
+    "description": "Cover title and imprint", 
+    "identifier-ark": "ark:/13960/t75t64g2q", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "fedlink", 
+      "americana", 
+      "biodiversity"
+    ], 
+    "volume": "1872", 
+    "repub_seconds": "90175", 
+    "updater": "associate-adrianna-flores@archive.org", 
+    "updatedate": "2014-01-31 14:29:28", 
+    "uploader": "associate-adrianna-flores@archive.org", 
+    "date": "1872", 
+    "republisher": "associate-mang-pau@archive.org", 
+    "addeddate": "2014-01-31 14:29:30.426682", 
+    "publisher": "Rochester, N.Y. : James Vick", 
+    "publicdate": "2014-01-31 13:30:05", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "curation": "[curator]admin-shelia-deroche@archive.org[/curator][date]20140604163957[/date][state]approved[/state][comment]invoice201405[/comment]", 
+    "imagecount": "132", 
+    "identifier": "vicksillustrated1872jame", 
+    "sponsordate": "20140531", 
+    "unique_id": "CAT31133629", 
+    "scandate": "20140203182433"
+  }, 
+  "files_count": 18, 
+  "d1": "ia902700.us.archive.org"
+}

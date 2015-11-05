@@ -1,0 +1,272 @@
+{
+  "files": [
+    {
+      "sha1": "e62c7fdd46d97d3a5e3cf8937d336ec9a72c75c8", 
+      "name": "CAT31285061_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1413561482", 
+      "crc32": "288a129c", 
+      "md5": "713c95544870cc8618323a5641f88f59", 
+      "size": "957"
+    }, 
+    {
+      "sha1": "4af2d5804228555154826ab9a05cd6a2212658a3", 
+      "name": "CAT31285061_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1413561482", 
+      "crc32": "a7950241", 
+      "md5": "fefedcc3f52eadaacc952caf6f9affff", 
+      "size": "3247"
+    }, 
+    {
+      "sha1": "f08d03aca6344d265175257f6cdf7c8d3af891cd", 
+      "name": "CAT31285061_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1413561482", 
+      "crc32": "142e4381", 
+      "md5": "7af67bd1d73adf5a734ecc0aa1b2f300", 
+      "size": "307"
+    }, 
+    {
+      "sha1": "1be2f55d26cc78ed982ad7225f271f746abfa8a4", 
+      "name": "CAT31285061_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1413561482", 
+      "crc32": "e2158068", 
+      "md5": "d29c91533e1fd848b0df684fb73af506", 
+      "size": "1265"
+    }, 
+    {
+      "sha1": "c8017bfe0726c0a1f4b8bdb72a715e8809a07f19", 
+      "name": "CAT31285061_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1415119018", 
+      "crc32": "e75c6fc8", 
+      "md5": "e263601a90999380f5114c9b41e66c85", 
+      "size": "23750"
+    }, 
+    {
+      "sha1": "581d591018eb9b370a5c21d387ce235b3b27cd70", 
+      "name": "CAT31285061_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1415119019", 
+      "crc32": "1acb0ddd", 
+      "md5": "e81f0887c57f9ed8be4bffd8b3018b0b", 
+      "size": "13793280"
+    }, 
+    {
+      "sha1": "ac6cd1159408a754f47253e29087b2d67248051d", 
+      "name": "CAT31285061_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1415121598", 
+      "crc32": "2e0f4d2a", 
+      "md5": "8f4a441758008efc1928bb068997efbb", 
+      "original": "CAT31285061_orig_jp2.tar", 
+      "size": "8203580"
+    }, 
+    {
+      "sha1": "e973aa261fdfe2173ad5f28e606300d86a6f6f49", 
+      "name": "CAT31285061_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1415121781", 
+      "crc32": "9a8638d6", 
+      "md5": "3a388925936d63f3f4b3a20fc9739b78", 
+      "original": "CAT31285061_abbyy.gz", 
+      "size": "161724"
+    }, 
+    {
+      "sha1": "b1fbd1a78064a040da87145317a89a44e4b54e1b", 
+      "name": "CAT31285061_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1415121767", 
+      "crc32": "b4992428", 
+      "md5": "7f35362ed1f3293c72a16a0ba511933f", 
+      "original": "CAT31285061_jp2.zip", 
+      "size": "239510"
+    }, 
+    {
+      "sha1": "d447eeb3a1155592c1ff63a3759e343d40beefd2", 
+      "name": "CAT31285061.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1415121637", 
+      "crc32": "4d897dae", 
+      "md5": "cdc02152d218cbdc10abbae3434ae7c5", 
+      "original": "CAT31285061_jp2.zip", 
+      "size": "91903"
+    }, 
+    {
+      "sha1": "f035ab4862db527f9070c87b786acf33ea94d891", 
+      "name": "CAT31285061.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1415121884", 
+      "crc32": "32ddd0b7", 
+      "md5": "fc1d179a06459aed6f07b58fb49890a7", 
+      "original": "CAT31285061_djvu.xml", 
+      "size": "381371"
+    }, 
+    {
+      "sha1": "ab72dc639d31928947905fc3e8e93af9a7e99920", 
+      "name": "CAT31285061.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1415121787", 
+      "crc32": "de02e201", 
+      "md5": "f6f5983f1df9a64b739caab3c18b6616", 
+      "original": "CAT31285061_abbyy.gz", 
+      "size": "10732"
+    }, 
+    {
+      "sha1": "a1887848624b4d6cedb883d7eff35c25cbc18979", 
+      "name": "CAT31285061_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1415122031", 
+      "crc32": "360f1181", 
+      "md5": "f8d3f7cbaa0a7cfb843126c94f1563a8", 
+      "original": "CAT31285061.djvu", 
+      "size": "16395"
+    }, 
+    {
+      "sha1": "65cda391a590c38bc4f38e2dd77d87182af9bb99", 
+      "name": "CAT31285061.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1415122023", 
+      "crc32": "62fa6296", 
+      "md5": "52c8bcec1208ccfbe7d63066b4058155", 
+      "original": "CAT31285061_djvu.xml", 
+      "size": "814156"
+    }, 
+    {
+      "sha1": "ba068668d70978f888809a3ed5c14e02a17249fc", 
+      "name": "CAT31285061_meta.sqlite", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1415607512", 
+      "crc32": "c93b06c5", 
+      "md5": "86b954447100c54a438ed3502e067637", 
+      "size": "6144"
+    }, 
+    {
+      "sha1": "9d54603482a71d2690764546fbc3d2a863b79e71", 
+      "name": "CAT31285061_bhlmets.xml", 
+      "format": "Biodiversity Heritage Library METS", 
+      "source": "original", 
+      "mtime": "1415607506", 
+      "crc32": "6aa9570d", 
+      "md5": "f042215f391c7cb1f75f424cd71a3b51", 
+      "size": "9335"
+    }, 
+    {
+      "sha1": "bc10cb1a2c62406ce7422d57aa893dad31e908a3", 
+      "name": "CAT31285061_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1418849565", 
+      "crc32": "031012e3", 
+      "md5": "d6250c39891bd3459ba3f29cc6eb555b", 
+      "size": "2704"
+    }, 
+    {
+      "sha1": "976879fa3268c73322868b209f89d406849987fa", 
+      "name": "CAT31285061_archive.torrent", 
+      "btih": "7da874f5666c7feb34ce8576b35e05714a66eb45", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1418849566", 
+      "crc32": "66376939", 
+      "md5": "1b9e09dfabc74434f0c00299174bc4d5", 
+      "size": "4275"
+    }, 
+    {
+      "source": "original", 
+      "md5": "73f0731d61d6f1b29061232d2a60a800", 
+      "name": "CAT31285061_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "updated": 1446755024, 
+  "uniq": 246645668, 
+  "created": 1446755024, 
+  "workable_servers": [
+    "ia802604.us.archive.org", 
+    "ia902604.us.archive.org"
+  ], 
+  "server": "ia802604.us.archive.org", 
+  "item_size": 23764635, 
+  "dir": "/16/items/CAT31285061", 
+  "metadata": {
+    "partner_shiptracking": "NC15_1901_A-Bn", 
+    "shiptracking": "ST002590", 
+    "scanner": "scribe2.beltsville.archive.org", 
+    "creator": [
+      "J.W. Bairstow (Firm)", 
+      "Bairstow, J. W", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection.", 
+    "ppi": "500", 
+    "subcollection": "henryggilbertnurseryandseedtradecollection", 
+    "nal_call_number": "62.09", 
+    "operator": "associate-saw-thein@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "copyright_message": "The contributing institution believes that this item is not in copyright", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "subject": [
+      "Nursery stock California Hanford Catalogs", 
+      "Apricot Catalogs"
+    ], 
+    "title": "The great frost resisting Tilton apricot", 
+    "repub_state": "4", 
+    "camera": "Canon EOS 5D Mark II", 
+    "invoice": "3", 
+    "ocr": "ABBYY FineReader 9.0", 
+    "identifier-access": "http://archive.org/details/CAT31285061", 
+    "scanningcenter": "beltsville", 
+    "description": "Cover title", 
+    "identifier-ark": "ark:/13960/t9865g199", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "biodiversity", 
+      "fedlink", 
+      "americana"
+    ], 
+    "volume": "1901", 
+    "repub_seconds": "95229", 
+    "updater": "associate-manuel-dennis@archive.org", 
+    "updatedate": "2014-10-17 15:58:02", 
+    "uploader": "associate-manuel-dennis@archive.org", 
+    "date": "1901", 
+    "republisher": "associate-marc-adona@archive.org", 
+    "addeddate": "2014-10-17 15:58:04.528954", 
+    "publisher": "Hanford, Calif. : J.W. Bairstow", 
+    "publicdate": "2014-10-17 15:00:12", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "curation": "[curator]admin-shelia-deroche@archive.org[/curator][date]20141202144508[/date][state]approved[/state][comment]invoice201411[/comment]", 
+    "notes": "No copyright page found. No table-of-contents pages found.", 
+    "imagecount": "14", 
+    "identifier": "CAT31285061", 
+    "sponsordate": "20141130", 
+    "unique_id": "CAT31285061", 
+    "scandate": "20141029130832"
+  }, 
+  "d2": "ia802604.us.archive.org", 
+  "files_count": 19, 
+  "d1": "ia902604.us.archive.org"
+}

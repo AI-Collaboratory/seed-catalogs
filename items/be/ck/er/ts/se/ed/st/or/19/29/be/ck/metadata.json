@@ -1,0 +1,254 @@
+{
+  "files": [
+    {
+      "sha1": "6ea43817082c1f12d470d2f795d589fefd254f09", 
+      "name": "beckertsseedstor1929beck_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1391101779", 
+      "crc32": "8bcca3a7", 
+      "md5": "426436572bf94d87599cf193e3b53d3d", 
+      "size": "1975"
+    }, 
+    {
+      "sha1": "a991c551ace55b0a5cc0a0879b0d5b4d90361a9e", 
+      "name": "beckertsseedstor1929beck_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1391101779", 
+      "crc32": "d180b83b", 
+      "md5": "d79197597dd7acb410b3fbea4f08cce4", 
+      "size": "5173"
+    }, 
+    {
+      "sha1": "f275fd10648baa387b0500f075419aea9b180b17", 
+      "name": "beckertsseedstor1929beck_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1391101779", 
+      "crc32": "01c97cdf", 
+      "md5": "3642135b8d15c66c4cd216ce62621b14", 
+      "size": "1479"
+    }, 
+    {
+      "sha1": "c9c3674b1611003a2cbb02d33642111614a0022f", 
+      "name": "beckertsseedstor1929beck_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1391101779", 
+      "crc32": "61bf27c9", 
+      "md5": "d97cc9b15e03a8923a55cc679da18c40", 
+      "size": "322"
+    }, 
+    {
+      "sha1": "335926b5b12ed6f20e122b89d6d77c32b960bc76", 
+      "name": "beckertsseedstor1929beck_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1391169156", 
+      "crc32": "905c99a2", 
+      "md5": "25d06ce3419998d87b9be57976ec5600", 
+      "size": "58912"
+    }, 
+    {
+      "sha1": "0898908c01e7af6b69aab85d0c76a3c4bfee6d23", 
+      "name": "beckertsseedstor1929beck_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1391169160", 
+      "crc32": "de0d145d", 
+      "md5": "d9870e194d0e19111f63dd5aba2ecf8e", 
+      "size": "140441600"
+    }, 
+    {
+      "sha1": "6ee2a13cf1312707a2d5c7f63745fa6cfc5d6603", 
+      "name": "beckertsseedstor1929beck_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1391172429", 
+      "crc32": "441df306", 
+      "md5": "c3f046fe8dc153130c99910d20769b6f", 
+      "original": "beckertsseedstor1929beck_orig_jp2.tar", 
+      "size": "93927227"
+    }, 
+    {
+      "sha1": "d8e1d4c2c7d3a447b8c0179aedd3013feac78013", 
+      "name": "beckertsseedstor1929beck.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1391175057", 
+      "crc32": "79d94191", 
+      "md5": "c6ef4aae882b0d907b6a358302936c5e", 
+      "original": "beckertsseedstor1929beck_djvu.xml", 
+      "size": "7240954"
+    }, 
+    {
+      "sha1": "c776cd3e9c75de3a8e397b7628f29f6a17963c59", 
+      "name": "beckertsseedstor1929beck.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1391174460", 
+      "crc32": "c8642d25", 
+      "md5": "320e469b1f1b08ed10497b69aa61e247", 
+      "original": "beckertsseedstor1929beck_abbyy.gz", 
+      "size": "2182279"
+    }, 
+    {
+      "sha1": "5439f7c430ff4b2e9323c63805097158040f2d30", 
+      "name": "beckertsseedstor1929beck_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1391174308", 
+      "crc32": "124734a9", 
+      "md5": "4c90168e93c8b8811feadb19435f2b51", 
+      "original": "beckertsseedstor1929beck_abbyy.gz", 
+      "size": "4296977"
+    }, 
+    {
+      "sha1": "90ce6405f94d33784d3bd4d49180d13f9995fd79", 
+      "name": "beckertsseedstor1929beck.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1391175923", 
+      "crc32": "97a28fab", 
+      "md5": "2fd84f8428e55e34cc1372adeeddccff", 
+      "original": "beckertsseedstor1929beck_djvu.xml", 
+      "size": "12026756"
+    }, 
+    {
+      "sha1": "57d53dc2667920ad2724b3e2db34fc4a18e2dd3a", 
+      "name": "beckertsseedstor1929beck_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1391174110", 
+      "crc32": "b84d5567", 
+      "md5": "09a46afa8a624aae2fe3b3225c09d588", 
+      "original": "beckertsseedstor1929beck_jp2.zip", 
+      "size": "6565293"
+    }, 
+    {
+      "sha1": "93a070e8790773a2c41428487069563481b36848", 
+      "name": "beckertsseedstor1929beck_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1391175938", 
+      "crc32": "1330e6a0", 
+      "md5": "d960e1bbba34318ec105e4f5f7c5e04c", 
+      "original": "beckertsseedstor1929beck.djvu", 
+      "size": "456193"
+    }, 
+    {
+      "sha1": "72ee77793523e78fb523b38a8d6235a6b5812a74", 
+      "name": "beckertsseedstor1929beck.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1391172475", 
+      "crc32": "97578934", 
+      "md5": "1c0bbd5571e822bb7f0301bb2f79973b", 
+      "original": "beckertsseedstor1929beck_jp2.zip", 
+      "size": "321425"
+    }, 
+    {
+      "sha1": "2acdee6a44c75d66620e77c2197f780a887161c6", 
+      "name": "beckertsseedstor1929beck_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1418946339", 
+      "crc32": "d96fc0db", 
+      "md5": "5d57eab890b73b378e4784b8ddce91a7", 
+      "size": "2945"
+    }, 
+    {
+      "sha1": "9486c162b09f18dfd0f187ac084a5b0c052e7472", 
+      "name": "beckertsseedstor1929beck_archive.torrent", 
+      "btih": "c8f4ce2af0e4954e4e46af77a18270c722d97173", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1418946342", 
+      "crc32": "0f7fd453", 
+      "md5": "6a91ef19620431892e7904aba70addb7", 
+      "size": "8668"
+    }, 
+    {
+      "source": "original", 
+      "md5": "5e20c7f278303c0759a012b54865fd2a", 
+      "name": "beckertsseedstor1929beck_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "uniq": 1004643554, 
+  "created": 1446752041, 
+  "workable_servers": [
+    "ia600402.us.archive.org"
+  ], 
+  "server": "ia600402.us.archive.org", 
+  "item_size": 267538178, 
+  "dir": "/20/items/beckertsseedstor1929beck", 
+  "metadata": {
+    "shiptracking": "ST000510", 
+    "scanner": "scribe2.beltsville.archive.org", 
+    "creator": [
+      "Beckert's Seed Store", 
+      "Beckert's Seed Store", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection", 
+    "ppi": "350", 
+    "nal_call_number": "62.73", 
+    "operator": "associate-saw-thein@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "invoice": "3", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "subject": [
+      "Nurseries (Horticulture) Pennsylvania Pittsburgh Catalogs", 
+      "Nursery stock Pennsylvania Pittsburgh Catalogs", 
+      "Vegetables Seeds Pennsylvania Pittsburgh Catalogs", 
+      "Flowers Seeds Pennsylvania Pittsburgh Catalogs", 
+      "Bulbs (Plants) Pennsylvania Pittsburgh Catalogs"
+    ], 
+    "call_number": "CAT31130131", 
+    "title": "Beckert's seed store : vegetable seeds flower bulbs", 
+    "repub_state": "4", 
+    "possible-copyright-status": "The contributing institution believes that this item is not in copyright", 
+    "camera": "Canon EOS 5D Mark II", 
+    "ocr": "ABBYY FineReader 9.0", 
+    "identifier-access": "http://archive.org/details/beckertsseedstor1929beck", 
+    "scanningcenter": "beltsville", 
+    "description": [
+      "Cover title", 
+      "Includes index", 
+      "\"52nd seed annual.\""
+    ], 
+    "identifier-ark": "ark:/13960/t54f48q42", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "fedlink", 
+      "americana", 
+      "biodiversity"
+    ], 
+    "volume": "1929", 
+    "repub_seconds": "58454", 
+    "updater": "associate-adrianna-flores@archive.org", 
+    "updatedate": "2014-01-30 17:09:39", 
+    "uploader": "associate-adrianna-flores@archive.org", 
+    "date": "1929", 
+    "republisher": "associate-mang-pau@archive.org", 
+    "addeddate": "2014-01-30 17:09:41.522253", 
+    "publisher": "Pittsburgh, Pa. : Beckert's Seed Store", 
+    "publicdate": "2014-01-30 16:06:45", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "curation": "[curator]admin-shelia-deroche@archive.org[/curator][date]20140320170136[/date][state]approved[/state][comment]invoice201402[/comment]", 
+    "imagecount": "98", 
+    "identifier": "beckertsseedstor1929beck", 
+    "sponsordate": "20140228", 
+    "unique_id": "CAT31130131", 
+    "scandate": "20140130181545"
+  }, 
+  "files_count": 17, 
+  "d1": "ia600402.us.archive.org"
+}

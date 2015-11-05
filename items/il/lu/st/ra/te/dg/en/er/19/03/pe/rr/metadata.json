@@ -1,0 +1,254 @@
+{
+  "files": [
+    {
+      "sha1": "c022f44b26c1e878897e480f3eb14a0d7c7e2ad7", 
+      "name": "illustratedgener1903perr_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1396441697", 
+      "crc32": "e3bda003", 
+      "md5": "e778c3bcecd355d389ed60348657f9a7", 
+      "size": "1012"
+    }, 
+    {
+      "sha1": "c6e13f9c1fbb462664dd4c6f9877c0753ac9964d", 
+      "name": "illustratedgener1903perr_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1396441697", 
+      "crc32": "55594382", 
+      "md5": "87e0156f44ad068e45688ff09a39a8f9", 
+      "size": "322"
+    }, 
+    {
+      "sha1": "5cb1f078bdbecb8554b2fe83e2cb4a91d665e215", 
+      "name": "illustratedgener1903perr_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1396441697", 
+      "crc32": "9ab57c99", 
+      "md5": "694a2012385a17b13efa9a6d34b6d3e6", 
+      "size": "1517"
+    }, 
+    {
+      "sha1": "6673060765f1d6d42efadaf9fe5172d2b667f620", 
+      "name": "illustratedgener1903perr_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1396441697", 
+      "crc32": "0bbe465c", 
+      "md5": "f8fcd7d50c71f4f8a42ef57bd371dbaf", 
+      "size": "3518"
+    }, 
+    {
+      "sha1": "04e438d62927e8dfc9a3bac06e1783f410bad5ab", 
+      "name": "illustratedgener1903perr_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1396612246", 
+      "crc32": "24f2a13f", 
+      "md5": "0172127e0bdf53c0acb29cdabf318f59", 
+      "size": "306348"
+    }, 
+    {
+      "sha1": "f848b74764668225208cfb39be879b52cb6b191c", 
+      "name": "illustratedgener1903perr_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1396612250", 
+      "crc32": "52e80607", 
+      "md5": "717ca1ac028d99ebdcc917b2ccc482ee", 
+      "size": "176640000"
+    }, 
+    {
+      "sha1": "102d699ce33c8ee26231009454b54786d7debbb0", 
+      "name": "illustratedgener1903perr_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1396717831", 
+      "crc32": "670ae1b3", 
+      "md5": "39bcd45608fb00a5d039aa7d05186018", 
+      "original": "illustratedgener1903perr_orig_jp2.tar", 
+      "size": "88696318"
+    }, 
+    {
+      "sha1": "1cade6ea777b3c6da1f27ee5d3b62029682c239d", 
+      "name": "illustratedgener1903perr_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1396720538", 
+      "crc32": "fa719545", 
+      "md5": "06018871f8285e997d73e648ce9abbfd", 
+      "original": "illustratedgener1903perr.djvu", 
+      "size": "452944"
+    }, 
+    {
+      "sha1": "17d4a7419e203ed167b45600da1a4c45c7ddc2b6", 
+      "name": "illustratedgener1903perr.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1396719459", 
+      "crc32": "a06cbfe1", 
+      "md5": "d3f095afa44a8adb36653592ada5d515", 
+      "original": "illustratedgener1903perr_abbyy.gz", 
+      "size": "2712888"
+    }, 
+    {
+      "sha1": "d8fc9469df03c3672c5da8bd9b84c998f22c1a49", 
+      "name": "illustratedgener1903perr_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1396719420", 
+      "crc32": "a5bc217d", 
+      "md5": "24f21244e280762cb05fbf35ba280b6b", 
+      "original": "illustratedgener1903perr_abbyy.gz", 
+      "size": "4011573"
+    }, 
+    {
+      "sha1": "9b228f32ed54c6c0fcdd85d6160919db28ef2983", 
+      "name": "illustratedgener1903perr.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1396717849", 
+      "crc32": "e2f99ce5", 
+      "md5": "6e29db57b8e5da862804d2d25a796bab", 
+      "original": "illustratedgener1903perr_jp2.zip", 
+      "size": "221172"
+    }, 
+    {
+      "sha1": "c8b6446e0afcabac1ee910a484e28d858dba0df3", 
+      "name": "illustratedgener1903perr.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1396720521", 
+      "crc32": "efd0f082", 
+      "md5": "d82ab1615625fe6a58779d4aeb66a5e3", 
+      "original": "illustratedgener1903perr_djvu.xml", 
+      "size": "15817627"
+    }, 
+    {
+      "sha1": "a2979a5269727f122c0751ea5bb3325bd04f8292", 
+      "name": "illustratedgener1903perr_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1396719314", 
+      "crc32": "b7f6573f", 
+      "md5": "ac1d9982eb4598493c8720da10b93e70", 
+      "original": "illustratedgener1903perr_jp2.zip", 
+      "size": "6419619"
+    }, 
+    {
+      "sha1": "8c020cb2843b19891a539546623006eb6c615e90", 
+      "name": "illustratedgener1903perr.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1396719937", 
+      "crc32": "1e031d1a", 
+      "md5": "4be4a7fee55199fafbf85fe8572b1443", 
+      "original": "illustratedgener1903perr_djvu.xml", 
+      "size": "10192769"
+    }, 
+    {
+      "sha1": "7f6e7d3ad57a146d81cc2903021f67809d3710b9", 
+      "name": "illustratedgener1903perr_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1418947684", 
+      "crc32": "3cff40b7", 
+      "md5": "8ffb51271830c75bbb0ea8519ac9c829", 
+      "size": "2855"
+    }, 
+    {
+      "sha1": "f5f6eecd18e40c5e44caa5e8f5f0e38d99570a4f", 
+      "name": "illustratedgener1903perr_archive.torrent", 
+      "btih": "f5ea722b73cf3119c5fa8b46bbccf5dc1a9443c6", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1418947687", 
+      "crc32": "b3025dbd", 
+      "md5": "2f2fa55575ccafd93edb081e3e367e68", 
+      "size": "8730"
+    }, 
+    {
+      "source": "original", 
+      "md5": "c94a26b7972135f8c88bf02751e99210", 
+      "name": "illustratedgener1903perr_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "uniq": 1463241366, 
+  "created": 1446754189, 
+  "workable_servers": [
+    "ia600704.us.archive.org"
+  ], 
+  "server": "ia600704.us.archive.org", 
+  "item_size": 305489212, 
+  "dir": "/20/items/illustratedgener1903perr", 
+  "metadata": {
+    "partner_shiptracking": "NC14_0090", 
+    "shiptracking": "ST001311", 
+    "scanner": "scribe3.beltsville.archive.org", 
+    "creator": [
+      "Perry Nursery Co", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection.", 
+    "ppi": "350", 
+    "subcollection": "henryggilbertnurseryandseedtradecollection", 
+    "nal_call_number": "62.61", 
+    "operator": "associate-mark-kanaskie@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "copyright_message": "The contributing institution believes that this item is not in copyright", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "subject": [
+      "Nurseries (Horticulture) Catalogs", 
+      "Fruit trees Catalogs", 
+      "Trees Catalogs", 
+      "Plants, Ornamental Catalogs"
+    ], 
+    "call_number": "CAT31276880", 
+    "title": "Illustrated general catalogue", 
+    "repub_state": "4", 
+    "camera": "Canon EOS 5D Mark II", 
+    "invoice": "3", 
+    "ocr": "ABBYY FineReader 9.0", 
+    "identifier-access": "http://archive.org/details/illustratedgener1903perr", 
+    "scanningcenter": "beltsville", 
+    "description": [
+      "Cover title", 
+      "Includes index"
+    ], 
+    "identifier-ark": "ark:/13960/t4zg97m37", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "fedlink", 
+      "americana", 
+      "biodiversity"
+    ], 
+    "volume": "1903", 
+    "repub_seconds": "2093", 
+    "updater": "associate-adrianna-flores@archive.org", 
+    "updatedate": "2014-04-02 12:28:17", 
+    "uploader": "associate-adrianna-flores@archive.org", 
+    "date": "1903", 
+    "republisher": "associate-mark-kanaskie@archive.org", 
+    "addeddate": "2014-04-02 12:28:19.313075", 
+    "publisher": "Rochester, N.Y. : Perry Nursery Co.", 
+    "publicdate": "2014-04-02 11:26:52", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "curation": "[curator]admin-shelia-deroche@archive.org[/curator][date]20140707145401[/date][state]approved[/state][comment]invoice201406[/comment]", 
+    "notes": "No copyright page found. No table-of-contents pages found.", 
+    "imagecount": "194", 
+    "identifier": "illustratedgener1903perr", 
+    "sponsordate": "20140630", 
+    "unique_id": "CAT31276880", 
+    "scandate": "20140402154135"
+  }, 
+  "files_count": 17, 
+  "d1": "ia600704.us.archive.org"
+}

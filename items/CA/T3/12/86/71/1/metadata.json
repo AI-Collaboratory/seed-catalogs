@@ -1,0 +1,282 @@
+{
+  "files": [
+    {
+      "sha1": "9f729015d994a322f97e185b227efbd50f7db367", 
+      "name": "CAT31286711_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1418390000", 
+      "crc32": "b1f2d864", 
+      "md5": "275f85bc7806d69718863f5d0c691c9b", 
+      "size": "4004"
+    }, 
+    {
+      "sha1": "643407b53b2b5617d613608df3990437a67bbdc3", 
+      "name": "CAT31286711_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1418390000", 
+      "crc32": "d61b2e5d", 
+      "md5": "8d50587cb41d33da385c33de4fb71f7b", 
+      "size": "1186"
+    }, 
+    {
+      "sha1": "187e8a6220278173f076aefe1402bb33e9c75bb8", 
+      "name": "CAT31286711_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1418390000", 
+      "crc32": "a5f09043", 
+      "md5": "24517bfea456c46e4afef8b24053692d", 
+      "size": "1561"
+    }, 
+    {
+      "sha1": "e41b238649b64a97f26cd0708d6fdf112ef3dfb0", 
+      "name": "CAT31286711_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1418390000", 
+      "crc32": "c1009f3d", 
+      "md5": "26b4a7e318d150a5feedff3708f2488f", 
+      "size": "307"
+    }, 
+    {
+      "sha1": "484ce82773766240fa292d7f27af268648cbeeb9", 
+      "name": "CAT31286711_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1418842214", 
+      "crc32": "7930be36", 
+      "md5": "d74a891b693063c53d8c978c9b37a38d", 
+      "size": "8826880"
+    }, 
+    {
+      "sha1": "1d65dcffc22230acfe524c5e1ebcae619154e7ff", 
+      "name": "CAT31286711_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1418842214", 
+      "crc32": "b0ccbb65", 
+      "md5": "908bd8adea285dcc8dafb97b26dbae31", 
+      "size": "19531"
+    }, 
+    {
+      "sha1": "26e652f11ca927304bb137439bf4ce002100a2ef", 
+      "name": "CAT31286711_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1418843846", 
+      "crc32": "74a552b0", 
+      "md5": "b04e8daba8452c4c671edaaec31ee8fc", 
+      "original": "CAT31286711_abbyy.gz", 
+      "size": "131789"
+    }, 
+    {
+      "sha1": "f34659a27c31b64887aec9c79951b284c8fa9ab6", 
+      "name": "CAT31286711_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1418843837", 
+      "crc32": "473cb3f1", 
+      "md5": "4b72967e1b97810ab72fc1a644d194e1", 
+      "original": "CAT31286711_jp2.zip", 
+      "size": "181739"
+    }, 
+    {
+      "sha1": "bd35e36768739ce5cd1316924e3467fe8bfe847e", 
+      "name": "CAT31286711_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1418842797", 
+      "crc32": "7546594b", 
+      "md5": "cd5ce9139ca38198c384a8868b961c2d", 
+      "original": "CAT31286711_orig_jp2.tar", 
+      "size": "5692985"
+    }, 
+    {
+      "sha1": "b0bff871074b4e8800746955251f25690f054620", 
+      "name": "CAT31286711.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1418843849", 
+      "crc32": "f140e6bd", 
+      "md5": "358e4a221a764e745c8682ccbcbb47d2", 
+      "original": "CAT31286711_abbyy.gz", 
+      "size": "9090"
+    }, 
+    {
+      "sha1": "d0ad2bd540aaa00c9b45bf139583742c48c0a328", 
+      "name": "CAT31286711_bw.pdf", 
+      "format": "Grayscale LuraTech PDF", 
+      "source": "derivative", 
+      "mtime": "1418844076", 
+      "crc32": "827acb82", 
+      "md5": "1c87fb51bfd28800dfcb8fa4acf42059", 
+      "original": "CAT31286711_djvu.xml", 
+      "size": "437808"
+    }, 
+    {
+      "sha1": "353121a7f4b72a7a57a4c1b92b167d4a5ee17c21", 
+      "name": "CAT31286711.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1418843955", 
+      "crc32": "c60ca9de", 
+      "md5": "7ebede390a435552d8e6bd478f2bf1bd", 
+      "original": "CAT31286711_djvu.xml", 
+      "size": "516294"
+    }, 
+    {
+      "sha1": "b847da4f93aeda400a9a7f60b4816905e208b2df", 
+      "name": "CAT31286711.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1418842815", 
+      "crc32": "60b643cd", 
+      "md5": "b0e4f2a551811cec63ae5589bbfc544b", 
+      "original": "CAT31286711_jp2.zip", 
+      "size": "98455"
+    }, 
+    {
+      "sha1": "80252717be9d298303c7bb48d765b9db2735fa86", 
+      "name": "CAT31286711_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1418844082", 
+      "crc32": "6cacf826", 
+      "md5": "6e60417d3e58bfbbe009813789d29e95", 
+      "original": "CAT31286711.djvu", 
+      "size": "13258"
+    }, 
+    {
+      "sha1": "ef71c00409dd9ed908d51b2a3c17dfdf9e8fd012", 
+      "name": "CAT31286711.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1418843891", 
+      "crc32": "48deaaaf", 
+      "md5": "684e8ce6598ab669595bf368e79a7a93", 
+      "original": "CAT31286711_djvu.xml", 
+      "size": "248964"
+    }, 
+    {
+      "sha1": "5fd69c86eae87c7d4133ab4f4348562b0329aded", 
+      "name": "CAT31286711_meta.sqlite", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1419325151", 
+      "crc32": "b67493b5", 
+      "md5": "a4f221e96a4f1f9d059cb35828251616", 
+      "size": "6144"
+    }, 
+    {
+      "sha1": "2d2af0bd101bc259a04c1ee0776ad11784b0cb0a", 
+      "name": "CAT31286711_bhlmets.xml", 
+      "format": "Biodiversity Heritage Library METS", 
+      "source": "original", 
+      "mtime": "1419325140", 
+      "crc32": "0e650d2c", 
+      "md5": "cb9da451824a49630847c0cd0f672f98", 
+      "size": "8479"
+    }, 
+    {
+      "sha1": "7d4651c9cb9f567f9db31b307a098abe399f891b", 
+      "name": "CAT31286711_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1425693188", 
+      "crc32": "ded31ec6", 
+      "md5": "c271c3ab6dae515b74bd0d0f113257e8", 
+      "size": "2835"
+    }, 
+    {
+      "sha1": "762210cc5fedd28b6fcb07cdb82ee9d63f9b17a3", 
+      "name": "CAT31286711_archive.torrent", 
+      "btih": "0560019fbdbf8ca3a273e2eb73313feee0b277a2", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1425693189", 
+      "crc32": "e3d08919", 
+      "md5": "1b68b7cf6e3ec21e9b6c063da0a8b1cf", 
+      "size": "4349"
+    }, 
+    {
+      "source": "original", 
+      "md5": "ca90371ac3a99b3f4c6b11c724f74b1c", 
+      "name": "CAT31286711_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "uniq": 2140193866, 
+  "created": 1446755940, 
+  "workable_servers": [
+    "ia601000.us.archive.org"
+  ], 
+  "server": "ia601000.us.archive.org", 
+  "item_size": 16205658, 
+  "dir": "/2/items/CAT31286711", 
+  "metadata": {
+    "partner_shiptracking": "NC15_1904_Ma", 
+    "shiptracking": "ST002880", 
+    "scanner": "scribe3.beltsville.archive.org", 
+    "creator": [
+      "Maryland Nursery Company", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection.", 
+    "ppi": "500", 
+    "subcollection": "henryggilbertnurseryandseedtradecollection", 
+    "nal_call_number": "62.37", 
+    "operator": "associate-mark-kanaskie@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "copyright_message": "The contributing institution believes that this item is not in copyright", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "subject": [
+      "Strawberries Seedlings Catalogs", 
+      "Fruit trees Catalogs", 
+      "Ornamental trees Catalogs", 
+      "Roses Catalogs", 
+      "Plants, Ornamental Catalogs", 
+      "Nurseries (Horticulture) Maryland Baltimore Catalogs"
+    ], 
+    "title": "The Maryland : a new strawberry", 
+    "repub_state": "4", 
+    "camera": "Canon EOS 5D Mark II", 
+    "invoice": "3", 
+    "ocr": "ABBYY FineReader 9.0", 
+    "identifier-access": "http://archive.org/details/CAT31286711", 
+    "scanningcenter": "beltsville", 
+    "description": "\"The new seedling strawberry \"Maryland\"\"--P. 2 of cover", 
+    "identifier-ark": "ark:/13960/t16m6929c", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "biodiversity", 
+      "fedlink", 
+      "americana"
+    ], 
+    "volume": "1904", 
+    "repub_seconds": "235", 
+    "updater": "associate-manuel-dennis@archive.org", 
+    "updatedate": "2014-12-12 13:13:20", 
+    "uploader": "associate-manuel-dennis@archive.org", 
+    "date": "1904", 
+    "republisher": "associate-mang-pau@archive.org", 
+    "addeddate": "2014-12-12 13:13:22.630361", 
+    "publisher": "Baltimore, MD. : Maryland Nursery Co.", 
+    "publicdate": "2014-12-12 12:06:47", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "curation": "[curator]admin-shelia-deroche@archive.org[/curator][date]20150302204104[/date][state]approved[/state][comment]invoice201502[/comment]", 
+    "imagecount": "12", 
+    "identifier": "CAT31286711", 
+    "sponsordate": "20150228", 
+    "unique_id": "CAT31286711", 
+    "scandate": "20141215134608"
+  }, 
+  "files_count": 20, 
+  "d1": "ia601000.us.archive.org"
+}

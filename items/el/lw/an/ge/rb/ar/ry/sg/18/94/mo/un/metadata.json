@@ -1,0 +1,249 @@
+{
+  "files": [
+    {
+      "sha1": "b1d7befcb3f3a303e3338d7f37ed7c4208da1388", 
+      "name": "ellwangerbarrysg1894moun_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1379341441", 
+      "crc32": "cd98be88", 
+      "md5": "d9a1d7b5dd15ec5108522cf1a0c4d56d", 
+      "size": "1117"
+    }, 
+    {
+      "sha1": "b078b93628abc8a966403dfe39e38dbcf65cfcb1", 
+      "name": "ellwangerbarrysg1894moun_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1379341441", 
+      "crc32": "e22996de", 
+      "md5": "a264ee9e6e0e4efdfb804a263bbd4225", 
+      "size": "1742"
+    }, 
+    {
+      "sha1": "a64f25de20a77122775bfb8533e7c25369c71012", 
+      "name": "ellwangerbarrysg1894moun_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1379341441", 
+      "crc32": "a8eb53e0", 
+      "md5": "7b753f713fa51050c0066d2cd7796829", 
+      "size": "3840"
+    }, 
+    {
+      "sha1": "28ea7e5488e9846e3f0879c1eb58f563312ba87a", 
+      "name": "ellwangerbarrysg1894moun_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1379341441", 
+      "crc32": "f96a3e82", 
+      "md5": "abb8f6133ae990fd1ee91d0a1abf798f", 
+      "size": "322"
+    }, 
+    {
+      "sha1": "43834e21b4bb7c202aa0c230d3ea5faf6459adc3", 
+      "name": "ellwangerbarrysg1894moun_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1379415203", 
+      "crc32": "5349bb4b", 
+      "md5": "355b0cc2603912829d34e96be7af1dd2", 
+      "size": "219801600"
+    }, 
+    {
+      "sha1": "52adcf593081fbb108a0801cb90dbba6c432161b", 
+      "name": "ellwangerbarrysg1894moun_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1379415196", 
+      "crc32": "6850ba9c", 
+      "md5": "901bd0c80f1506c1c433c1cb7501ca7a", 
+      "size": "282481"
+    }, 
+    {
+      "sha1": "d4c808fee3aec567823970278250d5d63db123da", 
+      "name": "ellwangerbarrysg1894moun_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1379419408", 
+      "crc32": "b5fb0ded", 
+      "md5": "d723be01a953f89b5f076a3b6c8bb0fd", 
+      "original": "ellwangerbarrysg1894moun_orig_jp2.tar", 
+      "size": "116865965"
+    }, 
+    {
+      "sha1": "d3d95a88716cbfc06090745bd15682227f4f2a3f", 
+      "name": "ellwangerbarrysg1894moun_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1379424417", 
+      "crc32": "49242beb", 
+      "md5": "8c729c207b6c192b89bafb179da706ba", 
+      "original": "ellwangerbarrysg1894moun_jp2.zip", 
+      "size": "8730268"
+    }, 
+    {
+      "sha1": "5e1c7199a6e8510f7428cc63cdc81a39cc6f6928", 
+      "name": "ellwangerbarrysg1894moun_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1379426053", 
+      "crc32": "89827b62", 
+      "md5": "ce7ba0071c1437cb6ef6d15332721d20", 
+      "original": "ellwangerbarrysg1894moun.djvu", 
+      "size": "556189"
+    }, 
+    {
+      "sha1": "8268b28a13401a98303fe433ca38f07d256899cc", 
+      "name": "ellwangerbarrysg1894moun.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1379424620", 
+      "crc32": "b44c1559", 
+      "md5": "f133f3ae0ce4a86373699909a95e554d", 
+      "original": "ellwangerbarrysg1894moun_abbyy.gz", 
+      "size": "2540792"
+    }, 
+    {
+      "sha1": "1026547de9e6f2aef77486481fe497d13afc5651", 
+      "name": "ellwangerbarrysg1894moun.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1379426033", 
+      "crc32": "624ba033", 
+      "md5": "c09c08b998818fd58c0c0457ded2605a", 
+      "original": "ellwangerbarrysg1894moun_djvu.xml", 
+      "size": "20466102"
+    }, 
+    {
+      "sha1": "3065d18cb8f7903a7f65d98da2962b08068efa4a", 
+      "name": "ellwangerbarrysg1894moun.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1379425202", 
+      "crc32": "ea6fea19", 
+      "md5": "fc3f6e447122d5fd3c63ac7239997766", 
+      "original": "ellwangerbarrysg1894moun_djvu.xml", 
+      "size": "12680920"
+    }, 
+    {
+      "sha1": "bb7253d6c15071133da485712ac23144edd00b8e", 
+      "name": "ellwangerbarrysg1894moun_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1379424556", 
+      "crc32": "5047592e", 
+      "md5": "2184e75dd4962a6c2296aa2d681d7b4a", 
+      "original": "ellwangerbarrysg1894moun_abbyy.gz", 
+      "size": "4929073"
+    }, 
+    {
+      "sha1": "79fa22c034dcc8300df61fd2be9ac54f41b43012", 
+      "name": "ellwangerbarrysg1894moun.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1379419436", 
+      "crc32": "7da76eb9", 
+      "md5": "ba362b5623e88441f47be64eb18eef23", 
+      "original": "ellwangerbarrysg1894moun_jp2.zip", 
+      "size": "218614"
+    }, 
+    {
+      "sha1": "7e9c6e098d3d82f7cc3ca5de56c76afe60627baf", 
+      "name": "ellwangerbarrysg1894moun_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1418947210", 
+      "crc32": "189f4814", 
+      "md5": "abc11247d13e369e97b5f1166dd65151", 
+      "size": "2729"
+    }, 
+    {
+      "sha1": "d63ffd8a1e7d5d6e36bdb6285f8ea1b89615126b", 
+      "name": "ellwangerbarrysg1894moun_archive.torrent", 
+      "btih": "0bf4f308ec7182f0a8c5aba6f9b56d55c9e10198", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1418947212", 
+      "crc32": "a3a7e1a6", 
+      "md5": "9c0d57a60057e8fffa00ba7925af67bc", 
+      "size": "10211"
+    }, 
+    {
+      "source": "original", 
+      "md5": "7ce926395903a9cd041a61ccb160111c", 
+      "name": "ellwangerbarrysg1894moun_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "uniq": 1012488852, 
+  "created": 1446750008, 
+  "workable_servers": [
+    "ia601000.us.archive.org"
+  ], 
+  "server": "ia601000.us.archive.org", 
+  "item_size": 387091965, 
+  "dir": "/11/items/ellwangerbarrysg1894moun", 
+  "metadata": {
+    "shiptracking": "ST000297", 
+    "scanner": "scribe2.beltsville.archive.org", 
+    "creator": [
+      "Mount Hope Nurseries", 
+      "Ellwanger & Barry", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection", 
+    "ppi": "350", 
+    "nal_call_number": "62.61", 
+    "operator": "associate-saw-thein@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "subject": [
+      "Nursery stock Catalogs", 
+      "Nurseries (Horticulture)\nOrnamental trees Catalogs", 
+      "Shrubs Catalogs", 
+      "Plants Catalogs", 
+      "Fruit Catalogs"
+    ], 
+    "call_number": "CAT31126968", 
+    "title": "Ellwanger & Barry's general catalogue of fruit & ornamental trees, roses etc", 
+    "repub_state": "4", 
+    "possible-copyright-status": "The contributing institution believes that this item is not in copyright", 
+    "camera": "Canon EOS 5D Mark II", 
+    "ocr": "ABBYY FineReader 8.0", 
+    "identifier-access": "http://archive.org/details/ellwangerbarrysg1894moun", 
+    "scanningcenter": "beltsville", 
+    "description": "Includes index", 
+    "identifier-ark": "ark:/13960/t04x76840", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "fedlink", 
+      "americana", 
+      "biodiversity"
+    ], 
+    "volume": "1894", 
+    "repub_seconds": "1588", 
+    "updater": "associate-adrianna-flores@archive.org", 
+    "updatedate": "2013-09-16 14:24:01", 
+    "uploader": "associate-adrianna-flores@archive.org", 
+    "date": "1894", 
+    "republisher": "associate-saw-thein@archive.org", 
+    "addeddate": "2013-09-16 14:24:03.839865", 
+    "publisher": "Rochester, N.Y. : Ellwanger & Barry", 
+    "publicdate": "2013-09-16 13:26:47", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "curation": "[curator]admin-shelia-deroche@archive.org[/curator][date]20130929014834[/date][state]approved[/state][comment]199[/comment]", 
+    "imagecount": "178", 
+    "identifier": "ellwangerbarrysg1894moun", 
+    "sponsordate": "20130930", 
+    "unique_id": "CAT31126968", 
+    "scandate": "20130916183505"
+  }, 
+  "files_count": 17, 
+  "d1": "ia601000.us.archive.org"
+}

@@ -1,0 +1,250 @@
+{
+  "files": [
+    {
+      "sha1": "2fd43c46015de297a044841010f86d58879bc48b", 
+      "name": "CAT31283592_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1411130108", 
+      "crc32": "c9b27d76", 
+      "md5": "a1cd03224c1f1d6ae1ffcc3884802c08", 
+      "size": "1091"
+    }, 
+    {
+      "sha1": "e3fde1ce37880683d2c99626a9d9d5d401e5299c", 
+      "name": "CAT31283592_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1411130108", 
+      "crc32": "e209089c", 
+      "md5": "fb32b304187fe28511f5b3126ae72e04", 
+      "size": "3531"
+    }, 
+    {
+      "sha1": "6c2c52b28ab30af767a0faa2c27433bab0fcc64e", 
+      "name": "CAT31283592_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1411130108", 
+      "crc32": "786b6141", 
+      "md5": "d466294725129a9e62e84e8a3c61237a", 
+      "size": "307"
+    }, 
+    {
+      "sha1": "004c0302b6922a9882b46696f73ad503e4a63afd", 
+      "name": "CAT31283592_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1411130108", 
+      "crc32": "16572db5", 
+      "md5": "90353c19d8567ff58995e5d1a96b3832", 
+      "size": "1368"
+    }, 
+    {
+      "sha1": "17a9f4873cca1c1c7187362c02f39e9f53503ff8", 
+      "name": "CAT31283592_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1411745608", 
+      "crc32": "6656ba54", 
+      "md5": "a29338e1d157ad1fe045e179ff82e161", 
+      "size": "12636160"
+    }, 
+    {
+      "sha1": "3b4f2992499d6eb85ffb7a5f897bc5b7d9e7719e", 
+      "name": "CAT31283592_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1411745608", 
+      "crc32": "1fb2c515", 
+      "md5": "0604bec341c543e47a470f205561cadc", 
+      "size": "20612"
+    }, 
+    {
+      "sha1": "cd404bfd03a9d838b51ca7887742d62ad22213ef", 
+      "name": "CAT31283592.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1411746242", 
+      "crc32": "4397aa4a", 
+      "md5": "96b27f9cfd8ca21420d07621f9659aba", 
+      "original": "CAT31283592_abbyy.gz", 
+      "size": "214423"
+    }, 
+    {
+      "sha1": "aa1265f3567436bb4c87f041a63169cdecc0a851", 
+      "name": "CAT31283592_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1411746003", 
+      "crc32": "c869b830", 
+      "md5": "78dd7fa7517c3a874c74f0ab1cc3b4fc", 
+      "original": "CAT31283592_orig_jp2.tar", 
+      "size": "9053713"
+    }, 
+    {
+      "sha1": "44d39bf3c9a6eca5cbb43d01acac6688fb296c09", 
+      "name": "CAT31283592_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1411746207", 
+      "crc32": "b50eb164", 
+      "md5": "c37a2c2920b4a1ff5bffcc20c8c55be2", 
+      "original": "CAT31283592_jp2.zip", 
+      "size": "242459"
+    }, 
+    {
+      "sha1": "a56be769212919dcaa080bd25183c450a0b37d02", 
+      "name": "CAT31283592_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1411746486", 
+      "crc32": "4ae556c0", 
+      "md5": "a6bc66b9fe193ec99748e92609c78154", 
+      "original": "CAT31283592.djvu", 
+      "size": "14617"
+    }, 
+    {
+      "sha1": "28db2c1c77b5485155cc8f6c0b96286bfe323329", 
+      "name": "CAT31283592.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1411746341", 
+      "crc32": "e6bb56f5", 
+      "md5": "69421569eeb3787c78c2c0d8c2ddf899", 
+      "original": "CAT31283592_djvu.xml", 
+      "size": "815051"
+    }, 
+    {
+      "sha1": "48dddc849211f068862f916c4c62af8fbfae12d5", 
+      "name": "CAT31283592.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1411746478", 
+      "crc32": "8f177cdf", 
+      "md5": "1d6ca02abf5efb6b6006c5f62606edc8", 
+      "original": "CAT31283592_djvu.xml", 
+      "size": "1341197"
+    }, 
+    {
+      "sha1": "68fa55f59d398dff6d04b5934dcaa4b4a401023e", 
+      "name": "CAT31283592_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1411746221", 
+      "crc32": "73b3b955", 
+      "md5": "2fc3fa29b6a16e81ec3ef0aed716fa09", 
+      "original": "CAT31283592_abbyy.gz", 
+      "size": "178387"
+    }, 
+    {
+      "sha1": "cd15fb7a6e9b6d86dbdb3363ce829d5a2650a5fe", 
+      "name": "CAT31283592.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1411746024", 
+      "crc32": "d02f53eb", 
+      "md5": "4ed52a1f43bab4bae79fcb653e087c40", 
+      "original": "CAT31283592_jp2.zip", 
+      "size": "93209"
+    }, 
+    {
+      "sha1": "f74f7664b71240a99702251b5af7bbcdf8377a17", 
+      "name": "CAT31283592_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1415309098", 
+      "crc32": "2851b55e", 
+      "md5": "7a577de7a3d1d6562116b8c2520aed91", 
+      "size": "2731"
+    }, 
+    {
+      "sha1": "d7db5b151e32ddee88bb8e1b660afc710eef6ca8", 
+      "name": "CAT31283592_archive.torrent", 
+      "btih": "2e09037f5b6a8bb10ed61e23f2d7a5bc265bc320", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1415309099", 
+      "crc32": "566a78cf", 
+      "md5": "2b189ffa188c6ebf367764d0942616a6", 
+      "size": "3984"
+    }, 
+    {
+      "source": "original", 
+      "md5": "caf1c5ea98772066ddb36e7a41215390", 
+      "name": "CAT31283592_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "updated": 1446748305, 
+  "uniq": 920734384, 
+  "created": 1446748305, 
+  "workable_servers": [
+    "ia902300.us.archive.org", 
+    "ia802300.us.archive.org"
+  ], 
+  "server": "ia902300.us.archive.org", 
+  "item_size": 24622840, 
+  "dir": "/9/items/CAT31283592", 
+  "metadata": {
+    "partner_shiptracking": "NC14_1899_Br-Bu", 
+    "shiptracking": "ST002413", 
+    "scanner": "scribe2.beltsville.archive.org", 
+    "creator": [
+      "Robert Buist Company", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection.", 
+    "ppi": "500", 
+    "subcollection": "henryggilbertnurseryandseedtradecollection", 
+    "nal_call_number": "62.73", 
+    "operator": "associate-saw-thein@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "copyright_message": "The contributing institution believes that this item is not in copyright", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "subject": [
+      "Nurseries (Horticulture) Pennsylvania Philadelphia Catalogs", 
+      "Vegetables Seeds Catalogs", 
+      "Flowers Seeds Catalogs"
+    ], 
+    "title": "Gardeners & planters price-list of Buist's prize seeds : turnip, ruta baga, cabbage and all other seeds for summer, and autumn sowing", 
+    "repub_state": "4", 
+    "camera": "Canon EOS 5D Mark II", 
+    "invoice": "3", 
+    "ocr": "ABBYY FineReader 9.0", 
+    "identifier-access": "http://archive.org/details/CAT31283592", 
+    "scanningcenter": "beltsville", 
+    "description": "Cover title", 
+    "identifier-ark": "ark:/13960/t1tf2mr02", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "fedlink", 
+      "americana"
+    ], 
+    "volume": "1899", 
+    "repub_seconds": "256759", 
+    "updater": "associate-manuel-dennis@archive.org", 
+    "updatedate": "2014-09-19 12:35:08", 
+    "uploader": "associate-manuel-dennis@archive.org", 
+    "date": "1899", 
+    "republisher": "associate-manuel-dennis@archive.org", 
+    "addeddate": "2014-09-19 12:35:10.305", 
+    "publisher": "Philadelphia, Pa. : Robert Buist Company", 
+    "publicdate": "2014-09-19 11:43:30", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "curation": "[curator]admin-shelia-deroche@archive.org[/curator][date]20141104134133[/date][state]approved[/state][comment]invoice201410[/comment]", 
+    "imagecount": "12", 
+    "identifier": "CAT31283592", 
+    "sponsordate": "20141031", 
+    "unique_id": "CAT31283592", 
+    "scandate": "20140919111256"
+  }, 
+  "d2": "ia802300.us.archive.org", 
+  "files_count": 17, 
+  "d1": "ia902300.us.archive.org"
+}

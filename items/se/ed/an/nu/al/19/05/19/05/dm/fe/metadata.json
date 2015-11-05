@@ -1,0 +1,282 @@
+{
+  "files": [
+    {
+      "sha1": "640bd3cfa59c47c9e589d523a87d657c68b35760", 
+      "name": "seedannual19051905dmfe_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1377101179", 
+      "crc32": "8f1e7ab0", 
+      "md5": "53547a26bd5c58e5332ba63e2c2c7f59", 
+      "size": "955"
+    }, 
+    {
+      "sha1": "b12ef680bddb73f21f87786e4d3b4d11c7cd1d54", 
+      "name": "seedannual19051905dmfe_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1377101179", 
+      "crc32": "677ac337", 
+      "md5": "023e31c1d559757867422242c1019cee", 
+      "size": "3403"
+    }, 
+    {
+      "sha1": "c71fcceb1c37e0574051515c40b17174113f6fab", 
+      "name": "seedannual19051905dmfe_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1377101179", 
+      "crc32": "5882ac2a", 
+      "md5": "0e6333efc1c982829dce7e44e04d8b5e", 
+      "size": "1495"
+    }, 
+    {
+      "sha1": "f9ed4c2a32fc0fe65e54678b7b86dd3cd931666f", 
+      "name": "seedannual19051905dmfe_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1377101179", 
+      "crc32": "37d34e0b", 
+      "md5": "385434a56579006929367c796dcec146", 
+      "size": "320"
+    }, 
+    {
+      "sha1": "00f78a020748a3156231a4cc789a1d2803530c0c", 
+      "name": "seedannual19051905dmfe_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1377197509", 
+      "crc32": "d48910bd", 
+      "md5": "55d3eecfdbc08d0b1b7e082161479ecb", 
+      "size": "259266560"
+    }, 
+    {
+      "sha1": "96345e45a0fcd518c3ee6a929b1c45bab54513b5", 
+      "name": "seedannual19051905dmfe_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1377197503", 
+      "crc32": "c73fe189", 
+      "md5": "e421cfc6732cfabd0537d3833b2e30a1", 
+      "size": "170849"
+    }, 
+    {
+      "sha1": "463ea492460277c33bb3d1536b8945b5152ee084", 
+      "name": "seedannual19051905dmfe_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1377200841", 
+      "crc32": "e07842c9", 
+      "md5": "b99fb2580b427f16f82e52937b941a78", 
+      "original": "seedannual19051905dmfe_orig_jp2.tar", 
+      "size": "189933651"
+    }, 
+    {
+      "sha1": "e6718be23ee8ad428ebda2581467cd0f0a367ed6", 
+      "name": "seedannual19051905dmfe_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1377208194", 
+      "crc32": "935f4efd", 
+      "md5": "fb58b91bbce28521ef663c15fd304746", 
+      "original": "seedannual19051905dmfe_abbyy.gz", 
+      "size": "4986077"
+    }, 
+    {
+      "sha1": "7cadeae94f6108ad917554a31c6ba99bc5f0a399", 
+      "name": "seedannual19051905dmfe_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1377208078", 
+      "crc32": "b2be123c", 
+      "md5": "43103945de49d70d750c478d42a02501", 
+      "original": "seedannual19051905dmfe_jp2.zip", 
+      "size": "8176935"
+    }, 
+    {
+      "sha1": "fc03a6dd849e933395bdd06688ecc497a34f38dc", 
+      "name": "seedannual19051905dmfe.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1377200872", 
+      "crc32": "039c1f3f", 
+      "md5": "ec29d8b5b7ecbb36fd45fe8864f8e363", 
+      "original": "seedannual19051905dmfe_jp2.zip", 
+      "size": "282956"
+    }, 
+    {
+      "sha1": "8a30788cabb8e2d4733994f0d7576ca66641b8fd", 
+      "name": "seedannual19051905dmfe.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1377210057", 
+      "crc32": "d7425a05", 
+      "md5": "bb93ac19b08f6edb07a5357c36fdc98a", 
+      "original": "seedannual19051905dmfe_djvu.xml", 
+      "size": "29576896"
+    }, 
+    {
+      "sha1": "2920249b4897b8665b851ec7e3cc9662576e1d39", 
+      "name": "seedannual19051905dmfe.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1377208308", 
+      "crc32": "7393a17a", 
+      "md5": "24731ffaeac5eee7499a422d2ca20542", 
+      "original": "seedannual19051905dmfe_abbyy.gz", 
+      "size": "4003830"
+    }, 
+    {
+      "sha1": "aaafb83321798a7bcd3cb9d9ae633d588f8262bd", 
+      "name": "seedannual19051905dmfe_toc.xml", 
+      "format": "Contents", 
+      "source": "derivative", 
+      "mtime": "1377208314", 
+      "crc32": "a10ba98f", 
+      "md5": "8eb95e456252e88fa0b71e798af4c677", 
+      "original": "seedannual19051905dmfe_djvu.xml", 
+      "size": "163415"
+    }, 
+    {
+      "sha1": "1c24a816c4a04638f1af04c88c50f1fc3413ed1c", 
+      "name": "seedannual19051905dmfe.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1377209009", 
+      "crc32": "97800045", 
+      "md5": "316f531a76af05a032504c56efbc4902", 
+      "original": "seedannual19051905dmfe_djvu.xml", 
+      "size": "18907946"
+    }, 
+    {
+      "sha1": "a7287ffc4be3d1ef6bcdc22c3cbdf5009c60d48f", 
+      "name": "seedannual19051905dmfe_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1377210081", 
+      "crc32": "2fb8ff21", 
+      "md5": "5241e05384c227a173178ec9a83ef03c", 
+      "original": "seedannual19051905dmfe.djvu", 
+      "size": "524095"
+    }, 
+    {
+      "sha1": "ab90263971f97b2502c9255a7ddfc480d412fdf1", 
+      "name": "seedannual19051905dmfe_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1418948319", 
+      "crc32": "9e59e534", 
+      "md5": "a0ab762c02be53fe348db46919c8acdd", 
+      "size": "2548"
+    }, 
+    {
+      "sha1": "2fec075684fff6c630cb1e868a1cb0e93306e184", 
+      "name": "seedannual19051905dmfe_meta.sqlite", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1419760231", 
+      "crc32": "28f10944", 
+      "md5": "60e68701b579c0613b145c6b48da95aa", 
+      "size": "6144"
+    }, 
+    {
+      "sha1": "f2969d069954a9160145d8eaecb768ccf8b0d860", 
+      "name": "seedannual19051905dmfe_bhlmets.xml", 
+      "format": "Biodiversity Heritage Library METS", 
+      "source": "original", 
+      "mtime": "1419760224", 
+      "crc32": "f495582c", 
+      "md5": "a93b04d0d9ec78204b99f61965b9d25e", 
+      "size": "59883"
+    }, 
+    {
+      "sha1": "98179baf8314dac783edca16828eed2231c6df55", 
+      "name": "seedannual19051905dmfe_archive.torrent", 
+      "btih": "3e185013a9c94e8d2b7c4ca9adb11500a0ef55ff", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1419760236", 
+      "crc32": "ef2a425e", 
+      "md5": "c8bbe46f9c8d037a7bf3c42a0f54e58d", 
+      "size": "14128"
+    }, 
+    {
+      "source": "original", 
+      "md5": "90a2cd4e7926c16fc39fec297c4cb840", 
+      "name": "seedannual19051905dmfe_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "uniq": 466593500, 
+  "created": 1446755213, 
+  "workable_servers": [
+    "ia601001.us.archive.org"
+  ], 
+  "server": "ia601001.us.archive.org", 
+  "item_size": 516082086, 
+  "dir": "/31/items/seedannual19051905dmfe", 
+  "metadata": {
+    "shiptracking": "ST000215", 
+    "scanner": "scribe1.beltsville.archive.org", 
+    "creator": [
+      "D.M. Ferry & Co", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection", 
+    "ppi": "300", 
+    "nal_call_number": "62.41", 
+    "operator": "associate-adrianna-flores@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "subject": [
+      "Seed industry and trade Michigan Detroit", 
+      "Flowers Seeds", 
+      "Vegetables Seeds", 
+      "Nursery stock", 
+      "Gardening Equipment and supplies"
+    ], 
+    "call_number": "CAT31125308", 
+    "title": "Seed annual 1905", 
+    "repub_state": "4", 
+    "possible-copyright-status": "The contributing institution believes that this item is not in copyright", 
+    "camera": "Canon EOS 5D Mark II", 
+    "ocr": "ABBYY FineReader 8.0", 
+    "identifier-access": "http://archive.org/details/seedannual19051905dmfe", 
+    "scanningcenter": "beltsville", 
+    "description": [
+      "Cover title", 
+      "Includes index"
+    ], 
+    "identifier-ark": "ark:/13960/t6zw38m51", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "fedlink", 
+      "americana", 
+      "biodiversity"
+    ], 
+    "volume": "1905", 
+    "repub_seconds": "538", 
+    "updater": "associate-adrianna-flores@archive.org", 
+    "updatedate": "2013-08-21 16:06:19", 
+    "uploader": "associate-adrianna-flores@archive.org", 
+    "date": "1905", 
+    "republisher": "associate-phillip-gordon@archive.org", 
+    "addeddate": "2013-08-21 16:06:21", 
+    "publisher": "Detroit, Mich. : D.M. Ferry & Co.", 
+    "publicdate": "2013-08-21 15:13:32", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "notes": "No copyright page found.", 
+    "imagecount": "108", 
+    "identifier": "seedannual19051905dmfe", 
+    "sponsordate": "20130831", 
+    "unique_id": "CAT31125308", 
+    "scandate": "20130822145227"
+  }, 
+  "files_count": 20, 
+  "d1": "ia601001.us.archive.org"
+}

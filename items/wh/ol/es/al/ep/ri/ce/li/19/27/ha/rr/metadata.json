@@ -1,0 +1,267 @@
+{
+  "files": [
+    {
+      "sha1": "e74e63ae8cedbf8af536c8b915ff8bb43aaf883c", 
+      "name": "wholesalepriceli1927harr_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1376413660", 
+      "crc32": "730291d1", 
+      "md5": "c94ae4455ca854460be944bad1ed6933", 
+      "size": "325"
+    }, 
+    {
+      "sha1": "c22b143cb466e3b46109d551fccfbd7da01df5fe", 
+      "name": "wholesalepriceli1927harr_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1376413660", 
+      "crc32": "a5d6f52b", 
+      "md5": "ece40adb20a3a6bd2543a589adbeb959", 
+      "size": "3432"
+    }, 
+    {
+      "sha1": "55263c4d67f449c0577b03f8f1d303af50c74c73", 
+      "name": "wholesalepriceli1927harr_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1376413660", 
+      "crc32": "bd948c30", 
+      "md5": "edca9eae808117edc314b9f864c46251", 
+      "size": "1005"
+    }, 
+    {
+      "sha1": "5ee210cb88a2442b724a689410307b6a3a4c00f5", 
+      "name": "wholesalepriceli1927harr_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1376413660", 
+      "crc32": "02861396", 
+      "md5": "3bc7d5def443db3df7d79c2af667c1a6", 
+      "size": "1455"
+    }, 
+    {
+      "sha1": "7b4c67a95885b1d2fe862512794c197efdedaa59", 
+      "name": "wholesalepriceli1927harr_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1376500361", 
+      "crc32": "b6c3b9d9", 
+      "md5": "1106241e95496ba96ab3a1d92617ded7", 
+      "size": "27873280"
+    }, 
+    {
+      "sha1": "7bf3bd726f41cffdb02eea71c8a3d480901c0408", 
+      "name": "wholesalepriceli1927harr_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1376500361", 
+      "crc32": "9b8211c5", 
+      "md5": "622576e3f2490d0ec65b147796df8fb1", 
+      "size": "32256"
+    }, 
+    {
+      "sha1": "ec8d8088e7e244de756f18bc3c1de4be2a0712b3", 
+      "name": "wholesalepriceli1927harr_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1376500805", 
+      "crc32": "07031283", 
+      "md5": "55bde2aab47fea77de3db9839340b3cc", 
+      "original": "wholesalepriceli1927harr_orig_jp2.tar", 
+      "size": "19687912"
+    }, 
+    {
+      "sha1": "7b32ce82aea7a6ac60fbec450c40848bf93a31e9", 
+      "name": "wholesalepriceli1927harr_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1376501899", 
+      "crc32": "178966d3", 
+      "md5": "f9a4f5a0bdf4b4af30227db822831c6c", 
+      "original": "wholesalepriceli1927harr_jp2.zip", 
+      "size": "449106"
+    }, 
+    {
+      "sha1": "35b6fcbc01db60347e9130925b836ad0a47d23cb", 
+      "name": "wholesalepriceli1927harr.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1376502140", 
+      "crc32": "d2d96008", 
+      "md5": "5a3d52e9eba9350599cc1f9df429d041", 
+      "original": "wholesalepriceli1927harr_djvu.xml", 
+      "size": "2752716"
+    }, 
+    {
+      "sha1": "ab46a087e8b5237fb33bc3d2177bfcfb1d3b9925", 
+      "name": "wholesalepriceli1927harr_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1376501911", 
+      "crc32": "6c14b21a", 
+      "md5": "997eaa0fcb75926ca0752f43557c910e", 
+      "original": "wholesalepriceli1927harr_abbyy.gz", 
+      "size": "344101"
+    }, 
+    {
+      "sha1": "53469528c7e1f9efa311b1e1b4f1f5df81bfe0c6", 
+      "name": "wholesalepriceli1927harr.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1376500820", 
+      "crc32": "38385e57", 
+      "md5": "ca777d631f815782e6e98715d3df2858", 
+      "original": "wholesalepriceli1927harr_jp2.zip", 
+      "size": "181835"
+    }, 
+    {
+      "sha1": "fd0e66e40b147f07c795e578683116a35c4b1f2c", 
+      "name": "wholesalepriceli1927harr_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1376502147", 
+      "crc32": "e3140e89", 
+      "md5": "00012092fc56735e5c00660f006bd444", 
+      "original": "wholesalepriceli1927harr.djvu", 
+      "size": "28649"
+    }, 
+    {
+      "sha1": "ea521b1a71e44b339632c8bc705f529fb2cfd494", 
+      "name": "wholesalepriceli1927harr.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1376502003", 
+      "crc32": "997999f2", 
+      "md5": "d970c9d2186130248def9464d4144e12", 
+      "original": "wholesalepriceli1927harr_djvu.xml", 
+      "size": "1696011"
+    }, 
+    {
+      "sha1": "410da92723ea6a9f42e06f4d3cb0786b14f7ec11", 
+      "name": "wholesalepriceli1927harr.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1376501920", 
+      "crc32": "a7abca6d", 
+      "md5": "367bd99074f4dc37d2c4231b137e4825", 
+      "original": "wholesalepriceli1927harr_abbyy.gz", 
+      "size": "287645"
+    }, 
+    {
+      "sha1": "b8a3825b1200b31e58979532ad4b311d0a75aaab", 
+      "name": "wholesalepriceli1927harr_bhlmets.xml", 
+      "format": "Biodiversity Heritage Library METS", 
+      "source": "original", 
+      "mtime": "1417945530", 
+      "crc32": "b1e4b864", 
+      "md5": "a34d7eefbb32b00c169400b5fdf84389", 
+      "size": "12831"
+    }, 
+    {
+      "sha1": "cc22439334bfbd00745c5dc25baa50d9d03afe80", 
+      "name": "wholesalepriceli1927harr_meta.sqlite", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1417945537", 
+      "crc32": "5ceea0ba", 
+      "md5": "f92620c2e5b0c980882e4eda4ffbca2b", 
+      "size": "6144"
+    }, 
+    {
+      "sha1": "c5f4b6dcbda0f38285ac354dac09260d375f7155", 
+      "name": "wholesalepriceli1927harr_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1418948985", 
+      "crc32": "5e342a15", 
+      "md5": "7065199b0d1b378d0dbb957a76464b0b", 
+      "size": "2454"
+    }, 
+    {
+      "sha1": "c2263facb08997402a209982210a30f03a82ea90", 
+      "name": "wholesalepriceli1927harr_archive.torrent", 
+      "btih": "625531f0be82e67c2678fd23a54a8e056dc04b51", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1418948987", 
+      "crc32": "fee91786", 
+      "md5": "d86c26e6b933b9c0226445547946919c", 
+      "size": "5161"
+    }, 
+    {
+      "source": "original", 
+      "md5": "c705e0bfab886ba164fa7afa37427609", 
+      "name": "wholesalepriceli1927harr_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "uniq": 1292425963, 
+  "created": 1446754720, 
+  "workable_servers": [
+    "ia600903.us.archive.org"
+  ], 
+  "server": "ia600903.us.archive.org", 
+  "item_size": 53366318, 
+  "dir": "/30/items/wholesalepriceli1927harr", 
+  "metadata": {
+    "shiptracking": "ST000178", 
+    "scanner": "scribe3.beltsville.archive.org", 
+    "creator": [
+      "Harrison's Nurseries (Berlin, Md.)", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection", 
+    "ppi": "500", 
+    "nal_call_number": "62.37", 
+    "operator": "associate-lian-kam@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "subject": [
+      "Harrison's Nurseries (Berlin, Md.)", 
+      "Seeds", 
+      "Nurseries (Horticulture)", 
+      "Fruit trees", 
+      "Trees"
+    ], 
+    "call_number": "CAT31117373", 
+    "title": "Wholesale price list to the trade October 1st, 1927", 
+    "repub_state": "4", 
+    "possible-copyright-status": "The contributing institution believes that this item is not in copyright", 
+    "camera": "Canon EOS 5D Mark II", 
+    "ocr": "ABBYY FineReader 8.0", 
+    "identifier-access": "http://archive.org/details/wholesalepriceli1927harr", 
+    "scanningcenter": "beltsville", 
+    "description": "Cover title", 
+    "identifier-ark": "ark:/13960/t5t746c5c", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "fedlink", 
+      "americana", 
+      "biodiversity"
+    ], 
+    "volume": "1927", 
+    "repub_seconds": "82", 
+    "updater": "associate-adrianna-flores@archive.org", 
+    "updatedate": "2013-08-13 17:07:40", 
+    "uploader": "associate-adrianna-flores@archive.org", 
+    "date": "1927", 
+    "republisher": "associate-saw-thein@archive.org", 
+    "addeddate": "2013-08-13 17:07:43", 
+    "publisher": "Berlin, Md. : Harrison's", 
+    "publicdate": "2013-08-13 16:07:14", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "imagecount": "20", 
+    "identifier": "wholesalepriceli1927harr", 
+    "sponsordate": "20130831", 
+    "unique_id": "CAT31117373", 
+    "scandate": "20130814143942"
+  }, 
+  "files_count": 19, 
+  "d1": "ia600903.us.archive.org"
+}

@@ -1,0 +1,248 @@
+{
+  "files": [
+    {
+      "sha1": "05e7ab93330c177222239f535ed1d8bdd2e47a47", 
+      "name": "concordniagarabe1927perr_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1396441753", 
+      "crc32": "ad3d710e", 
+      "md5": "b7d96b275076db83e012730a4b6cf0dc", 
+      "size": "2941"
+    }, 
+    {
+      "sha1": "fdf83ec4cf7beed0140c6895a6afb2a7dee51b24", 
+      "name": "concordniagarabe1927perr_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1396441753", 
+      "crc32": "84283d2b", 
+      "md5": "0450546eac46365bdf60db7467574cda", 
+      "size": "322"
+    }, 
+    {
+      "sha1": "e1cd60d574a67cae63ee75536c54c4e5da990eeb", 
+      "name": "concordniagarabe1927perr_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1396441753", 
+      "crc32": "da7ce9a9", 
+      "md5": "71920103ea36ab62f3260a517bc2b098", 
+      "size": "1120"
+    }, 
+    {
+      "sha1": "dd4e1390f4429f5f02f7dbff282e3c42a11a8f2b", 
+      "name": "concordniagarabe1927perr_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1396441753", 
+      "crc32": "59816a55", 
+      "md5": "f6208904d405f32e9f12be1601667347", 
+      "size": "867"
+    }, 
+    {
+      "sha1": "2db9705c9ea549f8bc82368f5624ed9960f86dd3", 
+      "name": "concordniagarabe1927perr_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1396874211", 
+      "crc32": "8043f6a0", 
+      "md5": "b2b2d711ccc3c0e2904a2865e87befa7", 
+      "size": "7301120"
+    }, 
+    {
+      "sha1": "7086f5f36369620b4c5206970c6d3b06ba5fc94a", 
+      "name": "concordniagarabe1927perr_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1396874211", 
+      "crc32": "f9bd30f6", 
+      "md5": "af4f4e8344268972556b754efe18b6b0", 
+      "size": "12829"
+    }, 
+    {
+      "sha1": "ccebba4fb644250d8927620751485a7349689ef5", 
+      "name": "concordniagarabe1927perr_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1396874371", 
+      "crc32": "53b03ede", 
+      "md5": "70c9986fc090a0be529efa25ccf9e626", 
+      "original": "concordniagarabe1927perr_orig_jp2.tar", 
+      "size": "4399878"
+    }, 
+    {
+      "sha1": "56d1a276778a1594299e4b06f59a404370d3e10d", 
+      "name": "concordniagarabe1927perr_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1396874405", 
+      "crc32": "5d1e0826", 
+      "md5": "749c5d9034ddcaa4de30b428a178f32d", 
+      "original": "concordniagarabe1927perr_jp2.zip", 
+      "size": "54994"
+    }, 
+    {
+      "sha1": "360eb5ca5dccd7d2f4c3569730c4e093c5910776", 
+      "name": "concordniagarabe1927perr.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1396874432", 
+      "crc32": "88d24452", 
+      "md5": "096142bce118648b0818a6761cfc5f18", 
+      "original": "concordniagarabe1927perr_djvu.xml", 
+      "size": "210224"
+    }, 
+    {
+      "sha1": "722c06bc459ee389bc3bc50756c723b9144048c5", 
+      "name": "concordniagarabe1927perr.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1396874451", 
+      "crc32": "24ffd05f", 
+      "md5": "b8b175233546c121244d1add5613c646", 
+      "original": "concordniagarabe1927perr_djvu.xml", 
+      "size": "355120"
+    }, 
+    {
+      "sha1": "35f88d206662d62fdad8b9e297ebf9a683de6eb3", 
+      "name": "concordniagarabe1927perr.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1396874378", 
+      "crc32": "c4fecc6c", 
+      "md5": "1bcceea1ff5ff2206d81c083c7b1356a", 
+      "original": "concordniagarabe1927perr_jp2.zip", 
+      "size": "48389"
+    }, 
+    {
+      "sha1": "eb4bb9fc3500770089c17f054708c21dbc0f639f", 
+      "name": "concordniagarabe1927perr_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1396874457", 
+      "crc32": "996cc0f2", 
+      "md5": "60cef4c00b0dbc92094d40d1d460cc63", 
+      "original": "concordniagarabe1927perr.djvu", 
+      "size": "3623"
+    }, 
+    {
+      "sha1": "9ac17227230da5c7f86537ef44daf568fdaead72", 
+      "name": "concordniagarabe1927perr.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1396874415", 
+      "crc32": "bceb98d7", 
+      "md5": "2c1607dcba44634426b118e6e5154a2c", 
+      "original": "concordniagarabe1927perr_abbyy.gz", 
+      "size": "133168"
+    }, 
+    {
+      "sha1": "f66fef1448731aa4b73df2667e0be435d78aa41a", 
+      "name": "concordniagarabe1927perr_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1396874412", 
+      "crc32": "c29581f1", 
+      "md5": "4fc5175d40b8679d540f1d7310f0d5fe", 
+      "original": "concordniagarabe1927perr_abbyy.gz", 
+      "size": "36138"
+    }, 
+    {
+      "sha1": "f897c9d6b9a9bfd3ce81ca65c7c43823a3f323f7", 
+      "name": "concordniagarabe1927perr_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1418946690", 
+      "crc32": "72861a11", 
+      "md5": "f20fc8cf0b84dead058ff4f170bd44e2", 
+      "size": "2704"
+    }, 
+    {
+      "sha1": "0c61f5ca14b1b703b160f2469367192ce7311d1b", 
+      "name": "concordniagarabe1927perr_archive.torrent", 
+      "btih": "4b68107fc21bc84b5c4ff5a770d1b9447cc01eb9", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1418946691", 
+      "crc32": "5fb1c4f8", 
+      "md5": "aff2547cdcf6a2e2cdd79ef65135aab3", 
+      "size": "4014"
+    }, 
+    {
+      "source": "original", 
+      "md5": "61084bc61619565be24e671e671aee88", 
+      "name": "concordniagarabe1927perr_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "uniq": 245423193, 
+  "created": 1446754936, 
+  "workable_servers": [
+    "ia600803.us.archive.org"
+  ], 
+  "server": "ia600803.us.archive.org", 
+  "item_size": 12567451, 
+  "dir": "/12/items/concordniagarabe1927perr", 
+  "metadata": {
+    "partner_shiptracking": "NC14_0090", 
+    "shiptracking": "ST001311", 
+    "scanner": "scribe3.beltsville.archive.org", 
+    "creator": [
+      "Perry Nursery Co", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection.", 
+    "ppi": "350", 
+    "subcollection": "henryggilbertnurseryandseedtradecollection", 
+    "nal_call_number": "62.61", 
+    "operator": "associate-mark-kanaskie@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "copyright_message": "The contributing institution believes that this item is not in copyright", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "subject": [
+      "Grapes Catalogs", 
+      "Nurseries (Horticulture)"
+    ], 
+    "call_number": "CAT31276959", 
+    "title": "Concord and Niagara : best known most profitable most widely grown", 
+    "repub_state": "4", 
+    "camera": "Canon EOS 5D Mark II", 
+    "invoice": "3", 
+    "ocr": "ABBYY FineReader 9.0", 
+    "identifier-access": "http://archive.org/details/concordniagarabe1927perr", 
+    "scanningcenter": "beltsville", 
+    "identifier-ark": "ark:/13960/t19k6z23x", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "fedlink", 
+      "americana", 
+      "biodiversity"
+    ], 
+    "volume": "1927", 
+    "repub_seconds": "111", 
+    "updater": "associate-adrianna-flores@archive.org", 
+    "updatedate": "2014-04-02 12:29:13", 
+    "uploader": "associate-adrianna-flores@archive.org", 
+    "date": "1927", 
+    "republisher": "associate-mark-kanaskie@archive.org", 
+    "addeddate": "2014-04-02 12:29:15.73908", 
+    "publisher": "Rochester, N.Y. : Perry Nursery Co.", 
+    "publicdate": "2014-04-02 11:27:05", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "curation": "[curator]admin-shelia-deroche@archive.org[/curator][date]20140707145401[/date][state]approved[/state][comment]invoice201406[/comment]", 
+    "notes": "No copyright page found. No table-of-contents pages found.", 
+    "imagecount": "8", 
+    "identifier": "concordniagarabe1927perr", 
+    "sponsordate": "20140630", 
+    "unique_id": "CAT31276959", 
+    "scandate": "20140402164429"
+  }, 
+  "files_count": 17, 
+  "d1": "ia600803.us.archive.org"
+}

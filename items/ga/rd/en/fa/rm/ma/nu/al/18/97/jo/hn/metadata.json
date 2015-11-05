@@ -1,0 +1,270 @@
+{
+  "files": [
+    {
+      "sha1": "7236262be8f2bef1f59ef96d46c6de81f1624bf6", 
+      "name": "gardenfarmmanual1897john_metasource.xml", 
+      "format": "MARC Source", 
+      "source": "original", 
+      "mtime": "1377099422", 
+      "crc32": "005a199d", 
+      "md5": "bcc95f94a3681917a12b5cadfb822fcf", 
+      "size": "322"
+    }, 
+    {
+      "sha1": "8c4b47ed733eede60f5eff60cd3ef8d8c437983d", 
+      "name": "gardenfarmmanual1897john_dc.xml", 
+      "format": "Dublin Core", 
+      "source": "original", 
+      "mtime": "1377099422", 
+      "crc32": "c70b5e9d", 
+      "md5": "4e15263ee0ecde0ba10c353ad44fcc39", 
+      "size": "1651"
+    }, 
+    {
+      "sha1": "50f21eecd4788f996d3e5cd630aba308f37c54d6", 
+      "name": "gardenfarmmanual1897john_meta.mrc", 
+      "format": "MARC Binary", 
+      "source": "original", 
+      "mtime": "1377099422", 
+      "crc32": "2ebac391", 
+      "md5": "5567e157dedaaf7d10369ca33a93cbeb", 
+      "size": "1349"
+    }, 
+    {
+      "sha1": "7976e742c20190d9fa39d930b9b5995a850c3daa", 
+      "name": "gardenfarmmanual1897john_marc.xml", 
+      "format": "MARC", 
+      "source": "original", 
+      "mtime": "1377099422", 
+      "crc32": "42a4c9dc", 
+      "md5": "96905964053105654742708a3a9536e5", 
+      "size": "4756"
+    }, 
+    {
+      "sha1": "bb92cf2a10f3129b37ce35fb8e618def8522bb41", 
+      "name": "gardenfarmmanual1897john_scandata.xml", 
+      "format": "Scandata", 
+      "source": "original", 
+      "mtime": "1377194213", 
+      "crc32": "5e988e8c", 
+      "md5": "2b634fc04742ca598815870a32a30fea", 
+      "size": "192061"
+    }, 
+    {
+      "sha1": "bd778ed86fbe59a64b5bd9a47b3dd49c1a05c68b", 
+      "name": "gardenfarmmanual1897john_orig_jp2.tar", 
+      "format": "Single Page Original JP2 Tar", 
+      "source": "original", 
+      "mtime": "1377194218", 
+      "crc32": "20956dd4", 
+      "md5": "ec4806cf22de2033fd7c9d5bff3a9d20", 
+      "size": "260085760"
+    }, 
+    {
+      "sha1": "543a99346818d2cfa8b3b37831931cfc42e57639", 
+      "name": "gardenfarmmanual1897john_jp2.zip", 
+      "format": "Single Page Processed JP2 ZIP", 
+      "source": "derivative", 
+      "mtime": "1377203907", 
+      "crc32": "7344186a", 
+      "md5": "3a309466b1cb68a2a6bc460f80d9e432", 
+      "original": "gardenfarmmanual1897john_orig_jp2.tar", 
+      "size": "117196710"
+    }, 
+    {
+      "sha1": "73db3b7d6194ed6e686696aafe0ec58fb6319052", 
+      "name": "gardenfarmmanual1897john_abbyy.gz", 
+      "format": "Abbyy GZ", 
+      "source": "derivative", 
+      "mtime": "1377209056", 
+      "crc32": "8a37ce55", 
+      "md5": "91c7daf379136c272d650f2fe5a45ab5", 
+      "original": "gardenfarmmanual1897john_jp2.zip", 
+      "size": "7831468"
+    }, 
+    {
+      "sha1": "453ad88c958d9affe5bb4b73bacc220d1ccb0dfd", 
+      "name": "gardenfarmmanual1897john.djvu", 
+      "format": "DjVu", 
+      "source": "derivative", 
+      "mtime": "1377209712", 
+      "crc32": "207e6d60", 
+      "md5": "bcde44929cf0283b956e01475bfc11b5", 
+      "original": "gardenfarmmanual1897john_djvu.xml", 
+      "size": "13176414"
+    }, 
+    {
+      "sha1": "528b5493811250fd5d778fa0f68233f1f5efec93", 
+      "name": "gardenfarmmanual1897john_djvu.xml", 
+      "format": "Djvu XML", 
+      "source": "derivative", 
+      "mtime": "1377209170", 
+      "crc32": "37c4596a", 
+      "md5": "2d43de0ad96f2e19bfaa34b18b1bbe5a", 
+      "original": "gardenfarmmanual1897john_abbyy.gz", 
+      "size": "4717037"
+    }, 
+    {
+      "sha1": "b80951bb86763f4f60ee3d562deef8c2529503bb", 
+      "name": "gardenfarmmanual1897john_djvu.txt", 
+      "format": "DjVuTXT", 
+      "source": "derivative", 
+      "mtime": "1377210323", 
+      "crc32": "e68cc326", 
+      "md5": "2af65dfdb4a3ac05677ab9c4fbe6d9b9", 
+      "original": "gardenfarmmanual1897john.djvu", 
+      "size": "504127"
+    }, 
+    {
+      "sha1": "39a28f05a0581a5c938b4e0e3737d870f17ada70", 
+      "name": "gardenfarmmanual1897john.pdf", 
+      "format": "Text PDF", 
+      "source": "derivative", 
+      "mtime": "1377210305", 
+      "crc32": "3b925b75", 
+      "md5": "9f6e5032abfc73dd9b54aff115a6bfe5", 
+      "original": "gardenfarmmanual1897john_djvu.xml", 
+      "size": "20336030"
+    }, 
+    {
+      "sha1": "9022404849a7a66ae9ca4b691a77b1b3fbf68e7a", 
+      "name": "gardenfarmmanual1897john.gif", 
+      "format": "Animated GIF", 
+      "source": "derivative", 
+      "mtime": "1377203929", 
+      "crc32": "f18527f2", 
+      "md5": "0b10e113a4958dba5c490378175eb9df", 
+      "original": "gardenfarmmanual1897john_jp2.zip", 
+      "size": "265824"
+    }, 
+    {
+      "sha1": "5371e9f77e87c5896a53b0dfb7859424ebffc36d", 
+      "name": "gardenfarmmanual1897john.epub", 
+      "format": "EPUB", 
+      "source": "derivative", 
+      "mtime": "1377209253", 
+      "crc32": "931a4956", 
+      "md5": "ae976f13d9da90d304416c55a6f94693", 
+      "original": "gardenfarmmanual1897john_abbyy.gz", 
+      "size": "3672026"
+    }, 
+    {
+      "sha1": "efa9dc2714c51b0bf942186bb5d7625d1aad3043", 
+      "name": "gardenfarmmanual1897john_meta.xml", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1418947429", 
+      "crc32": "f471c328", 
+      "md5": "dd20d2c0c95f109d677a6d8e47f4f6b1", 
+      "size": "2631"
+    }, 
+    {
+      "sha1": "82c4deec4a85480afefc10bf7114ddc2c85a3e40", 
+      "name": "gardenfarmmanual1897john_bhlmets.xml", 
+      "format": "Biodiversity Heritage Library METS", 
+      "source": "original", 
+      "mtime": "1420968516", 
+      "crc32": "e58c1725", 
+      "md5": "9c83973c9480a9fdd005900e6ea621a2", 
+      "size": "67005"
+    }, 
+    {
+      "sha1": "ed1de13fb081df131225d6865f298c428d2bd67c", 
+      "name": "gardenfarmmanual1897john_meta.sqlite", 
+      "format": "Metadata", 
+      "source": "original", 
+      "mtime": "1420968520", 
+      "crc32": "58a6752c", 
+      "md5": "f66626d6815f8958faf1fe3fbdeddba8", 
+      "size": "6144"
+    }, 
+    {
+      "sha1": "abbcbe26a90e7bc2c94c9c68e0e329f56e153ba7", 
+      "name": "gardenfarmmanual1897john_archive.torrent", 
+      "btih": "241a6fa26f424b1b0edb89da3a2e3c979b23db14", 
+      "format": "Archive BitTorrent", 
+      "source": "metadata", 
+      "mtime": "1420968524", 
+      "crc32": "894abf03", 
+      "md5": "5ea2304bc19c95dc28555e8aaed8f0d7", 
+      "size": "10613"
+    }, 
+    {
+      "source": "original", 
+      "md5": "036aca2d8848c8879c05a4cab6d95a51", 
+      "name": "gardenfarmmanual1897john_files.xml", 
+      "format": "Metadata"
+    }
+  ], 
+  "updated": 1446751666, 
+  "uniq": 874996410, 
+  "created": 1446680232, 
+  "workable_servers": [
+    "ia801004.us.archive.org", 
+    "ia601004.us.archive.org"
+  ], 
+  "server": "ia801004.us.archive.org", 
+  "item_size": 428071928, 
+  "dir": "/30/items/gardenfarmmanual1897john", 
+  "metadata": {
+    "shiptracking": "ST000212", 
+    "scanner": "scribe3.beltsville.archive.org", 
+    "creator": [
+      "Johnson & Stokes", 
+      "Henry G. Gilbert Nursery and Seed Trade Catalog Collection"
+    ], 
+    "series": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection", 
+    "ppi": "350", 
+    "nal_call_number": "62.73", 
+    "operator": "associate-lian-kam@archive.org", 
+    "sponsor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "contributor": "U.S. Department of Agriculture, National Agricultural Library", 
+    "foldoutcount": "0", 
+    "scanfee": "100", 
+    "subject": [
+      "Nurseries (Horticulture) Pennsylvania Philadelphia Catalogs", 
+      "Nursery stock Pennsylvania Philadelphia Catalogs", 
+      "Vegetables Seeds Pennsylvania Philadelphia Catalogs", 
+      "Flowers Seeds Pennsylvania Philadelphia Catalogs", 
+      "Fruit Pennsylvania Philadelphia Catalogs"
+    ], 
+    "call_number": "CAT31123320", 
+    "title": "Garden and farm manual", 
+    "repub_state": "4", 
+    "possible-copyright-status": "The contributing institution believes that this item is not in copyright", 
+    "camera": "Canon EOS 5D Mark II", 
+    "ocr": "ABBYY FineReader 8.0", 
+    "identifier-access": "http://archive.org/details/gardenfarmmanual1897john", 
+    "scanningcenter": "beltsville", 
+    "identifier-ark": "ark:/13960/t7cr7nb54", 
+    "mediatype": "texts", 
+    "collection": [
+      "usda-nurseryandseedcatalog", 
+      "usdanationalagriculturallibrary", 
+      "fedlink", 
+      "americana", 
+      "biodiversity"
+    ], 
+    "volume": "1897", 
+    "repub_seconds": "26560", 
+    "updater": "associate-adrianna-flores@archive.org", 
+    "updatedate": "2013-08-21 15:37:02", 
+    "uploader": "associate-adrianna-flores@archive.org", 
+    "date": "1897", 
+    "republisher": "associate-lian-kam@archive.org", 
+    "addeddate": "2013-08-21 15:37:04", 
+    "publisher": "Philadelphia, PA : Johnson & Stokes", 
+    "publicdate": "2013-08-21 14:40:10", 
+    "language": "eng", 
+    "page-progression": "lr", 
+    "notes": "No copyright page found. No table-of-contents pages found.", 
+    "imagecount": "120", 
+    "identifier": "gardenfarmmanual1897john", 
+    "sponsordate": "20130831", 
+    "unique_id": "CAT31123320", 
+    "scandate": "20130821173809"
+  }, 
+  "d2": "ia801004.us.archive.org", 
+  "files_count": 19, 
+  "d1": "ia601004.us.archive.org"
+}
