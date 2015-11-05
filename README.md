@@ -1,10 +1,13 @@
 # seed-catalogs
 
 The National Agriculture Library and the Internet Archive have digitized
-a collection of [18,390 seed catalogs] that were selected from a [collection]
-of over 200,000 American and foreign catalogs dating from the 1700s. 
-This repository is a scratch space for the Digital Curation and Innovation 
-Center ([DCIC]) at the University of Maryland to play with the data.
+a collection of [18,390 seed catalogs] that were selected from the 
+[Henry G. Gilbert Nursery and Seed Trade Catalog Collection], which 
+contains over 200,000 American and foreign catalogs dating from the 1700s.
+
+This GitHub repository is a scratch space for the Digital Curation and 
+Innovation Center ([DCIC]) at the University of Maryland to work with the 
+data.
 
 ## Utilities:
 
@@ -16,6 +19,6 @@ Before you run anything here make sure you've installed any Python dependencies:
 
 
 [18,390 seed catalogs]: https://archive.org/details/usda-nurseryandseedcatalog
-[collection]: http://specialcollections.nal.usda.gov/guide-collections/henry-g-gilbert-nursery-and-seed-trade-catalog-collection
+[Henry G. Gilbert Nursery and Seed Trade Catalog Collection]: http://specialcollections.nal.usda.gov/guide-collections/henry-g-gilbert-nursery-and-seed-trade-catalog-collection
 [DCIC]: http://dcic.umd.edu/
 [pairtree]: https://wiki.ucop.edu/display/Curation/PairTree
