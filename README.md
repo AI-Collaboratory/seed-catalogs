@@ -8,8 +8,8 @@ Center ([DCIC]) at the University of Maryland to play with the data.
 
 ## Utilities:
 
-* fetch.py - download the metadata for all the items in the collection and store it as a [pairtree] in the items directory.
+* fetch.py - download the metadata for all the items in the collection and store it in a [pairtree] directory named `items`.
 
 [collection]: http://specialcollections.nal.usda.gov/guide-collections/henry-g-gilbert-nursery-and-seed-trade-catalog-collection
 [DCIC]: http://dcic.umd.edu/
-[paitree]: https://wiki.ucop.edu/display/Curation/PairTree
+[pairtree]: https://wiki.ucop.edu/display/Curation/PairTree
