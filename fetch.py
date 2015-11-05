@@ -1,5 +1,10 @@
 #!/usr/bin/env python
 
+"""
+fetch.py will fetch metadata for the Seed Catalog collection at 
+Internet Archive.
+"""
+
 import os
 import json
 import ptree
